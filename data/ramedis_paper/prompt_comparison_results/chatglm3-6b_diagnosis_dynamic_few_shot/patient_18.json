@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Lens luxation\n2. Scoliosis\n3. Hyperopia\n4. Spondylolisthesis\n5. Kyphosis\n6. Aortic arch compression\n7. Retinal detachment\n8. Cataract\n9. Glaucoma\n10. Intracranial hypotension",
+    "predict_rank": "否"
+}

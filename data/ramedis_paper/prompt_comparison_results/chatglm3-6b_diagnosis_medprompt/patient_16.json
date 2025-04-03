@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Kyphoscoliosis and Neonatal Marfan syndrome (NMSS)\n2. Kyphoscoliosis and Marfan syndrome (MS)\n3. Kyphoscoliosis and multiple system atrophy (MSA)\n4. Kyphoscoliosis and aortic stenosis\n5. Kyphoscoliosis and congenital scoliosis\n6. Kyphoscoliosis and congenital lens subluxation\n7. Kyphoscoliosis and congenital aortic valve abnormalities\n8. Kyphoscoliosis and mitral regurgitation\n9. Kyphoscoliosis and tricuspid regurgitation\n10. Kyphoscoliosis and heart murmur",
+    "predict_rank": "2"
+}

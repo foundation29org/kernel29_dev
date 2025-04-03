@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. Neurofibromatosis type 1\n2. McCune-Albright syndrome\n3. Linear nevus sebaceous syndrome\n4. Proteus syndrome\n5. CLOVES syndrome\n6. Klippel-Trenaunay-Weber syndrome\n7. Sturge-Weber syndrome\n8. Von Hippel-Lindau disease\n9. Tuberous sclerosis complex\n10. Basal cell nevus syndrome",
+    "predict_rank": "2"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": " 1. Wilson's Disease\n2. Menkes Disease\n3. Hemolytic-Uremic Syndrome (HUS)\n4. Thalassemia Major\n5. Hypercoagulable State\n6. Amyloidosis\n7. Heavy Metal Toxicity\n8. Chronic Kidney Disease\n9. Systemic Lupus Erythematosus (SLE)\n10. Primary Progressive Aphasia",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   1. Down Syndrome\n2. Prader-Willi Syndrome\n3. Angelman Syndrome\n4. Autism Spectrum Disorder\n5. Congenital Heart Disease\n6. Thyroid Disorder\n7. Attention Deficit Hyperactivity Disorder\n8. Developmental Language Disorder\n9. Mitochondrial Disorder\n10. Neurofibrominopathy",
+    "predict_rank": "2"
+}

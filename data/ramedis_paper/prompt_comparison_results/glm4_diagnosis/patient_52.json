@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Fabry disease\n2. Loeffler's syndrome\n3. Alport syndrome\n4. Muckle-Wells syndrome\n5. Sjogren's syndrome\n6. Hyperlipidemic nephrotic syndrome\n7. Focal segmental glomerulosclerosis (FSGS)\n8. Autoimmune lymphoproliferative syndrome (ALPS)\n9. Atypical hemolytic uremic syndrome (aHUS)\n10. Glycogen storage disease type I (von Gierke's disease) \n\nPlease note that the provided list is speculative and based on the symptoms described. A definitive diagnosis would require a thorough clinical evaluation, including detailed medical history, physical examination, laboratory tests, and possibly genetic testing.",
+    "predict_rank": "3"
+}

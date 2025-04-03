@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Hearing impairment,Visual loss,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Elevated erythrocyte sedimentation rate,Recurrent tonsillitis,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive\n2. Alport syndrome, X-linked,Alport syndrome 3, autosomal dominant\n3. Glomerulonephritis, Primary\n4. Glomerulonephritis, Secondary\n5. Membranous nephropathy\n6. Microglobulinemia\n7. Minimal change disease\n8. Post-transfusion nephrotoxinosis\n9. Purpura rubra\n10. Vasculitis, Cutaneous\n\n以上10个诊断都是针对该患者可能患有的罕见疾病进行的猜测，并不能百分之百确定患者的确切诊断，需要根据具体的检查结果和基因检测结果来最终确定。",
+    "predict_rank": "1"
+}

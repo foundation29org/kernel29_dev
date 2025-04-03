@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Cardiac淀粉样变性（Cardiac amyloidosis）\n2.  Brugada 综合症（Brugada syndrome）\n3. Long QT 综合症（Long QT syndrome）\n4. 儿茶酚胺过敏综合症（Phenylketonuria）\n5. 库欣综合症（Cushing's syndrome）\n6. 心脏瓣膜疾病（Cardiac valve disease）\n7. 病毒性肝炎（Viral hepatitis）\n8. 的心肌炎（Myocarditis）\n9. 肺结核（Pneumonia）\n10. 气胸（Aortic root aneurysm）",
+    "predict_rank": "2"
+}

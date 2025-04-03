@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome\n2. Loeys-Dietz syndrome\n3. Ehlers-Danlos syndrome, vascular type\n4. Autosomal dominant polycystic kidney disease (ADPKD)\n5. Osteogenesis imperfecta\n6. Usher syndrome\n7. Tuberous sclerosis complex (TSC)\n8. Hyperlipoproteinemia type IIa\n9. Mitochondrial disease, specifically mitochondrial DNA depletion syndrome\n10. Branchio-oto-renal (BOR) syndrome\n\nPlease note that this list is not exhaustive, and further clinical evaluation, family history, and genetic testing may be necessary for a definitive diagnosis.",
+    "predict_rank": "否"
+}

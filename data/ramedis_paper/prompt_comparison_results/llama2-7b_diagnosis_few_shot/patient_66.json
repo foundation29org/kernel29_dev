@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Facial edema,Impaired social interactions,Apathy,Hypothyroidism,Increased circulating prolactin concentration,Hyperpigmentation of the skin,Papilledema,Cirrhosis,Hepatosplenomegaly,Ascites,Pericardial effusion,Splenomegaly,Anemia,Fever,Dyspnea,Pleural effusion,Lymphadenopathy,Hypoproteinemia,Abdominal distention,EMG abnormality,Upper limb muscle weakness,Decreased body weight,Poor appetite,Abnormal intervertebral disk morphology,Anomalous splenoportal venous system,Foot dorsiflexor weakness,Pedal edema,Anasarca,Lower limb pain,Dysesthesia,Abnormal circulating thyroid hormone concentration,Monoclonal elevation of IgG",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": "\n1. Moyamoya disease\n2. Hypothyroidism\n3. Myasthenia gravis\n4. Prader-Willi syndrome\n5. McCune-Albright syndrome\n6. Fabry disease\n7. Chronic inflammatory demyelinating polyneuropathy (CIDP)\n8. Lambert-Eaton myasthenic syndrome (LEMS)\n9. Multifocal motor neuropathy (MMN)\n10. Autoimmune encephalitis\n\nPlease provide a detailed explanation for each diagnosis, including the underlying pathophysiology, clinical features, and any supporting diagnostic tests or biomarkers.",
+    "predict_rank": "否"
+}

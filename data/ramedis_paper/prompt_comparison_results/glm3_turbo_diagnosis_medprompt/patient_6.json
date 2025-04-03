@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Irritability,Personality changes,Tremor,Nausea,Abdominal pain,Hepatomegaly,Sleep disturbance,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Elevated circulating aspartate aminotransferase concentration,Elevated circulating alanine aminotransferase concentration,Mania,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson disease (hepatolenticular degeneration)\n2. Menkes disease (Menkes kinky hair syndrome)\n3. Hashimoto's disease (chronic lymphocytic thyroiditis)\n4. Autoimmune hepatitis\n5. Primary biliary cholangitis\n6. Porphyria (e.g., acute intermittent porphyria)\n7. Familial hypercholesterolemia\n8. Phenylketonuria (PKU)\n9. Maple syrup urine disease (MSUD)\n10. Tyrosinemia (e.g., hepatorenal tyrosinemia)",
+    "predict_rank": "1"
+}

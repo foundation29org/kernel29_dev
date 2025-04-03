@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Renal potassium wasting,Hyperhidrosis,Urticaria,Hepatic steatosis,Palpitations,Hyperuricemia,Hypokalemia,Hyperchloriduria,Increased urinary potassium,Lower limb muscle weakness,Sinus tachycardia,Hypernatriuria,Elevated circulating alanine aminotransferase concentration",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Bartter Syndrome\n2. Gitelman Syndrome\n3. Hyperthyroidism\n4. Familial Hyperaldosteronism\n5. Autosomal Dominant Polycystic Kidney Disease (ADPKD)\n6. Primary Hyperparathyroidism\n7. Tubulointerstitial Nephritis\n8. Sarcoidosis\n9. Amyloidosis\n10. Mitochondrial Disease (specifically, Mitochondrial Neurogastrointestinal Encephalopathy Syndrome, MNGIE) \n\nEach of these conditions could potentially present with a combination of the symptoms described in the patient's phenotype, and they represent a diverse range of pathologies affecting renal function, electrolyte balance, and systemic manifestations. It is important to note that a precise diagnosis would require a thorough clinical evaluation, laboratory testing, and possibly genetic testing.",
+    "predict_rank": "2"
+}

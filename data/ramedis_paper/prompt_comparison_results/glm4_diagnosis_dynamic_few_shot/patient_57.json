@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Renal potassium wasting,Hyperhidrosis,Urticaria,Hepatic steatosis,Palpitations,Hyperuricemia,Hypokalemia,Hyperchloriduria,Increased urinary potassium,Lower limb muscle weakness,Sinus tachycardia,Hypernatriuria,Elevated circulating alanine aminotransferase concentration",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Gitelman Syndrome\n2. Bartter Syndrome\n3. Liddle Syndrome\n4. Hyperaldosteronism\n5. Tubulointerstitial Nephritis\n6. Familial Hypokalemic Periodic Paralysis\n7. Primary Hyperparathyroidism\n8. Renal Tubular Acidosis (RTA) Type IV\n9. Autoimmune Polyendocrine Syndrome (APS) Type 2\n10. Hepatic Steatosis-related Renal Dysfunction with electrolyte imbalance\n\nEach of these conditions could potentially present with a combination of the symptoms and laboratory findings described in the patient's phenotype. It is important to note that the list is not exhaustive, and further clinical, laboratory, and genetic testing would be necessary to confirm a diagnosis.",
+    "predict_rank": "1"
+}

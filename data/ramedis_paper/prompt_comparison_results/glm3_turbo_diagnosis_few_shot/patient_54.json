@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": " 1. Alport Syndrome\n2. Familial Mediterranean Fever (FMF)\n3. Fabry Disease\n4. Primary Hyperoxaluria (PH)\n5. Cystinuria\n6. Autosomal Dominant Polycystic Kidney Disease (ADPKD)\n7. Neurofibromatosis Type 2 (NF2)\n8. branchio-oto-renal (BOR) syndrome\n9. Stickler Syndrome\n10. Fibrodysplasia Ossificans Progressiva (FOP)\n\nPlease note that these top 10 diagnoses are based on the provided patient phenotype and are meant to be a starting point for further evaluation and confirmation through appropriate testing and clinical assessment. It is essential to consider other rare and common conditions as well, and the list is not exhaustive. The presence of multiple abnormalities may indicate the need for a more comprehensive genetic evaluation and involvement of various specialists.",
+    "predict_rank": "3"
+}

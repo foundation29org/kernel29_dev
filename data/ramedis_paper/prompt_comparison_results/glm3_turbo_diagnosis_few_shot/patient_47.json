@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Primary focal segmental glomerulosclerosis (FSGS)\n2. Membranous nephropathy (MN)\n3. IgA nephropathy (IgAN)\n4. Alport syndrome\n5. Thin basement membrane nephropathy (TBMN)\n6. Focal segmental glomerulosclerosis with iron deposition (FSGD)\n7. Chronic kidney disease (CKD)\n8. Pyelonephritis\n9. Nephrolithiasis\n10. Autoimmune hemolytic anemia (AIHA)\n\nPlease note that these top 10 diagnoses are based on the patient's phenotype and are meant to provide a diverse and comprehensive differential diagnosis. Additional clinical information or laboratory findings may be necessary to narrow down the diagnosis further.",
+    "predict_rank": "4"
+}

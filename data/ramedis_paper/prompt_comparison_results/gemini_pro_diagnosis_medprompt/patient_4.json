@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Micropenis,Myopia,Amblyopia,Encephalopathy,Slurred speech,Obesity,Decreased fetal movement,Pneumonia,Intracranial hemorrhage,Polyphagia,Cerebral ischemia,Hypocalcemia,Methylmalonic acidemia,Abnormality of the wrist,Dicarboxylic aciduria,Propionic acidemia,Lacticaciduria,Congenital laryngeal stridor,Bilateral cryptorchidism,Postnatal growth retardation,Infantile muscular hypotonia,Abnormal circulating acetylcarnitine concentration,Appendicular hypotonia,Meconium stained amniotic fluid,Neonatal asphyxia,Microphallus,Vitamin B12 deficiency,Reduced blood folate concentration",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Glutaric acidemia type 1\n2. Propionic acidemia\n3. Methylmalonic acidemia\n4. Isovaleric acidemia\n5. 3-Hydroxy-3-methylglutaric aciduria\n6. β-Ketothiolase deficiency\n7. Acyl-CoA dehydrogenase deficiency\n8. Multiple carboxylase deficiency\n9. Mitochondrial respiratory chain complex II deficiency\n10. Organic aciduria, type undefined",
+    "predict_rank": "否"
+}

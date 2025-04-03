@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Bartter Syndrome\n2. Gitelman Syndrome\n3. Liddle Syndrome\n4. Hyperaldosteronism (Primary or Secondary)\n5. Renal Tubular Acidosis (RTA) - Distal or Proximal\n6. Amiloride-Sensitive Sodium Channel Disorder\n7. Magnesium Deficiency\n8. Cystic Fibrosis-related Diabetes Mellitus\n9. Autosomal Dominant Polycystic Kidney Disease (ADPKD) with Renal Tubular Dysfunction\n10. Sjögren's Syndrome with Tubulointerstitial Nephritis and Renal Salt-wasting Syndrome",
+    "predict_rank": "2"
+}

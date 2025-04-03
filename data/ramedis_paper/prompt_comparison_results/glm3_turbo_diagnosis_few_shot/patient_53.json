@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": " 1. Nephrotic syndrome\n2. Membranous nephropathy\n3. Focal segmental glomerulosclerosis\n4. Diabetes mellitus\n5. Hypertensive nephrosclerosis\n6. Chronic kidney disease (CKD)\n7. Renal artery stenosis\n8. Autoimmune disease (e.g., lupus nephritis)\n9. Medication-induced kidney injury\n10. Hereditary nephritis (e.g., Alport syndrome)\n\nPlease note that this is a diverse and comprehensive differential diagnosis based on the provided patient phenotype. Additional clinical information or laboratory findings may be necessary to narrow down the diagnosis.",
+    "predict_rank": "否"
+}

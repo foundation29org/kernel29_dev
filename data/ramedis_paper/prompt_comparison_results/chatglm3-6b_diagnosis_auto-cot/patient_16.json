@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Kyphoscoliosis: Kyphoscoliosis is a condition characterized by an abnormal curvature of the spine and hips, typically resulting from a growth defect.\n\n2. scoliosis: Scoliosis is a medical condition characterized by an abnormal curvature of the spine.\n\n3. Kyphosis: Kyphosis is a type of scoliosis characterized by an abnormal curvature of the spine.\n\n4. Spondylosis: Spondylosis is a type of degenerative joint disease that affects the spine.\n\n5. Kyphic deformity: Kyphic deformity is a condition characterized by an abnormal curvature of the spine.\n\n6. Cervical spondylosis: Cervical spondylosis is a type of degenerative joint disease that affects the neck region.\n\n7. Lumbar spondylosis: Lumbar spondylosis is a type of degenerative joint disease that affects the lower back region.\n\n8. thoracic spondylosis: Thoracic spondylosis is a type of degenerative joint disease that affects the spine.\n\n9. congenital scoliosis: Congenital scoliosis is a type of scoliosis that is present at birth.\n\n10. neuromuscular scoliosis: Neuromuscular scoliosis is a type of scoliosis that is caused by muscle weakness.",
+    "predict_rank": "否"
+}

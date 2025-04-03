@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Urinary hesitancy,Urinary incontinence,Male hypogonadism,Diabetes mellitus,Slurred speech,Bradykinesia,Broad-based gait,Unsteady gait,Memory impairment,Positive Romberg sign,Dyscalculia,Falls,Hyporeflexia of lower limbs,Bowel incontinence,Paresthesia,Babinski sign,Decreased body weight,Abnormal intervertebral disk morphology,Impaired vibration sensation at ankles,Impaired pain sensation,Benign prostatic hyperplasia,Fibroma,Chaddock reflex,Abasia,Hoffmann sign,Pollakisuria,Dysuria,Abnormal lumbar spine morphology",
+    "golden_diagnosis": "多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to",
+    "predict_diagnosis": "   1. Multiple Sclerosis\n2. Parkinson's Disease\n3. Alzheimer's Disease\n4. Syndesmosis disorders\n5. Rett syndrome\n6. Prader-Willi syndrome\n7. Down syndrome\n8. Hereditary ataxias\n9. Mitochondrial disorders\n10. Vitamin B12 deficiency anemia or neuropathy.",
+    "predict_rank": "否"
+}

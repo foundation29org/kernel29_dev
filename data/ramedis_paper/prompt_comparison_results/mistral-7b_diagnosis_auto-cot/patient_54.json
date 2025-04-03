@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Autosomal dominant polycystic ovary syndrome (PCOS) with congenital heart disease (CHD)\n2. Fanconi's anemia with polycythemia\n3. Hemolytic uremic syndrome with Hypohidrotic ectodactyly\n4. Hemophilia type A/B with renal abnormalities\n5. Osteogenesis imperfecta with sensorineural hearing loss\n6. Osteopetrosis with deafness\n7. Wilson's disease with abnormal finger phalanx morphology\n8. X-linked agammaglobulinemia with anatomical deformities\n9. X-linked neurofibromatosis with nasal polyps\n10. X-linked congenital adrenal hyperplasia (CAH) with abnormality of the ureter",
+    "predict_rank": "否"
+}

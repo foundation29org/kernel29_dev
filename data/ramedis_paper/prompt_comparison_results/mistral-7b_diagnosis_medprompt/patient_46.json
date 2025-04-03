@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Alport syndrome with sensorineural hearing loss and cystinuria\n2. Fabry disease with proteinuria, hypertension, and cystinuria\n3. Diabetic nephropathy with sensorineural hearing loss\n4. Lupus nephritis with proteinuria, fever, and cystinuria\n5. Goodpasture's disease with proteinuria, hypertension, and cystinuria\n6. Multiple system atrophy with proteinuria, hypertension, and cystinuria\n7. Pulmonary-Renal syndrome with proteinuria, hypertension, and cystinuria\n8. Glomerulonephritis with sensorineural hearing loss\n9. Alkaptonuria with proteinuria, hypertension, and fever\n10. Interstitial lung disease (ILD) with proteinuria, hypertension, sensorineural hearing loss, and cystinuria.",
+    "predict_rank": "否"
+}

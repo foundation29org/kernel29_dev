@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Muscle weakness,Pericardial effusion,Abnormal tricuspid valve morphology,Palpitations,Vomiting,Abdominal pain,Dyspnea,Exercise intolerance,Poor appetite,Vascular tortuosity,Atrial fibrillation,Tricuspid regurgitation,Pedal edema,Right bundle branch block,Abnormal ST segment,Left ventricular systolic dysfunction,Right atrial enlargement,Increased circulating NT-proBNP concentration,Left atrial enlargement,Abnormality of internal jugular vein",
+    "golden_diagnosis": "Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26",
+    "predict_diagnosis": "1. Dilated cardiomyopathy\n2. Restrictive cardiomyopathy\n3. Hypertrophic cardiomyopathy\n4. Arrhythmogenic right ventricular cardiomyopathy\n5. Fabry disease\n6. Pompe disease\n7. Danon disease\n8. Myotonic dystrophy\n9. Sarcoidosis\n10. Amyloidosis",
+    "predict_rank": "2"
+}

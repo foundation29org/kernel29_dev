@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Skin rash,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Reticulocytosis,Fever,Hematochezia,Recurrent upper respiratory tract infections,Myelodysplasia,Anisocytosis,Abnormal erythroid lineage cell morphology,Abnormal megakaryocyte morphology",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "1. Aplastic anemia\n2. Refractory cytopenia with unilineage dysplasia\n3. Refractory anemia with excess blasts\n4. Paroxysmal nocturnal hemoglobinuria\n5. Fanconi anemia\n6. Diamond-Blackfan anemia\n7. Dyskeratosis congenita\n8. Shwachman-Diamond syndrome\n9. Severe congenital neutropenia\n10. Cyclic neutropenia",
+    "predict_rank": "4"
+}

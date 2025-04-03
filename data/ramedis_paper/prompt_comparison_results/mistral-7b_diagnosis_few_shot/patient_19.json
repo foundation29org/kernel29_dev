@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   1. Cardiomyopathy with restrictive filling pattern.\n2. Myocardial ischemia.\n3. Lupus cardiomyopathy.\n4. Pericardial disease.\n5. Acute pulmonary embolism.\n6. Inflammatory cardiomyopathy.\n7. Cardiac hypertrophy.\n8. Giant cell arteritis.\n9. Sarcoidosis.\n10. Congestive heart failure.",
+    "predict_rank": "否"
+}

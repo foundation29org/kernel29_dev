@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Fabry病\n2. 干燥综合征（Sjogren's syndrome）\n3. 紫癜性血小板减少性紫癜（Thrombocytopenic microangiopathic hemolytic anemia, TMAH）\n4. 急进性肾小球肾炎（Acute glomerulonephritis）\n5. 慢性腹泻（Chronic diarrhea）\n6. 肾小管间质性病变（Renal tubulointerstitial nephritis）\n7. 高血压（Hypertension）\n8. 血尿（Hematuria）\n9. 蛋白尿（Proteinuria）\n10. 低体重（Decreased body weight）",
+    "predict_rank": "1"
+}

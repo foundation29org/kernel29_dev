@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "\n1. Myocarditis\n2. Marfan syndrome\n3. Multiple system atrophy\n4. Amyotrophic lateral sclerosis\n5. Neonatal Marfan syndrome\n6. Spinocerebellar ataxia type 2\n7. Frontotemporal dementia\n8. Polycystic kidney disease\n9. Fabry disease\n10. Mucopolysaccharidosis type I\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests that support the diagnosis.",
+    "predict_rank": "2"
+}

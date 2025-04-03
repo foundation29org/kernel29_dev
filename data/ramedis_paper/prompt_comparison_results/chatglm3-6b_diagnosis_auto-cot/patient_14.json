@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormal vagina morphology,Delayed speech and language development,Abnormality of the breast,Cafe-au-lait spot,Elevated circulating alkaline phosphatase concentration,Large cafe-au-lait macules with irregular margins,Increased circulating free T3,Premature pubarche,Increased serum estradiol,Decreased thyroid-stimulating hormone level,Increased circulating progesterone,Metrorrhagia,Abnormal eating behavior",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. 发育迟缓型性腺发育不良（Conductive development disorder of the endocrine glands, CDDE）\n2. 17-羟孕酮缺乏症（17-hydroxyprogesterone deficiency, 17-OHD）\n3. 性腺发育不全（Androgen insensitivity syndrome, AIS）\n4. 肾上腺皮质功能减退（Adrenal insufficiency, AI）\n5. 性早熟（Puberty）\n6. 性腺肿瘤（Androgen-producing tumor）\n7. 17-羟孕酮升高（Hyperprogesteronemia）\n8. 甲状腺功能减退症（Thyroid dysfunction）\n9. 性腺分泌功能亢进（Hyperandrogenism）\n10. 肾小管间质性营养不良（Tubulointerstitial nephritis）",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Brugada syndrome\n2. Long QT syndrome\n3. Catecholaminergic polymorphic ventricular tachycardia\n4. Idiopathic ventricular fibrillation\n5. Wolff-Parkinson-White syndrome\n6. Romano-Ward syndrome\n7. Jervell and Lange-Nielsen syndrome\n8. Andersen-Tawil syndrome\n9. Arrhythmogenic right ventricular cardiomyopathy\n10. Hypertrophic cardiomyopathy",
+    "predict_rank": "1"
+}

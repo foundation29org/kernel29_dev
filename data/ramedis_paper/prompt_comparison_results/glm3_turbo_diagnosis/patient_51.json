@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Primary focal segmental glomerulosclerosis (FSGS)\n2. Membranous nephropathy (MN)\n3. Idiopathic membranous nephropathy (IMN)\n4. Alport syndrome\n5. C3 glomerulopathy\n6. HIV-associated nephropathy (HIVAN)\n7. Cryoglobulinemic glomerulopathy\n8. Henoch-Schönlein purpura (HSP)\n9. Microscopic polyangiitis (MPA)\n10. Systemic lupus erythematosus (SLE)\n\nPlease note that this list is not exhaustive, and other diagnoses could be considered based on further clinical information and testing. These top 10 diagnoses encompass a range of kidney disorders, vasculitis, and autoimmune conditions that can present with proteinuria, glomerulonephritis, and other renal manifestations.",
+    "predict_rank": "4"
+}

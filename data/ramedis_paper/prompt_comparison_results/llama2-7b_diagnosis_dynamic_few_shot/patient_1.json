@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "\n1. Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome\n2. Smith-Lemli-Opitz syndrome\n3. Wolf-Parkinson-White syndrome\n4. Mowat-Wilson syndrome\n5. Bardet-Biedl syndrome\n6. Coffin-Lowry syndrome\n7. Fragile X syndrome\n8. Myotonic dystrophy type 1\n9. Congenital disorder of glycosylation type 1A\n10. Danon disease\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and any supporting evidence.",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "   1. Aperture syndrome\n2. Craniofacial dystopia\n3. Loehlin syndrome\n4. Crouch syndrome\n5. Klippel-Feil syndrome\n6. Hutchinson's growth hormone excess\n7. Cushing's syndrome\n8. Osteogenesis imperfecta\n9. Ehlers-Danlos syndrome\n10. Paget's disease of the bone",
+    "predict_rank": "否"
+}

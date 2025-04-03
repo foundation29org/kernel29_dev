@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Ureteric calcification and obstruction\n2. Autosomal dominant polyposis with redundant ileum\n3. Congenital aganglionic megacolon\n4. Hypoparathyroidism\n5. Hypercholesterolemia\n6. Post-operative radiation enteritis\n7. Laryngeal polyps\n8. Vestibular ataxia\n9. Sensorineural hearing loss\n10. Idiopathic trigeminal neuralgia",
+    "predict_rank": "否"
+}

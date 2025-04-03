@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome, X-linked\n2. Alport syndrome 2, autosomal recessive\n3. Alport syndrome 3, autosomal dominant\n4. Autosomal dominant polycystic kidney disease\n5. Senior-Løken syndrome\n6. Nail-patella syndrome\n7. Fabry disease\n8. Cystinosis\n9. Lowe syndrome\n10. Schimke immuno-osseous dysplasia",
+    "predict_rank": "1"
+}

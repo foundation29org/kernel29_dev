@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Renal potassium wasting,Hyperhidrosis,Urticaria,Hepatic steatosis,Palpitations,Hyperuricemia,Hypokalemia,Hyperchloriduria,Increased urinary potassium,Lower limb muscle weakness,Sinus tachycardia,Hypernatriuria,Elevated circulating alanine aminotransferase concentration",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Primary hyperaldosteronism\n2. Liddle's syndrome\n3. Gitelman syndrome\n4. Bartter syndrome\n5. Diabetes insipidus\n6. Cushing's syndrome\n7. Pseudohypoaldosteronism\n8. Metabolic acidosis\n9. Thyroid-stimulating hormone (TSH)oma\n10. Renin-angiotensin aldosterone system (RAAS) inhibitor use",
+    "predict_rank": "3"
+}

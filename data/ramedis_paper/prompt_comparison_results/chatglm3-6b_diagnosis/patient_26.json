@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary hesitancy,Urinary incontinence,Prostatitis,Syncope,Muscle weakness,Elevated circulating creatine kinase concentration,Exercise intolerance,Loss of consciousness,Pedal edema,ST segment elevation,Increased circulating creatine kinase MB isoform,Dysuria,Amaurosis fugax",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Polycystic ovary syndrome (PCOS)\n2. Uterine fibroids\n3. Endometriosis\n4. Interstitial cystitis (IC)\n5. Urethral urgency incontinence\n6. Interstitial radiation therapy-induced neurogenic bladder\n7. Charcoal tablet ingestion\n8. Acute ischemic stroke\n9. Hyponatremia\n10. Renal cause, such as nephrotic syndrome or glomerulonephritis.",
+    "predict_rank": "否"
+}

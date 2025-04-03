@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Skin rash,Prolonged QT interval,Dyspnea,Hypokalemia,Hyperchloriduria,Hypomagnesemia,Increased urinary potassium,Generalized muscle weakness,Paresthesia,Renal magnesium wasting,Hyponatriuria,Hypernatriuria,Hypermagnesiuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Hypokalemia due to Bartter syndrome\n2. Hypokalemia due to Gitelman syndrome\n3. Hypokalemia due to Paget's disease\n4. Hypomagnesemia due to Bartter syndrome\n5. Hypomagnesemia due to Gitelman syndrome\n6. Hypomagnesemia due to Paget's disease\n7. Metabolic alkalosis due to hypercalcemia\n8. Hypercalcemia due to Cushing's syndrome\n9. Hypercalcemia due to primary hyperparathyroidism\n10. Hypercalcemia due to osteoporosis\n\nNote: Bartter syndrome, Gitelman syndrome, and Paget's disease are genetic disorders that cause renal potassium wasting, skin rash, and hyperchloriduria. Hypomagnesemia is another common feature of these disorders. Metabolic alkalosis can be caused by hypercalcemia, which is a condition that can lead to renal potassium wasting, dyspnea, and hypertension.",
+    "predict_rank": "5"
+}

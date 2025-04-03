@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": " 1. Alport syndrome, X-linked\n2. Autosomal recessive Alport syndrome\n3. Autosomal dominant Alport syndrome\n4. Familial amyloidosis\n5. Primary focal segmental glomerulosclerosis\n6. Membranoproliferative glomerulonephritis\n7. Chronic kidney disease (CKD)\n8. Renal tubular atrophy\n9. Hyperlipidemia\n10. Uremia\n\nPlease note that these top 10 diagnoses are based on the provided patient phenotype and are meant to be a starting point for further evaluation and confirmation by appropriate clinical testing and imaging. It is essential to consider other rare and common conditions with similar manifestations when arriving at a final diagnosis.",
+    "predict_rank": "否"
+}

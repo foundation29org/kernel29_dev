@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Ureteric abnormality with proteinuria and hypercholesterolemia\n2. Auditory canal abnormality with unilateral deafness and nasal polyposis\n3. Fragile hand bones with abnormal finger phalanx morphology\n4. Hypercholesterolemia\n5. Ureteric abnormality\n6. Proteinuria\n7. Abnormal tympanic membrane\n8. Nasal polyposis\n9. Hand bones fractures\n10. Osteoarthritis",
+    "predict_rank": "否"
+}

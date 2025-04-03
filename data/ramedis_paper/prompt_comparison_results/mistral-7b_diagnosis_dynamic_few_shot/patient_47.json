@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Systemic lupus erythematosus\n2. Goodpasture's disease\n3. ANCA vasculitis\n4. Henoch's purpura\n5. Hemolytic uremic syndrome\n6. Anti-glomerular basement membrane disease\n7. Cryoglobulinemic nephropathy\n8. Alport syndrome (autosomal recessive)\n9. Focal glomerulosclerosis (primary)\n10. Polycystic ovary syndrome associated nephrotic syndrome (PCOS with diabetic nephropathy)\nPlease note that a definitive diagnosis can only be made after additional diagnostic tests and/or further evaluation.",
+    "predict_rank": "8"
+}

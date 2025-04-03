@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary incontinence,Hepatosplenomegaly,Protuberant abdomen,Fever,Recurrent respiratory infections,Intermittent diarrhea,Falls,Bowel incontinence,Bone-marrow foam cells,Cough",
+    "golden_diagnosis": "尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,Niemann-pick disease, type C2,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A",
+    "predict_diagnosis": "1. Umbrella diagnosis: Rare disease\n2. Hepatitis B\n3. Hepatitis C\n4. liver cancer\n5. cirrhosis\n6. ascites\n7. abdominal pain\n8. diarrhea\n9. fever\n10. respiratory infections",
+    "predict_rank": "否"
+}

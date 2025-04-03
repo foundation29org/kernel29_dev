@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Alport syndrome, X-linked\n2. Alport syndrome, autosomal recessive\n3. Alport syndrome, autosomal dominant\n4. Fabry disease\n5. Nephrotic syndrome\n6. Membranoproliferative glomerulonephritis (MPGN)\n7. Focal segmental glomerulosclerosis (FSGS)\n8. Primary focal segmental glomerulosclerosis (PFSGS)\n9. Secondary focal segmental glomerulosclerosis (SFSGS)\n10. Chronic kidney disease (CKD)\n\nPlease note that these top 10 diagnoses are based on the provided patient phenotype and are meant to be a starting point for further evaluation and confirmation by a healthcare professional. The list may not be exhaustive, and additional conditions should be considered based on the patient's clinical presentation and laboratory findings.",
+    "predict_rank": "1"
+}

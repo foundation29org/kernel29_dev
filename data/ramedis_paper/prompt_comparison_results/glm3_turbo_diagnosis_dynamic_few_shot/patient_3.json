@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Prader-Willi syndrome (PWS)\n2. Smith-Magenis syndrome (SMS)\n3. Chromosome 15q duplication syndrome\n4. Angelman syndrome\n5. Cri du Chat syndrome\n6. Pitt-Hopkins syndrome\n7. Rett syndrome\n8. Fragile X syndrome\n9. tuberous sclerosis complex (TSC)\n10. Cornelia de Lange syndrome (CdLS)\n\nPlease note that this is a differential diagnosis list, and the likelihood of each diagnosis depends on the clinical presentation, family history, and results of genetic testing. It is essential to consider these conditions in the context of a comprehensive clinical evaluation and genetic counseling.",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS)\n2. Autism Spectrum Disorder (ASD)\n3. Attention-Deficit/Hyperactivity Disorder (ADHD)\n4. Intellectual Disability\n5. Genetic Syndromes with Delayed Development and Muscle Hypotonia (e.g., Down Syndrome, Fragile X Syndrome)\n6. Cerebral Palsy\n7. Mitochondrial Disorders (e.g., Mitochondrial Myopathy, Leigh Syndrome)\n8. Metabolic Disorders (e.g., Phenylketonuria, Galactosemia)\n9. Infections or Illnesses with Developmental Delay as a Consequence (e.g., Cytomegalovirus, Toxoplasmosis)\n10. Congenital Hypotonia (e.g., due to chromosomal abnormalities like Trisomy 18 or genetic mutations like TBX1)",
+    "predict_rank": "否"
+}

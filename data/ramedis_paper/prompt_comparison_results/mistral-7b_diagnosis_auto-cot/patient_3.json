@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   1. Down syndrome\n2. Mitochondrial disorders such as Leigh congenital cerebral syndrome or Kefalas-Hallakis syndrome\n3. Intrauterine growth restriction\n4. Rett syndrome\n5. Sjögren's syndrome\n6. Hypothyroidism\n7. Prader-Willi syndrome\n8. Congenital adrenal hyperplasia\n9. Ehlers-Danlos syndrome type IV\n10. Di George syndrome",
+    "predict_rank": "7"
+}

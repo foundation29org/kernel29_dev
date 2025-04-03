@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Blurred vision,Impaired ocular abduction,Diplopia,Oculomotor apraxia,Bilateral ptosis,Dysphagia,Dyspnea,Generalized muscle weakness,Easy fatigability,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Weakness of muscles of respiration,Impaired mastication,Lower limb muscle weakness,Unilateral ptosis,EMG: repetitive nerve stimulation abnormality",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "1. Charitable冰山病\n2. 神经元退行性疾病，如SOD1基因突变导致的SOD1神经元变性\n3. 线粒体病，如KJN2基因突变导致的线粒体呼吸链缺陷\n4. 遗传性球形细胞性贫血\n5. 抗利尿激素分泌过多症\n6. 库欣综合症\n7. 脑膜脑炎\n8. 肌营养不良\n9. 脑干功能衰竭\n10. 吉兰-巴利综合症",
+    "predict_rank": "否"
+}

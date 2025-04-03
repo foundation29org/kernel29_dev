@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "\n1. Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome\n2. Focal segmental glomerulosclerosis (FSGS)\n3. Membranous nephropathy\n4. Minimal change disease\n5. IgA nephropathy\n6. Lupus nephritis\n7. Diabetic nephropathy\n8. Hypertensive nephrosclerosis\n9. Chronic kidney disease, unspecified\n10. Polycystic kidney disease\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and laboratory findings that support the diagnosis.",
+    "predict_rank": "1"
+}

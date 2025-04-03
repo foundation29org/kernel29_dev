@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Neonatal hypotonia,Slurred speech,Mild postnatal growth retardation,Decreased fetal movement,Weak cry,Poor suck,Abnormal stomach morphology,Increased body weight,Aspiration pneumonia,Grade I preterm intraventricular hemorrhage,Elevated hemoglobin A1c",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Prader-Willi Syndrome (PWS)\n2. Angelman Syndrome\n3. Cri-Du-Chat Syndrome\n4. Down Syndrome\n5. Rett Syndrome\n6. Williams-Beuren Syndrome\n7. Smith-Lemli-Opitz Syndrome\n8. Alkaptonuria\n9. Phenylketonuria (PKU)\n10. Maple Syrup Urine Disease (MSUD)",
+    "predict_rank": "1"
+}

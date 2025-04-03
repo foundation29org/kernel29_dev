@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": " 1. Alport syndrome, X-linked\n2. Alport syndrome, autosomal recessive\n3. Alport syndrome, autosomal dominant\n4. Familial amyloidosis\n5. Membranoproliferative glomerulonephritis (MPGN)\n6.薄层蛋白尿（TTP）\n7. 良性高血压（原发性高血压）\n8. 肾小球肾炎\n9. 慢性肾衰竭\n10. 威尔逊病（Wilson's disease）\n\n请注意，这些诊断是基于提供的病史和症状，但确诊需要进一步的实验室检查和临床评估。此外，这些诊断涵盖了多种可能性，但可能不包括所有相关疾病。根据患者的具体病情，可能需要对这些诊断进行调整或添加其他诊断。",
+    "predict_rank": "否"
+}

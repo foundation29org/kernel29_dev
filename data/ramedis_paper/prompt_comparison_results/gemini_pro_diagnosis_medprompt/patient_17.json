@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Tall stature,Mitral valve prolapse,Hypertrophic cardiomyopathy,Abnormal aortic valve morphology,Mitral regurgitation,Aortic regurgitation,Tricuspid valve prolapse,Left ventricular hypertrophy,Dyspnea,Aortic root aneurysm,Kyphoscoliosis,Tachypnea,Back pain,Exercise intolerance,Tricuspid regurgitation,Heart murmur,Chest pain",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome\n2. Loeys-Dietz syndrome\n3. Ehlers-Danlos syndrome, vascular type\n4. Familial thoracic aortic aneurysm and dissection syndrome\n5. Shprintzen-Goldberg syndrome\n6. Williams syndrome\n7. Beals syndrome\n8. Weill-Marchesani syndrome\n9. Stickler syndrome\n10. Osteogenesis imperfecta",
+    "predict_rank": "1"
+}

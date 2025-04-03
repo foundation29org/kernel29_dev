@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Syndromes such as Alagille syndrome, Cornelia de Lange syndrome, and Wiesener-Thornton syndrome\n2. Autogenic disorders\n3. Hearing loss due to genetic or autoimmune causes\n4. Hemolytic uremic syndrome\n5. Hyperlipidemia due to genetic or autoimmune causes\n6. Muscle dystrophy\n7. Neurological disorders\n8. Osseochondritis dissecuta\n9. Primary hyperparathyroidism\n10. Tachycardia.",
+    "predict_rank": "否"
+}

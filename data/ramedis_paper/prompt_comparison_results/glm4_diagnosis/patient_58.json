@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Increased circulating renin level,Syncope,Palpitations,Diarrhea,Dyspnea,Hypokalemia,Hypomagnesemia,Generalized muscle weakness,Lower limb muscle weakness,Paroxysmal vertigo,T-wave inversion,Abnormality of urine calcium concentration,Nodular regenerative hyperplasia of liver,Dysesthesia,Amaurosis fugax",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Hyperaldosteronism (Conn's syndrome)\n2. Barter's syndrome\n3. Mitochondrial myopathy\n4. Autoimmune polyendocrine syndrome type 1 (APS-1)\n5. Pseudohypoaldosteronism type 1\n6. Primary biliary cholangitis with associated hyperlipidemia and hypokalemia\n7. Familial hypokalemic periodic paralysis\n8. Bartter syndrome variant with hyperreninemia\n9. Endocrine tumor syndrome (e.g., MEN2B)\n10. Celiac disease with neurological and hepatic manifestations\n\nEach of these conditions can present with a combination of the symptoms and signs described in the patient's phenotype, but further clinical, laboratory, and genetic testing would be necessary to confirm the diagnosis.",
+    "predict_rank": "否"
+}

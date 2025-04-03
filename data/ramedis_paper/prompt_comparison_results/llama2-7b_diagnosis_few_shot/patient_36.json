@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Blurred vision,Impaired ocular abduction,Diplopia,Oculomotor apraxia,Bilateral ptosis,Dysphagia,Dyspnea,Generalized muscle weakness,Easy fatigability,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Weakness of muscles of respiration,Impaired mastication,Lower limb muscle weakness,Unilateral ptosis,EMG: repetitive nerve stimulation abnormality",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "\n1. Multiple system atrophy, cerebellar type\n2. Wilson disease\n3. McCune-Albright syndrome\n4. Hepatopolenticular degeneration\n5. Progressive external ophthalmoplegia type A\n6. Progressive external ophthalmoplegia type B\n7. Hereditary spastic paraparesis type 2\n8. Hereditary spastic paraparesis type 3\n9. Charcot-Marie-Tooth disease type 1A\n10. Charcot-Marie-Tooth disease type 2A\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic criteria.",
+    "predict_rank": "否"
+}

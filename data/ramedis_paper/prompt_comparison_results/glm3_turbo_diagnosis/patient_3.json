@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Smith-Magenis Syndrome (SMS)\n2. Prader-Willi Syndrome (PWS)\n3. CHARGE Syndrome\n4. Klinefelter Syndrome (KS)\n5. Cri du Chat Syndrome (CDCS)\n6. Angelman Syndrome (AS)\n7. Williams Syndrome (WS)\n8. Fragile X Syndrome (FXS)\n9. tuberous sclerosis complex (TSC)\n10. Congenital Myopathy\n\nPlease note that this list is not exhaustive, and there are many other disorders that could be considered in light of the presented clinical phenotype. Each of these top 10 diagnoses has a distinct set of features and can be ruled in or out based on further evaluation and testing. It is essential to consider these conditions as part of a comprehensive differential diagnosis, but the final diagnosis should be determined by a thorough clinical assessment, genetic testing, and other relevant diagnostic tools.",
+    "predict_rank": "2"
+}

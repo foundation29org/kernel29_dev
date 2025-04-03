@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Muscle weakness,Pericardial effusion,Abnormal tricuspid valve morphology,Palpitations,Vomiting,Abdominal pain,Dyspnea,Exercise intolerance,Poor appetite,Vascular tortuosity,Atrial fibrillation,Tricuspid regurgitation,Pedal edema,Right bundle branch block,Abnormal ST segment,Left ventricular systolic dysfunction,Right atrial enlargement,Increased circulating NT-proBNP concentration,Left atrial enlargement,Abnormality of internal jugular vein",
+    "golden_diagnosis": "Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26",
+    "predict_diagnosis": "1.肌无力症（Myasthenia gravis）\n2.心包积液（Pericardial effusion）\n3.三尖瓣结构异常（Abnormal tricuspid valve morphology）\n4.心悸（Palpitations）\n5.呕吐（Vomiting）\n6.腹痛（Abdominal pain）\n7.呼吸困难（Dyspnea）\n8.运动不耐受（Exercise intolerance）\n9.食欲不振（Poor appetite）\n10.血管病变（Vascular tortuosity）\n\n这些诊断可能涉及到多个器官系统，需要进一步的检查和诊断以确定具体病因。在制定治疗方案时，针对患者的具体情况，可能需要综合考虑药物治疗、手术治疗以及康复治疗等多种方法。",
+    "predict_rank": "否"
+}

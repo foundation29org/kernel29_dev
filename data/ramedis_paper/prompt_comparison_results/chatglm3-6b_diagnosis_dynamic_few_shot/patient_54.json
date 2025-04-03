@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome, X-linked, autosomal recessive\n2. Polycystic ovary syndrome (PCOS)\n3. Ureteric calcification\n4. Autosomal dominant polyposis syndrome (ADPPS)\n5. Congenital aganglionic megacolon\n6. Congenital hypothyroidism\n7. Cystinuria\n8. Acoustic neuroma\n9. Meniere's disease\n10. Sarcoidosis",
+    "predict_rank": "否"
+}

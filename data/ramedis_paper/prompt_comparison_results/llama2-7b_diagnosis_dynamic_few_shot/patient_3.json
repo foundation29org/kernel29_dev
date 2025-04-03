@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "\n1. Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome\n2. Smith-Lemli-Opitz syndrome\n3. Wolf-Parkinson-White syndrome\n4. Coffin-Lowry syndrome\n5. Smith-Magenis syndrome\n6. 22q11.2 deletion syndrome\n7. 1p36 deletion syndrome\n8. 1q21.1 deletion syndrome\n9. 2q37 deletion syndrome\n10. 4p16.3 microdeletion syndrome\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic cause, clinical features, and any supporting evidence.",
+    "predict_rank": "1"
+}

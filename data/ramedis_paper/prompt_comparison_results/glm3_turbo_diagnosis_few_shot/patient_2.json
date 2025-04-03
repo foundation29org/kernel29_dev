@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. chromosomal abnormalities (e.g., trisomy 21, chromosome 18q-deletion syndrome)\n2. neuromuscular disorders (e.g., congenital myopathy, muscular dystrophy)\n3. metabolic disorders (e.g., glycogen storage diseases, lactic acidosis)\n4. genetic syndromes (e.g., Down syndrome, fetal alcohol spectrum disorders)\n5. developmental disorders (e.g., Pierre Robin sequence, craniosynostosis)\n6. cardiovascular disorders (e.g., congenital heart disease, arrhythmogenic right ventricular dysplasia)\n7. renal disorders (e.g., renal tubular acidosis, nephrolithiasis)\n8. gastrointestinal disorders (e.g., gastroesophageal reflux, motility disorders)\n9. endocrine disorders (e.g., hypothyroidism, diabetes mellitus)\n10. infectious diseases (e.g., congenital infections, neonatal sepsis)",
+    "predict_rank": "否"
+}

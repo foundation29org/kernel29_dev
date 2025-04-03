@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Hematuria,Hypertension,Acne,Hyperkalemia,Hypoalbuminemia,Hypercholesterolemia,Hyperuricosuria,Elevated circulating creatinine concentration,Nodular goiter,Abnormal urinary color",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Autosomal dominant polycystic kidney disease (ADPKD)\n2. Bartter syndrome\n3. Alport syndrome\n4. Hyperaldosteronism (Conn's syndrome)\n5. Chronic glomerulonephritis\n6. Tubulointerstitial nephritis with hyperkalemia (TINU syndrome)\n7. Nephrotic syndrome due to membranous nephropathy\n8. Endocrine disorders such as Cushing's syndrome or primary hyperthyroidism with nodular goiter\n9. Familial hypercholesterolemia with renal manifestations\n10. Glycogen storage disease type I (von Gierke's disease) with renal involvement\n\nPlease note that this list is not exhaustive, and further clinical, laboratory, and imaging studies would be necessary to refine the diagnosis.",
+    "predict_rank": "3"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Membranous glomerulonephritis\n2. Focal segmental glomerulosclerosis\n3. Goodpasture's disease\n4. Diabetic nephropathy\n5. Amyloidosis\n6. Toxic hematuria\n7. End-stage renal disease\n8. Kidney microangiopathy\n9. Kidney inflammation\n10. Immunoglobulin A nephropathy",
+    "predict_rank": "否"
+}

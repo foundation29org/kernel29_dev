@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome\n2. Ehlers-Danlos syndrome, hypermobility type\n3. Neurofibromatosis type 1\n4. Adolescent idiopathic scoliosis\n5. Osteogenesis imperfecta\n6. Friedreich's ataxia\n7. Metabolic myopathies (e.g., Pompe disease)\n8. Spinal muscular atrophy\n9. Connective tissue disorders (e.g., Loeys-Dietz syndrome)\n10. Congenital muscular dystrophies (e.g., Fukuyama congenital muscular dystrophy)",
+    "predict_rank": "1"
+}

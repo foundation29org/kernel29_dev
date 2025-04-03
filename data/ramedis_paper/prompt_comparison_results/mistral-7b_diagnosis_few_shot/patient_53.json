@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Cushing's Disease\n2. Diabetes Mellitus\n3. Cystic Fibrosis\n4. Celiac Disease\n5. Sjögren Syndrome\n6. Polymyalgia Rheumatica\n7. Lupus Nephritis\n8. Hemolytic-Uremic Syndrome\n9. Acute Appendicitis\n10. Gastrointestinal Tumor",
+    "predict_rank": "否"
+}

@@ -1,0 +1,146 @@
+"""
+Example of integrating GroqTracker with the configuration system.
+"""
+
+# Import for demonstration purposes - modify paths as needed
+from groq_tracker import GroqTracker
+import groq_models  # This registers models with the registry
+import sys
+import os
+
+
+# This would come from your actual module
+class MockGroqConfig:
+    """Mock version of a config class for demonstration."""
+    
+    def __init__(self, model_name):
+        self.model = model_name
+        self.temperature = 0.7
+        self.max_tokens = 8192
+        self.system_message = "You are a helpful assistant."
+        if "vision" in model_name.lower():
+            self.system_message = "You are a helpful vision-language assistant."
+            self.max_tokens = 16384
+        if "70b" in model_name.lower() or "90b" in model_name.lower():
+            self.max_tokens = 32768
+
+
+class ApiHandler:
+    """
+    Example handler class that would use both config and tracker.
+    """
+    
+    def __init__(self):
+        # Initialize provider tracker
+        self.provider_tracker = GroqTracker()
+        
+        # Load all model trackers
+        models = groq_models.create_all_groq_models()
+        for model in models:
+            self.provider_tracker.add_model(model)
+            
+    def make_api_call(self, config, prompt, completion_tokens=None):
+        """
+        Example method to make an API call with rate limit tracking.
+        
+        Args:
+            config: Model configuration object
+            prompt: User prompt text
+            completion_tokens: If known, the expected completion tokens
+        
+        Returns:
+            Mock response
+        """
+        # Get model name from config
+        model_name = config.model
+        
+        # Get or create tracker for this model
+        model_tracker = self.provider_tracker.get_model(model_name)
+        
+        # Fall back to creating from config if not found
+        if not model_tracker:
+            model_tracker = GroqTracker.from_config(config)
+            self.provider_tracker.add_model(model_tracker)
+        
+        # Check rate limits before making the call
+        should_pause, reason = model_tracker.should_pause()
+        if should_pause:
+            print(f"Rate limit approaching: {reason}")
+            print("Waiting for limits to reset...")
+            # In a real implementation, you would wait here
+            
+        # Calculate prompt tokens (mock implementation)
+        prompt_tokens = len(prompt.split())
+        
+        # Make the API call (mock implementation)
+        print(f"Making API call to model: {model_name}")
+        print(f"Prompt tokens: {prompt_tokens}")
+        response = f"This is a mock response from {model_name}."
+        
+        # Record the request - use estimated completion tokens if not provided
+        if completion_tokens is None:
+            completion_tokens = min(len(response.split()), config.max_tokens // 4)
+            
+        total_tokens = prompt_tokens + completion_tokens
+        model_tracker.record_request(tokens=total_tokens, success=True)
+        
+        # Also record at provider level
+        self.provider_tracker.record_provider_request(tokens=total_tokens, success=True)
+        
+        # Calculate price
+        price = model_tracker.prompt2price(
+            prompt_tokens=prompt_tokens, 
+            completion_tokens=completion_tokens,
+            verbose=False
+        )
+        
+        print(f"Request cost: ${price:.6f}")
+        
+        return {
+            "model": model_name,
+            "response": response,
+            "tokens": {
+                "prompt": prompt_tokens,
+                "completion": completion_tokens,
+                "total": total_tokens
+            },
+            "price": price
+        }
+
+
+def demo():
+    """Run a demonstration of the integration."""
+    handler = ApiHandler()
+    
+    # Create config objects for different models
+    models_to_test = [
+        "llama3-8b-8192",
+        "llama3-70b-8192",
+        "llama-3.2-90b-vision-preview"
+    ]
+    
+    # Test each model
+    for model_name in models_to_test:
+        config = MockGroqConfig(model_name)
+        prompt = f"What can you tell me about the capabilities of {model_name}?"
+        
+        print(f"\n{'-'*50}")
+        print(f"Testing model: {model_name}")
+        response = handler.make_api_call(config, prompt)
+        
+    # Test by alias
+    print(f"\n{'-'*50}")
+    print("Testing model by alias: llama3-70b (which maps to llama3-70b-8192)")
+    config = MockGroqConfig("llama3-70b")
+    response = handler.make_api_call(config, "This is a test using an alias.")
+    
+    # Get usage summary
+    print(f"\n{'-'*50}")
+    print("Usage Summary:")
+    usage_summary = handler.provider_tracker.get_model_usage_summary()
+    for model_name, stats in usage_summary.items():
+        print(f"- {model_name}: {stats['total_requests']} requests, {stats['total_tokens']} tokens")
+
+
+if __name__ == "__main__":
+    demo()

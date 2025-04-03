@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Bartter syndrome\n2. Cushing's syndrome\n3. Hypokalemia associated with hypercalciuria\n4. Addison's disease\n5. Hypocalcemia associated with hyperkalemia\n6. Mineralocorticoid deficiency\n7. Medullary thyroid carcinoma\n8. Diabetes mellitus\n9. Gastrointestinal disorders (such as celiac disease or malabsorption)\n10. Kidney diseases (such as chronic kidney disease or end-stage renal disease)",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome, X-linked\n2. Alport syndrome 2, autosomal recessive\n3. Alport syndrome 3, autosomal dominant\n4. Fabry disease\n5. Dent's disease\n6. Cystinosis\n7. Nail-patella syndrome\n8. Bartter syndrome\n9. Gitelman syndrome\n10. Hypokalemia",
+    "predict_rank": "1"
+}

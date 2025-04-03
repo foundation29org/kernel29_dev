@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Prader-Willi Syndrome (PWS)\n2. Angelman Syndrome\n3. Cri-du-chat Syndrome\n4. Down Syndrome\n5. Rett Syndrome\n6. Cornelia de Lange Syndrome\n7. Williams-Beuren Syndrome\n8. Smith-Magenis Syndrome\n9. Fragile X Syndrome\n10. Autosomal Recessive Cerebellar Ataxias (ARCA) with mental retardation and/or early-onset dystonia\n\nPlease note that the given patient's phenotype can be associated with various genetic and metabolic disorders, and the list above represents a diverse range of possibilities. A precise diagnosis would require a thorough clinical evaluation, genetic testing, and additional investigations as needed.",
+    "predict_rank": "1"
+}

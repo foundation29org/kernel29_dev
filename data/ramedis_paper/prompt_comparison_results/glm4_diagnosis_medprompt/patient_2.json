@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Smith-Lemli-Opitz syndrome (SLOS)\n2. Pena-Shokeir syndrome\n3. Trisomy 18 (Edwards syndrome)\n4. Fetal alcohol spectrum disorder (FASD)\n5. Meier-Gorlin syndrome\n6. CHARGE syndrome\n7. Robinow syndrome\n8. Congenital muscular dystrophy (CMD)\n9. Mitochondrial disease, specifically Pearson syndrome\n10. Oral-facial-digital syndrome (OFD) types 1 or 3\n\nEach of these conditions can present with a combination of the symptoms listed in the patient's phenotype, and they represent a diverse range of genetic and metabolic disorders that could be considered in a differential diagnosis. It is important to note that a precise diagnosis would require a thorough clinical evaluation, including detailed family history, physical examination, and often genetic testing.",
+    "predict_rank": "否"
+}

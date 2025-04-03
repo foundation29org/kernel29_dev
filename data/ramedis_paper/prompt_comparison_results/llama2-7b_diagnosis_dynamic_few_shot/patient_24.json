@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "\n1. Brugada syndrome 2\n2. Arrhythmogenic right ventricular dysplasia, familial, 10\n3. Marfan syndrome\n4. Neonatal Marfan syndrome\n5. Cardiac sarcoidosis\n6. Myocarditis\n7. Myocardial infarction\n8. Pulmonary embolism\n9. Right ventricular dysplasia, familial, 1\n10. Long QT syndrome 2\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests that support the diagnosis.",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Increased circulating renin level,Syncope,Palpitations,Diarrhea,Dyspnea,Hypokalemia,Hypomagnesemia,Generalized muscle weakness,Lower limb muscle weakness,Paroxysmal vertigo,T-wave inversion,Abnormality of urine calcium concentration,Nodular regenerative hyperplasia of liver,Dysesthesia,Amaurosis fugax",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Bartter syndrome type 1\n2. Bartter syndrome type 2\n3. Bartter syndrome type 3\n4. Conn's syndrome\n5. Diabetic ketoacidosis (DKA)\n6. Hypothyroidism\n7. Inflammatory bowel disease (IBD)\n8. Metabolic acidosis due to lactic acid accumulation\n9. Osteocalcin deficiency\n10. Rare autoimmune diseases such as Goodpasture's disease or lupus erythematosus.",
+    "predict_rank": "否"
+}

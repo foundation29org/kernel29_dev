@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "\n1. McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic\n2. Neurofibromatosis type 1 (NF1)\n3. Neurofibromatosis type 2 (NF2)\n4. Torsades de pointes (TdP)\n5. Long QT syndrome (LQTS)\n6. Brugada syndrome (BrS)\n7. Timothy syndrome (TS)\n8. Catecholaminergic polymorphic ventricular tachycardia (CPVT)\n9. Conductive hearing loss (CHL)\n10. Osteogenesis imperfecta (OI)\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic criteria.",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. congenital aganglionic megacolon\n2.郎格型综合症（Langherz's complex）\n3. 18q- microdeletion\n4. Trisomy 21\n5. Klinefelter syndrome\n6. Postnatal growth hormone deficiency\n7. 3-Mercaptoaciduria\n8. congenital adrenal hyperplasia (21-hydroxylase deficiency)\n9. 17-hydroxyprogesterone receptor deficiency\n10. congenital gitelinism\n\n以上是可能的十种诊断，但每个病人的情况都是独特的，诊断结果可能会因个体差异而有所不同。",
+    "predict_rank": "否"
+}

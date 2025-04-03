@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome\n2. Loeys-Dietz syndrome\n3. Marfan syndrome\n4. Ehlers-Danlos syndrome (vascular or classic type)\n5. Usher syndrome (type II)\n6. Autosomal dominant polycystic kidney disease (ADPKD)\n7. Osteogenesis imperfecta\n8. Williams-Beuren syndrome\n9. Jervell and Lange-Nielsen syndrome\n10. Branchio-oto-renal (BOR) syndrome\n\nEach of these conditions can present with a combination of the symptoms and clinical features described in the patient's phenotype. It is important to note that further clinical, genetic, and possibly imaging studies would be necessary to confirm any of these diagnoses.",
+    "predict_rank": "否"
+}

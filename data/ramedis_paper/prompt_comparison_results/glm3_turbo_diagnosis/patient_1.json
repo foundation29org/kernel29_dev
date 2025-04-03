@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Klinefelter syndrome\n2. XXY syndrome (Klinefelter-Fanconi syndrome)\n3. Adrenoleukodystrophy\n4. Metabolic sleep disorder\n5. Neuromuscular disorder\n6. Cerebral palsy\n7. Intellectual disability\n8. Sleep apnea\n9. Chronic fatigue syndrome\n10. Primary hypothyroidism",
+    "predict_rank": "否"
+}

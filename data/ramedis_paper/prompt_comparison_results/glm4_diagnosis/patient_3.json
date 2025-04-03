@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Prader-Willi Syndrome\n2. Angelman Syndrome\n3. Rett Syndrome\n4. Down Syndrome\n5. Fragile X Syndrome\n6. Cohen Syndrome\n7. Williams-Beuren Syndrome\n8. Smith-Magenis Syndrome\n9. Rubinstein-Taybi Syndrome\n10. velocardiofacial syndrome (Shprintzen syndrome)",
+    "predict_rank": "1"
+}

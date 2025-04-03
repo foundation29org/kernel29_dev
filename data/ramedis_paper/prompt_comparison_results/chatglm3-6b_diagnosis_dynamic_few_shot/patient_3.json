@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Rett syndrome\n2. Pervasive Developmental Disorder - PDD\n3. Attention Deficit Hyperactivity Disorder - ADHD\n4. Autistic Spectrum Disorder - ASD\n5. Cerebral Palsy\n6. Down syndrome\n7. Fragile X syndrome\n8. Trisomy 21 syndrome\n9. Prader-Willi syndrome\n10.唐氏综合症",
+    "predict_rank": "9"
+}

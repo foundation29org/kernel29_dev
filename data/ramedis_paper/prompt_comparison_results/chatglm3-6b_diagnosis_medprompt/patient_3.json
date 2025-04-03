@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Rett syndrome\n2.苯丙酮尿症/Phenylketonuria (PKU)\n3. 脑膜脑炎/Encephalitis\n4. 染色体异常/Chromosomal异常\n5. 核型异常/Neurodevelopmental disorder\n6. 氨基酸代谢病/Amino acid metabolism disorder\n7. 神经元减少症/Neuron loss disorder\n8. 脑脊液循环障碍/Cerebral spinal fluid (CSF) cycle disorder\n9. 遗传性球形细胞性贫血/Hemolytic anemia\n10. 神经递质失衡/Neurotransmitter imbalance",
+    "predict_rank": "否"
+}

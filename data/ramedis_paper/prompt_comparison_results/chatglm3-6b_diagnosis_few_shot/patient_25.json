@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1.阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria (PSH)\n2.尼曼匹克病B型/Niemann-Pick disease type B (NPD-B)\n3.肝豆状核变性/威尔逊氏病 (Wilson's disease)\n4.红细胞生成素缺乏症/Erythropoietin deficiency\n5.叶酸代谢紊乱/Methotrexate-related folate deficiency\n6.线粒体病/Mitochondrial encephalopathy\n7.自身免疫性疾病/Autoimmune disease\n8.线粒体DNA(mtDNA)遗传病/Mitochondrial DNA(mtDNA) disease\n9.遗传性球形细胞性贫血/Hemolytic anemia\n10.凝血因子缺乏/Coagulopathy",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Nphp1 mutation\n2. Cyp21a2 deficiency\n3. ADA deficiency\n4. Mapkap kinase 1 (MKK1) deficiency\n5. Sjogren syndrome\n6. Amyloidosis\n7. Fanconi anemia\n8. Hemolytic uremic syndrome\n9. Primary glomerulonephritis\n10. Protectinopathy",
+    "predict_rank": "否"
+}

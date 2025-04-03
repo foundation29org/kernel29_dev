@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Marfan syndrome\n2. Neonatal Marfan syndrome\n3. Ehlers-Danlos syndrome (types I and II)\n4. Scoliosis associated with vertebral malformation\n5. Kyphosis-related spinal deformity\n6. Spinal muscular atrophy\n7. Spinocerebellar ataxia\n8. Myopathy due to genetic mutations\n9. Inflammatory arthritis (e.g., rheumatoid arthritis)\n10. Osteogenesis imperfecta",
+    "predict_rank": "1"
+}

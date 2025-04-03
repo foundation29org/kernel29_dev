@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome\n2. Ehlers-Danlos syndrome, hypermobility type\n3. Ankylosing spondylitis\n4. Adolescent idiopathic scoliosis\n5. Neurofibromatosis type 1 with scoliosis\n6. Osteogenesis imperfecta\n7. Congenital kyphoscoliosis\n8. Friedreich's ataxia\n9. Metabolic or storage disorders (e.g., Morquio syndrome, Hurler syndrome)\n10. Connective tissue disorders (e.g., Osteoporosis with kyphoscoliosis) \n\nPlease note that the list is not exhaustive, and the actual diagnosis would require a comprehensive clinical evaluation, detailed family history, genetic testing, and potentially imaging studies or other diagnostic tests.",
+    "predict_rank": "1"
+}

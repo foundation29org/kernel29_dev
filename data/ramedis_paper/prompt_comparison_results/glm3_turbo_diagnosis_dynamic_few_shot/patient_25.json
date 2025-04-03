@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": " 1. Brugada syndrome\n2. Arrhythmogenic right ventricular dysplasia (ARVD/C)\n3. Long QT syndrome\n4. Short QT syndrome\n5. catecholaminergic polymorphic ventricular tachycardia (CPVT)\n6. hypertrophic cardiomyopathy (HCM)\n7. dilated cardiomyopathy (DCM)\n8. hypertrophic obstructive cardiomyopathy (HOCM)\n9. mitral valve prolapse (MVP)\n10. atrial fibrillation (AF)\n\nPlease note that these top 10 diagnoses are based on the patient's phenotype and should be considered in the context of their medical history and electrocardiogram findings. It is essential to perform further evaluation, including diagnostic tests and consultations with specialists, to establish a definitive diagnosis.",
+    "predict_rank": "1"
+}

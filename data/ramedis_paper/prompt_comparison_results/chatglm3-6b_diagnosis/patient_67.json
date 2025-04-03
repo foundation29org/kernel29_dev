@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Papilledema,Hepatic steatosis,Myocardial infarction,Coronary artery atherosclerosis,Splenomegaly,Thrombocytosis,Pulmonary arterial hypertension,Increased circulating IgA level,Difficulty climbing stairs,Osteoporosis of vertebrae,Dilatation of the ventricular cavity,Demyelinating motor neuropathy,Lower limb muscle weakness,Demyelinating sensory neuropathy,Left anterior fascicular block,Abnormal granulocytopoietic cell morphology,Dysesthesia,Abasia,Left ventricular diastolic dysfunction,Left atrial enlargement,Abnormal peripheral nerve morphology by anatomical site,Abnormal thoracic spine morphology",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": "1. Primary angle glaucoma\n2. Congestive heart failure\n3. Hepatic congestion\n4. Thrombotic microangiopathy\n5. Multiple sclerosis\n6. Sepsis\n7. Pulmonary embolism\n8. Systemic lupus erythematosus\n9. Myasthenia gravis\n10. Guillain-Barré syndrome",
+    "predict_rank": "否"
+}

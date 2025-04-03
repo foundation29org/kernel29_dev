@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Prader-Willi syndrome (PWS)\n2. Klinefelter syndrome (KS)\n3. Myotonic dystrophy (DM)\n4. Sleep apnea syndrome (SAS)\n5. Neonatalilepsy syndrome (NES)\n6. Congenital hypothyroidism (CH)\n7. Cri du chat syndrome (CDCS)\n8. Smith-Magenis syndrome (SMS)\n9. Angelman syndrome (AS)\n10. CHARGE syndrome (CS)\n\nPlease note that these top 10 diagnoses are based on the provided patient phenotype and are meant to be a starting point for further evaluation and confirmation by a healthcare professional. The list may not be exhaustive, and additional rare diseases could be considered based on the patient's specific presentation. It is crucial to perform thorough clinical assessments, genetic testing, and other relevant diagnostic procedures to establish the final diagnosis.",
+    "predict_rank": "1"
+}

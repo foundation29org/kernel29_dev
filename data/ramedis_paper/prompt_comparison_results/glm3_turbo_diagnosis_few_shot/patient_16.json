@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Spinal muscular atrophy (SMA)\n2. Scheuermann's kyphoscoliosis\n3. adolescent idiopathic scoliosis (AIS)\n4. rheumatoid arthritis\n5. systemic lupus erythematosus (SLE)\n6. juvenile idiopathic arthritis (JIA)\n7. fibromyalgia\n8. muscular dystrophy\n9. polymyositis/dermatomyositis\n10. chronic fatigue syndrome (CFS)\n\nPlease note that these top 10 diagnoses are based on the given patient's phenotype of kyphoscoliosis and should be considered in the context of other clinical findings and laboratory tests. It is important to perform a thorough clinical assessment and appropriate diagnostic tests to narrow down the definitive diagnosis.",
+    "predict_rank": "否"
+}

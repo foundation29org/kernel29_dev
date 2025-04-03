@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport Syndrome\n2. Dense Deposit Disease (Type II Thrombotic Microangiopathy)\n3. Membranoproliferative Glomerulonephritis (MPGN)\n4. IgA Nephropathy\n5. Autosomal Dominant Polycystic Kidney Disease (ADPKD) with complications\n6. Systemic Lupus Erythematosus (SLE)\n7. ANCA-Associated Vasculitis\n8. Sickle Cell Disease with renal involvement\n9. Malignant Hypertension\n10. Cholesterol Embolism in the context of Hypercholesterolemia\n\nPlease note that this list is not exhaustive, and the actual diagnosis would require a thorough clinical evaluation, laboratory testing, and possibly renal biopsy to confirm.",
+    "predict_rank": "1"
+}

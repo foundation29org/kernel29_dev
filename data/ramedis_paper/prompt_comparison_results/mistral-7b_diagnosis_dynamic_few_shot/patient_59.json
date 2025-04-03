@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Gitelman syndrome (GS)/Gitelman 综合征/Gitelman syndrome\n2. Pseudohyperparathyroidism (PHP) type 1a/Pseudohyperparathyroidism (PHP) type 1a\n3. Lithium-induced renal potassium wasting/Lithium-induced renal potassium wasting\n4. Bartter syndrome type 3 (BS III)/Bartter syndrome type I (BS I)/Bartter syndrome type 5 (BS V)/Bartter syndrome type IV (BS IV)/Bartter syndrome type II (BS II)/Bartter syndrome type 3 (BS III)/Bartter syndrome type I (BS I)\n5. Convulsive syndrome type 5 (CSV5)/Convulsive syndrome type 5 (CSV5)\n6. Hypokalemia with metabolic alkalosis (HMA)/Hypokalemia with metabolic alkalosis (HMA)\n7. Thyroid storm/ Thyroid storm\n8. Severe chronic kidney disease (CKD)\n9. Hypocalcemia with metabolic acidosis (HAM)\n10. Diuretic-induced (secondary) hypokalemia/Diuretic-induced (secondary) hypokalemia.",
+    "predict_rank": "1"
+}

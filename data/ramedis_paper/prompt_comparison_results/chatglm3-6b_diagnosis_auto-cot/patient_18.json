@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Lens subluxation: 眼 lens displacement\n2. Scoliosis: 脊椎侧凸\n3. Low back pain: 腰部疼痛\n4. High myopia: 高度近视\n5. Lens luxation: 眼镜头移位\n6. Cataracts: 猫眼混浊\n7. Glaucoma: 青光眼\n8. Myasthenia gravis: 肌无力\n9. Hyperparathyroidism:  Hyperparathyroidism: 副甲状腺功能亢进\n10. Osteoarthritis: 骨关节炎",
+    "predict_rank": "否"
+}

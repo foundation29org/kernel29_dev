@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Purpura,Skin rash,Muscle weakness,Ascites,Thrombocytopenia,Anemia,Fever,Leukocytosis,Hepatomegaly,Vertigo,Low back pain,Increased total bilirubin,Recurrent thromboembolism,Respiratory tract infection,Abnormal urinary color,Abnormal erythroid lineage cell morphology,Abnormal granulocytopoietic cell morphology,Hemophagocytosis,Lower limb pain,Gastric varix,Portal vein thrombosis,Productive cough,Hypercoagulability",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "1. Myelodysplastic syndrome with myelofibrosis\n2. Acute myeloid leukemia with myelofibrosis\n3. Agnogenic myeloid metaplasia\n4. Paroxysmal nocturnal hemoglobinuria\n5. Primary myelofibrosis\n6. Chronic idiopathic myelofibrosis\n7. Chronic myeloid leukemia, atypical chronic phase\n8. Chronic myelomonocytic leukemia with monocytosis\n9. Hemophagocytic lymphohistiocytosis\n10. Evans syndrome",
+    "predict_rank": "4"
+}

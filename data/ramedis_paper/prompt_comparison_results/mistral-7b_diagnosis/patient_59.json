@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Hypertrophic cardiomyopathy (HCM)\n2. Kidney tubular disease (e.g., primary nephrolithiasis, cystinosis, distal renal tubular acidosis)\n3. Primary hyperparathyroidism\n4. Cushing's syndrome (due to an adrenal tumor or adrenocorticotropic hormone-secreting tumors of the pituitary gland)\n5. Bartter syndrome (a group of genetic disorders affecting kidney function)\n6. Distal renal tubular acidosis (dRTA) due to an exogenous acid load (e.g., renal cell carcinoma) or renal tubular diseases\n7. Hypocalcemic osteomalacia due to an underlying disorder of kidney function (e.g., nephrocalcinosis, hypercalciuria, primary hyperparathyroidism)\n8. Gitelman syndrome (a type of potassium-losing condition that is sometimes associated with mild hyponatremia and metabolic alkalosis)\n9. Familial hypertrophic cardiomyopathy (FHCM)\n10. Diagnosis of unknown specificity (DUS)",
+    "predict_rank": "8"
+}

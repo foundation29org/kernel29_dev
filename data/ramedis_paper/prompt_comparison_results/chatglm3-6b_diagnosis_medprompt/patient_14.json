@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormal vagina morphology,Delayed speech and language development,Abnormality of the breast,Cafe-au-lait spot,Elevated circulating alkaline phosphatase concentration,Large cafe-au-lait macules with irregular margins,Increased circulating free T3,Premature pubarche,Increased serum estradiol,Decreased thyroid-stimulating hormone level,Increased circulating progesterone,Metrorrhagia,Abnormal eating behavior",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. congenital adrenal hyperplasia (CAH)\n2. 17-hydroxyprogesterone dehydrogenase (17-hydxprog)\n3. 21-hydroxylase\n4. 12-hydroxyprogesterone dehydrogenase (12-hydxprog)\n5. primary ovarian insufficiency (POI)\n6. growth hormone insufficiency (GHI)\n7. thyroid dysfunction\n8. insulin-like growth factor (IGF) deficiency\n9. adrenal insufficiency (AI)\n10. sexual chromosome abnormalities (Klinefelter syndrome, XXY)",
+    "predict_rank": "否"
+}

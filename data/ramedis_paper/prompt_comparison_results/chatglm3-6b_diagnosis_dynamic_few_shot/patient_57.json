@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Renal potassium wasting,Hyperhidrosis,Urticaria,Hepatic steatosis,Palpitations,Hyperuricemia,Hypokalemia,Hyperchloriduria,Increased urinary potassium,Lower limb muscle weakness,Sinus tachycardia,Hypernatriuria,Elevated circulating alanine aminotransferase concentration",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Primary hyperparathyroidism\n2. Hypercalcemia\n3. Addison's disease\n4. Congenital adrenal hyperplasia\n5. Hyperkalemia\n6. Renal cause (such as chronic kidney disease orFishman's disease)\n7. Hyperuricemia\n8. Systemic lupus erythematosus\n9. Uterine fibroids\n10. Renal papillary necrosis",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Acute Myocardial Infarction\n2. Viral Myocarditis\n3. Dilated Cardiomyopathy\n4. Respiratory Distress Syndrome\n5. Acute Viral Bronchitis\n6. Acute Hepatitis C\n7. Sepsis\n8. Pulmonary Edema\n9. Cardiogenic Shock\n10. Acute Respiratory Failure",
+    "predict_rank": "否"
+}

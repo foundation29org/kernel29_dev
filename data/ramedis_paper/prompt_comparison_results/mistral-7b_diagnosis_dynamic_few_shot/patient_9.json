@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "   1. Wilson disease/Wilson disease/Wilson disease\n2. Liver hemangioma\n3. Hemolytic uremic syndrome\n4. Congenital Adrenal Hyperplasia\n5. Amyotrophic lateral sclerosis (ALS)\n6. Frontotemporal dementia\n7. Multiple System Atrophy (MSA)\n8. Huntington disease\n9. Muscular dystrophy\n10. Congenital heart disease",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Hearing impairment,Visual loss,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Elevated erythrocyte sedimentation rate,Recurrent tonsillitis,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome\n2. IgA nephropathy\n3. Henoch-Schonlein purpura\n4. Goodpasture syndrome\n5. Membranoproliferative glomerulonephritis\n6. Lupus nephritis\n7. Sickle cell disease\n8. Thrombotic thrombocytopenic purpura\n9. Wegener's granulomatosis\n10. Rheumatoid arthritis",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": " 1. Gitelman Syndrome (GS)\n2. Bartter Syndrome (Type 1 and Type 2)\n3. Syndrome of Inappropriate Antidiuretic Hormone (SIADH)\n4. Primary Aldosteronism (PA)\n5. Cushing's Syndrome\n6. Familial Hypokalemic Periodic Paralysis (FHP)\n7. Metabolic Acidosis with Normal Anion Gap (MAGNA)\n8. Renal Tubular Acidosis (RTA), type 1 and type 4\n9. Hyperaldosteronism (Conn's Syndrome)\n10. Hypomagnesemia with Normal Calcium Concentration (HNCC)\n\nPlease note that this list is not exhaustive, and further evaluation and testing may be required to narrow down the diagnosis. The presented phenotype contains renal potassium wasting, hypokalemia, increased urinary potassium, hypocalciuria, and metabolic alkalosis. These findings can be associated with multiple rare diseases, which is why it is crucial to consider a broad differential diagnosis. Always consult with a healthcare professional before making any diagnostic decisions.",
+    "predict_rank": "1"
+}

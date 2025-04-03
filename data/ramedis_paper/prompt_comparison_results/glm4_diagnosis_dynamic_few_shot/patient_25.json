@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Brugada syndrome\n2. Long QT syndrome\n3. Catecholaminergic polymorphic ventricular tachycardia (CPVT)\n4. Mitochondrial myopathy with arrhythmia susceptibility (MMAS)\n5. Channelopathy-associated autosomal dominant progressive cerebellar ataxia (ADCA)\n6. Prinzmetal angina (variant angina)\n7. Sudden arrhythmic death syndrome (SADS)\n8. Myocarditis\n9. Inherited arrhythmias with conduction system disease (e.g., SCN5A-related sodium channelopathy)\n10. Autonomic nervous system disorder (e.g., dysautonomia) leading to arrhythmias and syncope",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Neonatal hypotonia,Slurred speech,Mild postnatal growth retardation,Decreased fetal movement,Weak cry,Poor suck,Abnormal stomach morphology,Increased body weight,Aspiration pneumonia,Grade I preterm intraventricular hemorrhage,Elevated hemoglobin A1c",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Prader-Willi syndrome (PWS)\n2. chromosome 15q11.2-q13.1 deletion syndrome\n3. Smith-Magenis syndrome (SMS)\n4. Angelman syndrome (AS)\n5. Cri du Chat syndrome (CdCS)\n6. Pitt-Hopkins syndrome (PTHS)\n7. Klinefelter syndrome (KS)\n8. fragile X syndrome (FXS)\n9. tuberous sclerosis complex (TSC)\n10. congenital disorders of glycosylation (CDG)\n\nPlease note that these diagnoses are based on the provided patient phenotype and are not mutually exclusive. Additional clinical information or genetic testing may be required to narrow down the diagnosis.",
+    "predict_rank": "1"
+}

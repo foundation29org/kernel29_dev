@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Marfan syndrome\n2. Ehlers-Danlos syndrome\n3. Loeys-Dietz syndrome\n4. Stickler syndrome\n5. Familial dysautonomia\n6. Spinocerebellar ataxia\n7. Autosomal dominant polycystic kidney disease (ADPKD)\n8. Neurofibromatosis type 1 (NF1)\n9. Fibrodysplasia ossificans progressiva (FOP)\n10. Osteogenesis Imperfecta (OI)\n\nPlease note that these diagnoses are based on the patient's phenotype alone, and further evaluation and testing will be necessary to narrow down the final diagnosis. The presented list aims to cover a diverse range of rare and genetic disorders that could potentially explain the patient's symptoms.",
+    "predict_rank": "1"
+}

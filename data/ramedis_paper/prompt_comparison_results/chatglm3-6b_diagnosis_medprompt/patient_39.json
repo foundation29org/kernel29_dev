@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Diplopia,Hypertension,Hashimoto thyroiditis,Dysarthria,Bilateral ptosis,Hoarse voice,Progressive hearing impairment,Diarrhea,Dysphagia,Abnormal basal ganglia morphology,Ischemic stroke,Atherosclerosis,Generalized muscle weakness,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Proximal muscle weakness,Decreased body weight,Unilateral ptosis,Thymus hyperplasia,Increased carotid artery intimal medial thickness,Appendicular hypotonia,EMG: repetitive nerve stimulation abnormality,Favorable response of weakness to acetylcholine esterase inhibitors,Thymoma",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "1. Hashimoto thyroiditis\n2. Diplopia\n3. Hypertension\n4. Dysarthria\n5. Bilateral ptosis\n6. Hoarse voice\n7. Progressive hearing impairment\n8. Diarrhea\n9. Dysphagia\n10. Thymus hyperplasia",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "\n1. Bartter syndrome type 3\n2. Gitelman syndrome\n3. Potassium-losing tubular disorder\n4. Hyperaldosteronism\n5. Primary aldosteronism\n6. Familial hypokalemic periodic paralysis\n7. Late-onset Bartter syndrome\n8. X-linked hypokalemic periodic paralysis\n9. Autosomal dominant hypokalemic periodic paralysis\n10. Rare genetic disorder causing hypokalemic periodic paralysis\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests.",
+    "predict_rank": "2"
+}

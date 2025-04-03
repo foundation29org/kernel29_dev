@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Glomerulonephritis\n2. Membranous nephropathy\n3. Goodpasture's disease\n4. Lupus nephritis\n5. Microscopic hematuria\n6. Acute kidney injury\n7. Chronic kidney disease\n8. Renal amyloidosis\n9. Renal papillary necrosis\n10. Renal cell carcinoma",
+    "predict_rank": "否"
+}

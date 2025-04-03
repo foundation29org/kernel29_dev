@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary hesitancy,Urinary incontinence,Prostatitis,Syncope,Muscle weakness,Elevated circulating creatine kinase concentration,Exercise intolerance,Loss of consciousness,Pedal edema,ST segment elevation,Increased circulating creatine kinase MB isoform,Dysuria,Amaurosis fugax",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "\n1. Neurogenic bladder dysfunction\n2. Acute intermittent porphyria\n3. Hereditary spastic paraparesis type 2\n4. Chronic inflammatory demyelinating polyneuropathy\n5. Fabry disease\n6. Pompe disease\n7. Mucopolysaccharidosis type VII\n8. Glycogen storage disease type III\n9. McArdle disease\n10. Carnitine palmitoyltransferase II deficiency\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutation, clinical features, and diagnostic tests.",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. McCune-Albright syndrome (MAS)/McCune-Albright syndrome (CAS)/McCune-Albright syndrome (MAS)/McCune-Albright syndrome (CAS), somatic, mosaic\n2. Congenital Adrenal Hyperplasia (CAH)/Adrenoleukodystrophy (ALD)\n3. Familial Intestinal Cleansing Syndrome (FICS)\n4. Congenital aganglionic megacolon\n5. Congenital midgut malrotation\n6. Congenital esophageal atresia\n7. Congenital tracheoesophageal fistula (TOF)\n8. Hypoplasia\n9. An inherited disorder of eye movement and vision, such as Lisch nodules or Lisch disease\n10. An inherited disorder of bone and cartilage, such as fibrochondromatosis or fibroblastomas.",
+    "predict_rank": "1"
+}

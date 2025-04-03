@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Irritability,Personality changes,Tremor,Nausea,Abdominal pain,Hepatomegaly,Sleep disturbance,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Elevated circulating aspartate aminotransferase concentration,Elevated circulating alanine aminotransferase concentration,Mania,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson's disease (Wilson disease/Wilson disease/Wilson disease, 肝豆状核变性)\n2. Fabry disease (法布雷病/Fabry disease/Fabry disease/Fabry disease)\n3. Marfan syndrome (马方综合征/Marfan syndrome, MFS/Marfan syndrome)\n4. Hyponatremia (低钠血症)\n5. Hyperammonemia (高氨血症)\n6. Hyperkalemia (高钾血症)\n7. Hypercalcemia (高钙血症)\n8. Hypoglycemia (低血糖症)\n9. Hypokalemia (低钾血症)\n10. Hyponatremia-associated brain injury",
+    "predict_rank": "1"
+}

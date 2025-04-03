@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": " 1. Idiopathic ventricular fibrillation (IVF)\n2.病毒性心肌炎（Viral myocarditis）\n3. 致心律失常性右室发育不良/心肌病（ARVD/C）\n4. Brugada综合征\n5. 心肌病（Cardiomyopathy）\n6. 肥厚型心肌病（Hypertrophic cardiomyopathy，HCM）\n7. 扩张型心肌病（Dilated cardiomyopathy，DCM）\n8. 缺血性心脏病（Ischemic heart disease）\n9. 肺栓塞（Pulmonary embolism）\n10. 急性呼吸窘迫综合症（Acute respiratory distress syndrome，ARDS）\n\n请注意，这些诊断是基于提供的病史和症状，需要进一步的临床评估和检查，如心电图（ECG），胸部影像学，血液检查等，以确定最终的诊断。",
+    "predict_rank": "4"
+}

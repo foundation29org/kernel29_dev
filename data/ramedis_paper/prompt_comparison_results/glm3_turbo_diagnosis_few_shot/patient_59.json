@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": " 1. Renal tubular acidosis (RTA)\n2. Gitelman's syndrome\n3. Bartter's syndrome\n4. Primary aldosteronism\n5. Cushing's syndrome\n6. Hypercalciuria\n7. Hypomagnesemia\n8. Syndrome of inappropriate antidiuretic hormone (SIADH)\n9. Diabetes insipidus\n10. Familial hypokalemic periodic paralysis\n\nPlease note that these are the top 10 diagnoses based on the provided patient phenotype, and a comprehensive clinical evaluation, laboratory testing, and possible genetic testing should be performed to narrow down the exact diagnosis. Some of these conditions are rare, while others are more common, but they all share symptoms related to electrolyte imbalance and renal function.",
+    "predict_rank": "2"
+}

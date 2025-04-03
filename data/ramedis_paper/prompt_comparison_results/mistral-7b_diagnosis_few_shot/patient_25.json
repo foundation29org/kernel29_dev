@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "   1. Hypothyroidism\n2. Acute MI\n3. Diabetes mellitus ketoacidosis\n4. Sepsis\n5. Eclampsia\n6. Non-Ketoacidosis Interval Hypoglycemia (NIH)\n7. Cardiac arrhythmia\n8. Panthophylia\n9. Neurological disorder\n10. Sleep apnea",
+    "predict_rank": "否"
+}

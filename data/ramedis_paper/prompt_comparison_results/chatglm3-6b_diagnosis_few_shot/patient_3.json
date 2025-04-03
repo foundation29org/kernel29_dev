@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Rett syndrome\n2. fragile X syndrome\n3. phenylketonuria\n4. Maple syrup urine disease\n5. congenital aganglionic megacolon\n6. urethral obstruction\n7. congenital heart disease\n8. CHARGE syndrome\n9. velocardial国际象棋综合症\n10. X-linked agammaglobulinemia",
+    "predict_rank": "否"
+}

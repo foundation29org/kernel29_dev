@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary urgency,Urinary retention,Urinary hesitancy,Urinary incontinence,Episodic hypertension,Hepatic steatosis,Constipation,Bradykinesia,Abnormal basal ganglia morphology,Akinesia,Clumsiness,Action tremor,Sleep disturbance,Shuffling gait,Falls,EMG abnormality,Decreased body weight,Abnormal left ventricular function,Poor fine motor coordination,Progressive language deterioration,Foot dorsiflexor weakness,Paroxysmal vertigo,Aortic atherosclerotic lesion,Pain,Abnormal urine cytology,Abasia,Abnormal lateral ventricle morphology,Hand muscle weakness,Reduced blood folate concentration,Pollakisuria,Dysuria",
+    "golden_diagnosis": "多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to",
+    "predict_diagnosis": "1. Uroporphyrinism\n2. Acute interstitial nephritis\n3. Glomerulonephritis\n4. Kidney cancer\n5. Urothelial carcinoma\n6. Renal abscess\n7. Pyelonephritis\n8. Renal papillary neoplasm\n9. Urethral stricture\n10. Interstitial cystitis",
+    "predict_rank": "否"
+}

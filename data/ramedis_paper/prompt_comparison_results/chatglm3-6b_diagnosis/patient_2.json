@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. congenital aganglionic megacolon\n2. congenital midline aganglionic malrotation\n3. congenital hydrocephalus\n4. congenital heart disease\n5. congenital diaphragmatic hernia\n6. congenital empyramidal郎格母细胞瘤\n7. congenital adrenal hyperplasia\n8. congenital thyroglossal duct cyst\n9. velocicletorium\n10. aganglionic teratoma",
+    "predict_rank": "否"
+}

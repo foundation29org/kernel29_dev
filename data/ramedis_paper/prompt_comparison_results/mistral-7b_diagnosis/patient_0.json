@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Neonatal hypotonia,Slurred speech,Mild postnatal growth retardation,Decreased fetal movement,Weak cry,Poor suck,Abnormal stomach morphology,Increased body weight,Aspiration pneumonia,Grade I preterm intraventricular hemorrhage,Elevated hemoglobin A1c",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   1. Fanconi anemia\n2. Down syndrome\n3. Smith-Magenis syndrome\n4. Sjogren's syndrome\n5. Angelman syndrome\n6. Marfan syndrome\n7. Congenital adrenal hyperplasia\n8. Sepsis shock\n9. Hydrops fetalis\n10. Rett syndrome\nPlease note that the diagnoses listed here are not exhaustive and may require further testing and investigation to confirm. It's important for the clinician to consider the patient's family history and any associated medical conditions when making a diagnosis.",
+    "predict_rank": "否"
+}

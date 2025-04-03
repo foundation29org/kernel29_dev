@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Hereditary transthyretin amyloidosis\n2. Primary hyperparathyroidism\n3. Secondary hyperparathyroidism\n4. Addison's disease\n5. Hyponatremia\n6. Hypercalcemia\n7. Hyperlipidemia\n8. Wilson's disease\n9. Amyotrophic lateral sclerosis\n10. Hereditary angioedema",
+    "predict_rank": "8"
+}

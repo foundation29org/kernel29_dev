@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Hematuria,Hypertension,Acne,Hyperkalemia,Hypoalbuminemia,Hypercholesterolemia,Hyperuricosuria,Elevated circulating creatinine concentration,Nodular goiter,Abnormal urinary color",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "\n1. Paroxysmal nocturnal hemoglobinuria (PNH)\n2. Chronic visceral acid sphingomyelinase deficiency (NPD-B)\n3. Prader-Willi syndrome (PWS)\n4. Hypokalemic periodic paralysis (HKPP)\n5. Bartter syndrome type 3 (BS3)\n6. Glycogen storage disease type III (GSD III)\n7. Medullary cystic kidney disease (MCKD)\n8. Alport syndrome (AS)\n9. Fabry disease (FD)\n10. X-linked hypophosphatemic rickets (XLH)\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and laboratory findings that support the diagnosis.",
+    "predict_rank": "8"
+}

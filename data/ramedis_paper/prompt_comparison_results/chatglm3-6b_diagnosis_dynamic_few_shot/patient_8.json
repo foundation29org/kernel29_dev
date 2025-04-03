@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Muscle weakness,Slurred speech,Abnormality of the liver,Splenomegaly,Hyperhomocystinemia,Drooling,Incoordination,Abnormal caudate nucleus morphology,Microscopic hematuria,Elevated circulating alkaline phosphatase concentration,Increased circulating ferritin concentration,Involuntary movements,Increased body weight,Abnormality of vitamin B12 metabolism,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness,Kayser-Fleischer ring,Abnormality of the maxillary sinus",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson's disease (Wilson disease/Wilson disease/Wilson disease, 肝豆状核变性)\n2. Alcoholic liver disease\n3. Hereditary spherocythemia\n4. Sickle cell disease\n5. Thalassemia\n6. Lead poisoning\n7. Mercury toxicity\n8. Iron deficiency anemia\n9. Copper deficiency\n10. Vitamin B12 deficiency",
+    "predict_rank": "1"
+}

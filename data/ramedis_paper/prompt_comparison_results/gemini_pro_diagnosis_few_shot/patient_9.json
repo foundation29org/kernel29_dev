@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson's disease\n2. Hepatolenticular degeneration\n3. Kayser–Fleischer ring\n4. Primary biliary cirrhosis\n5. Indian childhood cirrhosis\n6. Pigmentation of cornea\n7. Cirrhosis of the liver\n8. Copper toxicosis\n9. Copper storage disease\n10. Wilson disease type 1",
+    "predict_rank": "1"
+}

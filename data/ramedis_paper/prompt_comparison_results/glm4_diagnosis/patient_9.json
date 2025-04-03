@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson's disease\n2. Menkes disease\n3. Alzheimer's disease with copper dyshomeostasis\n4. Amyotrophic lateral sclerosis (ALS) with associated proteinuria\n5. Mitochondrial myopathy with copper metabolism dysfunction\n6. Hepatolenticular degeneration with renal involvement\n7. Primary dystonia with metabolic abnormalities\n8. Autosomal recessive spastic ataxia of Charlevoix-Saguenay (ARSACS)\n9. Copper transporter disease (CTD)\n10. Acute intermittent porphyria (AIP) with neurological manifestations and renal involvement\n\nPlease note that this list is speculative and based on the symptoms provided. A definitive diagnosis would require a thorough clinical evaluation, additional laboratory tests, and possibly genetic testing.",
+    "predict_rank": "1"
+}

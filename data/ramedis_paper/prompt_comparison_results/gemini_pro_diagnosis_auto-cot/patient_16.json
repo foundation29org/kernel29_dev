@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "- Marfan syndrome\n- Ehlers-Danlos syndrome\n- Osteogenesis imperfecta\n- Scheuermann disease\n- Adolescent idiopathic scoliosis\n- Myotonic dystrophy\n- Cerebral palsy\n- Muscular dystrophy\n- Friedreich ataxia\n- Rett syndrome",
+    "predict_rank": "2"
+}

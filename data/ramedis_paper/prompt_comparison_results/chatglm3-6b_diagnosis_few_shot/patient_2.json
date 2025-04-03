@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. congenital adrenal hyperplasia (CAH)\n2. Fabry disease\n3. congenital disorder of glycosylation (CDG)\n4. N-acetyl-acetylglucosminidase deficiency (NAAGD)\n5. progressive multifocal leukoencephalopathy (PML)\n6. x-linked agammaglobulinemia (XLA)\n7. Wiskott-Aldrich syndrome (WAS)\n8.追求健康, 首先要有良好的心态, 注重饮食均衡, 适当运动, 保持良好的作息时间, 减轻压力。如果还有其他问题, 可以咨询医生或专业人士。",
+    "predict_rank": "否"
+}

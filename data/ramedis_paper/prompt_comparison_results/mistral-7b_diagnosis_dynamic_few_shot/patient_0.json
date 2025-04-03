@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Neonatal hypotonia,Slurred speech,Mild postnatal growth retardation,Decreased fetal movement,Weak cry,Poor suck,Abnormal stomach morphology,Increased body weight,Aspiration pneumonia,Grade I preterm intraventricular hemorrhage,Elevated hemoglobin A1c",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   1. Syndromes associated with triplication of chromosome 16 (such as Prader-Willi syndrome, Angelman syndrome, and Smith-Magenis syndrome)\n2. Congenital adrenal hyperplasia (CAH)\n3. Cornelia de Lange syndrome (also known as Cockayne-Lange syndrome)\n4. 22q11.2 Deletion syndrome (also known as DiGeorge syndrome)\n5. Down syndrome\n6. Congenitally corrected transposition of the great arteries (ccTGA)\n7. Rett syndrome\n8. Kartagener syndrome\n9. Sickle cell anemia\n10. Non-syndrome growth restriction and delayed development (also known as constitutional small stature or growth delay)",
+    "predict_rank": "1"
+}

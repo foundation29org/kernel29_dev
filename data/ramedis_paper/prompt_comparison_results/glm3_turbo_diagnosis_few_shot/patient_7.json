@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Hematuria,Slurred speech,Abnormality of the liver,Dysphagia,Drooling,Abnormal caudate nucleus morphology,Hand tremor,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": " 1. Wilson's disease\n2. Hemolytic-uremic syndrome (HUS)\n3. Thalassemia major\n4. Liver cirrhosis\n5. Portal hypertension\n6. Budd-Chiari syndrome\n7. Primary biliary cholangitis (PBC)\n8. Primary sclerosing cholangitis (PSC)\n9. Autoimmune hepatitis\n10. Copper toxicosis",
+    "predict_rank": "1"
+}

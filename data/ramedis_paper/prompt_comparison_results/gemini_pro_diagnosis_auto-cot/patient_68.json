@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Abnormal renal glomerulus morphology,Hydronephrosis,Abnormality of the neck,Hematuria,Hypothyroidism,Hypertension,Hyperpigmentation of the skin,Thickened skin,Ascites,Pericardial effusion,Abnormal left ventricle morphology,Splenomegaly,Weight loss,Thrombocytosis,Abnormal tubulointerstitial morphology,Diarrhea,Ischemic stroke,Hyperuricemia,Hyperkalemia,Pleural effusion,Lymphadenopathy,Lymphadenitis,Elevated circulating creatinine concentration,Increased circulating IgA level,Abdominal distention,Somatic sensory dysfunction,Difficulty climbing stairs,Elevated erythrocyte sedimentation rate,Abnormal gastric mucosa morphology,Enterocolitis,Tricuspid regurgitation,Lower limb muscle weakness,Pedal edema,Abnormality of adrenal morphology,Abnormality of adrenal physiology,Dysesthesia,Hand muscle weakness,Abnormal circulating thyroid hormone concentration",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": "1. Amyloidosis, AA type\n2. Amyloidosis, AL type\n3. Erdheim-Chester disease\n4. Fabry disease\n5. Gaucher disease\n6. IgG4-related disease\n7. Multiple myeloma\n8. Paraproteinemia, unspecified\n9. Sarcoidosis\n10. Systemic lupus erythematosus",
+    "predict_rank": "否"
+}

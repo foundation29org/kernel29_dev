@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "\n1. Alport syndrome, X-linked\n2. Gitelman syndrome\n3. Hepatolenticular degeneration\n4. Wilson disease\n5. Alport syndrome 2, autosomal recessive\n6. Alport syndrome 3, autosomal dominant\n7. X-linked hypophosphatemia\n8. Menkes syndrome\n9. Hypophosphatasia, autosomal recessive\n10. Fibrous dysplasia, polyostotic\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests.",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Usher Syndrome\n2. Alport Syndrome\n3. Moebius Syndrome\n4. Down Syndrome\n5. Turner Syndrome\n6. Nemaline Myopathy\n7. Fanconi Anemia\n8. Aperture Syndrome\n9. Marfan Syndrome\n10. Ehlers-Danlos Syndrome",
+    "predict_rank": "否"
+}

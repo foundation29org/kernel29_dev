@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary incontinence,Hallucinations,Hyperactivity,Syncope,Hepatic steatosis,Bradykinesia,Dysdiadochokinesis,Broad-based gait,Dilated fourth ventricle,Frequent falls,Sleep disturbance,Hyperkinetic movements,Falls,Inability to walk,Atherosclerosis,Spinal canal stenosis,Back pain,Babinski sign,Difficulty climbing stairs,Difficulty standing,Abnormal intervertebral disk morphology,Abnormal carotid artery morphology,Pontocerebellar atrophy,Lower limb hypertonia,Poor fine motor coordination,Short stepped shuffling gait,Lower limb muscle weakness,Cervical spondylosis,Lipomatous tumor,Abasia,Cough",
+    "golden_diagnosis": "多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to",
+    "predict_diagnosis": "1. Amyotrophic Lateral Sclerosis (ALS)\n2. Frontotemporal Dementia (FTD)\n3. Spinocerebellar Ataxia (SCA)\n4. Hypocalcemia\n5. Hypogonadism\n6. Diabetes Melitus\n7. Hyperthymesia\n8. Hypersomnia\n9. Atrial fibrillation\n10. Hypertension",
+    "predict_rank": "否"
+}

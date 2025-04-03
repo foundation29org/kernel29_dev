@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Hearing impairment,Visual loss,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Elevated erythrocyte sedimentation rate,Recurrent tonsillitis,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome\n2. Systemic lupus erythematosus (SLE) with renal involvement\n3. IgA nephropathy\n4. Membranoproliferative glomerulonephritis (MPGN)\n5. Dense deposit disease (DDD)\n6. Autoimmune inner ear disease (AIED) with renal syndrome\n7. Behcet's disease\n8. Erythema multiforme with glomerulonephritis\n9. Anti-glomerular basement membrane (anti-GBM) disease\n10. Muckle-Wells syndrome or other Cryopyrin-Associated Periodic Syndromes (CAPS) with renal manifestations",
+    "predict_rank": "1"
+}

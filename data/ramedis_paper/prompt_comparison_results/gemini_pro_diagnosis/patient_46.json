@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome\n2. Fabry disease\n3. Membranoproliferative glomerulonephritis (MPGN) type 1\n4. Rapidly progressive glomerulonephritis (RPGN)\n5. IgA nephropathy\n6. Focal segmental glomerulosclerosis (FSGS)\n7. Henoch-Schonlein purpura (HSP)\n8. Lupus nephritis\n9. Sickle cell anemia\n10. Thrombotic thrombocytopenic purpura (TTP)",
+    "predict_rank": "1"
+}

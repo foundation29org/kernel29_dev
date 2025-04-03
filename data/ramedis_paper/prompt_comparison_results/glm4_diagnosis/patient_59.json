@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Bartter Syndrome\n2. Liddle Syndrome\n3. Gitelman Syndrome\n4. Hyperaldosteronism (Primary or Secondary)\n5. Amiloride-sensitive Sodium Channelopathy\n6. Renal Tubular Acidosis (Type 4, if hypokalemia is prominent)\n7. Cystic Fibrosis-related Diabetes Mellitus\n8. Familial Hypokalemic Periodic Paralysis\n9.糖原贮积症 (Glycogen Storage Disease) Type I (Von Gierke's Disease)\n10. Mineralocorticoid Receptor Antagonist Overdose (e.g., Spironolactone) \n\nEach of these conditions can present with a combination of hypokalemia, increased urinary potassium, hypocalciuria, and metabolic alkalosis, although the clinical context and additional symptoms or signs would help to further refine the diagnosis.",
+    "predict_rank": "3"
+}

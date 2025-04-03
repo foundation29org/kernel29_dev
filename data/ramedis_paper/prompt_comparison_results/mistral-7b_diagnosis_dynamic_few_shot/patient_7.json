@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Hematuria,Slurred speech,Abnormality of the liver,Dysphagia,Drooling,Abnormal caudate nucleus morphology,Hand tremor,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "   1. Hepatolenticular degeneration/Wilson disease\n2. Hemochromatosis\n3. Alpha-1 antitrypsin deficiency\n4. ALS/amyotrophic lateral sclerosis\n5. Huntington's disease\n6. Neurodegenerative disorder\n7. Neuromyopathy\n8. Liver cirrhosis\n9. Hemolytic-uremic syndrome\n10. Other genetic disorders (such as Huntington's disease, Hemophilia A, Amyotrophic Lateral Sclerosis)",
+    "predict_rank": "1"
+}

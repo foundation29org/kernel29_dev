@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Skin rash,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Reticulocytosis,Fever,Hematochezia,Recurrent upper respiratory tract infections,Myelodysplasia,Anisocytosis,Abnormal erythroid lineage cell morphology,Abnormal megakaryocyte morphology",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "1. primary Sjogren's syndrome\n2. secondary Sjogren's syndrome\n3.干燥综合征(Sjogren's syndrome)\n4.系统性红斑狼疮(systemic lupus erythematosus)\n5.类风湿关节炎(Rheumatoid arthritis)\n6.强直性脊柱炎(Ankylosing spondylitis)\n7.硬皮病(Scleroderma)\n8.混合性结缔组织病(Mixed connective tissue disease)\n9.干燥综合征相关肺纤维化(Sjogren's syndrome-related lung fibrosis)\n10.干燥综合征相关的肺动脉高压(Sjogren's syndrome-related pulmonary hypertension)",
+    "predict_rank": "否"
+}

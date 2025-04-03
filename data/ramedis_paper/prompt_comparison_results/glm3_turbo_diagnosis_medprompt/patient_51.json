@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome (any subtype)\n2. Familial glomerulonephritis with hearing loss (如：Alport相关耳聋）\n3. Dense deposit disease (如：膜性肾病)\n4. C3 glomerulopathy\n5. Fanconi anemia\n6. Lupus nephritis (系统性红斑狼疮肾炎)\n7. RPGR-associated glomerulopathy\n8. Sarcoidosis with glomerulopathy\n9. Thrombotic microangiopathy (如：血小板减少性紫癜)\n10.脂性肾病（如：脂性肾小球病）",
+    "predict_rank": "1"
+}

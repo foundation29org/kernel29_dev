@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. arrhythmogenic right ventricular cardiomyopathy (ARVC)\n2. Brugada syndrome\n3. myocarditis\n4. peripartum cardiomyopathy\n5. myxomatous mitral valve prolapse with ventricular arrhythmias\n6. hypertrophic cardiomyopathy\n7. arrhythmia due to hyperkalemia\n8. long QT syndrome\n9. sarcoidosis\n10. infection with a cardiovascular-specific virus (e.g., Coxsackievirus, Herpesviruses)",
+    "predict_rank": "否"
+}

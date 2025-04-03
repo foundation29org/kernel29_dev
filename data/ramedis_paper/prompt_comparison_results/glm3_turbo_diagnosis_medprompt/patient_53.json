@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Familial hemiplegic migraine with renal involvement\n2. Systemic lupus erythematosus (SLE)\n3. Thrombotic thrombocytopenic purpura (TTP)\n4. Henoch-Schönlein purpura (HSP)\n5. Wegener's granulomatosis\n6. Alport syndrome\n7. Fanconi syndrome\n8. Dense deposit disease (MDRD)\n9. C3 glomerulopathy\n10. Membranous glomerulonephritis",
+    "predict_rank": "否"
+}

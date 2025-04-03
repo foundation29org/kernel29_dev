@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Familial Mediterranean fever\n2. Fabry disease\n3. Alport syndrome\n4. Sickle cell disease\n5. Membranoproliferative glomerulonephritis type II\n6. Primary oxaluria type 1\n7. Dent disease type 2\n8. Cystinosis\n9. Bartter syndrome\n10. Hereditary spherocytosis",
+    "predict_rank": "3"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)\n2. Nephrogenic Diabetes Insipidus (NDI)\n3. Familial Mediterranean Fever (FMF)\n4. Hypercalciuria\n5. Primary Immunodeficiency Disorder (PIDD)\n6. Autoimmune Disease (e.g., SLE, SS, RA)\n7. Infectious Disease (e.g., UTI, HIV, TB)\n8. Hereditary Nephropathy (e.g., Alport Syndrome, FSGS)\n9. Glomerulonephritis (e.g., Membranous, IgA, MN)\n10. Tubulointerstitial Disease (e.g., obstructive nephropathy, chronic tubulointerstitial nephritis)",
+    "predict_rank": "8"
+}

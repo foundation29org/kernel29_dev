@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "   1. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)\n2. Acute myocardial infarction (AMI)\n3. Acute mitral regurgitation (AMR)\n4. Pulmonary embolism (PE)\n5. Community-acquired pneumonia (CAP)\n6. Chronic obstructive pulmonary disease (COPD)\n7. Asthma\n8. Endocarditis\n9. Lung cancer\n10. Pulmonary hypertension (PH)",
+    "predict_rank": "否"
+}

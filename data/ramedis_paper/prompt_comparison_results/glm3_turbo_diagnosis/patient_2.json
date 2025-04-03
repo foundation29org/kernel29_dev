@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Treacher Collins Syndrome (TCS)\n2. Craniofrontonasal Dysplasia (CNFD)\n3. Apert Syndrome\n4. Pfeiffer Syndrome\n5. Saethre-Chotzen Syndrome\n6. Jackson-Weiss Syndrome\n7. Crouzon Syndrome\n8. Carpenter Syndrome\n9. Fibrodysplasia Ossificans Progressiva (FOP)\n10. Osteogenesis Imperfecta (OI)\n\nPlease note that these diagnoses are based on the patient's phenotype and clinical presentation, and further evaluation and testing will be necessary to confirm or rule out each condition. The list is not exhaustive, and other rare diseases with similar manifestations could be considered as well. It is important to consult with a healthcare professional for accurate diagnosis and appropriate management.",
+    "predict_rank": "否"
+}

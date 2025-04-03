@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. Neurofibromatosis type 1 (NF1)\n2. McCune-Albright syndrome\n3. Cherubism\n4. Osteogenesis imperfecta type 1\n5. MelanoticXanthogranuloma (MXG)\n6. Lisch nodular corneal dystrophy\n7. Hyperophic osteopathy\n8. SAPHO syndrome (Synovitis, Acne, Pustulosis, Hyperostosis, and Osteitis)\n9. Fibrous dysplasia without features of NF1 or McCune-Albright syndrome\n10. Gorham-Stout disease (GSD) or vanishing bone disease\n\nPlease note that these diagnoses are based on the clinical presentation provided and further diagnostic testing would be necessary to confirm any of these conditions.",
+    "predict_rank": "2"
+}

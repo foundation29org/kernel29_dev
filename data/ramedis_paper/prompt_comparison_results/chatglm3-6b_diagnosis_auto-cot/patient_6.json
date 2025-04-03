@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Irritability,Personality changes,Tremor,Nausea,Abdominal pain,Hepatomegaly,Sleep disturbance,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Elevated circulating aspartate aminotransferase concentration,Elevated circulating alanine aminotransferase concentration,Mania,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Irritability: Conductive disorder of brain\n2. Personality changes: Bipolar disorder\n3. Tremor: Myoclonus\n4. Nausea: Gastroesophageal reflux disease\n5. Abdominal pain: Irritable bowel syndrome\n6. Hepatomegaly: Hepatitis C\n7. Sleep disturbance: Insomnia\n8. Poor appetite: Anorexia\n9. Decreased circulating ceruloplasmin concentration: Hypocalcemia\n10. Increased urinary copper concentration: Wilson's disease",
+    "predict_rank": "10"
+}

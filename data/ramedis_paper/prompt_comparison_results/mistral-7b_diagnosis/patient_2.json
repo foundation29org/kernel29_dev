@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   1. Down syndrome\n2. Turner syndrome\n3. Klinefelter syndrome\n4. Noonan syndrome\n5. Jacobsen syndrome\n6. trisomy 13\n7. Prader-Willi syndrome\n8. Williams syndrome\n9. Mosaic chromosomal abnormality\n10. Congenital adrenal hyperplasia",
+    "predict_rank": "7"
+}

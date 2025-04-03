@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Cohen Syndrome\n2. Smith-Lemli-Opitz Syndrome\n3. CHARGE Syndrome\n4. Treacher Collins Syndrome\n5. Robinow Syndrome\n6. Fraser Syndrome\n7. Meckel-Gruber Syndrome\n8. Sotos Syndrome\n9. Joubert Syndrome\n10. Alagille Syndrome\n\nEach of these syndromes can present with a combination of the symptoms described in the patient's phenotype, such as abnormal facial features, growth retardation, hypotonia, and other developmental issues. It is important to note that further clinical evaluation, including genetic testing, is necessary to confirm a diagnosis.",
+    "predict_rank": "否"
+}

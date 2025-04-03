@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Muscle weakness,Pericardial effusion,Abnormal tricuspid valve morphology,Palpitations,Vomiting,Abdominal pain,Dyspnea,Exercise intolerance,Poor appetite,Vascular tortuosity,Atrial fibrillation,Tricuspid regurgitation,Pedal edema,Right bundle branch block,Abnormal ST segment,Left ventricular systolic dysfunction,Right atrial enlargement,Increased circulating NT-proBNP concentration,Left atrial enlargement,Abnormality of internal jugular vein",
+    "golden_diagnosis": "Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26",
+    "predict_diagnosis": "1. Ehlers-Danlos syndrome, hypermobility type\n2. Marfan syndrome\n3. Mitral valve prolapse syndrome\n4. Cardiomyopathy, familial restrictive\n5. Cardiomyopathy, dilated\n6. Endocarditis\n7. Myocarditis\n8. Mixed connective tissue disease\n9. Systemic sclerosis\n10. Superior vena cava syndrome\n\nPlease note that these diagnoses are based on the symptoms provided and are meant to be comprehensive, but further clinical evaluation, family history, genetic testing, and additional diagnostic studies would be necessary to confirm any of these conditions.",
+    "predict_rank": "4"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Autosomal Dominant Polycystic Kidney Disease (ADPKD)\n2. Alport Syndrome\n3. Fabry Disease\n4. Membranoproliferative Glomerulonephritis (MPGN)\n5. Dense Deposit Disease (Type II Thrombotic Microangiopathy)\n6. Lymphoproliferative Disorder (e.g., Chronic Lymphocytic Leukemia)\n7. Multiple Myeloma\n8. Prostate Cancer with Metastatic Renal Involvement\n9. Sjögren's Syndrome\n10. Tubulointerstitial Nephritis with Urate Nephropathy\n\nPlease note that this list is not exhaustive, and the actual diagnosis would require a thorough clinical evaluation, laboratory testing, and possibly genetic testing or biopsy.",
+    "predict_rank": "2"
+}

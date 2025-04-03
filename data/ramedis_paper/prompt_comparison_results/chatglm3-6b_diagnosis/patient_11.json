@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ovarian cyst,Abnormal vagina morphology,Abnormality of the breast,Cafe-au-lait spot,Accelerated skeletal maturation,Premature thelarche,Polyostotic fibrous dysplasia,Monostotic fibrous dysplasia,Pain,Increased serum estradiol,Decreased circulating follicle stimulating hormone concentration,Decreased circulating luteinizing hormone level,Enlarged tonsils,Increased size of nasopharyngeal adenoids,Metrorrhagia,Enlarged uterus",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. Polycystic ovary syndrome (PCOS)\n2. Hyperandrogenic anovulation\n3. Central precocious puberty (CPP)\n4. Growth hormone deficiency (GHD)\n5. Dehydroepiandrosterone (DHEA) deficiency\n6. Androgen insensitivity syndrome (AIS)\n7. Estrogen receptor deficiency (ERD)\n8. Luteal phase defect\n9. Ovarian tumor\n10. Molar pregnancy.",
+    "predict_rank": "否"
+}

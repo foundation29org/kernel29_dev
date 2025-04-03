@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Alport syndrome\n2. Nephrotic syndrome\n3. Transjugular intrahepatic portosystemic shunt (TIPS)\n4. Hypothyroidism\n5. Hemolytic uremic syndrome (HUS)\n6. Diabetic nephropathy\n7. Infections\n8. Allergies\n9. Medication side effects\n10. Vitamin deficiencies",
+    "predict_rank": "否"
+}

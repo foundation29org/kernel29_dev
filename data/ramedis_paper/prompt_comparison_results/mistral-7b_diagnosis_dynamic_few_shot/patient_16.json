@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   Possible diagnoses include:\n\n1. Duchenne muscular dystrophy\n2. Myotonic dystrophy\n3. Marfan syndrome\n4. Ehlers-Danlos syndrome\n5. Neurofibromatosis type 1\n6. Tuberous sclerosis\n7. Scoliosis\n8. Polychondritis\n9. Spinal muscular atrophy\n10. Mast cell activation syndrome (MCAS)",
+    "predict_rank": "3"
+}

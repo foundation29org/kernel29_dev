@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Increased circulating renin level,Syncope,Palpitations,Diarrhea,Dyspnea,Hypokalemia,Hypomagnesemia,Generalized muscle weakness,Lower limb muscle weakness,Paroxysmal vertigo,T-wave inversion,Abnormality of urine calcium concentration,Nodular regenerative hyperplasia of liver,Dysesthesia,Amaurosis fugax",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Primary醛固酮增多症/Primary aldosteronism\n2. Liddle综合征/Liddle syndrome\n3. 假性醛固酮增多症/Pseudoaldosteronism\n4. Gitelman 综合征/Gitelman syndrome\n5. Bartter综合征/Bartter syndrome\n6. 周期性瘫痪/Periodic paralysis\n7. 甲状腺功能亢进症/Hyperthyroidism\n8. 肾小管酸中毒/Renal tubular acidosis\n9. 心脏离子通道疾病/Cardiac ion channel disease\n10. 肾实质性高血压/Renal parenchymal hypertension",
+    "predict_rank": "4"
+}

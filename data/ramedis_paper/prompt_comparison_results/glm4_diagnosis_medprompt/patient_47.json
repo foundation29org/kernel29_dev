@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome, X-linked or autosomal recessive/dominant\n2. Glomerulonephritis with sensorineural hearing loss (GN-SNHL) syndrome\n3. Wegener's granulomatosis\n4. Microscopic polyangiitis\n5. Eosinophilic granulomatosis with polyangiitis (formerly Churg-Strauss syndrome)\n6. Systemic lupus erythematosus (SLE)\n7. Mixed connective tissue disease\n8. Dense deposit disease (type II membranoproliferative glomerulonephritis)\n9. C3 glomerulopathy\n10. Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome) with renal involvement\n\nEach of these conditions can present with a combination of nephritis, hearing impairment, hematuria, and sinusitis, and some may also cause abnormal urinary color. It is important to note that a thorough clinical evaluation, including family history, genetic testing, and additional laboratory and imaging studies, would be necessary to confirm the diagnosis.",
+    "predict_rank": "1"
+}

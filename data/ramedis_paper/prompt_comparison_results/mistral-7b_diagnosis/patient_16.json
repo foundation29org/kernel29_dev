@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   Kyphoscoliosis (Scoliosis)\nHyaluronic acid disorders (HAD)\nDermatomyositis\nMarfan syndrome\nJoubert syndrome\nCongenital kyphoscoliosis with osteoporosis\nAnkylosing spondylitis\nHypothyroidism with growth hormone deficiency\nRheumatoid arthritis\nCerebral palsy\nCongenital kyphoscoliosis with rheumatic disorders\nEhlers-Danlos syndrome\nCervical dystrophy\nSjogren syndrome\nPoliomyelitis\nAnemia and vitamin D deficiency\nEndocrine problems",
+    "predict_rank": "4"
+}

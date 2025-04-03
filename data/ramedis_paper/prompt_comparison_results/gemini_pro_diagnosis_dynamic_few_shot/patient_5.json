@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Hematuria,Jaundice,Skin rash,Cirrhosis,Ascites,Hyperammonemia,Conjugated hyperbilirubinemia,Hypoalbuminemia,Elevated circulating alkaline phosphatase concentration,Elevated circulating creatine kinase concentration,Abdominal distention,Increased total bilirubin,Prolonged prothrombin time,Pedal edema,Decreased circulating ceruloplasmin concentration,Abnormal urinary color,Increased urinary porphobilinogen,Abnormality of hepatobiliary system physiology,Hypoactive bowel sounds,Elevated circulating aspartate aminotransferase concentration,Elevated circulating alanine aminotransferase concentration,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson disease\n2. Byler disease\n3. Rotor syndrome\n4. Crigler-Najjar syndrome type II\n5. Dubin-Johnson syndrome\n6. Progressive familial intrahepatic cholestasis\n7. Alagille syndrome\n8. Primary biliary cholangitis\n9. Cholestasis of pregnancy\n10. Secondary biliary cholangitis",
+    "predict_rank": "1"
+}

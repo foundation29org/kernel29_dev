@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Alport syndrome\n2. Membranoproliferative glomerulonephritis (MPGN)\n3. Focal segmental glomerulosclerosis (FSGS)\n4. Primary focal segmental glomerulosclerosis (PFSG)\n5. Secondary focal segmental glomerulosclerosis (SFSG)\n6. Idiopathic membranous nephropathy (IMN)\n7. Infectious mononucleosis-induced glomerulopathy (IMIG)\n8. Post-streptococcal glomerulonephritis (PSGN)\n9. Henoch-Schönlein purpura (HSP)\n10. Acute tubulointerstitial nephritis (ATIN)\n\nPlease note that this list is not exhaustive, and further evaluation and testing may be required to narrow down the diagnosis. The presented phenotype has some overlap with the previous cases, but it is essential to consider the unique manifestations of each disease. The top 10 diagnoses enumerated above cover a range of kidney disorders, vascular disorders, and autoimmune conditions that can present with nephritis, hearing impairment, hematuria, and abnormal urinary color.",
+    "predict_rank": "1"
+}

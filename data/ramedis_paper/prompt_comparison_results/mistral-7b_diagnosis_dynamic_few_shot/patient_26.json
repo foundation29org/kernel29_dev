@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary hesitancy,Urinary incontinence,Prostatitis,Syncope,Muscle weakness,Elevated circulating creatine kinase concentration,Exercise intolerance,Loss of consciousness,Pedal edema,ST segment elevation,Increased circulating creatine kinase MB isoform,Dysuria,Amaurosis fugax",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "   1. Guillain-Barré syndrome (GBS)\n2. Multiple sclerosis (MS)\n3. Congenital Adrenal Hyperplasia (CAH)\n4. Chronic Fatigue Syndrome (CFS)\n5. Myotonic dystrophy\n6. Mast cell activation syndrome (MCAS)\n7. Guanidoacetate transaminase deficiency (GTAD)\n8. Hemochromatosis\n9. Neuropathic pain syndrome\n10. Autoimmune polyendocrine syndrome type I (APS I)",
+    "predict_rank": "否"
+}

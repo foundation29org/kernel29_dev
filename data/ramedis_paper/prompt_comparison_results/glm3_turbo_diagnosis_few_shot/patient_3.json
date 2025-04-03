@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Prader-Willi syndrome (PWS)\n2. Angelman syndrome\n3. Cerebral palsy\n4. Intellectual disability (ID)\n5. Rett syndrome\n6. Spinal muscular atrophy (SMA)\n7. Chromosomal abnormalities (e.g., 22q11.2 deletion syndrome)\n8. Genetic disorders affecting muscle function (e.g., Becker muscular dystrophy)\n9. Metabolic disorders (e.g., propionic acidemia)\n10. Disorders of the nervous system (e.g., epilepsy, brain tumor)",
+    "predict_rank": "1"
+}

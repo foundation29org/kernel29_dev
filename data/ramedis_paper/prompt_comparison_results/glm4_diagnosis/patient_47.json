@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome\n2. Wegener's granulomatosis\n3. Henoch-Schönlein purpura\n4. Systemic lupus erythematosus (SLE)\n5. IgA nephropathy\n6. ANCA-associated vasculitis\n7. Hereditary hemorrhagic telangiectasia (HHT)\n8. Primary glomerulonephritis with associated sinusitis\n9. Dense deposit disease (type II membranoproliferative glomerulonephritis)\n10. Urethral duplication with associated sinusitis and renal involvement\n\nPlease note that this list is not exhaustive, and the actual diagnosis would require a thorough clinical evaluation, laboratory tests, imaging studies, and potentially genetic testing.",
+    "predict_rank": "1"
+}

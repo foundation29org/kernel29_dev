@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Primary glomerulonephritis\n2. Membranous nephropathy\n3. focal segmental glomerulosclerosis\n4. membranous nephropathy\n5. Goodpasture's disease\n6. Lupus nephritis\n7. vasculitis\n8. nephrotic syndrome\n9. amyloidosis\n10. chronic kidney disease.",
+    "predict_rank": "否"
+}

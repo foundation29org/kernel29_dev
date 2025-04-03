@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Blurred vision,Impaired ocular abduction,Diplopia,Oculomotor apraxia,Bilateral ptosis,Dysphagia,Dyspnea,Generalized muscle weakness,Easy fatigability,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Weakness of muscles of respiration,Impaired mastication,Lower limb muscle weakness,Unilateral ptosis,EMG: repetitive nerve stimulation abnormality",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "1. Myasthenia gravis (Generalized form)\n2. Amyotrophic lateral sclerosis (ALS)\n3. Lambert-Eaton myasthenic syndrome (LEMS)\n4. Miller Fisher syndrome\n5. Chronic inflammatory demyelinating polyneuropathy (CIDP)\n6. Multifocal motor neuropathy (MMN)\n7. Mitochondrial myopathy\n8. Kennedy's disease (Spinal bulbar muscular atrophy)\n9. Myotonic dystrophy\n10. Oculopharyngeal muscular dystrophy (OPMD)",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome\n2. Fabry disease\n3. Nail-patella syndrome\n4. Denys-Drash syndrome\n5. Senior-Loken syndrome\n6. Galloway-Mowat syndrome\n7. Joubert syndrome\n8. Meckel-Gruber syndrome\n9. Smith-Lemli-Opitz syndrome\n10. Zellweger syndrome",
+    "predict_rank": "1"
+}

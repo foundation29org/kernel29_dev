@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Autism spectrum disorder with comorbid motor delay\n2. Rett syndrome\n3. Angelman syndrome\n4. Prader-Willi syndrome with atypical presentation\n5. Down syndrome with speech and language delay\n6. Cohen syndrome\n7. Fragile X syndrome\n8. Childhood disintegrative disorder\n9. Mitochondrial disease with hypotonia and developmental delay\n10. Ataxia telangiectasia with neurodevelopmental features",
+    "predict_rank": "4"
+}

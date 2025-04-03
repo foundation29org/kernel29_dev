@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Hematuria,Hypertension,Acne,Hyperkalemia,Hypoalbuminemia,Hypercholesterolemia,Hyperuricosuria,Elevated circulating creatinine concentration,Nodular goiter,Abnormal urinary color",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Chronic Kidney Disease (CKD) with secondary hyperparathyroidism\n2. IgA Nephropathy\n3. Membranous Nephropathy\n4. Focal Segmental Glomerulosclerosis (FSGS)\n5. Minimal Change Disease (MCD) with significant proteinuria\n6. Hyperaldosteronism (Conn's Syndrome)\n7. Polycystic Kidney Disease (PKD)\n8. Tubulointerstitial Nephritis (TIN)\n9. Sickle Cell Disease with renal involvement\n10. Autoimmune Thyroid Disease (e.g., Hashimoto's Thyroiditis) with nodular goiter\n\nPlease note that the list is not exhaustive, and further clinical, laboratory, and imaging studies would be necessary to refine the differential diagnosis.",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Renal potassium wasting,Hyperhidrosis,Urticaria,Hepatic steatosis,Palpitations,Hyperuricemia,Hypokalemia,Hyperchloriduria,Increased urinary potassium,Lower limb muscle weakness,Sinus tachycardia,Hypernatriuria,Elevated circulating alanine aminotransferase concentration",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Bartter Syndrome\n2. Fanconi's Syndrome\n3. Cushing's Syndrome\n4. TAKSTHD1 Syndrome\n5. Cushing's Syndrome Due to Medications (such as Spironolactone)\n6. Conn's Syndrome (Primary Aldosterone Excess)\n7. Bartter Syndrome with Dementia\n8. Cushing's Syndrome Associated with Alkaline Phosphatase Elevation\n9. Bartter Syndrome with Kidney Stones\n10. Bartter Syndrome with Hypoglycemia\n\nNote: These diagnoses are listed in order of potential frequency of occurrence, and the differential diagnosis may vary depending on additional clinical and laboratory findings.",
+    "predict_rank": "否"
+}

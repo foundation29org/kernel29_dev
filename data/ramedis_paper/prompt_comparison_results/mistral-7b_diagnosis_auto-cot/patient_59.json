@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   1. Bartter Syndrome\n2. Gitelman Syndrome\n3. Hypokalemia due to primary renal disease (e.g. renal tubular defects)\n4. Excessive sodium intake leading to hypercalciuria and alkalosis\n5. Hypercalcemic crisis (secondary to hyperparathyroidism, malignancy, or excessive vitamin D intake)\n6. Cushing's syndrome\n7. Hyperaldosteronism\n8. Renal excretory proteinuria (which leads to calciuria and alkalosis)\n9. Medications such as diuretics or thiazide diuretics causing electrolyte imbalances\n10. Other metabolic conditions (e.g. pancreatitis, ketoacidosis, sepsis, etc.) leading to electrolyte imbalances",
+    "predict_rank": "2"
+}

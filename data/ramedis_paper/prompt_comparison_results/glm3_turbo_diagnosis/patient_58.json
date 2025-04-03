@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Increased circulating renin level,Syncope,Palpitations,Diarrhea,Dyspnea,Hypokalemia,Hypomagnesemia,Generalized muscle weakness,Lower limb muscle weakness,Paroxysmal vertigo,T-wave inversion,Abnormality of urine calcium concentration,Nodular regenerative hyperplasia of liver,Dysesthesia,Amaurosis fugax",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": " 1. Familial Mediterranean Fever (FMF)\n2. Primary Aldosteronism (PA)\n3. Addison's Disease\n4. Hypercalciuria\n5. Hypokalemic Periodic Paralysis (HKPP)\n6. pots (Postural Tachycardia Syndrome)\n7. Gitelman Syndrome\n8. Syndrome of Inappropriate Antidiuretic Hormone (SIADH)\n9. Metabolic Syndrome\n10. Chronic Fatigue Syndrome (CFS)\n\nPlease note that this list is not exhaustive, and further evaluation and testing will be necessary to narrow down the final diagnosis. These top 10 diagnoses cover a diverse range of possibilities, including autoimmune disorders, endocrine disorders, and genetic conditions.",
+    "predict_rank": "7"
+}

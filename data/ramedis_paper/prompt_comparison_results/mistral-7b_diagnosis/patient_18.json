@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   It is important to mention that a definitive diagnosis can only be made by consulting with a medical expert such as a pediatrician, geneticist, and/or ophthalmologist. However, based on the provided symptoms, the top 10 most likely diagnoses for this patient are:\n\n1. Marfan Syndrome\n2. Polyalgic rheumatism\n3. Osteogenesis imperfecta\n4. Scoliosis with low back pain\n5. Ehlers-Danlos Syndromes - hypermobility type\n6. Congenital heart disease\n7. Astigmatism\n8. Lens luxation\n9. Connective tissue disorders\n10. Fibromyalgia",
+    "predict_rank": "1"
+}

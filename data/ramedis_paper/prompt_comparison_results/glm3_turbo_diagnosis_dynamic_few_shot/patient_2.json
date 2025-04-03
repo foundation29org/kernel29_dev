@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": " 1. Prader-Willi syndrome (PWS)\n2. Neonatal Marfan syndrome (MFS)\n3. chromosome 15q11.2-q13.1 deletion syndrome\n4.cri du chat syndrome\n5. Smith-Magenis syndrome\n6. Angelman syndrome\n7.Pearson syndrome\n8. 22q11.2 deletion syndrome (DiGeorge syndrome)\n9. Goldenhar syndrome\n10. Osteogenesis Imperfecta (OI)\n\nPlease note that these diagnoses are based on the provided patient phenotype and are not exhaustive. Further evaluation and genetic testing may be necessary to narrow down the final diagnosis.",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Familial hypertrophic cardiomyopathy (FHC)\n2. Idiopathic dilated cardiomyopathy (IDC)\n3. Restrictive cardiomyopathy (RC)\n4. Myocarditis\n5. Pericarditis\n6. Congestive heart failure (CHF)\n7. Cardiac tamponade\n8. Brugada syndrome (BrS)\n9. Long QT syndrome (LQTS)\n10. Arrhythmogenic right ventricular cardiomyopathy (ARVC)\n\nPlease note that these top 10 diagnoses are based on the provided patient phenotype and are meant to be a diverse and comprehensive differential diagnosis. Additional clinical information or testing may be required to narrow down the exact diagnosis.",
+    "predict_rank": "否"
+}

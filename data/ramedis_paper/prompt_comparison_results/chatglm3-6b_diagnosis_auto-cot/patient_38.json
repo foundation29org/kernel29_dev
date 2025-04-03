@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the tongue,Diplopia,Depression,Diabetes mellitus,Hypertension,Dysarthria,Reduced tendon reflexes,Slurred speech,Bilateral ptosis,Ischemic stroke,Difficulty walking,Abnormal cerebral white matter morphology,Hyperlipidemia,Arterial calcification,Easy fatigability,EMG abnormality,Upper limb muscle weakness,Impaired mastication,Cerebral artery atherosclerosis,Unilateral ptosis,Favorable response of weakness to acetylcholine esterase inhibitors,Anti-acetylcholine receptor antibody positivity,Abnormality of the maxillary sinus",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "1. Acoustic neuroma\n2. Amyotrophic Lateral Sclerosis\n3. Autoimmune encephalitis\n4. Brainstem lesion\n5. Carcinoid tumor\n6. Cleft palate\n7. Coagulopathy\n8. Encephalitis, viral\n9. Facioscapulohumeral weakness\n10. Hypocalcemia",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Primary hyperparathyroidism\n2. Hypercalcemia\n3. Hyperkalemia\n4. Renal potassium wasting\n5. Hyponatremia\n6. Hypokalemia\n7. Renal insufficiency\n8. Electrolyte imbalance\n9. Acute kidney injury\n10. Chronic kidney disease.",
+    "predict_rank": "否"
+}

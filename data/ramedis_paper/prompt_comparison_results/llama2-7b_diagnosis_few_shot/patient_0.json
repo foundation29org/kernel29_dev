@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Neonatal hypotonia,Slurred speech,Mild postnatal growth retardation,Decreased fetal movement,Weak cry,Poor suck,Abnormal stomach morphology,Increased body weight,Aspiration pneumonia,Grade I preterm intraventricular hemorrhage,Elevated hemoglobin A1c",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "\n1. Rett syndrome\n2. McCune-Albright syndrome\n3. Alport syndrome\n4. Niemann-Pick disease type B\n5. Mowat-Wilson syndrome\n6. Fragile X syndrome\n7. Smith-Lemli-Opitz syndrome\n8. Coffin-Lowry syndrome\n9. Danon disease\n10. Batten disease\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and any supporting evidence.",
+    "predict_rank": "否"
+}

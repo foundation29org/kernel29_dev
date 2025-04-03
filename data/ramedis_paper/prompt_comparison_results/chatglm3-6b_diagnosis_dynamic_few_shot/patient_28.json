@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary hesitancy,Nephrolithiasis,Hypertrophic cardiomyopathy,Pericardial effusion,Left ventricular hypertrophy,Abnormal thrombosis,Pneumonia,Pulmonary arterial hypertension,Dyspnea,Hypokalemia,Conjugated hyperbilirubinemia,Exercise intolerance,Increased total bilirubin,Atrial fibrillation,Right ventricular dilatation,Abnormal T-wave,Ventricular septal hypertrophy,Tricuspid regurgitation,Premature ventricular contraction,Pedal edema,Right bundle branch block,Reduced left ventricular ejection fraction,Regional left ventricular wall motion abnormality,Left ventricular diastolic dysfunction,Right atrial enlargement,Abnormal B-type natriuretic peptide concentration,Productive cough,Left atrial enlargement,Dysuria,Chest pain",
+    "golden_diagnosis": "Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26",
+    "predict_diagnosis": "1. Hypertrophic cardiomyopathy\n2. Nephrolithiasis\n3. Pericardial effusion\n4. Left ventricular hypertrophy\n5. Atrial fibrillation\n6. Pulmonary arterial hypertension\n7. Hypokalemia\n8. Conjugated hyperbilirubinemia\n9. Exercise intolerance\n10. Reduced left ventricular ejection fraction",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   1. Heart failure with reduced ejection fraction\n2. Hypertrophic cardiomyopathy\n3. Ischemic heart disease\n4. Dilated cardiomyopathy\n5. Cardiomyopathy, familial restrictive, 1\n6. Cardiomyopathy, dilated, 1KK\n7. Cardiomyopathy, hypertrophic, 1Q2Q\n8. Cardiomyopathy, hypertrophic, 3Q1Q\n9. Cardiomyopathy, non-hypertrophic, 1\n10. Cardiomyopathy, non-hypertrophic, 3\nIt's important to note that this list is not exhaustive and there may be other possible diagnoses that could also explain the patient's symptoms and signs. Further diagnostic testing, including imaging studies and laboratory testing, would be necessary to arrive at a definitive diagnosis.",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "\n1. Brugada syndrome\n2. Paroxysmal nocturnal hemoglobinuria\n\n3. Prader-Willi syndrome\n\n4. Diabetic kidney disease\n\n5. IgA nephropathy\n\n6. Henoch-Schönlein purpura\n\n7. Alport syndrome\n\n8. Medullary cystic kidney disease\n\n9. Focal segmental glomerulosclerosis\n\n10. Lupus nephritis\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and laboratory findings that support the diagnosis.",
+    "predict_rank": "7"
+}

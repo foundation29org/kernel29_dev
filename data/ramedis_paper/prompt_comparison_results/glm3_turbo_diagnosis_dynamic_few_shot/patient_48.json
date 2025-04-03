@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Hematuria,Increased circulating IgM level,Elevated erythrocyte sedimentation rate,Nodular goiter,Chronic kidney disease,Pollakisuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Alport syndrome, X-linked\n2. Alport syndrome, autosomal recessive\n3. Alport syndrome, autosomal dominant\n4. Membranoproliferative glomerulonephritis (MPGN)\n5. Focal segmental glomerulosclerosis (FSGS)\n6. Immunoglobulin A nephropathy (IgAN)\n7. Henoch-Schönlein purpura (HSP)\n8. Microscopic polyangiitis (MPA)\n9. Wegener's granulomatosis (WG)\n10. Amyloidosis (AL or AA type)\n\nPlease note that the presented list is based on the given patient phenotype and should be considered as a starting point for further evaluation and confirmation by appropriate tests and clinical assessment. It is important to keep in mind that rare diseases often present with overlapping symptoms and clinical features, so a comprehensive diagnostic workup is crucial to establish the definitive diagnosis.",
+    "predict_rank": "1"
+}

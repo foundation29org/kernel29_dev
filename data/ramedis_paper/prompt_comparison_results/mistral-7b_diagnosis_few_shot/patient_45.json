@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Hematuria,Hypertension,Acne,Hyperkalemia,Hypoalbuminemia,Hypercholesterolemia,Hyperuricosuria,Elevated circulating creatinine concentration,Nodular goiter,Abnormal urinary color",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Membranous nephropathy\n2. Diabetic nephropathy\n3. Focal segmental glomerulosclerosis\n4. Goodpasture's disease\n5. Lupus nephritis\n6. Multiple myeloma\n7. Non-alcoholic fatty liver disease\n8. Cushing's syndrome\n9. Hypothyroidism\n10. Primary hyperparathyroidism\n\nPlease note that the above diagnoses are not exhaustive and that there may be other possible causes for the patient's symptoms. It is important to conduct a thorough diagnostic workup to determine the underlying cause of the patient's condition.",
+    "predict_rank": "否"
+}

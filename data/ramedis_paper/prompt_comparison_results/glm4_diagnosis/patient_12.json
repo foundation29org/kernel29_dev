@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Elevated circulating growth hormone concentration,Increased circulating prolactin concentration,Cafe-au-lait spot,Acne,Abnormal calvaria morphology,Elevated circulating alkaline phosphatase concentration,Accelerated skeletal maturation,Fibrous dysplasia of the bones,Premature pubarche,Increased serum testosterone level,Abnormality of the testis size,Thickened cortex of bones",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. McCune-Albright syndrome\n2. Polyostotic fibrous dysplasia\n3. Acromegaly\n4. Gigantism\n5. Prolactinoma\n6. Testotoxicosis\n7. Adrenal hyperplasia due to 21-hydroxylase deficiency\n8. Congenital adrenal hyperplasia due to 11β-hydroxylase deficiency\n9. Androgen insensitivity syndrome\n10. Beckwith-Wiedemann syndrome",
+    "predict_rank": "1"
+}

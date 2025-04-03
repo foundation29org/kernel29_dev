@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome\n2. Ehlers-Danlos syndrome, hypermobility type\n3. Weill-Marchesani syndrome\n4. Stickler syndrome\n5. Scoliosis-associated lens subluxation\n6. Pseudoxanthoma elasticum\n7. Fuchs heterochromic iridocyclitis\n8. Ectopia lentis syndrome\n9. Osteogenesis imperfecta\n10. Homocystinuria",
+    "predict_rank": "1"
+}

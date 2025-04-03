@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Ventricular fibrillation with cardiomyopathy\n2. Pneumonia caused by a bacterial or viral infection\n3. Dyspnea (shortness of breath) due to heart failure\n4. Exercise intolerance caused by ventricular dysfunction\n5. Viral hepatitis\n6. ST-segment elevation, which could indicate a myocardial infarction\n7. Coughing that is persistent or fitsful, which could be a symptom of heart failure or a lung infection\n8. Heart failure caused by ventricular dysfunction\n9. Pneumonia caused by a fungal infection\n10. Myocardial infarction (heart attack)",
+    "predict_rank": "否"
+}

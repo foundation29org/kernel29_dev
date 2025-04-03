@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Increased circulating renin level,Syncope,Palpitations,Diarrhea,Dyspnea,Hypokalemia,Hypomagnesemia,Generalized muscle weakness,Lower limb muscle weakness,Paroxysmal vertigo,T-wave inversion,Abnormality of urine calcium concentration,Nodular regenerative hyperplasia of liver,Dysesthesia,Amaurosis fugax",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "\n1. Fabry disease\n2. Marfan syndrome\n3. Neonatal Marfan syndrome\n4. Niemann-Pick disease type B\n5. Niemann-Pick disease type C\n6. Fabry-Lethocereus disease\n7. Mucopolysaccharidosis type I\n\n8. Mucopolysaccharidosis type II\n\n9. Mucopolysaccharidosis type III\n\n10. Mucolipidosis type II\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests that support the diagnosis.",
+    "predict_rank": "否"
+}

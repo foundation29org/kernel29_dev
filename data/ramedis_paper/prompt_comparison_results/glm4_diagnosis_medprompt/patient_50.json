@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Membranoproliferative glomerulonephritis (MPGN)\n2. Dense deposit disease (DDD)\n3. Nephrotic syndrome due to focal segmental glomerulosclerosis (FSGS)\n4. Lupus nephritis\n5. Diabetes mellitus with nephropathy\n6. Autosomal dominant tubulointerstitial kidney disease (ADTKD)\n7. IgA nephropathy with glomerulonephritis\n8. Sjögren's syndrome with renal involvement\n9. Infiltrative kidney diseases (e.g., amyloidosis or light chain deposition disease)\n10. Renal sarcoidosis\n\nPlease note that the list is not exhaustive, and the precise diagnosis would require a detailed clinical evaluation, laboratory tests, and often a renal biopsy. The top 10 are selected based on the clinical presentation provided.",
+    "predict_rank": "否"
+}

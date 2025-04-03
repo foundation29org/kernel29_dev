@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome (马方综合征)\n2. Ehlers-Danlos syndrome ( Ehlers-Danlos 综合征)\n3. Stickler syndrome (施泰克勒综合征)\n4. Fuchs' dystrophy (福克斯失明症)\n5. Weill-Marchesani syndrome (韦尔-马奇萨尼综合征)\n6. Homocystinuria (同型半胱氨酸尿症)\n7. Retinitis pigmentosa (视网膜色素变性)\n8. Osteogenesis imperfecta (成骨不全症)\n9. Myotonic dystrophy (肌张力障碍性肌营养不良)\n10.综合征 (Malignant hyperthermia syndrome)",
+    "predict_rank": "1"
+}

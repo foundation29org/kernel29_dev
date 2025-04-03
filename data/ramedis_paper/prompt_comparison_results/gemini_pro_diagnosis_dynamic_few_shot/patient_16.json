@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome\n2. Scheuermann-Mau syndrome\n3. Ehlers-Danlos syndrome\n4. Jeune syndrome\n5. Osteogenesis imperfecta\n6. Spondyloepiphyseal dysplasia\n7. Klippel-Feil syndrome\n8. Multiple epiphyseal dysplasia\n9. Achondroplasia\n10. Morquio syndrome",
+    "predict_rank": "1"
+}

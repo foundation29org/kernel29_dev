@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Marfan syndrome\n2. Neonatal Marfan syndrome\n3. Ehlers-Danlos syndrome (types I and II)\n4. Stickler syndrome\n5. systemic lupus erythematosus (SLE)\n6. Osteogenesis imperfecta\n7. Spondyloepiphyseal dysplasia, type C\n8. Fibrodysplasia ossificans progressiva (FOP)\n9. Ankylosing spondylitis\n10. Inflammatory bowel disease (IBD) associated with spinal involvement\n\nPlease note that these top 10 diagnoses are based on the patient's phenotype of lens subluxation, scoliosis, low back pain, high myopia, and lens luxation. It is essential to consider other factors such as family history, medical history, and additional clinical manifestations when arriving at a definitive diagnosis. The list is not exhaustive and other rare diseases could be potential candidates as well. A thorough clinical evaluation, genetic testing, and imaging studies will help narrow down the diagnosis.",
+    "predict_rank": "1"
+}

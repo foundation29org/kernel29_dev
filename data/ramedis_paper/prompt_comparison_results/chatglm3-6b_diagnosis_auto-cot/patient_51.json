@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive\n2. Glomerulonephritis, primary\n3. Renal cyst\n4. Proteinuria, glomerulonephritis\n5. Hearing impairment, tinnitus\n6. Hematuria\n7. Thrombocytosis\n8. Leukocytosis\n9. Hypoalbuminemia\n10. Hypercholesterolemia\n\n以上是可能的十种诊断，但请注意，这个列表并不排除其他可能性。每个诊断都可能是这个患者的症状的原因，因此需要进行详细的病史调查和物理检查，以及可能的实验室检查和影像学检查来进一步确认和排除其他可能性。",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Fabry disease\n2. Alport syndrome (considering various inheritance patterns)\n3. Dense deposit disease (type II mesangiocapillary glomerulonephritis)\n4. Lipoid nephrosis (Minimal change disease)\n5. C3 glomerulopathy\n6. Focal segmental glomerulosclerosis\n7. Systemic lupus erythematosus (SLE)\n8. Diabetes mellitus with nephropathy\n9. Hyper IgM syndrome\n10. Autoimmune polyendocrine syndrome type I (APS I) or other autoimmune polyendocrine syndromes with renal involvement\n\nEach of these conditions could potentially present with a combination of proteinuria, hematuria, xerostomia, fever, hypercholesterolemia, and decreased body weight, and some may also be associated with being large for gestational age. It is important to note that without specific genetic testing and further clinical evaluation, these are merely differential diagnoses and not definitive conclusions.",
+    "predict_rank": "2"
+}

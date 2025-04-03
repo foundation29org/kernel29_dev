@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Purpura,Skin rash,Muscle weakness,Ascites,Thrombocytopenia,Anemia,Fever,Leukocytosis,Hepatomegaly,Vertigo,Low back pain,Increased total bilirubin,Recurrent thromboembolism,Respiratory tract infection,Abnormal urinary color,Abnormal erythroid lineage cell morphology,Abnormal granulocytopoietic cell morphology,Hemophagocytosis,Lower limb pain,Gastric varix,Portal vein thrombosis,Productive cough,Hypercoagulability",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "   1. Hemolysis (Hemoglobinuria)\n2. Hepatitis (viral or autoimmune)\n3. Liver damage/failure (toxic or alcoholic)\n4. Kidney damage/failure (toxic or autoimmune)\n5. Pulmonary complications (infection, inflammation or malignancy)\n6. Infection\n7. Fever\n8. Chronic kidney disease (CKD)\n9. Sepsis\n10. Hemoproteinuria/hemoglobinuria without hemolysis",
+    "predict_rank": "1"
+}

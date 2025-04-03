@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary hesitancy,Urinary incontinence,Prostatitis,Syncope,Muscle weakness,Elevated circulating creatine kinase concentration,Exercise intolerance,Loss of consciousness,Pedal edema,ST segment elevation,Increased circulating creatine kinase MB isoform,Dysuria,Amaurosis fugax",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Myoadenylate kinase deficiency (MYAD)\n2. Mitochondrial myopathy\n3. Inflammatory myopathy (e.g., Dermatomyositis)\n4. Endocrine myopathy (e.g., Hyperthyroidism)\n5. Myotonic dystrophy\n6. Cardiomyopathy with concomitant myopathy (e.g., Danon disease)\n7. Amyloidosis\n8. Fabry disease\n9. Glycogen storage disease (e.g., Pompe disease)\n10. Autoimmune polyendocrine syndrome (APS) with associated myopathy and cardiac involvement",
+    "predict_rank": "否"
+}

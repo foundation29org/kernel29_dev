@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Ectopia lentis with joint laxity syndrome\n2. Congenital mydriasis, megacolon, and hypohidrosis\n3. Larsen syndrome\n4. Weill-Marchesani syndrome\n5. Stickler syndrome\n6. Homozygous type 1 Stickler syndrome\n7. Cranioectodermal dysplasia\n8. Kniest dysplasia with nanophthalmos\n9. Oculodentodigital syndrome\n10. Myopia-cerebellar ataxia-dystonia-optic atrophy syndrome",
+    "predict_rank": "否"
+}

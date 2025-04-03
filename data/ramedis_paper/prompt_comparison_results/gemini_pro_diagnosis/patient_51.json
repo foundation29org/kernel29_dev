@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport Syndrome\n2. Fabry Disease\n3. Nail-Patella Syndrome\n4. Cystinosis\n5. Dent Disease 2\n6. Bartter Syndrome\n7. Familial Hypoalbuminemia\n8. Polycystic Kidney Disease\n9. Membranoproliferative Glomerulonephritis\n10. Hereditary Nephritis",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "\n1. Fabry disease\n2. Prader-Willi syndrome\n3. Ureteropelvic junction obstruction (UPJO)\n4. Medullary cystic kidney disease (MCKD)\n5. Hypercholesterolemia\n6. Nasal polyposis\n7. Osteogenesis imperfecta (OI)\n8. Fractures\n9. Fibrodysplasia ossificans progressiva (FOP)\n10. Smith-Lemli-Opitz syndrome (SLOS)\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests.",
+    "predict_rank": "1"
+}

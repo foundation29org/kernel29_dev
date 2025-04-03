@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Gitelman syndrome\n2. Bartter syndrome\n3. Fanconi syndrome\n4. Pseudohypoaldosteronism type 1\n5. Liddle syndrome\n6. Gordon syndrome \n7. Hypokalemic periodic paralysis \n8. Primary hyperaldosteronism\n9. Cushing syndrome\n10. Renal tubular acidosis",
+    "predict_rank": "1"
+}

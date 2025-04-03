@@ -1,0 +1,51 @@
+HC_anonimizada;Tipo;Tipo de enfermedad;Diagnóstico;Complejidad
+HC_01;Minoritaria;Gastroenterological cases;Síndrome Bardet-Biedl - ORPHA: 110;Alta
+HC_02;Minoritaria;Gastroenterological cases;Enfermedad de Hirschsprung - ORPHA: 388;Baja
+HC_03;Minoritaria;Gastroenterological cases;Hepatitis autoinmune tipo 1 - ORPHA: 563576;Media
+HC_04;Minoritaria;Gastroenterological cases;Hernia diafragmática congénita - ORPHA: 2140;Media
+HC_05;Minoritaria;Gastroenterological cases;Fibrosi quística - ORPHA: 586;Media
+HC_06;Minoritaria;Neurological/metabolic conditions;Síndrome de espasmos infantiles (Síndrome de West) - ORPHA: 3451;Media
+HC_07;Minoritaria;Neurological/metabolic conditions;Miastènia gravis (autoimmunitària) - ORPHA: 589;Media
+HC_08;Minoritaria;Neurological/metabolic conditions;Síndrome de Williams - ORPHA: 904;Alta
+HC_09;Minoritaria;Neurological/metabolic conditions;Síndrome de Aicardi-Goutières - ORPHA: 51 (Leucodistrofia);Alta
+HC_10;Minoritaria;Neurological/metabolic conditions;Síndrome de Sanfilippo Tipo A - ORPHA: 79269 (Mucopolisacaridosis tipo III - ORPHA: 581);Media
+HC_11;Minoritaria;Oncological & Hematological cases;Neurofibromatosis tipo 1 - ORPHA: 636;Baja
+HC_12;Minoritaria;Oncological & Hematological cases;Sarcoma de partes blandas - ORPHA: 3394;Alta
+HC_13;Minoritaria;Oncological & Hematological cases;Neuroblastoma - ORPHA: 635;Alta
+HC_14;Minoritaria;Oncological & Hematological cases;Nefroblastoma - ORPHA: 654;Media
+HC_15;No minoritaria;Oncological & Hematological cases;Leucemia linfoblástica aguda - ORPHA: 513;Media
+HC_16;Minoritaria;Infectious diseases;Malaria - ORPHA: 673;Baja
+HC_17;Minoritaria;Infectious diseases;Tuberculosis - ORPHA: 3389;Baja
+HC_18;Minoritaria;Nephrological conditions;Síndrome hemolítico urémico atípico - ORPHA: 2134 ;Media
+HC_19;Minoritaria;Nephrological conditions;Pseudohipoaldosteronismo tipo 1 - ORPHA: 756;Media
+HC_20;Minoritaria;Nephrological conditions;Válvulas uretra posterior - ORPHA: 93110;Media
+HC_21;Minoritaria;Rheumatological cases & Immunological conditions;Síndrome de Kawasaki - ORPHA: 2331;Baja
+HC_22;Minoritaria;Rheumatological cases & Immunological conditions;Síndrome de activación macrofágica - ORPHA: 158061;Alta
+HC_23;Minoritaria;Others;Enfermedad de Graves de inicio pediátrico - ORPHA: 525731;Alta
+HC_24;Minoritaria;Others;Síndrome de Brugada - ORPHA: 130;Alta
+HC_25;Minoritaria;Others;Dermatomiositis juvenil - ORPHA: 93672;Baja
+HC_26;No minoritaria;Gastroenterological cases;Estenosi hipertrofica pilor;Media
+HC_27;No minoritaria;Gastroenterological cases;Celiaquia;Media
+HC_28;No minoritaria;Gastroenterological cases;NAFLD (Esteatosi hepàtica);Media
+HC_29;No minoritaria;Gastroenterological cases;EII (Malaltia de Crohn);Media
+HC_30;No minoritaria;Gastroenterological cases;Al·lèrgia a proteïnes de llet de vaca;Baja
+HC_31;No minoritaria;Neurological/metabolic conditions;OD: TEA + TL;Baja
+HC_32;No minoritaria;Neurological/metabolic conditions;ICTUS isquémico en territorio arteria cerebral media derecha. Probable ictus postvaricela. Hemiparesia izquierda + paresia facial central izquierda leves. ;Media
+HC_33;No minoritaria;Neurological/metabolic conditions;Migranya amb aura;Baja
+HC_34;No minoritaria;Neurological/metabolic conditions;Diabetis mellitus de tipus 1;Baja
+HC_35;No minoritaria;Neurological/metabolic conditions;Acidemia metilmalónica;Alta
+HC_36;No minoritaria;Oncological & Hematological cases;Linfoma de Hodgkin;Media
+HC_37;No minoritaria;Oncological & Hematological cases;Anemia hemolítica;Media
+HC_38;Minoritaria;Oncological & Hematological cases;Tumor cerebral - Glioma pontí intrínsec difús (DIPG localitzat);Media
+HC_39;No minoritaria;Oncological & Hematological cases;HCIS: Teratoma madur (OD informe alta:  masa ovárica complicada con posible torsión);Alta
+HC_40;No minoritaria;Rheumatological cases & Immunological conditions;Artritis idiopàtica juvenil (AIJ) poliarticular factor reumatoide positiu;Baja
+HC_41;No minoritaria;Infectious diseases;Bartonel·losi sistèmica;Media
+HC_42;No minoritaria;Infectious diseases;Mononucleosi infecciosa;Baja
+HC_43;No minoritaria;Nephrological conditions;Glomerulonefritis aguda post-infecciosa;Media
+HC_44;No minoritaria;Nephrological conditions;Infecció d'orina;Baja
+HC_45;No minoritaria;Oncological & Hematological cases;Plaquetopènia (uns dies més tard, O-3002-púrpura trombocitopènica immune (pti, trombocitopènia immune));Baja
+HC_46;No minoritaria;Rheumatological cases & Immunological conditions;Artritis sèptica aguda;Baja
+HC_47;No minoritaria;Rheumatological cases & Immunological conditions;Reacció anafilàctica a l'ou;Baja
+HC_48;No minoritaria;Others;Hiperplasia suprarrenal congènita (END);Media
+HC_49;No minoritaria;Others;Miocarditis aguda infecciosa (CARDIO);Media
+HC_50;No minoritaria;Others;Psoriasi (OD informe d'alta: Lesiones cutáneas);Media

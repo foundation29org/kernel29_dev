@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Hemophilia A\n2. Hemophilia B\n3. Von Willebrand disease\n4. Hemolytic uremic syndrome\n5. Anti-glomerular basement membrane disease\n6. Goodpasture's disease\n7. Thrombotic thrombocytopenic purpura\n8. Factor V Leiden mutation\n9. Factor XI deficiency\n10. Ehlers-Danlos syndrome",
+    "predict_rank": "否"
+}

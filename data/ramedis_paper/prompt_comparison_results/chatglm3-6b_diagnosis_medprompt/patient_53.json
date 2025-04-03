@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome, X-linked, autosomal recessive\n2.阵发性睡眠性血红蛋白尿(PNH)\n3. 遗传性球形细胞性贫血(G6PD缺乏症)\n4. 慢性腹泻-自限性(CLS)\n5. 肾小球肾炎\n6. 高血压\n7. 血尿\n8. 蛋白尿\n9. 血脂异常\n10. 电解质紊乱",
+    "predict_rank": "否"
+}

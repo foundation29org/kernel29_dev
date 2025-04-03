@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Bilateral ptosis,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Difficulty climbing stairs,Difficulty standing,EMG: repetitive nerve stimulation abnormality,Favorable response of weakness to acetylcholine esterase inhibitors,Abnormal levator palpebrae superioris morphology",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": " 1. Myasthenia gravis\n2. Limb-girdle muscular dystrophy\n3. Facioscapulohumeral muscular dystrophy\n4. Chronic inflammatory demyelinating polyneuropathy (CIDP)\n5. Guillain-Barré syndrome (GBS)\n6. Motor neuron disease (MND)\n7. Spinal muscular atrophy (SMA)\n8. Neuromyelitis optica (NMO)\n9. Progressive muscular dystrophy (PMD)\n10. Inflammatory neuropathy associated with infections (INAI)",
+    "predict_rank": "1"
+}

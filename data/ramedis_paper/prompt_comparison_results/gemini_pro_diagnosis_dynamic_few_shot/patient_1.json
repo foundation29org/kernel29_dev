@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Hereditary coproporphyria\n2. Cri du chat syndrome\n3. Cockayne syndrome\n4. Congenital adrenal hyperplasia\n5. Charcot-Marie-Tooth disease\n6. CHARGE syndrome\n7. Congenital syphilis\n8. Central core disease\n9. Chromosomal abnormalities\n10. Coffin-Lowry syndrome",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Congenital agangloidism\n2. Congenital polyglobulinuria\n3. Lead toxicity\n4. Genetic disorder of creatinine transport\n5. Acute kidney injury\n6. Chronic kidney disease\n7. Membranous nephropathy\n8. focal segmental glomerulosclerosis\n9. Microangiopathic hemolytic uremic\n10. Urea cycle disorder",
+    "predict_rank": "否"
+}

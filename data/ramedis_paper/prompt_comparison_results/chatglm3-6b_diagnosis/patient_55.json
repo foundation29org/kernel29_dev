@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Renal cyst,Hydronephrosis,Blurred vision,Hematuria,IgA deposition in the glomerulus,Hypertension,Syncope,Hypertrophic cardiomyopathy,Weight loss,Palpitations,Hypertriglyceridemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Supraventricular arrhythmia,Ventricular septal hypertrophy,Abnormality of the gallbladder,Premature ventricular contraction,Pedal edema,Right bundle branch block,Abnormal ST segment,Chronic kidney disease,Left ventricular diastolic dysfunction,Chest pain",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Minimal change disease (MCD)\n2. Membranous nephropathy (MN)\n3. focal segmental glomerulosclerosis (FSG)\n4. lupus nephritis (LN)\n5. vasculitis\n6. Goodpasture's disease\n7. listeria infection\n8. eosinophilic nephritis (EN)\n9. biliary tract disease\n10. renal淀粉样变性 (RENAL AMyloidosis)",
+    "predict_rank": "否"
+}

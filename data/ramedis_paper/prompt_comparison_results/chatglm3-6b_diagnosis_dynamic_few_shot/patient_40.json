@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary urgency,Urinary retention,Urinary hesitancy,Urinary incontinence,Episodic hypertension,Hepatic steatosis,Constipation,Bradykinesia,Abnormal basal ganglia morphology,Akinesia,Clumsiness,Action tremor,Sleep disturbance,Shuffling gait,Falls,EMG abnormality,Decreased body weight,Abnormal left ventricular function,Poor fine motor coordination,Progressive language deterioration,Foot dorsiflexor weakness,Paroxysmal vertigo,Aortic atherosclerotic lesion,Pain,Abnormal urine cytology,Abasia,Abnormal lateral ventricle morphology,Hand muscle weakness,Reduced blood folate concentration,Pollakisuria,Dysuria",
+    "golden_diagnosis": "多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to",
+    "predict_diagnosis": "1. Multiple system atrophy (MSA)\n2. Amyotrophic lateral sclerosis (ALS)\n3. Frontotemporal dementia (FTD)\n4. Hypertension\n5. Diabetes mellitus\n6. Constipation\n7. Bradykinesia\n8. Akinesia\n9. Clumsiness\n10. Abnormal left ventricular function",
+    "predict_rank": "1"
+}

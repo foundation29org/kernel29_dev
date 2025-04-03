@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Hematuria,Hypertension,Jaundice,Cholelithiasis,Confusion,Alopecia,Tachycardia,Anemia,Aplastic anemia,Reticulocytosis,Fever,Palpitations,Vomiting,Diarrhea,Nausea,Dyspnea,Pleural effusion,Sparse scalp hair,Hypokalemia,Hyperglycemia,Elevated circulating creatinine concentration,Abdominal distention,Elevated erythrocyte sedimentation rate,Increased total bilirubin,Increased body weight,Unconjugated hyperbilirubinemia,Abnormal prostate morphology,Abnormal urinary color,Productive cough,Anuria",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "   1. Hemolytic uremic syndrome\n2. Alkalemia\n3. Fanconi syndrome\n4. Polycystic ovary syndrome\n5. Cushing's syndrome\n6. Kidney disease\n7. Anemia\n8. Liver disease\n9. Cancer\n10. Infection",
+    "predict_rank": "否"
+}

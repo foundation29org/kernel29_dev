@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Hematuria,Slurred speech,Abnormality of the liver,Dysphagia,Drooling,Abnormal caudate nucleus morphology,Hand tremor,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Kayser-Fleischer环 (Kayser-Fleischer环)\n2.肝硬化(Liver cirrhosis)\n3.肝占位性病变(Liver tumors)\n4.胆汁反流性胃炎(Biliary reflux gastritis)\n5.壶型内脏反射(Turner's syndrome)\n6.膜样层炎(Sebaceous gland炎)\n7.铜中毒(Copper toxicity)\n8.肝内胆管结石(Intrahepatic biliary calculus)\n9.门脉高压(Pulmonary hypertension)\n10.胃底静脉曲张(Gastric varices)",
+    "predict_rank": "1"
+}

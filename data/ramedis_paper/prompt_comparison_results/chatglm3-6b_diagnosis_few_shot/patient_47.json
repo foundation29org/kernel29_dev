@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "Based on the patient's phenotype, the following are the top 10 most likely diagnoses:\n\n1. Lupus nephritis\n2. Sinusitis\n3. Sensorineural hearing loss\n4. Hematuria\n5. Renal papillary necrosis\n6. Renal cell carcinoma\n7. Uterine fibroids\n8. Endometriosis\n9. Polycystic ovary syndrome\n10. Ovarian cysts",
+    "predict_rank": "否"
+}

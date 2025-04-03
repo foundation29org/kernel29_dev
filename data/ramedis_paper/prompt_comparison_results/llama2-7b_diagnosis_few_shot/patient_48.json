@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Hematuria,Increased circulating IgM level,Elevated erythrocyte sedimentation rate,Nodular goiter,Chronic kidney disease,Pollakisuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "\n1. 阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH\n2. 肝豆状核变性; Hepatolenticular degeneration; Wilson disease\n3. 全身型重症肌无力/Generalized myasthenia gravis; GMG\n4. 肾脏疾病; Chronic kidney disease\n5. 纤维肌病; Eosinophilic fibrosis\n6. 肝硬化症; Liver cirrhosis\n7. 肝脏炎; Hepatitis\n8. 肝脏疾病; Chronic liver disease\n9. 肝脏炎; Hepatitis\n10. 肝脏疾病; Chronic liver disease\n\nPlease provide a detailed explanation for each diagnosis, including the underlying pathophysiology, clinical features, and any supporting laboratory or imaging findings.",
+    "predict_rank": "否"
+}

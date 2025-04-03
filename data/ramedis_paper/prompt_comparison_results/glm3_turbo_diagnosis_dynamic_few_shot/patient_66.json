@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Facial edema,Impaired social interactions,Apathy,Hypothyroidism,Increased circulating prolactin concentration,Hyperpigmentation of the skin,Papilledema,Cirrhosis,Hepatosplenomegaly,Ascites,Pericardial effusion,Splenomegaly,Anemia,Fever,Dyspnea,Pleural effusion,Lymphadenopathy,Hypoproteinemia,Abdominal distention,EMG abnormality,Upper limb muscle weakness,Decreased body weight,Poor appetite,Abnormal intervertebral disk morphology,Anomalous splenoportal venous system,Foot dorsiflexor weakness,Pedal edema,Anasarca,Lower limb pain,Dysesthesia,Abnormal circulating thyroid hormone concentration,Monoclonal elevation of IgG",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": " 1. POEMS综合征（纤维素性血管病）\n2. 肝豆状核变性（Wilson病）\n3. 甲状腺功能减退症（Hashimoto甲状腺炎、产后甲状腺炎等）\n4. 肝脏疾病（肝硬化、肝细胞癌、肝血管瘤等）\n5. 风湿性疾病（系统性红斑狼疮、类风湿关节炎、硬皮病等）\n6. 内脏肿大综合征（伴或不伴淋巴水肿）\n7. 神经肌肉疾病（多发性硬化、肌营养不良、重症肌无力等）\n8. 肺动脉高压（特发性、遗传性、药物诱导等）\n9. 内分泌疾病（糖尿病、 Addison病、肾上腺皮质功能亢进等）\n10. 罕见遗传性疾病（如克里菲尔德综合症、尼曼匹克病、朗格汉斯细胞增多症等）\n\n请注意，这些诊断是基于提供的病史和症状，需要进一步的实验室检查和临床评估来确定最终的诊断。在此案例中，患者表现出多种器官系统的受累，因此需要考虑多种疾病可能性。诊断过程应由专业医生进行，并根据患者的具体情况进行个体化治疗。",
+    "predict_rank": "1"
+}

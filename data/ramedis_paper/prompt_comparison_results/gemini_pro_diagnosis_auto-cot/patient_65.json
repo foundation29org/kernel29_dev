@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Ovarian cyst,Hematuria,Hypothyroidism,Hypertension,Abnormality of skin pigmentation,Hepatosplenomegaly,Ascites,Congestive heart failure,Cardiomegaly,Patent foramen ovale,Pericardial effusion,Abnormal tricuspid valve morphology,Splenomegaly,Thrombocytosis,Anemia,Fever,Pneumonia,Pulmonary arterial hypertension,Hypophosphatemia,Pleural effusion,Hematochezia,Lymphadenopathy,Hypocalcemia,Elevated circulating thyroid-stimulating hormone concentration,Hypoalbuminemia,Abdominal distention,Elevated erythrocyte sedimentation rate,Decreased body weight,Abnormal intervertebral disk morphology,Intestinal edema,Abnormal vena cava morphology,Pedal edema,Elevated circulating C-reactive protein concentration,Anasarca,Ovarian teratoma,Pain,Dysesthesia,Cervicitis,Right atrial enlargement,Left atrial enlargement,Abnormal circulating thyroid hormone concentration,Enlarged ovaries",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": "1. Amyloidosis\n2. Systemic lupus erythematosus\n3. Sarcoidosis\n4. Myxedema\n5. POEMS syndrome\n6. Erdheim-Chester disease\n7. Castleman disease\n8. Whipple disease\n9. IgG4-related disease\n10. Sjogren's syndrome",
+    "predict_rank": "5"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "   1. Wernicke-Korsakoff Syndrome\n2. Wilson's Disease\n3. Multiple Sclerosis\n4. Parkinson's Disease\n5. Metallothionein-Related Disorder\n6. Congenital Adrenal Hyperplasia\n7. Ehlers-Danlos Syndrome\n8. Muscular dystrophy\n9. Huntington's Disease\n10. Sjogren Syndrome Additionally, it may be important to consider other potential diagnoses such as Hemiplegic Migraines, Giant Cell Arteritis, Myopathy with Laurence-Moon Syndrome or Pompe Disease.",
+    "predict_rank": "2"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Skin rash,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Reticulocytosis,Fever,Hematochezia,Recurrent upper respiratory tract infections,Myelodysplasia,Anisocytosis,Abnormal erythroid lineage cell morphology,Abnormal megakaryocyte morphology",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": " 1. Aplastic anemia\n2. Myelodysplastic syndrome (MDS)\n3. Leukemia\n4. Lymphoma\n5. Infectious mononucleosis\n6. HIV-associated immune deficiency\n7. Idiopathic thrombocytopenic purpura (ITP)\n8. Idiopathic neutropenia\n9. Autoimmune neutropenia\n10. Chronic fatigue syndrome\n\nPlease note that these are the top 10 diagnoses based on the provided patient phenotype, and the actual diagnosis may vary depending on further evaluation and laboratory findings. It is essential to consider other possibilities and perform appropriate tests to narrow down the diagnosis.",
+    "predict_rank": "否"
+}

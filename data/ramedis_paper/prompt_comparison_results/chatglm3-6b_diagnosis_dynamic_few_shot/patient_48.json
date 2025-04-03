@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Hematuria,Increased circulating IgM level,Elevated erythrocyte sedimentation rate,Nodular goiter,Chronic kidney disease,Pollakisuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Alport syndrome, X-linked, autosomal recessive\n2. Lupus nephritis\n3. Membranous nephropathy\n4. Goodpasture's disease\n5. Glomerulonephritis\n6. Post-transplant nephrotoxicity\n7. Vasculitis\n8. Lysis of membrane attack disease\n9. Membranous glomerulonephritis\n10. Renal amyloidosis",
+    "predict_rank": "否"
+}

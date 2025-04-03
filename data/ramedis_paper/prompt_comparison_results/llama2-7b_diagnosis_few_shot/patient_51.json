@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "\n1. Paroxysmal nocturnal hemoglobinuria (PNH)\n2. Gitelman syndrome (GS)\n3. McCune-Albright syndrome (MAS)\n4. Glomerulonephritis (GN)\n5. Alport syndrome (AS)\n6. Henoch-Schönlein purpura (HSP)\n7. IgA nephropathy (IgAN)\n8. Membranous nephropathy (MN)\n9. FSGS (Focal segmental glomerulosclerosis)\n10. Membranous glomerulopathy (MGP)\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and laboratory findings that support the diagnosis.",
+    "predict_rank": "5"
+}

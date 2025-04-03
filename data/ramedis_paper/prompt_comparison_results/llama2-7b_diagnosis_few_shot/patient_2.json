@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "\n1. Smith-Lemli-Opitz syndrome\n2. 22q11.2 deletion syndrome\n3. Coffin-Lowry syndrome\n4. Danon disease\n5. Cardiofacial syndrome\n6. Bamforada syndrome\n7. Cerebral cavernous malformation\n8. Neuromyopathic cerebral palsy\n9. Mowat-Wilson syndrome\n10. Fanconi anemia\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic cause, clinical features, and any supporting diagnostic tests or findings.",
+    "predict_rank": "否"
+}

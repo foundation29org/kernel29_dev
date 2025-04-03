@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Congestive heart failure (CHF)\n2. Hypertrophic cardiomyopathy (HCM)\n3. Aortic regurgitation\n4. Aortic aneurysm\n5. Mitral valve prolapse\n6. Tricuspid valve prolapse\n7. Left ventricular hypertrophy (LVH)\n8. Diastolic heart failure (DHF)\n9. Hypertension\n10. valvular heart disease",
+    "predict_rank": "否"
+}

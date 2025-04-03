@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Urticaria,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Megaloblastic anemia,Reticulocytosis,Diarrhea,Vertigo,Hyperglycemia,Generalized muscle weakness,Increased total bilirubin,Decreased body weight,Unconjugated hyperbilirubinemia,Anisocytosis,Abnormal urinary color,Abnormal granulocytopoietic cell morphology,Macroscopic hematuria,Elevated circulating aspartate aminotransferase concentration,Hypercoagulability",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "1. Alport syndrome, X-linked, autosomal recessive\n2. Glomerulonephritis, primary\n3. Lupus nephritis, SLE-related\n4. Vasculitis, cutaneous\n5. Sjogren's syndrome, primary\n6. Polycystic ovary syndrome, PCOS\n7. Lyme disease, systemic\n8. Sepsis, septic shock\n9. Hypersensitive drug-induced lupus, drug-induced nephritis\n10. Myelodysplastic syndromes, congenital or acquired",
+    "predict_rank": "否"
+}

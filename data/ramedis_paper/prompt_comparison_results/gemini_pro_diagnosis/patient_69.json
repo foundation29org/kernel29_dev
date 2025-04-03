@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Facial edema,Nephrolithiasis,Hematuria,Hypothyroidism,Dry skin,Ascites,Cardiomegaly,Abnormal aortic valve morphology,Pericardial effusion,Splenomegaly,Weight loss,Anemia,Pulmonary arterial hypertension,Hyperuricemia,Pleural effusion,Sleep disturbance,Follicular hyperplasia,Exertional dyspnea,Hypocalcemia,Hypoalbuminemia,Elevated circulating creatinine concentration,Abdominal distention,Exercise intolerance,Abnormal lymphocyte morphology,Abnormality of bone mineral density,Poor appetite,Right ventricular dilatation,Chronic gastritis,Elevated circulating C-reactive protein concentration,Lower limb pain,Increased circulating NT-proBNP concentration,Productive cough,Decreased circulating T4 concentration,Monoclonal elevation of circulating IgA,Scaling skin,Abnormality of mesentery morphology,Chronic colitis",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": "1. Amyloidosis, AA type\n2. Erdheim-Chester Disease\n3. Muckle-Wells syndrome\n4. Relapsing polychondritis\n5. Familial Mediterranean fever\n6. Hyperimmunoglobulin D and periodic fever syndrome\n7. TNF receptor-associated periodic syndrome\n8. Familial cold autoinflammatory syndrome\n9. Blau syndrome\n10. Majeed syndrome",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Urinary hesitancy,Urinary incontinence,Prostatitis,Syncope,Muscle weakness,Elevated circulating creatine kinase concentration,Exercise intolerance,Loss of consciousness,Pedal edema,ST segment elevation,Increased circulating creatine kinase MB isoform,Dysuria,Amaurosis fugax",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "   1. Congenital Adrenal Hyperplasia (CAH)\n2. Cushing's Syndrome with Ectopic Adrenal Tissue\n3. Ductal Vasculitis (Takayasu's Arteritis)\n4. Diabetic Ketoacidosis (DKA)\n5. Guanidinium Toxicity\n6. Hypoxemia and Anoxemia\n7. Infectious Arteritis (Polymyalgia Rheumatica)\n8. Kidney Failure (Renal Insufficiency)\n9. Lactic Acidosis and Respiratory Failure\n10. Neurological Disorder (Stroke)\n\nIt is important to note that these diagnoses are just a starting point and further testing and evaluation may be necessary to confirm the diagnosis and determine the underlying cause of the patient's symptoms.",
+    "predict_rank": "否"
+}

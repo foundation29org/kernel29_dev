@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1. Gitelman Syndrome\n2. Bartter Syndrome\n3. Liddle Syndrome\n4. Hyperaldosteronism\n5. Tubular Transporter Defects (e.g., ROMK mutations)\n6. Voltage-gated Potassium Channel Defects\n7. Cystic Fibrosis-related Diabetes Mellitus\n8. Autosomal Dominant Polycystic Kidney Disease (ADPKD) with tubular dysfunction\n9. Renal Tubular Acidosis (RTA) - Distal type\n10. Uremic Tubular Necrosis (in the setting of chronic kidney disease)\n\nEach of these conditions can present with a combination of the symptoms listed in the patient's phenotype, particularly renal potassium wasting, hypokalemia, increased urinary potassium, and metabolic alkalosis. It is important to note that further clinical evaluation, laboratory testing, and genetic analysis may be necessary to confirm the diagnosis.",
+    "predict_rank": "1"
+}

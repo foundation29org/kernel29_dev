@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Familial dilated cardiomyopathy\n2. Hypertrophic cardiomyopathy\n3. Coarctation of the aorta\n4. Primary pulmonary hypertension\n5. Hepatitis B\n6. Celiac disease\n7. Sjogren's syndrome\n8. Lupus erythematosus\n9. Polycystic ovary syndrome\n10. Hypertension\n\nPlease note that these are just possibilities based on the given patient's symptoms and should be further investigated and confirmed through diagnostic tests and evaluations. A thorough clinical examination, laboratory tests, imaging studies, and other diagnostic tools are needed to reach accurate diagnoses.",
+    "predict_rank": "否"
+}

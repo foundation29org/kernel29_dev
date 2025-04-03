@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "\n1. Myocarditis\n2. Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome\n3. Arrhythmogenic right ventricular dysplasia, familial, 10\n4. Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome\n5. Desminopathy/Myopathy, myofibrillar, 1\n6. Cardiac sarcoidosis\n7. Hypertrophic cardiomyopathy\n8. Pulmonary arterial hypertension\n9. Right ventricular dysplasia, familial, 13\n10. Long QT syndrome, type 3\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic tests that support the diagnosis.",
+    "predict_rank": "2"
+}

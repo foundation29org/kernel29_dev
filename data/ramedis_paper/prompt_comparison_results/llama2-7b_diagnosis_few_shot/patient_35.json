@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Bilateral ptosis,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Difficulty climbing stairs,Difficulty standing,EMG: repetitive nerve stimulation abnormality,Favorable response of weakness to acetylcholine esterase inhibitors,Abnormal levator palpebrae superioris morphology",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "\n1. Progressive external ophthalmoplegia type 1 (PEO1)\n2. Progressive external ophthalmoplegia type 2 (PEO2)\n3. Myasthenia gravis (MG)\n4. Inflammatory myopathy (IM)\n5. Lambert-Eaton myasthenic syndrome (LEMS)\n6. Congenital muscular dystrophy (CMD)\n7. Facioscapulohumeral muscular dystrophy (FSHD)\n8. Distal myopathy with cardiac conduction disturbance (DM1)\n9. Distal myopathy with hypotonia (DM2)\n10. Neuromyotonia (NM)\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic criteria.",
+    "predict_rank": "3"
+}

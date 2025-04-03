@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": " 1. Alport syndrome, X-linked\n2. Autosomal recessive Alport syndrome\n3. Autosomal dominant Alport syndrome\n4. Familial amyloidosis\n5. Membranoproliferative glomerulonephritis (MPGN)\n6. focal segmental glomerulosclerosis (FSGS)\n7. HIV-associated nephropathy (HIVAN)\n8. Chronic kidney disease (CKD)\n9. Renal tubular acidosis (RTA)\n10. Hyperlipidemia-induced nephropathy\n\nPlease note that the presented list is based on the given patient phenotype and the similarity with the previously provided case examples. However, it is essential to consider that each patient's clinical presentation can be unique, and a comprehensive clinical evaluation, laboratory testing, and genetic counseling are necessary for a definitive diagnosis. The list is not exhaustive, and other rare or common renal disorders could be potential diagnoses as well.",
+    "predict_rank": "1"
+}

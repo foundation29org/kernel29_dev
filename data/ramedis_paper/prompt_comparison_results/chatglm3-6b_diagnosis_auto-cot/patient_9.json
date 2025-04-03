@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson's disease\n2. Menkes disease\n3. congenital disorder of glycation (CDG)\n4. maple syrup urine disease (MSUD)\n5. phenylketonuria (PKU)\n6. urea cycle disorder\n7. ornithine transcarbamylase (OTC) deficiency\n8. arginine transcarbamylase (ATC) deficiency\n9. thrombotic microangiopathy (TMA)\n10. mucolipidosis type L\n\n这些诊断都可能与患者的症状和实验室检查结果相关。为了进行确诊，需要进行进一步的基因检查和生化检测。",
+    "predict_rank": "1"
+}

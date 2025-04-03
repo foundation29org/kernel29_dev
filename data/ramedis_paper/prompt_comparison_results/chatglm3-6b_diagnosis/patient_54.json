@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Ureteric calcification with obstruction\n2. Autosomal recessive polycystic kidney disease (ARPKD)\n3. Congenital adrenal hyperplasia (CAH) type 21\n4. congenital aganglionic megacolon\n5. Lysyl oxidase deficiency\n6. Absence of the distal ureter\n7. Urethral stricture\n8. Cyst in the nasal cavity\n9. Osteogenesis imperfecta type 2\n10. Sensorineural hearing loss.",
+    "predict_rank": "否"
+}

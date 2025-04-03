@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Hematuria,Increased circulating IgM level,Elevated erythrocyte sedimentation rate,Nodular goiter,Chronic kidney disease,Pollakisuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Polyglobulinemia / Polycythemia\n2. Glomerulonephritis with C3 nephritis factor H autoimmunity\n3. Hemolytic uremic syndrome (HUS)\n4. Membranoproliferative glomerulonephritis (MPGN)\n5. Sjögren syndrome\n6. Systemic lupus erythematosus (SLE)\n7. Goodpasture's disease\n8. C3 glomerulopathy\n9. Warm autoimmune hepatitis\n10. Hemolytic disease of the newborn.",
+    "predict_rank": "否"
+}

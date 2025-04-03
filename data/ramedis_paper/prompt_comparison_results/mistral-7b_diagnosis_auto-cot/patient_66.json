@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Facial edema,Impaired social interactions,Apathy,Hypothyroidism,Increased circulating prolactin concentration,Hyperpigmentation of the skin,Papilledema,Cirrhosis,Hepatosplenomegaly,Ascites,Pericardial effusion,Splenomegaly,Anemia,Fever,Dyspnea,Pleural effusion,Lymphadenopathy,Hypoproteinemia,Abdominal distention,EMG abnormality,Upper limb muscle weakness,Decreased body weight,Poor appetite,Abnormal intervertebral disk morphology,Anomalous splenoportal venous system,Foot dorsiflexor weakness,Pedal edema,Anasarca,Lower limb pain,Dysesthesia,Abnormal circulating thyroid hormone concentration,Monoclonal elevation of IgG",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": "   Top 10 most likely diagnoses:\n\n1. Nephrotic Syndrome\n2. Paget's Disease of the Bone\n3. Hypothyroidism with Thyroid Storm\n4. Dysthyroidism with Cushing's Syndrome\n5. Systemic Lupus Erythematosus (SLE)\n6. Myopathy with Dermatomyositis\n7. Hemolytic Uremic Syndrome (HUS)\n8. Liver Cirrhosis with Portosystemic Shunt\n9. Inflammatory Bowel Disease (IBD)\n10. Acute Adrenal Failure with Exogenous Steroid Intoxication",
+    "predict_rank": "否"
+}

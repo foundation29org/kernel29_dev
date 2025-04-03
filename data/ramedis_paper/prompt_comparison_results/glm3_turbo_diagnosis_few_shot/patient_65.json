@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Ovarian cyst,Hematuria,Hypothyroidism,Hypertension,Abnormality of skin pigmentation,Hepatosplenomegaly,Ascites,Congestive heart failure,Cardiomegaly,Patent foramen ovale,Pericardial effusion,Abnormal tricuspid valve morphology,Splenomegaly,Thrombocytosis,Anemia,Fever,Pneumonia,Pulmonary arterial hypertension,Hypophosphatemia,Pleural effusion,Hematochezia,Lymphadenopathy,Hypocalcemia,Elevated circulating thyroid-stimulating hormone concentration,Hypoalbuminemia,Abdominal distention,Elevated erythrocyte sedimentation rate,Decreased body weight,Abnormal intervertebral disk morphology,Intestinal edema,Abnormal vena cava morphology,Pedal edema,Elevated circulating C-reactive protein concentration,Anasarca,Ovarian teratoma,Pain,Dysesthesia,Cervicitis,Right atrial enlargement,Left atrial enlargement,Abnormal circulating thyroid hormone concentration,Enlarged ovaries",
+    "golden_diagnosis": "POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome",
+    "predict_diagnosis": " 1. Alport综合征\n2. 系统性红斑狼疮（SLE）\n3. 肾小球肾炎\n4. 骨髓增生异常综合征（MDS）\n5. 甲状腺功能减退症（Hashimoto甲状腺炎）\n6. 重症肌无力（Myasthenia gravis）\n7. 出血性肾炎\n8. 自身免疫性肝炎\n9. 肺动脉高压（PAH）\n10. 卵巢囊肿破裂伴感染\n\n请注意，这些诊断是基于提供的病史和症状，需要进一步的实验室检查和临床评估来确诊。此外，排名不分先后顺序。",
+    "predict_rank": "否"
+}

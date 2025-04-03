@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson Disease (Hepatolenticular Degeneration)\n2. Menkes Disease (Kinky Hair Syndrome)\n3. copper storage disease\n4. Acute liver failure with neurological complications\n5. Autoimmune hepatitis with extrapancreatic manifestations\n6. Mitochondrial myopathy with hepatic involvement\n7. Myasthenia gravis with concurrent liver dysfunction\n8. Hepatic encephalopathy secondary to chronic liver disease\n9. Neurodegenerative disorder with liver involvement (e.g., Friedreich's ataxia)\n10. Metabolic myopathy with abnormal copper metabolism\n\nPlease note that these diagnoses are based on the symptoms provided and the context of rare diseases. Further clinical, laboratory, and genetic testing would be necessary to confirm any of these diagnoses.",
+    "predict_rank": "1"
+}

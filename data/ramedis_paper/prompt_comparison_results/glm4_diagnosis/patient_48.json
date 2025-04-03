@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Hematuria,Increased circulating IgM level,Elevated erythrocyte sedimentation rate,Nodular goiter,Chronic kidney disease,Pollakisuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Mixed connective tissue disease (MCTD)\n2. Systemic lupus erythematosus (SLE)\n3. Membranoproliferative glomerulonephritis (MPGN)\n4. Immunoglobulin M (IgM) monoclonal gammopathy of undetermined significance (MGUS)\n5. Cryoglobulinemia\n6. Endemic nephropathy with associated thyroid disease\n7. Autoimmune thyroiditis with secondary glomerulonephritis\n8. Henoch-Schönlein purpura (HSP)\n9. Granulomatosis with polyangiitis (GPA)\n10. Metabolic syndrome with renal involvement and thyroid dysfunction",
+    "predict_rank": "否"
+}

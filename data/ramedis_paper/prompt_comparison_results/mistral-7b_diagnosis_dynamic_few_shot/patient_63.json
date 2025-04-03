@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Oral ulcer,Skin rash,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Reticulocytosis,Fever,Hematochezia,Recurrent upper respiratory tract infections,Myelodysplasia,Anisocytosis,Abnormal erythroid lineage cell morphology,Abnormal megakaryocyte morphology",
+    "golden_diagnosis": "阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria",
+    "predict_diagnosis": "   1. Aplastic anemia (AA)\n2. Hemolytic uremic syndrome (HUS)\n3. Myeloproliferative neoplasm with pancytopenia and cytopenias (MPN-PC)\n4. Cytoplasmic angiitis (CA)\n5. Chronic lymphocytic leukemia (CLL)\n6. Non-Hodgkin's lymphoma (NHL)\n7. Thrombotic thrombocytopenic purpura (TTP)/HUS\n8. Hemolytic uremic syndrome associated with atypical hemolytic uremic syndrome (aHUS)\n9. Myloid sarcoma (MS)\n10. Hemolytic uremic syndrome associated with anti-phospholipid syndrome (HUS-APS)",
+    "predict_rank": "否"
+}

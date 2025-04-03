@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Micropenis,Myopia,Amblyopia,Encephalopathy,Slurred speech,Obesity,Decreased fetal movement,Pneumonia,Intracranial hemorrhage,Polyphagia,Cerebral ischemia,Hypocalcemia,Methylmalonic acidemia,Abnormality of the wrist,Dicarboxylic aciduria,Propionic acidemia,Lacticaciduria,Congenital laryngeal stridor,Bilateral cryptorchidism,Postnatal growth retardation,Infantile muscular hypotonia,Abnormal circulating acetylcarnitine concentration,Appendicular hypotonia,Meconium stained amniotic fluid,Neonatal asphyxia,Microphallus,Vitamin B12 deficiency,Reduced blood folate concentration",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   Based on the patient's phenotype, here are the top 10 most likely diagnoses:\n\n1. Congenital malformation syndrome\n2. Inborn errors of metabolism (IEM)\n3. Cryptogenic pulmonary hypertension\n4. Congenital adrenal hyperplasia (CAH)\n5. Intrauterine growth restriction (IUGR)\n6. Ingenuity syndrome (formerly Smith-Martin syndrome)\n7. Rett syndrome\n8. Propionic acidemia\n9. Methylmalonic acidemia\n10. Sickle cell anemia.",
+    "predict_rank": "否"
+}

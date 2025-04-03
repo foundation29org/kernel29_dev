@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Alport syndrome\n2. Nephrotic syndrome with extra-renal manifestations\n3. Ehlers-Danlos syndrome\n4. Marfan syndrome\n5. Polycystic ovary syndrome\n6. Primary osteoporosis\n7. Fanconi anemia\n8. Hemiplegic migraines\n9. Ectopic thyroid\n10. Pheochromocytoma\nPlease note that this differential diagnosis is not exhaustive and other clinical features may be considered in further evaluation and diagnosis.",
+    "predict_rank": "否"
+}

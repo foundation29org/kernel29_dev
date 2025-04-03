@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. Aniridia - 一种罕见的遗传性眼疾，表现为无虹膜和视网膜发育不良。\n2. Congenital agangl blindness - 一种罕见的遗传性视网膜疾病，导致儿童期盲目。\n3. Lisch nodules - 一种常见的眼部特征，为眼部组织中的小肿瘤。\n4. Poliosis - 一种罕见的遗传性色素病，导致皮肤、眼睛和神经系统出现色素沉着。\n5. Retinopathy of prematurity - 一种影响早产儿视网膜的疾病，导致视网膜出现血管损伤。\n6. Retinopathy laser treatment - 激光治疗视网膜病变。\n7. Cataracts - 一种常见的白内障，导致视力模糊。\n8. Glaucoma - 一种常见的眼压增高的疾病，可能导致视神经损伤。\n9. Macroglossia - 一种罕见的头围过大。\n10. Osteomalacia - 一种骨骼疾病，导致骨骼柔软并容易骨折。",
+    "predict_rank": "否"
+}

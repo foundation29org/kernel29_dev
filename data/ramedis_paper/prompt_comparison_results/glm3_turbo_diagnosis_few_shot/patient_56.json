@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Skin rash,Prolonged QT interval,Dyspnea,Hypokalemia,Hyperchloriduria,Hypomagnesemia,Increased urinary potassium,Generalized muscle weakness,Paresthesia,Renal magnesium wasting,Hyponatriuria,Hypernatriuria,Hypermagnesiuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": " 1. Familial hypokalemic periodic paralysis (FHP)\n2. Bartter's syndrome\n3. Gitelman's syndrome\n4. Syndrome of inappropriate antidiuretic hormone (SIADH)\n5. Hypercalciuric hypocalcemia\n6. Primary aldosteronism\n7. Mineralocorticoid excess syndrome\n8. Renal tubular acidosis (RTA)\n9. Liddle's syndrome\n10. Hypomagnesemia with secondary hypocalcemia\n\nPlease note that these diagnoses are based on the provided patient phenotype and are not mutually exclusive. Additional clinical information or laboratory testing may be required to narrow down the exact diagnosis.",
+    "predict_rank": "3"
+}

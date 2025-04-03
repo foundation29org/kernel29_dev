@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Hematuria,Hypertension,Acne,Hyperkalemia,Hypoalbuminemia,Hypercholesterolemia,Hyperuricosuria,Elevated circulating creatinine concentration,Nodular goiter,Abnormal urinary color",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Alport syndrome, X-linked recessive or X-linked dominant.\n2. Fanconi syndrome.\n3. Cushing's syndrome caused by exocrine tumor or adrenal hyperplasia.\n4. Paget's disease of the bone.\n5. Renal tubular acidosis.\n6. Hodgkin's lymphoma.\n7. Sarcoidosis.\n8. Hemochromatosis.\n9. Vitamin B12 deficiency.\n10. Giant cell arteritis.",
+    "predict_rank": "1"
+}

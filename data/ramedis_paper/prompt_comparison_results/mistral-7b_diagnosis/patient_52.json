@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Congenital Adrenal Hyperplasia (CAH)\n2. Hemophilia\n3. Diabetes Mellitus\n4. Inflammatory Bowel Disease (IBD)\n5. Down Syndrome\n6. Fanconi Hemophilia (FH)\n7. Pheochromocytoma\n8. Thyroid Cancer\n9. Nephrotic Syndrome\n10. Cushing's Syndrome",
+    "predict_rank": "否"
+}

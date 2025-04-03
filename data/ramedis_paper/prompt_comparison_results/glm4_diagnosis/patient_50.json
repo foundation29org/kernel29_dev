@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Fabry disease\n2. Alport syndrome\n3. Dense deposit disease (Type II Thrombotic Thrombocytopenic Purpura)\n4. Loin pain hematuria syndrome (LPHS)\n5. Nephrotic syndrome due to genetic causes (e.g., Finnish-type congenital nephrotic syndrome)\n6. C3 glomerulopathy\n7. Focal segmental glomerulosclerosis with systemic manifestations (e.g., systemic lupus erythematosus)\n8. Mucopolysaccharidosis (MPS) such as MPS II (Hunter syndrome)\n9. Metabolic syndrome with renal manifestations and hyperlipidemia\n10. Autoimmune tubulointerstitial nephritis with systemic symptoms (e.g., Sjögren's syndrome)",
+    "predict_rank": "2"
+}

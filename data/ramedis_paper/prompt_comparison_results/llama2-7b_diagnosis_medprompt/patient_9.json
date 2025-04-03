@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "\n1. Wilson disease\n2. Fabry disease\n3. Alport syndrome\n4. Menkes disease\n5. Hypoplastic cerebellar atrophy\n6. Spinocerebellar ataxia type 1\n7. Spinocerebellar ataxia type 6\n8. Spinocerebellar ataxia type 7\n9. Spinocerebellar ataxia type 17\n10. Spinocerebellar ataxia type 38\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutation, clinical features, and diagnostic tests used to support the diagnosis.",
+    "predict_rank": "1"
+}

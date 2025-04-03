@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome\n2. Fabry disease\n3. HUS\n4. Goodpasture's syndrome\n5. Vasculitis\n6. SLE\n7. Rheumatoid arthritis\n8. Anti-GBM antibody disease\n9. IgA nephropathy\n10. Sickle cell disease",
+    "predict_rank": "2"
+}

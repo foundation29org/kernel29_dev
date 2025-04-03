@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   1. Ehlers-Danlos Syndrome\n2. Marfan Syndrome\n3. Stargardt Disease\n4. Retinitis Pigmentosa\n5. Lens Luxation Syndrome\n6. Osteogenesis Imperfecta\n7. Achondroplasia\n8. Scoliosis\n9. Lens Subluxation Syndrome\n10. Vitamin A Toxicity",
+    "predict_rank": "2"
+}

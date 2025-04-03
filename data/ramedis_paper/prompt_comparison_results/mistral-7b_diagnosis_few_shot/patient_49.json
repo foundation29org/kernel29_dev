@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Hearing impairment,Visual loss,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Elevated erythrocyte sedimentation rate,Recurrent tonsillitis,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Alport syndrome\n2. Goodpasture's disease\n3. Diabetic nephropathy\n4. Systemic lupus erythematosus\n5. Multiple sclerosis\n6. Mast cell activation syndrome\n7. Pheochromocytoma\n8. Sjogren's syndrome\n9. Giant cell arteritis\n10. Renal vasculitis\nPlease note that diagnosing a rare disease requires a thorough clinical evaluation, including a detailed medical history, physical examination, laboratory testing and imaging studies, and may also involve genetic testing or biopsy.",
+    "predict_rank": "1"
+}

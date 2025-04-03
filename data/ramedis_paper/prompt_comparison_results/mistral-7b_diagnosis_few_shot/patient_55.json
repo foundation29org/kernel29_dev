@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nocturia,Proteinuria,Glomerulonephritis,Renal cyst,Hydronephrosis,Blurred vision,Hematuria,IgA deposition in the glomerulus,Hypertension,Syncope,Hypertrophic cardiomyopathy,Weight loss,Palpitations,Hypertriglyceridemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Supraventricular arrhythmia,Ventricular septal hypertrophy,Abnormality of the gallbladder,Premature ventricular contraction,Pedal edema,Right bundle branch block,Abnormal ST segment,Chronic kidney disease,Left ventricular diastolic dysfunction,Chest pain",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Systemic Lupus Erythematosus (SLE)\n2. Polycystic Ovar Syndrome (PCOS)\n3. Thyroid Dysfunction\n4. Diabetes\n5. Hypertrophic Obstructive Sleep Apnea (HOSA)\n6. Obstructive Sleep Apnea\n7. Chronic Kidney Disease (CKD)\n8. Sickle Cell Anemia\n9. Hemochromatosis\n10. Atherosclerosis",
+    "predict_rank": "否"
+}

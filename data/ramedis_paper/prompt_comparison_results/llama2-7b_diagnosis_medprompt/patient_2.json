@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "\n1. Prader-Willi syndrome\n2. Niemann-Pick disease type B\n3. Congenital generalized lipodystrophy\n4. Smith-Lemli-Opitz syndrome\n5. Mowat-Wilson syndrome\n6. Fragile X syndrome\n7. 22q11.2 deletion syndrome\n8. Wolf-Parkinson-White syndrome\n9. Beta-thalassemia/HbE\n10. Mucolipidosis type IV\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and any supporting evidence.",
+    "predict_rank": "1"
+}

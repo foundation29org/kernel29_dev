@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Marfan syndrome\n2. Ehlers-Danlos syndrome, hypermobility type\n3. Weill-Marchesani syndrome\n4. Stickler syndrome, type I\n5. Pseudoxanthoma elasticum\n6. Scoliosis-associated lens subluxation\n7. Ectopia lentis et pupillae syndrome\n8. Homocystinuria\n9. Mitral valve prolapse syndrome\n10. Osteogenesis imperfecta, type IV or V\n\nEach of these conditions can present with a combination of the ocular and skeletal findings described in the patient's phenotype. It is important to note that a thorough clinical evaluation, including family history, additional physical examination, and genetic testing, is necessary to confirm a diagnosis.",
+    "predict_rank": "2"
+}

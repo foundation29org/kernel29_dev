@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": " 1. Alport Syndrome\n2. Familial Adenomatous Polyposis (FAP)\n3. Ehlers-Danlos Syndrome\n4. Fibrodysplasia Ossificans Progressiva (FOP)\n5. Mucopolysaccharidosis (MPS)\n6. Osteogenesis Imperfecta (OI)\n7. Paget's Disease of Bone\n8. Primary Hyperlipidemia\n9. Hereditary Deafness\n10. Nasal Polyposis Syndrome\n\nPlease note that this list is not exhaustive, and further evaluation and testing would be necessary to narrow down the diagnosis. These top 10 diagnoses cover a range of genetic, metabolic, and degenerative conditions that can potentially explain the patient's phenotype.",
+    "predict_rank": "否"
+}

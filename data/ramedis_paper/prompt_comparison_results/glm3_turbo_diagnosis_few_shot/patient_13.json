@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": " 1. fibrous dysplasia of the bones (polyostotic)\n2. neurofibromatosis type 1 (NF1)\n3. Cherubism\n4. Paget's disease of the bone\n5. osteogenesis imperfecta\n6. craniosynostosis\n7. Albright's syndrome\n8. melanocytosis\n9. fibrodysplasia ossificans progressiva (FOP)\n10. rare genetic disorders affecting bone growth and mineralization (e.g., Bardet-Biedl syndrome, osteopetrosis)\n\nPlease note that these top 10 diagnoses are based on the patient's reported phenotype and are meant to provide a diverse and comprehensive differential diagnosis. Additional clinical information, laboratory tests, and imaging studies may be necessary to narrow down the final diagnosis.",
+    "predict_rank": "7"
+}

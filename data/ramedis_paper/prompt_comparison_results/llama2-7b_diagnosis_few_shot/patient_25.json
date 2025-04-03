@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "\n1. 阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH\n2. 尼曼匹克病B型/Niemann-Pick disease type B; NPD-B\n3. 肝豆状核变性; Wilson disease\n4. 骨髓细胞综合征/Hemophagocytic lymphohistiocytosis; HLH\n5. 肝纤维化/Non-alcoholic fatty liver disease; NAFLD\n6. 肝脏炎/Acute liver failure; ALF\n7. 肝脏炎/Chronic liver disease; CLD\n8. 肝脏炎/Primary biliary cirrhosis; PBC\n9. 肝脏炎/Autoimmune hepatitis; AIH\n10. 肝脏炎/Alcoholic liver disease; ALD\n\nPlease provide a detailed explanation for each diagnosis, including the underlying pathophysiology, clinical features, and diagnostic tests.",
+    "predict_rank": "否"
+}

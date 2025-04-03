@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Smith-Lemli-Opitz syndrome\n2. Cornelia de Lange syndrome\n3. Rubinstein-Taybi syndrome\n4. CHARGE syndrome\n5. Kallmann syndrome\n6. Mowat-Wilson syndrome\n7. Cri du chat syndrome\n8. Angelman syndrome\n9. Beckwith-Wiedemann syndrome\n10. Sotos syndrome",
+    "predict_rank": "否"
+}

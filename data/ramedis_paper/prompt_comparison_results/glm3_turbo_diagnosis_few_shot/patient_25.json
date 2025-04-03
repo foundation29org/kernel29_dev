@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": " 1. Status epilepticus\n2. Myocardial infarction\n3. Acute pancreatitis\n4. Brain tumor\n5. Stroke\n6. Meningitis\n7. Encephalitis\n8. Severe infection (e.g., bacterial, viral, or fungal)\n9. Metabolic disorder (e.g., diabetes, liver or kidney failure)\n10. Reye's syndrome",
+    "predict_rank": "否"
+}

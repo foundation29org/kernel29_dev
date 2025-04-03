@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1. Alport syndrome\n2. Goodpasture's disease\n3. Glomerulonephritis with vasculitis\n4. Goodpasture's disease with vasculitis\n5. Diabetic nephropathy\n6. Lupus nephritis\n7. Renal vasculitis\n8. Glomerular amyloidosis\n9. Membranoproliferative glomerulonephritis\n10. Polycystic ovary syndrome with nephritis",
+    "predict_rank": "1"
+}

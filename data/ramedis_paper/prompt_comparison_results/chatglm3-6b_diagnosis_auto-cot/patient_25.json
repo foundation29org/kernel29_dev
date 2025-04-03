@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "1. Trismus (三叶草状肌营养不良)\n2. Hyperhidrosis (多汗症)\n3. Syncope (晕厥)\n4. Vomiting (呕吐)\n5. Loss of consciousness (意识丧失)\n6. Right bundle branch block (右束支阻)\n7. ST segment elevation (ST段抬高)\n8. Hypokalemia (血钾浓度降低)\n9. Hypomagnesemia (血镁浓度降低)\n10. Brain injury or necrosis (脑损伤或坏死)",
+    "predict_rank": "否"
+}

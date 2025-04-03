@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cholecystitis,Cerebral hemorrhage,Ascites,Abnormal mitral valve morphology,Cardiomegaly,Pericardial effusion,Abnormal tricuspid valve morphology,Right ventricular failure,Accessory spleen,Abdominal pain,Pulmonary arterial hypertension,Dyspnea,Pleural effusion,Sparse scalp hair,Hepatomegaly,Conjugated hyperbilirubinemia,Generalized muscle weakness,Exercise intolerance,Increased total bilirubin,Permanent atrial fibrillation,Pulmonary artery dilatation,Abnormal vena cava morphology,Reduced systolic function,Pedal edema,Decreased urine output,Reduced left ventricular ejection fraction,Left ventricular diastolic dysfunction,Right atrial enlargement,Increased circulating NT-proBNP concentration,Left atrial enlargement",
+    "golden_diagnosis": "Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26",
+    "predict_diagnosis": " 1. Familial hypertrophic cardiomyopathy\n2. Idiopathic restrictive cardiomyopathy\n3. Multiple system atrophy (Parkinsonian type)\n4. Multiple system atrophy (Cerebellar type)\n5. Wilson disease\n6. Hepatolenticular degeneration\n7. Cholangiocarcinoma\n8. Cirrhosis of the liver\n9. Portal hypertension\n10. Budd-Chiari syndrome",
+    "predict_rank": "否"
+}

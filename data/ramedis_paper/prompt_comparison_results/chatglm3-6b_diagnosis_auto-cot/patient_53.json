@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Glomerulonephritis,\n2. Alport syndrome,\n3. Familial hemolytic uremic syndrome,\n4. Congenital aganglionic megacolon,\n5. Urea cycle disorder,\n6. congenital adrenal hyperplasia,\n7. Maple syrup urine disease,\n8. lead poisoning,\n9. lysine deficiency,\n10. hypothyroidism.",
+    "predict_rank": "否"
+}

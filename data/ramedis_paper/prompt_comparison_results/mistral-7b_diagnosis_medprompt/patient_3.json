@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "   1. Prader-Willi syndrome (PWS)\n2. Down syndrome\n3. Non-syndromic intellectual disability\n4. Congenital adrenal hyperplasia (7α,22 hydroxylase deficiency, 17α,20 lyase deficiency, 11α,17α-hydroxylase/17β-dehydrogenase deficiency, and 3β-hydroxysteroid dehydrogenase deficiency)\n5. Lymphocytic adrenal hyperplasia\n6. Adrenal hypoplasia\n7. Severe childhood protein-energy malnutrition\n8. Neonatal intramuscular adenovirus infection\n9. Congenital diaphragmatic hernia\n10. Birth defects due to alcohol exposure during pregnancy",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Klinefelter syndrome\n2. Turners syndrome\n3. Prader-Willi syndrome\n4.唐氏综合症\n5.Pompe病\n6.X染色体连锁智力低下症\n7.肌营养不良症\n8.先天性肌病\n9.营养不良\n10.染色体异常病",
+    "predict_rank": "3"
+}

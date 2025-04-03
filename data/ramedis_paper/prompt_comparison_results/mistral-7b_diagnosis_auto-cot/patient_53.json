@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "   1. Fanconi Syndrome\n2. Leigh Syndrome\n3. Huntington's Disease\n4. Diabetic Ketoacidosis\n5. Lyme Disease\n6. Albinism\n7. Kostin's Syndrome\n8. Congenital Syndromes\n9. Inborn Errors of Metabolism\n10. Hypothyroidism\nIt is important to note that while these diagnoses are possible, the specific diagnosis may require additional testing and evaluation by a medical professionals.",
+    "predict_rank": "否"
+}

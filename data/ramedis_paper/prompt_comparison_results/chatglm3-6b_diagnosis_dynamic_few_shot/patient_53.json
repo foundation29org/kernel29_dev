@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome, X-linked, autosomal recessive\n2. Congenital aganglionic megacolon\n3. Congestive heart failure\n4. Cystinuria\n5. Encephalomyelitis\n6. Glomerulonephritis\n7. Hypothyroidism\n8. Hyperparathyroidism\n9. Hypertriglyceridemia\n10. Intestinal obstruction",
+    "predict_rank": "否"
+}

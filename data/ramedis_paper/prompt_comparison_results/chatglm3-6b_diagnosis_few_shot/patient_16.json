@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Kyphoscoliosis and scoliosis\n2. Spondylitis\n3. Ankylosing spondylitis\n4. Inflammatory bowel disease\n5. Fibromyalgia\n6. Central sensitization syndrome\n7. Irritable bowel syndrome\n8. Lupus erythematosus\n9.硬皮病\n10. 强直性脊柱炎",
+    "predict_rank": "否"
+}

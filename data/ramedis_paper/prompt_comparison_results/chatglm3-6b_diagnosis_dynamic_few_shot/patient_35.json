@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Bilateral ptosis,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Difficulty climbing stairs,Difficulty standing,EMG: repetitive nerve stimulation abnormality,Favorable response of weakness to acetylcholine esterase inhibitors,Abnormal levator palpebrae superioris morphology",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "1. Acoustic neuroma\n2. Myasthenia gravis\n3. Acetylcholine deficiency\n4. Hypothyroidism\n5. Hyperthyroidism\n6. Autoimmune encephalitis\n7. Guillain-Barre syndrome\n8. Myasthenia gravis, adult-onset\n9. Charitable允許url('https://www.ncbi.nlm.nih.gov/books/NBK519540/')，Acute Charitable Brainitis\n10. Acute ischemic stroke\n\n以上是可能的十种诊断，但每个病人的情况都是独特的，诊断需要根据完整的病史，体格检查和辅助检查结果进行。",
+    "predict_rank": "2"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "\n1. Fabry disease\n2. Alport syndrome\n3. Paroxysmal nocturnal hemoglobinuria\n4. Mucopolysaccharidosis type I\n5. Glycogen storage disease type III\n6. Pompe disease\n7. Mucolipidosis type II\n8. Danon disease\n9. X-linked hypophosphatemic rickets\n10. Charcot-Marie-Tooth disease type 1A\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutation, clinical features, and diagnostic tests used to support the diagnosis.",
+    "predict_rank": "否"
+}

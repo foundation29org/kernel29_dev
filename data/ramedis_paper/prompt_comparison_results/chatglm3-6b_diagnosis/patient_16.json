@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Kyphoscoliosis and congenital scoliosis\n2. Kyphoscoliosis and costochondritis\n3. Kyphoscoliosis and primary scoliosis\n4. Kyphoscoliosis and neuromuscular disorder\n5. Kyphoscoliosis and congenital muscular dystrophy\n6. Kyphoscoliosis and multiple sclerosis\n7. Kyphoscoliosis and neuromyelitis optica\n8. Kyphoscoliosis and cerebral palsy\n9. Kyphoscoliosis and congenital aganglionic neuropathies\n10. Kyphoscoliosis and congenital heart defects.",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Skin rash,Prolonged QT interval,Dyspnea,Hypokalemia,Hyperchloriduria,Hypomagnesemia,Increased urinary potassium,Generalized muscle weakness,Paresthesia,Renal magnesium wasting,Hyponatriuria,Hypernatriuria,Hypermagnesiuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "   * Hypokalemia\n* Hypokalemia with metabolic alkalosis\n* Hyperkalemia\n* Hyperkalemia with metabolic alkalosis\n* Hypomagnesemia\n* Hypermagnesiuria\n* Hypynatrium\n* Hyperkalemia with hypernatremia\n* Hypermagnesiuria with hyperkalemia\n* Hypochlidemia with hyperkalemia",
+    "predict_rank": "否"
+}

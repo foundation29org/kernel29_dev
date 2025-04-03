@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Congenital kyphoscoliosis\n2. Neurofibromatosis with kyphoscoliosis\n3. Ehlers-Danlos syndrome, hypermobility type\n4. Marfan syndrome\n5. Adolescent idiopathic scoliosis with secondary kyphosis\n6. Osteogenesis imperfecta\n7. Friedreich's ataxia\n8. Metabolic myopathy (e.g., Pompe disease)\n9. Dysostosis multiplex (e.g., mucopolysaccharidosis)\n10. Spinal muscular atrophy with progressive kyphoscoliosis\n\nPlease note that the likelihood of these diagnoses can vary based on the patient's age, associated symptoms, family history, and other clinical findings. A thorough clinical evaluation and genetic testing may be necessary for an accurate diagnosis.",
+    "predict_rank": "4"
+}

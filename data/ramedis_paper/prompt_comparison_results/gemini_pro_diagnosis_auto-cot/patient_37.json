@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Diplopia,Bilateral ptosis,Dysphagia,Leukoencephalopathy,Difficulty walking,Abnormal cerebral white matter morphology,Varicose veins,Atherosclerosis,Easy fatigability,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Exercise intolerance,Abnormal carotid artery morphology,Unilateral ptosis,EMG: repetitive nerve stimulation abnormality,Anti-acetylcholine receptor antibody positivity",
+    "golden_diagnosis": "全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis",
+    "predict_diagnosis": "1. Myasthenia gravis \n2. Lambert-Eaton myasthenic syndrome \n3. Congenital myasthenic syndrome \n4. Botulism \n5. Guillain-Barre syndrome \n6. Myotonic dystrophy \n7. Charcot-Marie-Tooth disease \n8. Amyotrophic lateral sclerosis \n9. Multiple sclerosis \n10. Mitochondrial myopathy",
+    "predict_rank": "1"
+}

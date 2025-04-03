@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "   1. Retinopathy of Prematurity\n2. Hypermobility syndrome\n3. Ehlers-Danlos syndrome\n4. Marfan syndrome\n5. Kartagener syndrome\n6. Alport syndrome\n7. Agenesis of the corpus luteum\n8. Autosomal dominant polycystic ovary syndrome\n9. Down syndrome\n10. Uveitis\n\nNote: These top 10 diagnoses are not a definitive list and the specific diagnosis will depend on a combination of clinical presentation, medical history, and various diagnostic tests.",
+    "predict_rank": "4"
+}

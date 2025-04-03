@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormal vagina morphology,Delayed speech and language development,Abnormality of the breast,Cafe-au-lait spot,Elevated circulating alkaline phosphatase concentration,Large cafe-au-lait macules with irregular margins,Increased circulating free T3,Premature pubarche,Increased serum estradiol,Decreased thyroid-stimulating hormone level,Increased circulating progesterone,Metrorrhagia,Abnormal eating behavior",
+    "golden_diagnosis": "McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic",
+    "predict_diagnosis": "1. McCune-Albright syndrome\n2. Fibrous dysplasia of bone\n3. Polyostotic fibrous dysplasia\n4. Albright's syndrome\n5. McCune-Albright syndrome with precocious puberty\n6. McCune-Albright syndrome with growth hormone deficiency\n7. McCune-Albright syndrome with hyperthyroidism\n8. McCune-Albright syndrome with hypothyroidism\n9. McCune-Albright syndrome with Cushing's syndrome\n10. McCune-Albright syndrome with diabetes insipidus",
+    "predict_rank": "1"
+}

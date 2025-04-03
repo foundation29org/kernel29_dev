@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Scheuermann's kyphoscoliosis\n2. adolescent idiopathic kyphoscoliosis\n3. rheumatoid arthritis\n4. juvenile rheumatoid arthritis\n5. ankylosing spondylitis\n6. inflammatory bowel disease-related kyphoscoliosis\n7. neuromuscular scoliosis\n8. congenital kyphoscoliosis\n9. fibromyalgia-related kyphoscoliosis\n10. rare genetic disorders causing kyphoscoliosis (e.g., mutations in the COL1A1 or TGFB1 genes)",
+    "predict_rank": "否"
+}

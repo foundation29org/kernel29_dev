@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Klinefelter syndrome (XXY disorder)\n2. Cleft lip and palate\n3. Congenital central hypoventilation syndrome (CCHS)\n4. Persistent Mullerian duct syndrome (PMDS)\n5. Neonatal diabetes mellitus\n6. Congenital heart disease\n7. Cystic fibrosis\n8. Prader-Willi syndrome (PWS)\n9. Myotonic dystrophy\n10. Congenital infections (e.g., cytomegalovirus, rubella, toxoplasmosis)",
+    "predict_rank": "8"
+}

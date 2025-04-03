@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": "1. Alport syndrome\n2. Branchio-oto-renal syndrome\n3.CHARGE syndrome\n4. Jervell and Lange-Nielsen syndrome\n5. Pendred syndrome\n6. Usher syndrome\n7. Waardenburg syndrome\n8. Stickler syndrome\n9. Klippel-Feil syndrome\n10. Treacher Collins syndrome",
+    "predict_rank": "否"
+}

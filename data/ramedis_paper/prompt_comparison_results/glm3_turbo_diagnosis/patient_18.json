@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": " 1. Marfan syndrome\n2. Ehlers-Danlos syndrome\n3. Stickler syndrome\n4. homocystinuria\n5. autosomal dominant lenticular luxation (ADLL)\n6. neurofibromatosis type 1 (NF1)\n7. osteogenesis imperfecta\n8. fibrodysplasia ossificans progressiva (FOP)\n9. spondyloepiphyseal dysplasia, type Strudwick (SEDC)\n10. mucopolysaccharidosis (MPS)\n\nPlease note that this list is not exhaustive, and there are other possible diagnoses that could explain the patient's phenotype. It is essential to consider these conditions in the context of the patient's medical history, family history, and clinical presentation. Additional diagnostic tests and consultations with specialists may be necessary to narrow down the final diagnosis.",
+    "predict_rank": "1"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "\n1. Adolescent idiopathic scoliosis\n2. Spondylolisthesis\n3. Spinal muscular atrophy\n4. Spinal canal stenosis\n5. Spinal bifida\n6. Spinal cord injury\n7. Spinal meningitis\n8. Spinal tumor\n9. Spinal cyst\n10. Spinal dysraphism\n\nPlease provide a detailed explanation for each diagnosis, including the underlying genetic mutations, clinical features, and diagnostic criteria.",
+    "predict_rank": "否"
+}

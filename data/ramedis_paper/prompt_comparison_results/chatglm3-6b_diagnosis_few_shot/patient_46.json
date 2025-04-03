@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. Primary hyperparathyroidism\n2. Hypercalcemia\n3. Renal cause (such as nephrotic syndrome or glomerulonephritis)\n4. Urosepsis\n5. Systemic lupus erythematosus\n6. Microangiopathic hemolytic anemia\n7. Thrombotic microangiopathy\n8. Membranous nephropathy\n9. Purpura\n10. Glomerulonephritis",
+    "predict_rank": "否"
+}

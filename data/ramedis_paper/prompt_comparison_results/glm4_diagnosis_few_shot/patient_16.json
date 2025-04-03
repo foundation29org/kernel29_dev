@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Kyphoscoliosis",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Adolescent idiopathic scoliosis\n2. Adult degenerative scoliosis\n3. Congenital scoliosis\n4. Neurogenic scoliosis (e.g., due to spinal cord injury or tumor)\n5. Kyphoscoliosis due to Scheuermann's disease\n6. Kyphoscoliosis associated with a connective tissue disorder (e.g., Ehlers-Danlos syndrome)\n7. Kyphoscoliosis associated with a neuromuscular disease (e.g., muscular dystrophy)\n8. Kyphoscoliosis secondary to metabolic or endocrine disorders (e.g., osteoporosis, hyperparathyroidism)\n9. Kyphoscoliosis secondary to a traumatic injury\n10. Kyphoscoliosis secondary to a tumor (benign or malignant)\n\nEach of these conditions can present with a kyphotic and scoliotic curvature of the spine, but the underlying causes and associated clinical features vary widely. A comprehensive evaluation, including medical history, physical examination, imaging studies, and possibly genetic testing, would be necessary to pinpoint the exact diagnosis.",
+    "predict_rank": "否"
+}

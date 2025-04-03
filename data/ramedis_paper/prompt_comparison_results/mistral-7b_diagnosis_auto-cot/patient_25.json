@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation",
+    "golden_diagnosis": "Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1",
+    "predict_diagnosis": "   1. Myocardial infarction (MI)\n2. Cardiac arrhythmia\n3. Endocarditis\n4. Hypertrophic cardiomyopathy\n5. Restrictive cardiomyopathy\n6. Amyloidosis\n7. Hyperthyroidism\n8. Diabetes mellitus\n9. Inflammatory bowel disease (IBD)\n10. Infectious carditis",
+    "predict_rank": "否"
+}

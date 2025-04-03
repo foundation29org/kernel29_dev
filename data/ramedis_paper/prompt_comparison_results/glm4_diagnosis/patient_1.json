@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid",
+    "golden_diagnosis": "Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome",
+    "predict_diagnosis": "1. Prader-Willi Syndrome\n2. Angelman Syndrome\n3. Down Syndrome\n4. Mitochondrial Disease (specifically, Kearns-Sayre Syndrome or other mitochondrial encephalomyopathy)\n5. Congenital Central Hypoventilation Syndrome (CCHS)\n6. Myotonic Dystrophy\n7. Rett Syndrome\n8. Smith-Lemli-Opitz Syndrome\n9. Alpers Syndrome (or other forms of POLG-related disorders)\n10. Autosomal Recessive Polycystic Kidney Disease (ARPKD) with extrarenal manifestations\n\nPlease note that this list is not exhaustive, and the actual diagnosis would require a thorough clinical evaluation, including detailed family history, physical examination, and appropriate laboratory and genetic testing.",
+    "predict_rank": "1"
+}

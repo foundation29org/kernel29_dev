@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Glomerulonephritis,Hearing impairment,Visual loss,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Elevated erythrocyte sedimentation rate,Recurrent tonsillitis,Abnormal urinary color,Macroscopic hematuria",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "1. IGA肾病（IgA Nephropathy）\n2. 膜性肾炎（Membranous Nephropathy）\n3. 局灶节段性肾小球硬化症（Focal Segmental Glomerulosclerosis）\n4. 狼疮性肾炎（Lupus Nephritis）\n5. 隐匿性肾炎（Minimal Change Disease）\n6. 乙型肝炎相关肾病（Hepatitis B Associated Nephropathy）\n7. 尿崩症（Diabetes Insipidus）\n8. 尿毒症（Uremia）\n9. 肾积水（Hydronephrosis）\n10. 肾盂肾炎（Pyelonephritis）",
+    "predict_rank": "否"
+}

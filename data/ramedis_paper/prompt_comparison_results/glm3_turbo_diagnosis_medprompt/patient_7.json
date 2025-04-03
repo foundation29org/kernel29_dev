@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Hematuria,Slurred speech,Abnormality of the liver,Dysphagia,Drooling,Abnormal caudate nucleus morphology,Hand tremor,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Kayser-Fleischer ring",
+    "golden_diagnosis": "肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease",
+    "predict_diagnosis": "1. Wilson disease (Hepatolenticular degeneration)\n2. Menkes disease (Kinky hair disease)\n3. Hashimoto's encephalopathy\n4. copper-associated liver disease\n5. Familial hemiplegic migraine with polyuria and polydipsia\n6. Ataxia-telangiectasia\n7. MERRF syndrome (Myoclonus epilepsy with ragged red fibers)\n8. Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS)\n9. Alpers syndrome (Persistent hyperbilirubinemia with early onset of hepatic fibrosis)\n10. Hereditary spherocytosis",
+    "predict_rank": "1"
+}

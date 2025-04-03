@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis",
+    "golden_diagnosis": "Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome",
+    "predict_diagnosis": "   1) Diabetic nephropathy\n2) Hypertensive nephropathy\n3) Non-steroidal anti-inflammatory drug (NSAID) toxicity\n4) Anti-metabolite nephropathy in systemic lupus erythematosus (SLE)\n5) Alkaline phosphatase (AP) elevation due to osteonecrosis\n6) Lyme disease nephropathy\n7) Aplastic anemia with tubular atrophy\n8) Erythromelanin-producing polyendocrine syndrome type 2\n9) Hemolytic uremic syndrome (HUS) due to thrombotic microangiopathy\n10) Goodpasture's disease with pulmonary involvement.",
+    "predict_rank": "否"
+}

@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Inguinal hernia,Hypertension,Hoarse voice,Cardiomegaly,Abnormal aortic valve morphology,Mitral regurgitation,Aortic regurgitation,Abnormal left ventricle morphology,Fever,Palpitations,Dyspnea,Hemoptysis,Bronchiectasis,Decreased body weight,Ascending tubular aorta aneurysm,Abnormal left ventricular function,Abnormal B-type natriuretic peptide concentration,Productive cough",
+    "golden_diagnosis": "Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome",
+    "predict_diagnosis": "1. Aortic aneurysm\n2. Hypertension\n3. Cardiomegaly\n4. Aortic stenosis\n5. Mitral regurgitation\n6. Hypertensive heart failure\n7. Pulmonary embolism\n8. Chronic obstructive pulmonary disease (COPD)\n9. Thromboembolic microangiopathy\n10. Systemic lupus erythematosus (SLE)",
+    "predict_rank": "否"
+}

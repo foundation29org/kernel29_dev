@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis",
+    "golden_diagnosis": "Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome",
+    "predict_diagnosis": "1.肾小管性酸中毒（Renal tubular acidosis）\n2.碱中毒（Alkalosis）\n3.低钾血症（Hypokalemia）\n4.钾尿崩症（Kayexalate-sensitive hypokalemia）\n5.肾小管损伤（Tubular injury）\n6.肾小管酸化（Tubular acidosis）\n7.酸中毒（Acidemia）\n8.代谢性碱中毒（Metabolic alkalosis）\n9.肾小管上皮细胞功能减退（Tubular epithelial dysfunction）\n10.肾小管坏死（Tubular necrosis）",
+    "predict_rank": "否"
+}

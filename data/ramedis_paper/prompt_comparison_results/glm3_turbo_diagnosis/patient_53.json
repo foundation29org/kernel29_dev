@@ -1,0 +1,6 @@
+﻿{
+    "patient_info": "Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight",
+    "golden_diagnosis": "法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease",
+    "predict_diagnosis": " 1. Nephropathy associated with preeclampsia\n2. Syndrome of inappropriate antidiuretic hormone (SIADH)\n3. Post-renal transplant dysfunction\n4. Chronic kidney disease (CKD)\n5. Nephrogenic diabetes insipidus (NDI)\n6. Primary hypertension\n7. Glomerulonephritis\n8. Renal tubular acidosis (RTA)\n9. Autoimmune disease (e.g., lupus nephritis, anti-GBM disease)\n10. Inherited kidney disease (e.g., Alport syndrome, polycystic kidney disease)",
+    "predict_rank": "否"
+}
