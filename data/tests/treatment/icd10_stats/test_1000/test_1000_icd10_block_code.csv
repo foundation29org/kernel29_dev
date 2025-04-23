@@ -1,0 +1,78 @@
+code,name,count,percentage
+J00-J06 Acute upper respiratory infections,J00-J06 Acute upper respiratory infections,259,0.259
+B25-B34 Other viral diseases,B25-B34 Other viral diseases,55,0.055
+J95-J99 Other diseases of the respiratory system,J95-J99 Other diseases of the respiratory system,52,0.052
+J20-J22 Other acute lower respiratory infections,J20-J22 Other acute lower respiratory infections,45,0.045
+M40-M54 Dorsopathies,M40-M54 Dorsopathies,42,0.042
+H65-H75 Diseases of middle ear and mastoid,H65-H75 Diseases of middle ear and mastoid,37,0.037
+S60-S69 Injuries to the wrist and hand,S60-S69 Injuries to the wrist and hand,35,0.035
+N30-N39 Other diseases of urinary system,N30-N39 Other diseases of urinary system,34,0.034
+K50-K52 Noninfective enteritis and colitis,K50-K52 Noninfective enteritis and colitis,34,0.034
+M60-M79 Soft tissue disorders,M60-M79 Soft tissue disorders,28,0.028
+R10-R19 Symptoms and signs involving the digestive system and abdomen,R10-R19 Symptoms and signs involving the digestive system and abdomen,28,0.028
+H10-H13 Disorders of conjunctiva,H10-H13 Disorders of conjunctiva,26,0.026
+M00-M25 Arthropathies,M00-M25 Arthropathies,23,0.023
+R00-R09 Symptoms and signs involving the circulatory and respiratory systems,R00-R09 Symptoms and signs involving the circulatory and respiratory systems,20,0.02
+S90-S99 Injuries to the ankle and foot,S90-S99 Injuries to the ankle and foot,20,0.02
+J09-J18 Influenza and pneumonia,J09-J18 Influenza and pneumonia,18,0.018
+R50-R69 General symptoms and signs,R50-R69 General symptoms and signs,18,0.018
+U00-U49 Provisional assignment of new diseases of uncertain etiology or emergency use,U00-U49 Provisional assignment of new diseases of uncertain etiology or emergency use,15,0.015
+L20-L30 Dermatitis and eczema,L20-L30 Dermatitis and eczema,13,0.013
+S00-S09 Injuries to the head,S00-S09 Injuries to the head,13,0.013
+H60-H62 Diseases of external ear,H60-H62 Diseases of external ear,12,0.012
+J30-J39 Other diseases of upper respiratory tract,J30-J39 Other diseases of upper respiratory tract,9,0.009
+K55-K64 Other diseases of intestines,K55-K64 Other diseases of intestines,9,0.009
+N20-N23 Urolithiasis,N20-N23 Urolithiasis,8,0.008
+J40-J4A Chronic lower respiratory diseases,J40-J4A Chronic lower respiratory diseases,7,0.007
+I10-I1A Hypertensive diseases,I10-I1A Hypertensive diseases,6,0.006
+M80-M94 Osteopathies and chondropathies,M80-M94 Osteopathies and chondropathies,6,0.006
+L00-L08 Infections of the skin and subcutaneous tissue,L00-L08 Infections of the skin and subcutaneous tissue,6,0.006
+G40-G47 Episodic and paroxysmal disorders,G40-G47 Episodic and paroxysmal disorders,6,0.006
+"K00-K14 Diseases of oral cavity, salivary glands and jaws","K00-K14 Diseases of oral cavity, salivary glands and jaws",6,0.006
+"H00-H06 Disorders of eyelid, lacrimal system and orbit","H00-H06 Disorders of eyelid, lacrimal system and orbit",5,0.005
+L60-L75 Disorders of skin appendages,L60-L75 Disorders of skin appendages,5,0.005
+S80-S89 Injuries to the knee and lower leg,S80-S89 Injuries to the knee and lower leg,5,0.005
+I30-I5A Other forms of heart disease,I30-I5A Other forms of heart disease,5,0.005
+"F40-F48 Neurotic, stress-related and somatoform disorders","F40-F48 Neurotic, stress-related and somatoform disorders",4,0.004
+B00-B09 Viral infections characterized by skin and mucous membrane lesions,B00-B09 Viral infections characterized by skin and mucous membrane lesions,4,0.004
+T15-T19 Effects of foreign body entering through natural orifice,T15-T19 Effects of foreign body entering through natural orifice,4,0.004
+S50-S59 Injuries to the elbow and forearm,S50-S59 Injuries to the elbow and forearm,4,0.004
+S40-S49 Injuries to the shoulder and upper arm,S40-S49 Injuries to the shoulder and upper arm,4,0.004
+S20-S29 Injuries to the thorax,S20-S29 Injuries to the thorax,4,0.004
+H80-H83 Diseases of inner ear,H80-H83 Diseases of inner ear,4,0.004
+S10-S19 Injuries to the neck,S10-S19 Injuries to the neck,3,0.003
+H90-H95 Other disorders of ear,H90-H95 Other disorders of ear,3,0.003
+"T80-T88 Complications of surgical and medical care, not elsewhere classified","T80-T88 Complications of surgical and medical care, not elsewhere classified",3,0.003
+"H15-H22 Disorders of sclera, cornea, iris and ciliary body","H15-H22 Disorders of sclera, cornea, iris and ciliary body",3,0.003
+L50-L54 Urticaria and erythema,L50-L54 Urticaria and erythema,3,0.003
+R30-R39 Symptoms and signs involving the urinary system,R30-R39 Symptoms and signs involving the urinary system,3,0.003
+N40-N53 Diseases of male genital organs,N40-N53 Diseases of male genital organs,3,0.003
+R20-R23 Symptoms and signs involving the skin and subcutaneous tissue,R20-R23 Symptoms and signs involving the skin and subcutaneous tissue,3,0.003
+"K20-K31 Diseases of oesophagus, stomach and duodenum","K20-K31 Diseases of oesophagus, stomach and duodenum",3,0.003
+"G50-G59 Nerve, nerve root and plexus disorders","G50-G59 Nerve, nerve root and plexus disorders",3,0.003
+"S30-S39 Injuries to the abdomen, lower back, lumbar spine and pelvis","S30-S39 Injuries to the abdomen, lower back, lumbar spine and pelvis",2,0.002
+A30-A49 Other bacterial diseases,A30-A49 Other bacterial diseases,2,0.002
+Z20-Z29 Persons with potential health hazards related to communicable diseases,Z20-Z29 Persons with potential health hazards related to communicable diseases,2,0.002
+T66-T78 Other and unspecified effects of external causes,T66-T78 Other and unspecified effects of external causes,2,0.002
+"B85-B89 Pediculosis, acariasis and other infestations","B85-B89 Pediculosis, acariasis and other infestations",2,0.002
+B99-B99 Other infectious diseases,B99-B99 Other infectious diseases,2,0.002
+H53-H54 Visual disturbances and blindness,H53-H54 Visual disturbances and blindness,1,0.001
+D49 Neoplasms of unspecified behavior,D49 Neoplasms of unspecified behavior,1,0.001
+E70-E90 Metabolic disorders,E70-E90 Metabolic disorders,1,0.001
+T20-T32 Burns and corrosions,T20-T32 Burns and corrosions,1,0.001
+S70-S79 Injuries to the hip and thigh,S70-S79 Injuries to the hip and thigh,1,0.001
+K35-K38 Diseases of appendix,K35-K38 Diseases of appendix,1,0.001
+N17-N19 Renal failure,N17-N19 Renal failure,1,0.001
+J80-J84 Other respiratory diseases principally affecting the interstitium,J80-J84 Other respiratory diseases principally affecting the interstitium,1,0.001
+Z77-Z99 Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z77-Z99 Persons with potential health hazards related to family and personal history and certain conditions influencing health status,1,0.001
+G89-G99 Other disorders of the nervous system,G89-G99 Other disorders of the nervous system,1,0.001
+"R40-R46 Symptoms and signs involving cognition, perception, emotional state and behaviour","R40-R46 Symptoms and signs involving cognition, perception, emotional state and behaviour",1,0.001
+L76-L76 Intraoperative and postprocedural complications of skin and subcutaneous tissue,L76-L76 Intraoperative and postprocedural complications of skin and subcutaneous tissue,1,0.001
+R47-R49 Symptoms and signs involving speech and voice,R47-R49 Symptoms and signs involving speech and voice,1,0.001
+M26-M27 Dentofacial anomalies [including malocclusion] and other disorders of jaw,M26-M27 Dentofacial anomalies [including malocclusion] and other disorders of jaw,1,0.001
+B35-B49 Mycoses,B35-B49 Mycoses,1,0.001
+"I80-I89 Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified","I80-I89 Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",1,0.001
+N70-N77 Inflammatory diseases of female pelvic organs,N70-N77 Inflammatory diseases of female pelvic organs,1,0.001
+L10-L14 Bullous disorders,L10-L14 Bullous disorders,1,0.001
+R25-R29 Symptoms and signs involving the nervous and musculoskeletal systems,R25-R29 Symptoms and signs involving the nervous and musculoskeletal systems,1,0.001
+"R70-R79 Abnormal findings on examination of blood, without diagnosis","R70-R79 Abnormal findings on examination of blood, without diagnosis",1,0.001

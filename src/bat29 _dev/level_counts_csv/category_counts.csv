@@ -1,0 +1,372 @@
+code,count,name
+J06,410,Acute upper respiratory infections of multiple and unspecified sites
+B34,382,Viral infection of unspecified site
+J98,371,Other respiratory disorders
+J02,342,Acute pharyngitis
+J03,266,Acute tonsillitis
+J00,257,Acute nasopharyngitis [common cold]
+M54,213,Dorsalgia
+H66,185,Suppurative and unspecified otitis media
+N39,165,Other disorders of urinary system
+K52,150,Other and unspecified noninfective gastroenteritis and colitis
+J04,115,Acute laryngitis and tracheitis
+R10,115,Abdominal and pelvic pain
+S93,114,"Dislocation and sprain of joints and ligaments at ankle, foot and toe level"
+H10,108,Conjunctivitis
+J20,93,Acute bronchitis
+J18,82,"Pneumonia, unspecified organism"
+R07,77,Pain in throat and chest
+M25,73,"Other joint disorder, not elsewhere classified"
+U07,70,Emergency use of U07
+S60,65,"Superficial injury of wrist, hand and fingers"
+J22,62,Unspecified acute lower respiratory infection
+J21,50,Acute bronchiolitis
+H60,50,Otitis externa
+N23,50,Unspecified renal colic
+S90,49,"Superficial injury of ankle, foot and toes"
+S61,48,"Open wound of wrist, hand and fingers"
+S63,47,Dislocation and sprain of joints and ligaments at wrist and hand level
+J40,46,"Bronchitis, not specified as acute or chronic"
+M79,44,"Other and unspecified soft tissue disorders, not elsewhere classified"
+R51,38,Headache
+N30,38,Cystitis
+J32,38,Chronic sinusitis
+H81,35,Disorders of vestibular function
+R50,34,Fever of other and unknown origin
+J11,33,Influenza due to unidentified influenza virus
+S20,32,Superficial injury of thorax
+R05,32,Cough
+T14,32,Injury of unspecified body region
+T78,31,"Adverse effects, not elsewhere classified"
+M65,31,Synovitis and tenosynovitis
+S80,30,Superficial injury of knee and lower leg
+L03,29,Cellulitis and acute lymphangitis
+S01,29,Open wound of head
+L50,28,Urticaria
+M77,27,Other enthesopathies
+R19,26,Other symptoms and signs involving the digestive system and abdomen
+M76,26,"Enthesopathies, lower limb, excluding foot"
+R55,26,Syncope and collapse
+F41,24,Other anxiety disorders
+G43,24,Migraine
+M75,24,Shoulder lesions
+H11,24,Other disorders of conjunctiva
+R11,23,Nausea and vomiting
+H00,23,Hordeolum and chalazion
+S52,22,Fracture of forearm
+S06,22,Intracranial injury
+S09,22,Other and unspecified injuries of head
+J01,21,Acute sinusitis
+L02,20,"Cutaneous abscess, furuncle and carbuncle"
+L30,19,Other and unspecified dermatitis
+M62,19,Other disorders of muscle
+M70,18,"Soft tissue disorders related to use, overuse and pressure"
+S62,18,Fracture at wrist and hand level
+B99,18,Other and unspecified infectious diseases
+S50,18,Superficial injury of elbow and forearm
+J45,17,Asthma
+I16,17,Hypertensive crisis
+H92,17,Otalgia and effusion of ear
+S30,16,"Superficial injury of abdomen, lower back, pelvis and external genitals"
+B02,16,Zoster [herpes zoster]
+H65,15,Nonsuppurative otitis media
+S99,14,Other and unspecified injuries of ankle and foot
+J96,14,"Respiratory failure, not elsewhere classified"
+H01,13,Other inflammation of eyelid
+K59,13,Other functional intestinal disorders
+S92,13,"Fracture of foot and toe, except ankle"
+S83,13,Dislocation and sprain of joints and ligaments of knee
+K08,13,Other disorders of teeth and supporting structures
+M12,13,Other and unspecified arthropathy
+S42,13,Fracture of shoulder and upper arm
+S86,13,"Injury of muscle, fascia and tendon at lower leg level"
+I10,13,Essential (primary) hypertension
+R14,12,Flatulence and related conditions
+M93,12,Other osteochondropathies
+M51,12,"Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders"
+H61,12,Other disorders of external ear
+B27,11,Infectious mononucleosis
+S82,11,"Fracture of lower leg, including ankle"
+G44,11,Other headache syndromes
+I50,11,Heart failure
+M10,11,Gout
+K35,10,Acute appendicitis
+K11,10,Diseases of salivary glands
+H16,10,Keratitis
+H53,10,Visual disturbances
+G58,10,Other mononeuropathies
+K64,10,Hemorrhoids and perianal venous thrombosis
+R00,10,Abnormalities of heart beat
+R42,10,Dizziness and giddiness
+L60,9,Nail disorders
+R52,9,"Pain, unspecified"
+N41,9,Inflammatory diseases of prostate
+R59,9,Enlarged lymph nodes
+S29,9,Other and unspecified injuries of thorax
+K57,9,Diverticular disease of intestine
+R33,9,Retention of urine
+M17,9,Osteoarthritis of knee
+J31,9,"Chronic rhinitis, nasopharyngitis and pharyngitis"
+S00,8,Superficial injury of head
+T81,8,"Complications of procedures, not elsewhere classified"
+R53,8,Malaise and fatigue
+J44,8,Other chronic obstructive pulmonary disease
+L20,8,Atopic dermatitis
+R20,8,Disturbances of skin sensation
+I48,8,Atrial fibrillation and flutter
+M13,8,Other arthritis
+R04,8,Hemorrhage from respiratory passages
+S05,8,Injury of eye and orbit
+N45,8,Orchitis and epididymitis
+M94,7,Other disorders of cartilage
+S02,7,Fracture of skull and facial bones
+K60,7,Fissure and fistula of anal and rectal regions
+I49,7,Other cardiac arrhythmias
+N50,7,Other and unspecified disorders of male genital organs
+Z53,7,"Persons encountering health services for specific procedures and treatment, not carried out"
+M53,7,"Other and unspecified dorsopathies, not elsewhere classified"
+K80,7,Cholelithiasis
+M72,7,Fibroblastic disorders
+M19,7,Other and unspecified osteoarthritis
+K62,7,Other diseases of anus and rectum
+R21,7,Rash and other nonspecific skin eruption
+B37,7,Candidiasis
+S76,6,"Injury of muscle, fascia and tendon at hip and thigh level"
+K12,6,Stomatitis and related lesions
+K29,6,Gastritis and duodenitis
+K30,6,Functional dyspepsia
+T17,6,Foreign body in respiratory tract
+S13,6,Dislocation and sprain of joints and ligaments at neck level
+K56,5,Paralytic ileus and intestinal obstruction without hernia
+J10,5,Influenza due to other identified influenza virus
+H57,5,Other disorders of eye and adnexa
+R22,5,"Localized swelling, mass and lump of skin and subcutaneous tissue"
+G45,5,Transient cerebral ischemic attacks and related syndromes
+S70,5,Superficial injury of hip and thigh
+L22,5,Diaper dermatitis
+H43,5,Disorders of vitreous body
+A08,5,Viral and other specified intestinal infections
+N48,5,Other disorders of penis
+S32,5,Fracture of lumbar spine and pelvis
+M89,5,Other disorders of bone
+G89,5,"Pain, not elsewhere classified"
+G57,5,Mononeuropathies of lower limb
+K92,4,Other diseases of digestive system
+L08,4,Other local infections of skin and subcutaneous tissue
+N76,4,Other inflammation of vagina and vulva
+B36,4,Other superficial mycoses
+E11,4,Type 2 diabetes mellitus
+F43,4,"Reaction to severe stress, and adjustment disorders"
+R30,4,Pain associated with micturition
+B08,4,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified"
+B09,4,Unspecified viral infection characterized by skin and mucous membrane lesions
+A09,4,"Infectious gastroenteritis and colitis, unspecified"
+S43,4,Dislocation and sprain of joints and ligaments of shoulder girdle
+L28,4,Lichen simplex chronicus and prurigo
+N10,4,Acute pyelonephritis
+K13,4,Other diseases of lip and oral mucosa
+L01,4,Impetigo
+S53,4,Dislocation and sprain of joints and ligaments of elbow
+M23,4,Internal derangement of knee
+S40,4,Superficial injury of shoulder and upper arm
+K61,4,Abscess of anal and rectal regions
+R60,4,"Edema, not elsewhere classified"
+K85,4,Acute pancreatitis
+K04,4,Diseases of pulp and periapical tissues
+R39,4,Other and unspecified symptoms and signs involving the genitourinary system
+L05,4,Pilonidal cyst and sinus
+S69,4,"Other and unspecified injuries of wrist, hand and finger(s)"
+M71,4,Other bursopathies
+J36,4,Peritonsillar abscess
+S81,4,Open wound of knee and lower leg
+N34,4,Urethritis and urethral syndrome
+H73,4,Other disorders of tympanic membrane
+S72,3,Fracture of femur
+L98,3,"Other disorders of skin and subcutaneous tissue, not elsewhere classified"
+I20,3,Angina pectoris
+T23,3,Burn and corrosion of wrist and hand
+Z48,3,Encounter for other postprocedural aftercare
+N13,3,Obstructive and reflux uropathy
+S22,3,"Fracture of rib(s), sternum and thoracic spine"
+B30,3,Viral conjunctivitis
+R31,3,Hematuria
+Z76,3,Persons encountering health services in other circumstances
+S91,3,"Open wound of ankle, foot and toes"
+R06,3,Abnormalities of breathing
+N64,3,Other disorders of breast
+I47,3,Paroxysmal tachycardia
+A64,3,Unspecified sexually transmitted disease
+J30,3,Vasomotor and allergic rhinitis
+A38,3,Scarlet fever
+D64,3,Other anemias
+L72,3,Follicular cysts of skin and subcutaneous tissue
+I63,3,Cerebral infarction
+K81,3,Cholecystitis
+R58,3,"Hemorrhage, not elsewhere classified"
+L73,3,Other follicular disorders
+M47,3,Spondylosis
+T18,3,Foreign body in alimentary tract
+N20,2,Calculus of kidney and ureter
+S71,2,Open wound of hip and thigh
+K05,2,Gingivitis and periodontal diseases
+L25,2,Unspecified contact dermatitis
+D49,2,Neoplasms of unspecified behavior
+M24,2,Other specific joint derangements
+H72,2,Perforation of tympanic membrane
+M26,2,Dentofacial anomalies [including malocclusion]
+J68,2,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapors"
+M43,2,Other deforming dorsopathies
+E87,2,"Other disorders of fluid, electrolyte and acid-base balance"
+B00,2,Herpesviral [herpes simplex] infections
+I30,2,Acute pericarditis
+M18,2,Osteoarthritis of first carpometacarpal joint
+S21,2,Open wound of thorax
+B07,2,Viral warts
+S39,2,"Other and unspecified injuries of abdomen, lower back, pelvis and external genitals"
+I80,2,Phlebitis and thrombophlebitis
+O99,2,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium"
+N49,2,"Inflammatory disorders of male genital organs, not elsewhere classified"
+J47,2,Bronchiectasis
+K65,2,Peritonitis
+L53,2,Other erythematous conditions
+M16,2,Osteoarthritis of hip
+K06,2,Other disorders of gingiva and edentulous alveolar ridge
+T20,2,"Burn and corrosion of head, face, and neck"
+W19,2,Unspecified fall
+N99,2,"Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified"
+D36,2,Benign neoplasm of other and unspecified sites
+H93,2,"Other disorders of ear, not elsewhere classified"
+N94,2,Pain and other conditions associated with female genital organs and menstrual cycle
+R35,2,Polyuria
+S46,2,"Injury of muscle, fascia and tendon at shoulder and upper arm level"
+J39,2,Other diseases of upper respiratory tract
+T25,2,Burn and corrosion of ankle and foot
+M22,2,Disorder of patella
+R09,2,Other symptoms and signs involving the circulatory and respiratory system
+B86,2,Scabies
+K21,2,Gastro-esophageal reflux disease
+L29,2,Pruritus
+R49,2,Voice and resonance disorders
+I31,2,Other diseases of pericardium
+L76,2,Intraoperative and postprocedural complications of skin and subcutaneous tissue
+L23,2,Allergic contact dermatitis
+R25,2,Abnormal involuntary movements
+Z79,2,Long term (current) drug therapy
+R56,2,"Convulsions, not elsewhere classified"
+L27,2,Dermatitis due to substances taken internally
+H15,2,Disorders of sclera
+J12,2,"Viral pneumonia, not elsewhere classified"
+R79,2,Other abnormal findings of blood chemistry
+M50,1,Cervical disc disorders
+Z72,1,Problems related to lifestyle
+E10,1,Type 1 diabetes mellitus
+Z78,1,Other specified health status
+B35,1,Dermatophytosis
+T30,1,"Burn and corrosion, body region unspecified"
+G90,1,Disorders of autonomic nervous system
+I83,1,Varicose veins of lower extremities
+R17,1,Unspecified jaundice
+K40,1,Inguinal hernia
+I82,1,Other venous embolism and thrombosis
+T85,1,"Complications of other internal prosthetic devices, implants and grafts"
+S36,1,Injury of intra-abdominal organs
+I21,1,Acute myocardial infarction
+H44,1,Disorders of globe
+J05,1,Acute obstructive laryngitis [croup] and epiglottitis
+M04,1,Autoinflammatory syndromes
+A74,1,Other diseases caused by chlamydiae
+F45,1,Somatoform disorders
+N32,1,Other disorders of bladder
+G47,1,Sleep disorders
+T21,1,Burn and corrosion of trunk
+R36,1,Urethral discharge
+R73,1,Elevated blood glucose level
+I75,1,Atheroembolism
+J69,1,Pneumonitis due to solids and liquids
+L91,1,Hypertrophic disorders of skin
+N28,1,"Other disorders of kidney and ureter, not elsewhere classified"
+I99,1,Other and unspecified disorders of circulatory system
+Z51,1,Encounter for other aftercare and medical care
+S79,1,Other and unspecified injuries of hip and thigh
+P51,1,Umbilical hemorrhage of newborn
+Z83,1,Family history of other specific disorders
+G04,1,"Encephalitis, myelitis and encephalomyelitis"
+N05,1,Unspecified nephritic syndrome
+R63,1,Symptoms and signs concerning food and fluid intake
+R16,1,"Hepatomegaly and splenomegaly, not elsewhere classified"
+A15,1,Respiratory tuberculosis
+S89,1,Other and unspecified injuries of lower leg
+M81,1,Osteoporosis without current pathological fracture
+M02,1,Postinfective and reactive arthropathies
+T65,1,Toxic effect of other and unspecified substances
+T84,1,"Complications of internal orthopedic prosthetic devices, implants and grafts"
+W54,1,Contact with dog
+I26,1,Pulmonary embolism
+S49,1,Other and unspecified injuries of shoulder and upper arm
+L70,1,Acne
+L82,1,Seborrheic keratosis
+H04,1,Disorders of lacrimal system
+A41,1,Other sepsis
+Z95,1,Presence of cardiac and vascular implants and grafts
+K91,1,"Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified"
+P38,1,Omphalitis of newborn
+Q18,1,Other congenital malformations of face and neck
+R68,1,Other general symptoms and signs
+N47,1,Disorders of prepuce
+K02,1,Dental caries
+H02,1,Other disorders of eyelid
+N36,1,Other disorders of urethra
+I87,1,Other disorders of veins
+Z34,1,Encounter for supervision of normal pregnancy
+K31,1,Other diseases of stomach and duodenum
+T22,1,"Burn and corrosion of shoulder and upper limb, except wrist and hand"
+F79,1,Unspecified intellectual disabilities
+T15,1,Foreign body on external eye
+H20,1,Iridocyclitis
+Z23,1,Encounter for immunization
+M06,1,Other rheumatoid arthritis
+Z20,1,Contact with and (suspected) exposure to communicable diseases
+N18,1,Chronic kidney disease (CKD)
+J84,1,Other interstitial pulmonary diseases
+E86,1,Volume depletion
+H80,1,Otosclerosis
+B85,1,Pediculosis and phthiriasis
+L13,1,Other bullous disorders
+I88,1,Nonspecific lymphadenitis
+B49,1,Unspecified mycosis
+S65,1,Injury of blood vessels at wrist and hand level
+J34,1,Other and unspecified disorders of nose and nasal sinuses
+M20,1,Acquired deformities of fingers and toes
+B80,1,Enterobiasis
+N73,1,Other female pelvic inflammatory diseases
+P83,1,Other conditions of integument specific to newborn
+S59,1,Other and unspecified injuries of elbow and forearm
+K14,1,Diseases of tongue
+K90,1,Intestinal malabsorption
+S66,1,"Injury of muscle, fascia and tendon at wrist and hand level"
+K58,1,Irritable bowel syndrome
+L97,1,"Non-pressure chronic ulcer of lower limb, not elsewhere classified"
+T83,1,"Complications of genitourinary prosthetic devices, implants and grafts"
+N89,1,Other noninflammatory disorders of vagina
+D32,1,Benign neoplasm of meninges
+L40,1,Psoriasis
+Z86,1,Personal history of certain other diseases
+G83,1,Other paralytic syndromes
+T16,1,Foreign body in ear
+M67,1,Other disorders of synovium and tendon
+R23,1,Other skin changes
+T50,1,"Poisoning by, adverse effect of and underdosing of diuretics and other and unspecified drugs, medicaments and biological substances"
+R41,1,Other symptoms and signs involving cognitive functions and awareness
+Z93,1,Artificial opening status
+H40,1,Glaucoma
+Z90,1,"Acquired absence of organs, not elsewhere classified"
+F03,1,Unspecified dementia
+M92,1,Other juvenile osteochondrosis
+L42,1,Pityriasis rosea
+G51,1,Facial nerve disorders
+N31,1,"Neuromuscular dysfunction of bladder, not elsewhere classified"
+Q82,1,Other congenital malformations of skin
+Z98,1,Other postprocedural states
+N40,1,Benign prostatic hyperplasia
+K42,1,Umbilical hernia
+I25,1,Chronic ischemic heart disease

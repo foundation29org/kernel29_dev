@@ -1,0 +1,38 @@
+code,name,count,percentage
+J00-J06 Acute upper respiratory infections,J00-J06 Acute upper respiratory infections,146,0.43582089552238806
+J20-J22 Other acute lower respiratory infections,J20-J22 Other acute lower respiratory infections,30,0.08955223880597014
+H65-H75 Diseases of middle ear and mastoid,H65-H75 Diseases of middle ear and mastoid,28,0.08358208955223881
+J95-J99 Other diseases of the respiratory system,J95-J99 Other diseases of the respiratory system,26,0.07761194029850746
+J09-J18 Influenza and pneumonia,J09-J18 Influenza and pneumonia,11,0.03283582089552239
+H10-H13 Disorders of conjunctiva,H10-H13 Disorders of conjunctiva,9,0.026865671641791045
+S60-S69 Injuries to the wrist and hand,S60-S69 Injuries to the wrist and hand,8,0.023880597014925373
+K50-K52 Noninfective enteritis and colitis,K50-K52 Noninfective enteritis and colitis,8,0.023880597014925373
+R50-R69 General symptoms and signs,R50-R69 General symptoms and signs,8,0.023880597014925373
+B25-B34 Other viral diseases,B25-B34 Other viral diseases,7,0.020895522388059702
+S00-S09 Injuries to the head,S00-S09 Injuries to the head,5,0.014925373134328358
+R10-R19 Symptoms and signs involving the digestive system and abdomen,R10-R19 Symptoms and signs involving the digestive system and abdomen,5,0.014925373134328358
+M00-M25 Arthropathies,M00-M25 Arthropathies,4,0.011940298507462687
+S90-S99 Injuries to the ankle and foot,S90-S99 Injuries to the ankle and foot,3,0.008955223880597015
+L20-L30 Dermatitis and eczema,L20-L30 Dermatitis and eczema,3,0.008955223880597015
+N30-N39 Other diseases of urinary system,N30-N39 Other diseases of urinary system,3,0.008955223880597015
+M60-M79 Soft tissue disorders,M60-M79 Soft tissue disorders,3,0.008955223880597015
+H90-H95 Other disorders of ear,H90-H95 Other disorders of ear,3,0.008955223880597015
+B00-B09 Viral infections characterized by skin and mucous membrane lesions,B00-B09 Viral infections characterized by skin and mucous membrane lesions,2,0.005970149253731343
+K55-K64 Other diseases of intestines,K55-K64 Other diseases of intestines,2,0.005970149253731343
+A30-A49 Other bacterial diseases,A30-A49 Other bacterial diseases,2,0.005970149253731343
+J30-J39 Other diseases of upper respiratory tract,J30-J39 Other diseases of upper respiratory tract,2,0.005970149253731343
+B99-B99 Other infectious diseases,B99-B99 Other infectious diseases,2,0.005970149253731343
+M40-M54 Dorsopathies,M40-M54 Dorsopathies,2,0.005970149253731343
+H60-H62 Diseases of external ear,H60-H62 Diseases of external ear,1,0.0029850746268656717
+M80-M94 Osteopathies and chondropathies,M80-M94 Osteopathies and chondropathies,1,0.0029850746268656717
+"K00-K14 Diseases of oral cavity, salivary glands and jaws","K00-K14 Diseases of oral cavity, salivary glands and jaws",1,0.0029850746268656717
+S80-S89 Injuries to the knee and lower leg,S80-S89 Injuries to the knee and lower leg,1,0.0029850746268656717
+L00-L08 Infections of the skin and subcutaneous tissue,L00-L08 Infections of the skin and subcutaneous tissue,1,0.0029850746268656717
+R00-R09 Symptoms and signs involving the circulatory and respiratory systems,R00-R09 Symptoms and signs involving the circulatory and respiratory systems,1,0.0029850746268656717
+N70-N77 Inflammatory diseases of female pelvic organs,N70-N77 Inflammatory diseases of female pelvic organs,1,0.0029850746268656717
+S50-S59 Injuries to the elbow and forearm,S50-S59 Injuries to the elbow and forearm,1,0.0029850746268656717
+L50-L54 Urticaria and erythema,L50-L54 Urticaria and erythema,1,0.0029850746268656717
+"H00-H06 Disorders of eyelid, lacrimal system and orbit","H00-H06 Disorders of eyelid, lacrimal system and orbit",1,0.0029850746268656717
+G40-G47 Episodic and paroxysmal disorders,G40-G47 Episodic and paroxysmal disorders,1,0.0029850746268656717
+"I80-I89 Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified","I80-I89 Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",1,0.0029850746268656717
+K35-K38 Diseases of appendix,K35-K38 Diseases of appendix,1,0.0029850746268656717

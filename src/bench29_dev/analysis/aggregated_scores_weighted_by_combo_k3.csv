@@ -1,0 +1,3 @@
+model_prompt_combo,agg_severity_score_rescaled,agg_semantic_score_rescaled,n_cases
+c3opus_dxgpt_prompt,-0.2433,-0.3974,74
+llama2_7b_dxgpt_prompt,-0.5155,-0.6935,75

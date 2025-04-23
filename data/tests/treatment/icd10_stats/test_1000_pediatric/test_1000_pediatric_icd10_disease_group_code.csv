@@ -1,0 +1,74 @@
+code,name,count,percentage
+J06.9,"Acute upper respiratory infection, unspecified",51,0.1650485436893204
+J02.9,"Acute pharyngitis, unspecified",41,0.13268608414239483
+H66.9,"Otitis media, unspecified",24,0.07766990291262135
+J98.0,"Diseases of bronchus, not elsewhere classified",19,0.061488673139158574
+J03.9,"Acute tonsillitis, unspecified",16,0.05177993527508091
+J04.0,Acute laryngitis,16,0.05177993527508091
+J21.9,"Acute bronchiolitis, unspecified",14,0.045307443365695796
+K52.9,"Noninfective gastroenteritis and colitis, unspecified",8,0.025889967637540454
+J20.9,"Acute bronchitis, unspecified",8,0.025889967637540454
+H10.3,Unspecified acute conjunctivitis,7,0.022653721682847898
+J11.1,Influenza due to unidentified influenza virus with other respiratory manifestations,6,0.019417475728155338
+J98.8,Other specified respiratory disorders,5,0.016181229773462782
+B34.9,"Viral infection, unspecified",5,0.016181229773462782
+R50.9,"Fever, unspecified",5,0.016181229773462782
+R10.9,Unspecified abdominal pain,4,0.012944983818770227
+H92.0,Otalgia,3,0.009708737864077669
+J18.9,"Pneumonia, unspecified organism",3,0.009708737864077669
+N39.0,"Urinary tract infection, site not specified",3,0.009708737864077669
+S60.0,Contusion of finger without damage to nail,3,0.009708737864077669
+S60.2,Contusion of wrist and hand,2,0.006472491909385114
+K59.0,Constipation,2,0.006472491909385114
+J03.0,Streptococcal tonsillitis,2,0.006472491909385114
+H65.9,Unspecified nonsuppurative otitis media,2,0.006472491909385114
+B99.9,Unspecified infectious disease,2,0.006472491909385114
+J32.9,"Chronic sinusitis, unspecified",2,0.006472491909385114
+A38.9,"Scarlet fever, uncomplicated",2,0.006472491909385114
+M25.5,Pain in joint,2,0.006472491909385114
+J02.0,Streptococcal pharyngitis,2,0.006472491909385114
+M12.5,Traumatic arthropathy,2,0.006472491909385114
+B27.9,"Infectious mononucleosis, unspecified",2,0.006472491909385114
+S63.6,Other and unspecified sprain of finger(s),2,0.006472491909385114
+J98.4,Other disorders of lung,2,0.006472491909385114
+L30.9,"Dermatitis, unspecified",2,0.006472491909385114
+M76.8,"Other specified enthesopathies of lower limb, excluding foot",1,0.003236245954692557
+M54.5,Low back pain,1,0.003236245954692557
+S80.1,Contusion of lower leg,1,0.003236245954692557
+S61.2,Open wound of other finger without damage to nail,1,0.003236245954692557
+S09.9,Unspecified injury of face and head,1,0.003236245954692557
+S93.4,Sprain of ankle,1,0.003236245954692557
+B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis,1,0.003236245954692557
+K06.8,Other specified disorders of gingiva and edentulous alveolar ridge,1,0.003236245954692557
+R11.1,Vomiting,1,0.003236245954692557
+B08.5,Enteroviral vesicular pharyngitis,1,0.003236245954692557
+M93.8,Other specified osteochondropathies,1,0.003236245954692557
+S06.9,Unspecified intracranial injury,1,0.003236245954692557
+R51.9,"Headache, unspecified",1,0.003236245954692557
+H11.3,Conjunctival hemorrhage,1,0.003236245954692557
+H60.9,Unspecified otitis externa,1,0.003236245954692557
+J18.0,"Bronchopneumonia, unspecified organism",1,0.003236245954692557
+J10.1,Influenza due to other identified influenza virus with other respiratory manifestations,1,0.003236245954692557
+J02.8,Acute pharyngitis due to other specified organisms,1,0.003236245954692557
+H66.4,"Suppurative otitis media, unspecified",1,0.003236245954692557
+M54.2,Cervicalgia,1,0.003236245954692557
+M79.6,"Pain in limb, hand, foot, fingers and toes",1,0.003236245954692557
+G43.1,Migraine with aura,1,0.003236245954692557
+L08.9,"Local infection of the skin and subcutaneous tissue, unspecified",1,0.003236245954692557
+S93.6,Sprain of foot,1,0.003236245954692557
+H10.9,Unspecified conjunctivitis,1,0.003236245954692557
+H00.0,Hordeolum (externum) (internum) of eyelid,1,0.003236245954692557
+S00.8,Superficial injury of other parts of head,1,0.003236245954692557
+J04.2,Acute laryngotracheitis,1,0.003236245954692557
+L50.9,"Urticaria, unspecified",1,0.003236245954692557
+I88.9,"Nonspecific lymphadenitis, unspecified",1,0.003236245954692557
+S90.1,Contusion of toe without damage to nail,1,0.003236245954692557
+M65.9,"Synovitis and tenosynovitis, unspecified",1,0.003236245954692557
+S50.0,Contusion of elbow,1,0.003236245954692557
+N76.0,Acute vaginitis,1,0.003236245954692557
+S05.9,Unspecified injury of eye and orbit,1,0.003236245954692557
+H66.0,Acute suppurative otitis media,1,0.003236245954692557
+J21.0,Acute bronchiolitis due to respiratory syncytial virus,1,0.003236245954692557
+R09.8,Other specified symptoms and signs involving the circulatory and respiratory systems,1,0.003236245954692557
+S01.9,Open wound of unspecified part of head,1,0.003236245954692557
+K35.8,Other and unspecified acute appendicitis,1,0.003236245954692557

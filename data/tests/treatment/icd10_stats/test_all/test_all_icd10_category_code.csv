@@ -1,0 +1,372 @@
+code,name,count,percentage
+J06,Acute upper respiratory infections of multiple and unspecified sites,410,0.06554756195043965
+B34,Viral infection of unspecified site,382,0.061071143085531576
+J98,Other respiratory disorders,371,0.05931254996003198
+J02,Acute pharyngitis,342,0.05467625899280575
+J03,Acute tonsillitis,266,0.0425259792166267
+J00,Acute nasopharyngitis [common cold],257,0.04108713029576339
+M54,Dorsalgia,213,0.03405275779376499
+H66,Suppurative and unspecified otitis media,185,0.029576338928856916
+N39,Other disorders of urinary system,165,0.026378896882494004
+K52,Other and unspecified noninfective gastroenteritis and colitis,150,0.023980815347721823
+J04,Acute laryngitis and tracheitis,115,0.01838529176658673
+R10,Abdominal and pelvic pain,115,0.01838529176658673
+S93,"Dislocation and sprain of joints and ligaments at ankle, foot and toe level",114,0.018225419664268584
+H10,Conjunctivitis,108,0.017266187050359712
+J20,Acute bronchitis,93,0.01486810551558753
+J18,"Pneumonia, unspecified organism",82,0.01310951239008793
+R07,Pain in throat and chest,77,0.012310151878497202
+M25,"Other joint disorder, not elsewhere classified",73,0.01167066346922462
+U07,Emergency use of U07,70,0.011191047162270184
+S60,"Superficial injury of wrist, hand and fingers",65,0.010391686650679457
+J22,Unspecified acute lower respiratory infection,62,0.00991207034372502
+J21,Acute bronchiolitis,50,0.007993605115907274
+H60,Otitis externa,50,0.007993605115907274
+N23,Unspecified renal colic,50,0.007993605115907274
+S90,"Superficial injury of ankle, foot and toes",49,0.007833733013589129
+S61,"Open wound of wrist, hand and fingers",48,0.007673860911270983
+S63,Dislocation and sprain of joints and ligaments at wrist and hand level,47,0.007513988808952838
+J40,"Bronchitis, not specified as acute or chronic",46,0.0073541167066346926
+M79,"Other and unspecified soft tissue disorders, not elsewhere classified",44,0.007034372501998401
+R51,Headache,38,0.006075139888089528
+N30,Cystitis,38,0.006075139888089528
+J32,Chronic sinusitis,38,0.006075139888089528
+H81,Disorders of vestibular function,35,0.005595523581135092
+R50,Fever of other and unknown origin,34,0.005435651478816947
+J11,Influenza due to unidentified influenza virus,33,0.005275779376498801
+S20,Superficial injury of thorax,32,0.005115907274180656
+R05,Cough,32,0.005115907274180656
+T14,Injury of unspecified body region,32,0.005115907274180656
+T78,"Adverse effects, not elsewhere classified",31,0.00495603517186251
+M65,Synovitis and tenosynovitis,31,0.00495603517186251
+S80,Superficial injury of knee and lower leg,30,0.004796163069544364
+L03,Cellulitis and acute lymphangitis,29,0.004636290967226219
+S01,Open wound of head,29,0.004636290967226219
+L50,Urticaria,28,0.004476418864908073
+M77,Other enthesopathies,27,0.004316546762589928
+R19,Other symptoms and signs involving the digestive system and abdomen,26,0.0041566746602717825
+M76,"Enthesopathies, lower limb, excluding foot",26,0.0041566746602717825
+R55,Syncope and collapse,26,0.0041566746602717825
+F41,Other anxiety disorders,24,0.0038369304556354917
+G43,Migraine,24,0.0038369304556354917
+M75,Shoulder lesions,24,0.0038369304556354917
+H11,Other disorders of conjunctiva,24,0.0038369304556354917
+R11,Nausea and vomiting,23,0.0036770583533173463
+H00,Hordeolum and chalazion,23,0.0036770583533173463
+S52,Fracture of forearm,22,0.0035171862509992004
+S06,Intracranial injury,22,0.0035171862509992004
+S09,Other and unspecified injuries of head,22,0.0035171862509992004
+J01,Acute sinusitis,21,0.003357314148681055
+L02,"Cutaneous abscess, furuncle and carbuncle",20,0.0031974420463629096
+L30,Other and unspecified dermatitis,19,0.003037569944044764
+M62,Other disorders of muscle,19,0.003037569944044764
+M70,"Soft tissue disorders related to use, overuse and pressure",18,0.0028776978417266188
+S62,Fracture at wrist and hand level,18,0.0028776978417266188
+B99,Other and unspecified infectious diseases,18,0.0028776978417266188
+S50,Superficial injury of elbow and forearm,18,0.0028776978417266188
+J45,Asthma,17,0.0027178257394084734
+I16,Hypertensive crisis,17,0.0027178257394084734
+H92,Otalgia and effusion of ear,17,0.0027178257394084734
+S30,"Superficial injury of abdomen, lower back, pelvis and external genitals",16,0.002557953637090328
+B02,Zoster [herpes zoster],16,0.002557953637090328
+H65,Nonsuppurative otitis media,15,0.002398081534772182
+S99,Other and unspecified injuries of ankle and foot,14,0.0022382094324540367
+J96,"Respiratory failure, not elsewhere classified",14,0.0022382094324540367
+H01,Other inflammation of eyelid,13,0.0020783373301358913
+K59,Other functional intestinal disorders,13,0.0020783373301358913
+S92,"Fracture of foot and toe, except ankle",13,0.0020783373301358913
+S83,Dislocation and sprain of joints and ligaments of knee,13,0.0020783373301358913
+K08,Other disorders of teeth and supporting structures,13,0.0020783373301358913
+M12,Other and unspecified arthropathy,13,0.0020783373301358913
+S42,Fracture of shoulder and upper arm,13,0.0020783373301358913
+S86,"Injury of muscle, fascia and tendon at lower leg level",13,0.0020783373301358913
+I10,Essential (primary) hypertension,13,0.0020783373301358913
+R14,Flatulence and related conditions,12,0.0019184652278177458
+M93,Other osteochondropathies,12,0.0019184652278177458
+M51,"Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders",12,0.0019184652278177458
+H61,Other disorders of external ear,12,0.0019184652278177458
+B27,Infectious mononucleosis,11,0.0017585931254996002
+S82,"Fracture of lower leg, including ankle",11,0.0017585931254996002
+G44,Other headache syndromes,11,0.0017585931254996002
+I50,Heart failure,11,0.0017585931254996002
+M10,Gout,11,0.0017585931254996002
+K35,Acute appendicitis,10,0.0015987210231814548
+K11,Diseases of salivary glands,10,0.0015987210231814548
+H16,Keratitis,10,0.0015987210231814548
+H53,Visual disturbances,10,0.0015987210231814548
+G58,Other mononeuropathies,10,0.0015987210231814548
+K64,Hemorrhoids and perianal venous thrombosis,10,0.0015987210231814548
+R00,Abnormalities of heart beat,10,0.0015987210231814548
+R42,Dizziness and giddiness,10,0.0015987210231814548
+L60,Nail disorders,9,0.0014388489208633094
+R52,"Pain, unspecified",9,0.0014388489208633094
+N41,Inflammatory diseases of prostate,9,0.0014388489208633094
+R59,Enlarged lymph nodes,9,0.0014388489208633094
+S29,Other and unspecified injuries of thorax,9,0.0014388489208633094
+K57,Diverticular disease of intestine,9,0.0014388489208633094
+R33,Retention of urine,9,0.0014388489208633094
+M17,Osteoarthritis of knee,9,0.0014388489208633094
+J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",9,0.0014388489208633094
+S00,Superficial injury of head,8,0.001278976818545164
+T81,"Complications of procedures, not elsewhere classified",8,0.001278976818545164
+R53,Malaise and fatigue,8,0.001278976818545164
+J44,Other chronic obstructive pulmonary disease,8,0.001278976818545164
+L20,Atopic dermatitis,8,0.001278976818545164
+R20,Disturbances of skin sensation,8,0.001278976818545164
+I48,Atrial fibrillation and flutter,8,0.001278976818545164
+M13,Other arthritis,8,0.001278976818545164
+R04,Hemorrhage from respiratory passages,8,0.001278976818545164
+S05,Injury of eye and orbit,8,0.001278976818545164
+N45,Orchitis and epididymitis,8,0.001278976818545164
+M94,Other disorders of cartilage,7,0.0011191047162270183
+S02,Fracture of skull and facial bones,7,0.0011191047162270183
+K60,Fissure and fistula of anal and rectal regions,7,0.0011191047162270183
+I49,Other cardiac arrhythmias,7,0.0011191047162270183
+N50,Other and unspecified disorders of male genital organs,7,0.0011191047162270183
+Z53,"Persons encountering health services for specific procedures and treatment, not carried out",7,0.0011191047162270183
+M53,"Other and unspecified dorsopathies, not elsewhere classified",7,0.0011191047162270183
+K80,Cholelithiasis,7,0.0011191047162270183
+M72,Fibroblastic disorders,7,0.0011191047162270183
+M19,Other and unspecified osteoarthritis,7,0.0011191047162270183
+K62,Other diseases of anus and rectum,7,0.0011191047162270183
+R21,Rash and other nonspecific skin eruption,7,0.0011191047162270183
+B37,Candidiasis,7,0.0011191047162270183
+S76,"Injury of muscle, fascia and tendon at hip and thigh level",6,0.0009592326139088729
+K12,Stomatitis and related lesions,6,0.0009592326139088729
+K29,Gastritis and duodenitis,6,0.0009592326139088729
+K30,Functional dyspepsia,6,0.0009592326139088729
+T17,Foreign body in respiratory tract,6,0.0009592326139088729
+S13,Dislocation and sprain of joints and ligaments at neck level,6,0.0009592326139088729
+K56,Paralytic ileus and intestinal obstruction without hernia,5,0.0007993605115907274
+J10,Influenza due to other identified influenza virus,5,0.0007993605115907274
+H57,Other disorders of eye and adnexa,5,0.0007993605115907274
+R22,"Localized swelling, mass and lump of skin and subcutaneous tissue",5,0.0007993605115907274
+G45,Transient cerebral ischemic attacks and related syndromes,5,0.0007993605115907274
+S70,Superficial injury of hip and thigh,5,0.0007993605115907274
+L22,Diaper dermatitis,5,0.0007993605115907274
+H43,Disorders of vitreous body,5,0.0007993605115907274
+A08,Viral and other specified intestinal infections,5,0.0007993605115907274
+N48,Other disorders of penis,5,0.0007993605115907274
+S32,Fracture of lumbar spine and pelvis,5,0.0007993605115907274
+M89,Other disorders of bone,5,0.0007993605115907274
+G89,"Pain, not elsewhere classified",5,0.0007993605115907274
+G57,Mononeuropathies of lower limb,5,0.0007993605115907274
+K92,Other diseases of digestive system,4,0.000639488409272582
+L08,Other local infections of skin and subcutaneous tissue,4,0.000639488409272582
+N76,Other inflammation of vagina and vulva,4,0.000639488409272582
+B36,Other superficial mycoses,4,0.000639488409272582
+E11,Type 2 diabetes mellitus,4,0.000639488409272582
+F43,"Reaction to severe stress, and adjustment disorders",4,0.000639488409272582
+R30,Pain associated with micturition,4,0.000639488409272582
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",4,0.000639488409272582
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,4,0.000639488409272582
+A09,"Infectious gastroenteritis and colitis, unspecified",4,0.000639488409272582
+S43,Dislocation and sprain of joints and ligaments of shoulder girdle,4,0.000639488409272582
+L28,Lichen simplex chronicus and prurigo,4,0.000639488409272582
+N10,Acute pyelonephritis,4,0.000639488409272582
+K13,Other diseases of lip and oral mucosa,4,0.000639488409272582
+L01,Impetigo,4,0.000639488409272582
+S53,Dislocation and sprain of joints and ligaments of elbow,4,0.000639488409272582
+M23,Internal derangement of knee,4,0.000639488409272582
+S40,Superficial injury of shoulder and upper arm,4,0.000639488409272582
+K61,Abscess of anal and rectal regions,4,0.000639488409272582
+R60,"Edema, not elsewhere classified",4,0.000639488409272582
+K85,Acute pancreatitis,4,0.000639488409272582
+K04,Diseases of pulp and periapical tissues,4,0.000639488409272582
+R39,Other and unspecified symptoms and signs involving the genitourinary system,4,0.000639488409272582
+L05,Pilonidal cyst and sinus,4,0.000639488409272582
+S69,"Other and unspecified injuries of wrist, hand and finger(s)",4,0.000639488409272582
+M71,Other bursopathies,4,0.000639488409272582
+J36,Peritonsillar abscess,4,0.000639488409272582
+S81,Open wound of knee and lower leg,4,0.000639488409272582
+N34,Urethritis and urethral syndrome,4,0.000639488409272582
+H73,Other disorders of tympanic membrane,4,0.000639488409272582
+S72,Fracture of femur,3,0.00047961630695443646
+L98,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",3,0.00047961630695443646
+I20,Angina pectoris,3,0.00047961630695443646
+T23,Burn and corrosion of wrist and hand,3,0.00047961630695443646
+Z48,Encounter for other postprocedural aftercare,3,0.00047961630695443646
+N13,Obstructive and reflux uropathy,3,0.00047961630695443646
+S22,"Fracture of rib(s), sternum and thoracic spine",3,0.00047961630695443646
+B30,Viral conjunctivitis,3,0.00047961630695443646
+R31,Hematuria,3,0.00047961630695443646
+Z76,Persons encountering health services in other circumstances,3,0.00047961630695443646
+S91,"Open wound of ankle, foot and toes",3,0.00047961630695443646
+R06,Abnormalities of breathing,3,0.00047961630695443646
+N64,Other disorders of breast,3,0.00047961630695443646
+I47,Paroxysmal tachycardia,3,0.00047961630695443646
+A64,Unspecified sexually transmitted disease,3,0.00047961630695443646
+J30,Vasomotor and allergic rhinitis,3,0.00047961630695443646
+A38,Scarlet fever,3,0.00047961630695443646
+D64,Other anemias,3,0.00047961630695443646
+L72,Follicular cysts of skin and subcutaneous tissue,3,0.00047961630695443646
+I63,Cerebral infarction,3,0.00047961630695443646
+K81,Cholecystitis,3,0.00047961630695443646
+R58,"Hemorrhage, not elsewhere classified",3,0.00047961630695443646
+L73,Other follicular disorders,3,0.00047961630695443646
+M47,Spondylosis,3,0.00047961630695443646
+T18,Foreign body in alimentary tract,3,0.00047961630695443646
+N20,Calculus of kidney and ureter,2,0.000319744204636291
+S71,Open wound of hip and thigh,2,0.000319744204636291
+K05,Gingivitis and periodontal diseases,2,0.000319744204636291
+L25,Unspecified contact dermatitis,2,0.000319744204636291
+D49,Neoplasms of unspecified behavior,2,0.000319744204636291
+M24,Other specific joint derangements,2,0.000319744204636291
+H72,Perforation of tympanic membrane,2,0.000319744204636291
+M26,Dentofacial anomalies [including malocclusion],2,0.000319744204636291
+J68,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapors",2,0.000319744204636291
+M43,Other deforming dorsopathies,2,0.000319744204636291
+E87,"Other disorders of fluid, electrolyte and acid-base balance",2,0.000319744204636291
+B00,Herpesviral [herpes simplex] infections,2,0.000319744204636291
+I30,Acute pericarditis,2,0.000319744204636291
+M18,Osteoarthritis of first carpometacarpal joint,2,0.000319744204636291
+S21,Open wound of thorax,2,0.000319744204636291
+B07,Viral warts,2,0.000319744204636291
+S39,"Other and unspecified injuries of abdomen, lower back, pelvis and external genitals",2,0.000319744204636291
+I80,Phlebitis and thrombophlebitis,2,0.000319744204636291
+O99,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",2,0.000319744204636291
+N49,"Inflammatory disorders of male genital organs, not elsewhere classified",2,0.000319744204636291
+J47,Bronchiectasis,2,0.000319744204636291
+K65,Peritonitis,2,0.000319744204636291
+L53,Other erythematous conditions,2,0.000319744204636291
+M16,Osteoarthritis of hip,2,0.000319744204636291
+K06,Other disorders of gingiva and edentulous alveolar ridge,2,0.000319744204636291
+T20,"Burn and corrosion of head, face, and neck",2,0.000319744204636291
+W19,Unspecified fall,2,0.000319744204636291
+N99,"Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified",2,0.000319744204636291
+D36,Benign neoplasm of other and unspecified sites,2,0.000319744204636291
+H93,"Other disorders of ear, not elsewhere classified",2,0.000319744204636291
+N94,Pain and other conditions associated with female genital organs and menstrual cycle,2,0.000319744204636291
+R35,Polyuria,2,0.000319744204636291
+S46,"Injury of muscle, fascia and tendon at shoulder and upper arm level",2,0.000319744204636291
+J39,Other diseases of upper respiratory tract,2,0.000319744204636291
+T25,Burn and corrosion of ankle and foot,2,0.000319744204636291
+M22,Disorder of patella,2,0.000319744204636291
+R09,Other symptoms and signs involving the circulatory and respiratory system,2,0.000319744204636291
+B86,Scabies,2,0.000319744204636291
+K21,Gastro-esophageal reflux disease,2,0.000319744204636291
+L29,Pruritus,2,0.000319744204636291
+R49,Voice and resonance disorders,2,0.000319744204636291
+I31,Other diseases of pericardium,2,0.000319744204636291
+L76,Intraoperative and postprocedural complications of skin and subcutaneous tissue,2,0.000319744204636291
+L23,Allergic contact dermatitis,2,0.000319744204636291
+R25,Abnormal involuntary movements,2,0.000319744204636291
+Z79,Long term (current) drug therapy,2,0.000319744204636291
+R56,"Convulsions, not elsewhere classified",2,0.000319744204636291
+L27,Dermatitis due to substances taken internally,2,0.000319744204636291
+H15,Disorders of sclera,2,0.000319744204636291
+J12,"Viral pneumonia, not elsewhere classified",2,0.000319744204636291
+R79,Other abnormal findings of blood chemistry,2,0.000319744204636291
+M50,Cervical disc disorders,1,0.0001598721023181455
+Z72,Problems related to lifestyle,1,0.0001598721023181455
+E10,Type 1 diabetes mellitus,1,0.0001598721023181455
+Z78,Other specified health status,1,0.0001598721023181455
+B35,Dermatophytosis,1,0.0001598721023181455
+T30,"Burn and corrosion, body region unspecified",1,0.0001598721023181455
+G90,Disorders of autonomic nervous system,1,0.0001598721023181455
+I83,Varicose veins of lower extremities,1,0.0001598721023181455
+R17,Unspecified jaundice,1,0.0001598721023181455
+K40,Inguinal hernia,1,0.0001598721023181455
+I82,Other venous embolism and thrombosis,1,0.0001598721023181455
+T85,"Complications of other internal prosthetic devices, implants and grafts",1,0.0001598721023181455
+S36,Injury of intra-abdominal organs,1,0.0001598721023181455
+I21,Acute myocardial infarction,1,0.0001598721023181455
+H44,Disorders of globe,1,0.0001598721023181455
+J05,Acute obstructive laryngitis [croup] and epiglottitis,1,0.0001598721023181455
+M04,Autoinflammatory syndromes,1,0.0001598721023181455
+A74,Other diseases caused by chlamydiae,1,0.0001598721023181455
+F45,Somatoform disorders,1,0.0001598721023181455
+N32,Other disorders of bladder,1,0.0001598721023181455
+G47,Sleep disorders,1,0.0001598721023181455
+T21,Burn and corrosion of trunk,1,0.0001598721023181455
+R36,Urethral discharge,1,0.0001598721023181455
+R73,Elevated blood glucose level,1,0.0001598721023181455
+I75,Atheroembolism,1,0.0001598721023181455
+J69,Pneumonitis due to solids and liquids,1,0.0001598721023181455
+L91,Hypertrophic disorders of skin,1,0.0001598721023181455
+N28,"Other disorders of kidney and ureter, not elsewhere classified",1,0.0001598721023181455
+I99,Other and unspecified disorders of circulatory system,1,0.0001598721023181455
+Z51,Encounter for other aftercare and medical care,1,0.0001598721023181455
+S79,Other and unspecified injuries of hip and thigh,1,0.0001598721023181455
+P51,Umbilical hemorrhage of newborn,1,0.0001598721023181455
+Z83,Family history of other specific disorders,1,0.0001598721023181455
+G04,"Encephalitis, myelitis and encephalomyelitis",1,0.0001598721023181455
+N05,Unspecified nephritic syndrome,1,0.0001598721023181455
+R63,Symptoms and signs concerning food and fluid intake,1,0.0001598721023181455
+R16,"Hepatomegaly and splenomegaly, not elsewhere classified",1,0.0001598721023181455
+A15,Respiratory tuberculosis,1,0.0001598721023181455
+S89,Other and unspecified injuries of lower leg,1,0.0001598721023181455
+M81,Osteoporosis without current pathological fracture,1,0.0001598721023181455
+M02,Postinfective and reactive arthropathies,1,0.0001598721023181455
+T65,Toxic effect of other and unspecified substances,1,0.0001598721023181455
+T84,"Complications of internal orthopedic prosthetic devices, implants and grafts",1,0.0001598721023181455
+W54,Contact with dog,1,0.0001598721023181455
+I26,Pulmonary embolism,1,0.0001598721023181455
+S49,Other and unspecified injuries of shoulder and upper arm,1,0.0001598721023181455
+L70,Acne,1,0.0001598721023181455
+L82,Seborrheic keratosis,1,0.0001598721023181455
+H04,Disorders of lacrimal system,1,0.0001598721023181455
+A41,Other sepsis,1,0.0001598721023181455
+Z95,Presence of cardiac and vascular implants and grafts,1,0.0001598721023181455
+K91,"Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified",1,0.0001598721023181455
+P38,Omphalitis of newborn,1,0.0001598721023181455
+Q18,Other congenital malformations of face and neck,1,0.0001598721023181455
+R68,Other general symptoms and signs,1,0.0001598721023181455
+N47,Disorders of prepuce,1,0.0001598721023181455
+K02,Dental caries,1,0.0001598721023181455
+H02,Other disorders of eyelid,1,0.0001598721023181455
+N36,Other disorders of urethra,1,0.0001598721023181455
+I87,Other disorders of veins,1,0.0001598721023181455
+Z34,Encounter for supervision of normal pregnancy,1,0.0001598721023181455
+K31,Other diseases of stomach and duodenum,1,0.0001598721023181455
+T22,"Burn and corrosion of shoulder and upper limb, except wrist and hand",1,0.0001598721023181455
+F79,Unspecified intellectual disabilities,1,0.0001598721023181455
+T15,Foreign body on external eye,1,0.0001598721023181455
+H20,Iridocyclitis,1,0.0001598721023181455
+Z23,Encounter for immunization,1,0.0001598721023181455
+M06,Other rheumatoid arthritis,1,0.0001598721023181455
+Z20,Contact with and (suspected) exposure to communicable diseases,1,0.0001598721023181455
+N18,Chronic kidney disease (CKD),1,0.0001598721023181455
+J84,Other interstitial pulmonary diseases,1,0.0001598721023181455
+E86,Volume depletion,1,0.0001598721023181455
+H80,Otosclerosis,1,0.0001598721023181455
+B85,Pediculosis and phthiriasis,1,0.0001598721023181455
+L13,Other bullous disorders,1,0.0001598721023181455
+I88,Nonspecific lymphadenitis,1,0.0001598721023181455
+B49,Unspecified mycosis,1,0.0001598721023181455
+S65,Injury of blood vessels at wrist and hand level,1,0.0001598721023181455
+J34,Other and unspecified disorders of nose and nasal sinuses,1,0.0001598721023181455
+M20,Acquired deformities of fingers and toes,1,0.0001598721023181455
+B80,Enterobiasis,1,0.0001598721023181455
+N73,Other female pelvic inflammatory diseases,1,0.0001598721023181455
+P83,Other conditions of integument specific to newborn,1,0.0001598721023181455
+S59,Other and unspecified injuries of elbow and forearm,1,0.0001598721023181455
+K14,Diseases of tongue,1,0.0001598721023181455
+K90,Intestinal malabsorption,1,0.0001598721023181455
+S66,"Injury of muscle, fascia and tendon at wrist and hand level",1,0.0001598721023181455
+K58,Irritable bowel syndrome,1,0.0001598721023181455
+L97,"Non-pressure chronic ulcer of lower limb, not elsewhere classified",1,0.0001598721023181455
+T83,"Complications of genitourinary prosthetic devices, implants and grafts",1,0.0001598721023181455
+N89,Other noninflammatory disorders of vagina,1,0.0001598721023181455
+D32,Benign neoplasm of meninges,1,0.0001598721023181455
+L40,Psoriasis,1,0.0001598721023181455
+Z86,Personal history of certain other diseases,1,0.0001598721023181455
+G83,Other paralytic syndromes,1,0.0001598721023181455
+T16,Foreign body in ear,1,0.0001598721023181455
+M67,Other disorders of synovium and tendon,1,0.0001598721023181455
+R23,Other skin changes,1,0.0001598721023181455
+T50,"Poisoning by, adverse effect of and underdosing of diuretics and other and unspecified drugs, medicaments and biological substances",1,0.0001598721023181455
+R41,Other symptoms and signs involving cognitive functions and awareness,1,0.0001598721023181455
+Z93,Artificial opening status,1,0.0001598721023181455
+H40,Glaucoma,1,0.0001598721023181455
+Z90,"Acquired absence of organs, not elsewhere classified",1,0.0001598721023181455
+F03,Unspecified dementia,1,0.0001598721023181455
+M92,Other juvenile osteochondrosis,1,0.0001598721023181455
+L42,Pityriasis rosea,1,0.0001598721023181455
+G51,Facial nerve disorders,1,0.0001598721023181455
+N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",1,0.0001598721023181455
+Q82,Other congenital malformations of skin,1,0.0001598721023181455
+Z98,Other postprocedural states,1,0.0001598721023181455
+N40,Benign prostatic hyperplasia,1,0.0001598721023181455
+K42,Umbilical hernia,1,0.0001598721023181455
+I25,Chronic ischemic heart disease,1,0.0001598721023181455

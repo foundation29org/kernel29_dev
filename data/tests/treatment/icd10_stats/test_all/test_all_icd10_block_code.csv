@@ -1,0 +1,125 @@
+code,name,count,percentage
+J00-J06 Acute upper respiratory infections,J00-J06 Acute upper respiratory infections,1412,0.2257394084732214
+B25-B34 Other viral diseases,B25-B34 Other viral diseases,396,0.06330935251798561
+J95-J99 Other diseases of the respiratory system,J95-J99 Other diseases of the respiratory system,385,0.06155075939248601
+M40-M54 Dorsopathies,M40-M54 Dorsopathies,238,0.03804956035171862
+N30-N39 Other diseases of urinary system,N30-N39 Other diseases of urinary system,210,0.03357314148681055
+H65-H75 Diseases of middle ear and mastoid,H65-H75 Diseases of middle ear and mastoid,206,0.03293365307753797
+J20-J22 Other acute lower respiratory infections,J20-J22 Other acute lower respiratory infections,205,0.032773780975219824
+M60-M79 Soft tissue disorders,M60-M79 Soft tissue disorders,201,0.03213429256594724
+S90-S99 Injuries to the ankle and foot,S90-S99 Injuries to the ankle and foot,193,0.03085531574740208
+S60-S69 Injuries to the wrist and hand,S60-S69 Injuries to the wrist and hand,184,0.02941646682653877
+R10-R19 Symptoms and signs involving the digestive system and abdomen,R10-R19 Symptoms and signs involving the digestive system and abdomen,178,0.028457234212629898
+K50-K52 Noninfective enteritis and colitis,K50-K52 Noninfective enteritis and colitis,150,0.023980815347721823
+M00-M25 Arthropathies,M00-M25 Arthropathies,137,0.021902478017585932
+R50-R69 General symptoms and signs,R50-R69 General symptoms and signs,135,0.02158273381294964
+R00-R09 Symptoms and signs involving the circulatory and respiratory systems,R00-R09 Symptoms and signs involving the circulatory and respiratory systems,132,0.021103117505995205
+H10-H13 Disorders of conjunctiva,H10-H13 Disorders of conjunctiva,132,0.021103117505995205
+J09-J18 Influenza and pneumonia,J09-J18 Influenza and pneumonia,122,0.019504396482813748
+S00-S09 Injuries to the head,S00-S09 Injuries to the head,96,0.015347721822541967
+J40-J4A Chronic lower respiratory diseases,J40-J4A Chronic lower respiratory diseases,73,0.01167066346922462
+S80-S89 Injuries to the knee and lower leg,S80-S89 Injuries to the knee and lower leg,72,0.011510791366906475
+U00-U49 Provisional assignment of new diseases of uncertain etiology or emergency use,U00-U49 Provisional assignment of new diseases of uncertain etiology or emergency use,70,0.011191047162270184
+H60-H62 Diseases of external ear,H60-H62 Diseases of external ear,62,0.00991207034372502
+L00-L08 Infections of the skin and subcutaneous tissue,L00-L08 Infections of the skin and subcutaneous tissue,61,0.009752198241406874
+J30-J39 Other diseases of upper respiratory tract,J30-J39 Other diseases of upper respiratory tract,57,0.009112709832134292
+K55-K64 Other diseases of intestines,K55-K64 Other diseases of intestines,56,0.008952837729816147
+N20-N23 Urolithiasis,N20-N23 Urolithiasis,52,0.008313349320543565
+S20-S29 Injuries to the thorax,S20-S29 Injuries to the thorax,46,0.0073541167066346926
+S50-S59 Injuries to the elbow and forearm,S50-S59 Injuries to the elbow and forearm,45,0.007194244604316547
+L20-L30 Dermatitis and eczema,L20-L30 Dermatitis and eczema,44,0.007034372501998401
+"K00-K14 Diseases of oral cavity, salivary glands and jaws","K00-K14 Diseases of oral cavity, salivary glands and jaws",43,0.0068745003996802554
+G40-G47 Episodic and paroxysmal disorders,G40-G47 Episodic and paroxysmal disorders,41,0.006554756195043965
+"H00-H06 Disorders of eyelid, lacrimal system and orbit","H00-H06 Disorders of eyelid, lacrimal system and orbit",38,0.006075139888089528
+H80-H83 Diseases of inner ear,H80-H83 Diseases of inner ear,36,0.0057553956834532375
+I30-I5A Other forms of heart disease,I30-I5A Other forms of heart disease,33,0.005275779376498801
+N40-N53 Diseases of male genital organs,N40-N53 Diseases of male genital organs,33,0.005275779376498801
+"T08-T14 Injuries to unspecified part of trunk, limb or body region","T08-T14 Injuries to unspecified part of trunk, limb or body region",32,0.005115907274180656
+T66-T78 Other and unspecified effects of external causes,T66-T78 Other and unspecified effects of external causes,31,0.00495603517186251
+I10-I1A Hypertensive diseases,I10-I1A Hypertensive diseases,30,0.004796163069544364
+L50-L54 Urticaria and erythema,L50-L54 Urticaria and erythema,30,0.004796163069544364
+"F40-F48 Neurotic, stress-related and somatoform disorders","F40-F48 Neurotic, stress-related and somatoform disorders",29,0.004636290967226219
+B00-B09 Viral infections characterized by skin and mucous membrane lesions,B00-B09 Viral infections characterized by skin and mucous membrane lesions,28,0.004476418864908073
+M80-M94 Osteopathies and chondropathies,M80-M94 Osteopathies and chondropathies,26,0.0041566746602717825
+S40-S49 Injuries to the shoulder and upper arm,S40-S49 Injuries to the shoulder and upper arm,24,0.0038369304556354917
+"S30-S39 Injuries to the abdomen, lower back, lumbar spine and pelvis","S30-S39 Injuries to the abdomen, lower back, lumbar spine and pelvis",24,0.0038369304556354917
+R30-R39 Symptoms and signs involving the urinary system,R30-R39 Symptoms and signs involving the urinary system,23,0.0036770583533173463
+R20-R23 Symptoms and signs involving the skin and subcutaneous tissue,R20-R23 Symptoms and signs involving the skin and subcutaneous tissue,21,0.003357314148681055
+H90-H95 Other disorders of ear,H90-H95 Other disorders of ear,19,0.003037569944044764
+B99-B99 Other infectious diseases,B99-B99 Other infectious diseases,18,0.0028776978417266188
+S70-S79 Injuries to the hip and thigh,S70-S79 Injuries to the hip and thigh,17,0.0027178257394084734
+"G50-G59 Nerve, nerve root and plexus disorders","G50-G59 Nerve, nerve root and plexus disorders",16,0.002557953637090328
+L60-L75 Disorders of skin appendages,L60-L75 Disorders of skin appendages,16,0.002557953637090328
+"K20-K31 Diseases of oesophagus, stomach and duodenum","K20-K31 Diseases of oesophagus, stomach and duodenum",15,0.002398081534772182
+"K80-K87 Disorders of gallbladder, biliary tract and pancreas","K80-K87 Disorders of gallbladder, biliary tract and pancreas",14,0.0022382094324540367
+B35-B49 Mycoses,B35-B49 Mycoses,13,0.0020783373301358913
+"H15-H22 Disorders of sclera, cornea, iris and ciliary body","H15-H22 Disorders of sclera, cornea, iris and ciliary body",13,0.0020783373301358913
+"T80-T88 Complications of surgical and medical care, not elsewhere classified","T80-T88 Complications of surgical and medical care, not elsewhere classified",11,0.0017585931254996002
+T15-T19 Effects of foreign body entering through natural orifice,T15-T19 Effects of foreign body entering through natural orifice,11,0.0017585931254996002
+"R40-R46 Symptoms and signs involving cognition, perception, emotional state and behaviour","R40-R46 Symptoms and signs involving cognition, perception, emotional state and behaviour",11,0.0017585931254996002
+Z40-Z54 Persons encountering health services for specific procedures and health care,Z40-Z54 Persons encountering health services for specific procedures and health care,11,0.0017585931254996002
+T20-T32 Burns and corrosions,T20-T32 Burns and corrosions,10,0.0015987210231814548
+H53-H54 Visual disturbances and blindness,H53-H54 Visual disturbances and blindness,10,0.0015987210231814548
+K35-K38 Diseases of appendix,K35-K38 Diseases of appendix,10,0.0015987210231814548
+Z77-Z99 Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z77-Z99 Persons with potential health hazards related to family and personal history and certain conditions influencing health status,9,0.0014388489208633094
+A00-A09 Intestinal infectious diseases,A00-A09 Intestinal infectious diseases,9,0.0014388489208633094
+N10-N16 Renal tubulo-interstitial diseases,N10-N16 Renal tubulo-interstitial diseases,7,0.0011191047162270183
+L80-L99 Other disorders of the skin and subcutaneous tissue,L80-L99 Other disorders of the skin and subcutaneous tissue,6,0.0009592326139088729
+S10-S19 Injuries to the neck,S10-S19 Injuries to the neck,6,0.0009592326139088729
+"I80-I89 Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified","I80-I89 Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",6,0.0009592326139088729
+K90-K95 Other diseases of the digestive system,K90-K95 Other diseases of the digestive system,6,0.0009592326139088729
+H43-H45 Disorders of vitreous body and globe,H43-H45 Disorders of vitreous body and globe,6,0.0009592326139088729
+G89-G99 Other disorders of the nervous system,G89-G99 Other disorders of the nervous system,6,0.0009592326139088729
+N70-N77 Inflammatory diseases of female pelvic organs,N70-N77 Inflammatory diseases of female pelvic organs,5,0.0007993605115907274
+H55-H59 Other disorders of eye and adnexa,H55-H59 Other disorders of eye and adnexa,5,0.0007993605115907274
+E08-E13 Diabetes mellitus,E08-E13 Diabetes mellitus,5,0.0007993605115907274
+I20-I25 Ischaemic heart diseases,I20-I25 Ischaemic heart diseases,5,0.0007993605115907274
+A30-A49 Other bacterial diseases,A30-A49 Other bacterial diseases,4,0.000639488409272582
+Z69-Z76 Persons encountering health services in other circumstances,Z69-Z76 Persons encountering health services in other circumstances,4,0.000639488409272582
+J60-J70 Lung diseases due to external agents,J60-J70 Lung diseases due to external agents,3,0.00047961630695443646
+A50-A64 Infections with a predominantly sexual mode of transmission,A50-A64 Infections with a predominantly sexual mode of transmission,3,0.00047961630695443646
+D10-D36 Benign neoplasms,D10-D36 Benign neoplasms,3,0.00047961630695443646
+N80-N98 Noninflammatory disorders of female genital tract,N80-N98 Noninflammatory disorders of female genital tract,3,0.00047961630695443646
+N60-N65 Disorders of breast,N60-N65 Disorders of breast,3,0.00047961630695443646
+"R70-R79 Abnormal findings on examination of blood, without diagnosis","R70-R79 Abnormal findings on examination of blood, without diagnosis",3,0.00047961630695443646
+"B85-B89 Pediculosis, acariasis and other infestations","B85-B89 Pediculosis, acariasis and other infestations",3,0.00047961630695443646
+D60-D64 Aplastic and other anaemias,D60-D64 Aplastic and other anaemias,3,0.00047961630695443646
+I60-I69 Cerebrovascular diseases,I60-I69 Cerebrovascular diseases,3,0.00047961630695443646
+E70-E90 Metabolic disorders,E70-E90 Metabolic disorders,3,0.00047961630695443646
+N99-N99 Other disorders of the genitourinary system,N99-N99 Other disorders of the genitourinary system,2,0.000319744204636291
+"W00-W19 Slipping, tripping, stumbling and falls","W00-W19 Slipping, tripping, stumbling and falls",2,0.000319744204636291
+L40-L45 Papulosquamous disorders,L40-L45 Papulosquamous disorders,2,0.000319744204636291
+"O94-O9A Other obstetric conditions, not elsewhere classified","O94-O9A Other obstetric conditions, not elsewhere classified",2,0.000319744204636291
+K65-K68 Diseases of peritoneum and retroperitoneum,K65-K68 Diseases of peritoneum and retroperitoneum,2,0.000319744204636291
+R47-R49 Symptoms and signs involving speech and voice,R47-R49 Symptoms and signs involving speech and voice,2,0.000319744204636291
+K40-K46 Hernia,K40-K46 Hernia,2,0.000319744204636291
+D49 Neoplasms of unspecified behavior,D49 Neoplasms of unspecified behavior,2,0.000319744204636291
+Z20-Z29 Persons with potential health hazards related to communicable diseases,Z20-Z29 Persons with potential health hazards related to communicable diseases,2,0.000319744204636291
+M26-M27 Dentofacial anomalies [including malocclusion] and other disorders of jaw,M26-M27 Dentofacial anomalies [including malocclusion] and other disorders of jaw,2,0.000319744204636291
+L76-L76 Intraoperative and postprocedural complications of skin and subcutaneous tissue,L76-L76 Intraoperative and postprocedural complications of skin and subcutaneous tissue,2,0.000319744204636291
+R25-R29 Symptoms and signs involving the nervous and musculoskeletal systems,R25-R29 Symptoms and signs involving the nervous and musculoskeletal systems,2,0.000319744204636291
+I95-I99 Other and unspecified disorders of the circulatory system,I95-I99 Other and unspecified disorders of the circulatory system,1,0.0001598721023181455
+J80-J84 Other respiratory diseases principally affecting the interstitium,J80-J84 Other respiratory diseases principally affecting the interstitium,1,0.0001598721023181455
+N00-N08 Glomerular diseases,N00-N08 Glomerular diseases,1,0.0001598721023181455
+"I70-I79 Diseases of arteries, arterioles and capillaries","I70-I79 Diseases of arteries, arterioles and capillaries",1,0.0001598721023181455
+I26-I28 Pulmonary heart disease and diseases of pulmonary circulation,I26-I28 Pulmonary heart disease and diseases of pulmonary circulation,1,0.0001598721023181455
+N17-N19 Renal failure,N17-N19 Renal failure,1,0.0001598721023181455
+N25-N29 Other disorders of kidney and ureter,N25-N29 Other disorders of kidney and ureter,1,0.0001598721023181455
+W50-W64 Exposure to animate mechanical forces,W50-W64 Exposure to animate mechanical forces,1,0.0001598721023181455
+A15-A19 Tuberculosis,A15-A19 Tuberculosis,1,0.0001598721023181455
+P50-P61 Haemorrhagic and haematological disorders of fetus and newborn,P50-P61 Haemorrhagic and haematological disorders of fetus and newborn,1,0.0001598721023181455
+T51-T65 Toxic effects of substances chiefly nonmedicinal as to source,T51-T65 Toxic effects of substances chiefly nonmedicinal as to source,1,0.0001598721023181455
+P80-P83 Conditions involving the integument and temperature regulation of fetus and newborn,P80-P83 Conditions involving the integument and temperature regulation of fetus and newborn,1,0.0001598721023181455
+B65-B83 Helminthiases,B65-B83 Helminthiases,1,0.0001598721023181455
+A70-A74 Other diseases caused by chlamydiae,A70-A74 Other diseases caused by chlamydiae,1,0.0001598721023181455
+G80-G83 Cerebral palsy and other paralytic syndromes,G80-G83 Cerebral palsy and other paralytic syndromes,1,0.0001598721023181455
+F70-F79 Mental retardation,F70-F79 Mental retardation,1,0.0001598721023181455
+Z30-Z39 Persons encountering health services in circumstances related to reproduction,Z30-Z39 Persons encountering health services in circumstances related to reproduction,1,0.0001598721023181455
+L10-L14 Bullous disorders,L10-L14 Bullous disorders,1,0.0001598721023181455
+"T36-T50 Poisoning by drugs, medicaments and biological substances","T36-T50 Poisoning by drugs, medicaments and biological substances",1,0.0001598721023181455
+H40-H42 Glaucoma,H40-H42 Glaucoma,1,0.0001598721023181455
+"F00-F09 Organic, including symptomatic, mental disorders","F00-F09 Organic, including symptomatic, mental disorders",1,0.0001598721023181455
+"Q10-Q18 Congenital malformations of eye, ear, face and neck","Q10-Q18 Congenital malformations of eye, ear, face and neck",1,0.0001598721023181455
+Q80-Q89 Other congenital malformations,Q80-Q89 Other congenital malformations,1,0.0001598721023181455
+P35-P39 Infections specific to the perinatal period,P35-P39 Infections specific to the perinatal period,1,0.0001598721023181455
+G00-G09 Inflammatory diseases of the central nervous system,G00-G09 Inflammatory diseases of the central nervous system,1,0.0001598721023181455

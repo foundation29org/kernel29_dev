@@ -1,0 +1,177 @@
+code,name,count,percentage
+J06,Acute upper respiratory infections of multiple and unspecified sites,78,0.078
+J02,Acute pharyngitis,77,0.077
+B34,Viral infection of unspecified site,53,0.053
+J98,Other respiratory disorders,52,0.052
+J03,Acute tonsillitis,40,0.04
+J00,Acute nasopharyngitis [common cold],38,0.038
+H66,Suppurative and unspecified otitis media,35,0.035
+M54,Dorsalgia,35,0.035
+K52,Other and unspecified noninfective gastroenteritis and colitis,34,0.034
+N39,Other disorders of urinary system,26,0.026
+J04,Acute laryngitis and tracheitis,22,0.022
+H10,Conjunctivitis,20,0.02
+R10,Abdominal and pelvic pain,19,0.019
+J20,Acute bronchitis,17,0.017
+J21,Acute bronchiolitis,15,0.015
+U07,Emergency use of U07,15,0.015
+J22,Unspecified acute lower respiratory infection,13,0.013
+S60,"Superficial injury of wrist, hand and fingers",13,0.013
+S93,"Dislocation and sprain of joints and ligaments at ankle, foot and toe level",12,0.012
+R07,Pain in throat and chest,11,0.011
+M25,"Other joint disorder, not elsewhere classified",11,0.011
+H60,Otitis externa,9,0.009
+S61,"Open wound of wrist, hand and fingers",9,0.009
+J11,Influenza due to unidentified influenza virus,9,0.009
+J18,"Pneumonia, unspecified organism",8,0.008
+N23,Unspecified renal colic,8,0.008
+N30,Cystitis,8,0.008
+S63,Dislocation and sprain of joints and ligaments at wrist and hand level,7,0.007
+M79,"Other and unspecified soft tissue disorders, not elsewhere classified",7,0.007
+R19,Other symptoms and signs involving the digestive system and abdomen,7,0.007
+R50,Fever of other and unknown origin,6,0.006
+J32,Chronic sinusitis,6,0.006
+R05,Cough,6,0.006
+L30,Other and unspecified dermatitis,6,0.006
+H11,Other disorders of conjunctiva,6,0.006
+G43,Migraine,5,0.005
+S09,Other and unspecified injuries of head,5,0.005
+M65,Synovitis and tenosynovitis,5,0.005
+S62,Fracture at wrist and hand level,5,0.005
+S90,"Superficial injury of ankle, foot and toes",4,0.004
+H00,Hordeolum and chalazion,4,0.004
+F41,Other anxiety disorders,4,0.004
+M76,"Enthesopathies, lower limb, excluding foot",4,0.004
+M77,Other enthesopathies,4,0.004
+M51,"Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders",4,0.004
+I16,Hypertensive crisis,4,0.004
+J01,Acute sinusitis,4,0.004
+J40,"Bronchitis, not specified as acute or chronic",4,0.004
+M12,Other and unspecified arthropathy,4,0.004
+R55,Syncope and collapse,4,0.004
+R51,Headache,4,0.004
+M75,Shoulder lesions,4,0.004
+I49,Other cardiac arrhythmias,3,0.003
+S13,Dislocation and sprain of joints and ligaments at neck level,3,0.003
+T17,Foreign body in respiratory tract,3,0.003
+T81,"Complications of procedures, not elsewhere classified",3,0.003
+M13,Other arthritis,3,0.003
+H92,Otalgia and effusion of ear,3,0.003
+S42,Fracture of shoulder and upper arm,3,0.003
+H81,Disorders of vestibular function,3,0.003
+S92,"Fracture of foot and toe, except ankle",3,0.003
+S20,Superficial injury of thorax,3,0.003
+L50,Urticaria,3,0.003
+K59,Other functional intestinal disorders,3,0.003
+H61,Other disorders of external ear,3,0.003
+R52,"Pain, unspecified",3,0.003
+S01,Open wound of head,3,0.003
+M93,Other osteochondropathies,2,0.002
+B02,Zoster [herpes zoster],2,0.002
+L23,Allergic contact dermatitis,2,0.002
+K61,Abscess of anal and rectal regions,2,0.002
+K62,Other diseases of anus and rectum,2,0.002
+S06,Intracranial injury,2,0.002
+S50,Superficial injury of elbow and forearm,2,0.002
+J39,Other diseases of upper respiratory tract,2,0.002
+L60,Nail disorders,2,0.002
+L73,Other follicular disorders,2,0.002
+K11,Diseases of salivary glands,2,0.002
+M62,Other disorders of muscle,2,0.002
+H65,Nonsuppurative otitis media,2,0.002
+M70,"Soft tissue disorders related to use, overuse and pressure",2,0.002
+A38,Scarlet fever,2,0.002
+N41,Inflammatory diseases of prostate,2,0.002
+L03,Cellulitis and acute lymphangitis,2,0.002
+G58,Other mononeuropathies,2,0.002
+M89,Other disorders of bone,2,0.002
+S52,Fracture of forearm,2,0.002
+R31,Hematuria,2,0.002
+J44,Other chronic obstructive pulmonary disease,2,0.002
+L08,Other local infections of skin and subcutaneous tissue,2,0.002
+M94,Other disorders of cartilage,2,0.002
+T78,"Adverse effects, not elsewhere classified",2,0.002
+K30,Functional dyspepsia,2,0.002
+R00,Abnormalities of heart beat,2,0.002
+I10,Essential (primary) hypertension,2,0.002
+B99,Other and unspecified infectious diseases,2,0.002
+K64,Hemorrhoids and perianal venous thrombosis,2,0.002
+M53,"Other and unspecified dorsopathies, not elsewhere classified",2,0.002
+L02,"Cutaneous abscess, furuncle and carbuncle",2,0.002
+R21,Rash and other nonspecific skin eruption,2,0.002
+S80,Superficial injury of knee and lower leg,2,0.002
+R11,Nausea and vomiting,2,0.002
+B27,Infectious mononucleosis,2,0.002
+K29,Gastritis and duodenitis,1,0.001
+G89,"Pain, not elsewhere classified",1,0.001
+E86,Volume depletion,1,0.001
+B00,Herpesviral [herpes simplex] infections,1,0.001
+N18,Chronic kidney disease (CKD),1,0.001
+J84,Other interstitial pulmonary diseases,1,0.001
+M17,Osteoarthritis of knee,1,0.001
+K06,Other disorders of gingiva and edentulous alveolar ridge,1,0.001
+K08,Other disorders of teeth and supporting structures,1,0.001
+T20,"Burn and corrosion of head, face, and neck",1,0.001
+N45,Orchitis and epididymitis,1,0.001
+H01,Other inflammation of eyelid,1,0.001
+S02,Fracture of skull and facial bones,1,0.001
+K35,Acute appendicitis,1,0.001
+I48,Atrial fibrillation and flutter,1,0.001
+H53,Visual disturbances,1,0.001
+T15,Foreign body on external eye,1,0.001
+H20,Iridocyclitis,1,0.001
+D49,Neoplasms of unspecified behavior,1,0.001
+J10,Influenza due to other identified influenza virus,1,0.001
+M47,Spondylosis,1,0.001
+Z23,Encounter for immunization,1,0.001
+M06,Other rheumatoid arthritis,1,0.001
+M19,Other and unspecified osteoarthritis,1,0.001
+I30,Acute pericarditis,1,0.001
+L25,Unspecified contact dermatitis,1,0.001
+S82,"Fracture of lower leg, including ankle",1,0.001
+S81,Open wound of knee and lower leg,1,0.001
+Z20,Contact with and (suspected) exposure to communicable diseases,1,0.001
+L22,Diaper dermatitis,1,0.001
+S76,"Injury of muscle, fascia and tendon at hip and thigh level",1,0.001
+K04,Diseases of pulp and periapical tissues,1,0.001
+S30,"Superficial injury of abdomen, lower back, pelvis and external genitals",1,0.001
+S43,Dislocation and sprain of joints and ligaments of shoulder girdle,1,0.001
+R42,Dizziness and giddiness,1,0.001
+G57,Mononeuropathies of lower limb,1,0.001
+J45,Asthma,1,0.001
+M24,Other specific joint derangements,1,0.001
+H15,Disorders of sclera,1,0.001
+S65,Injury of blood vessels at wrist and hand level,1,0.001
+L76,Intraoperative and postprocedural complications of skin and subcutaneous tissue,1,0.001
+M26,Dentofacial anomalies [including malocclusion],1,0.001
+Z79,Long term (current) drug therapy,1,0.001
+B49,Unspecified mycosis,1,0.001
+K13,Other diseases of lip and oral mucosa,1,0.001
+G44,Other headache syndromes,1,0.001
+S99,Other and unspecified injuries of ankle and foot,1,0.001
+B86,Scabies,1,0.001
+I88,Nonspecific lymphadenitis,1,0.001
+S00,Superficial injury of head,1,0.001
+R25,Abnormal involuntary movements,1,0.001
+R30,Pain associated with micturition,1,0.001
+N76,Other inflammation of vagina and vulva,1,0.001
+S39,"Other and unspecified injuries of abdomen, lower back, pelvis and external genitals",1,0.001
+S05,Injury of eye and orbit,1,0.001
+R20,Disturbances of skin sensation,1,0.001
+S83,Dislocation and sprain of joints and ligaments of knee,1,0.001
+L20,Atopic dermatitis,1,0.001
+R60,"Edema, not elsewhere classified",1,0.001
+H80,Otosclerosis,1,0.001
+S29,Other and unspecified injuries of thorax,1,0.001
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",1,0.001
+B85,Pediculosis and phthiriasis,1,0.001
+L13,Other bullous disorders,1,0.001
+L72,Follicular cysts of skin and subcutaneous tissue,1,0.001
+R49,Voice and resonance disorders,1,0.001
+L28,Lichen simplex chronicus and prurigo,1,0.001
+L29,Pruritus,1,0.001
+J34,Other and unspecified disorders of nose and nasal sinuses,1,0.001
+H16,Keratitis,1,0.001
+R09,Other symptoms and signs involving the circulatory and respiratory system,1,0.001
+M22,Disorder of patella,1,0.001
+R79,Other abnormal findings of blood chemistry,1,0.001

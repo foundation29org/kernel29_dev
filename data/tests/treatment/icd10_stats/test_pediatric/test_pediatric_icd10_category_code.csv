@@ -1,0 +1,149 @@
+code,name,count,percentage
+J06,Acute upper respiratory infections of multiple and unspecified sites,233,0.14095583787053842
+J02,Acute pharyngitis,169,0.10223835450695705
+J98,Other respiratory disorders,147,0.08892921960072596
+H66,Suppurative and unspecified otitis media,119,0.07199032062915911
+J04,Acute laryngitis and tracheitis,80,0.04839685420447671
+J03,Acute tonsillitis,75,0.045372050816696916
+J00,Acute nasopharyngitis [common cold],56,0.0338777979431337
+J21,Acute bronchiolitis,50,0.030248033877797943
+K52,Other and unspecified noninfective gastroenteritis and colitis,40,0.024198427102238355
+B34,Viral infection of unspecified site,38,0.022988505747126436
+H10,Conjunctivitis,35,0.02117362371445856
+J18,"Pneumonia, unspecified organism",30,0.018148820326678767
+R10,Abdominal and pelvic pain,29,0.017543859649122806
+S93,"Dislocation and sprain of joints and ligaments at ankle, foot and toe level",29,0.017543859649122806
+S60,"Superficial injury of wrist, hand and fingers",24,0.014519056261343012
+J20,Acute bronchitis,22,0.013309134906231096
+R50,Fever of other and unknown origin,22,0.013309134906231096
+J11,Influenza due to unidentified influenza virus,21,0.012704174228675136
+S63,Dislocation and sprain of joints and ligaments at wrist and hand level,19,0.011494252873563218
+S90,"Superficial injury of ankle, foot and toes",16,0.009679370840895343
+S09,Other and unspecified injuries of head,15,0.009074410163339383
+H92,Otalgia and effusion of ear,13,0.007864488808227465
+J32,Chronic sinusitis,13,0.007864488808227465
+J22,Unspecified acute lower respiratory infection,12,0.007259528130671506
+S80,Superficial injury of knee and lower leg,11,0.006654567453115548
+R11,Nausea and vomiting,10,0.006049606775559589
+S50,Superficial injury of elbow and forearm,9,0.0054446460980036296
+B99,Other and unspecified infectious diseases,9,0.0054446460980036296
+L03,Cellulitis and acute lymphangitis,9,0.0054446460980036296
+L50,Urticaria,8,0.004839685420447671
+M25,"Other joint disorder, not elsewhere classified",8,0.004839685420447671
+N39,Other disorders of urinary system,8,0.004839685420447671
+R51,Headache,8,0.004839685420447671
+S52,Fracture of forearm,8,0.004839685420447671
+S01,Open wound of head,8,0.004839685420447671
+R05,Cough,7,0.004234724742891712
+B27,Infectious mononucleosis,7,0.004234724742891712
+T14,Injury of unspecified body region,6,0.003629764065335753
+J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",6,0.003629764065335753
+M79,"Other and unspecified soft tissue disorders, not elsewhere classified",6,0.003629764065335753
+S99,Other and unspecified injuries of ankle and foot,5,0.0030248033877797943
+L22,Diaper dermatitis,5,0.0030248033877797943
+K59,Other functional intestinal disorders,5,0.0030248033877797943
+G43,Migraine,5,0.0030248033877797943
+R55,Syncope and collapse,5,0.0030248033877797943
+S06,Intracranial injury,5,0.0030248033877797943
+S83,Dislocation and sprain of joints and ligaments of knee,4,0.0024198427102238356
+M12,Other and unspecified arthropathy,4,0.0024198427102238356
+H73,Other disorders of tympanic membrane,4,0.0024198427102238356
+M93,Other osteochondropathies,4,0.0024198427102238356
+S05,Injury of eye and orbit,4,0.0024198427102238356
+K35,Acute appendicitis,4,0.0024198427102238356
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",4,0.0024198427102238356
+T78,"Adverse effects, not elsewhere classified",4,0.0024198427102238356
+M54,Dorsalgia,4,0.0024198427102238356
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,3,0.0018148820326678765
+S62,Fracture at wrist and hand level,3,0.0018148820326678765
+L30,Other and unspecified dermatitis,3,0.0018148820326678765
+S53,Dislocation and sprain of joints and ligaments of elbow,3,0.0018148820326678765
+S92,"Fracture of foot and toe, except ankle",3,0.0018148820326678765
+N48,Other disorders of penis,3,0.0018148820326678765
+R07,Pain in throat and chest,3,0.0018148820326678765
+H65,Nonsuppurative otitis media,3,0.0018148820326678765
+R59,Enlarged lymph nodes,3,0.0018148820326678765
+M65,Synovitis and tenosynovitis,3,0.0018148820326678765
+R52,"Pain, unspecified",3,0.0018148820326678765
+M76,"Enthesopathies, lower limb, excluding foot",3,0.0018148820326678765
+S61,"Open wound of wrist, hand and fingers",3,0.0018148820326678765
+N76,Other inflammation of vagina and vulva,3,0.0018148820326678765
+A38,Scarlet fever,3,0.0018148820326678765
+S30,"Superficial injury of abdomen, lower back, pelvis and external genitals",2,0.0012099213551119178
+M62,Other disorders of muscle,2,0.0012099213551119178
+H72,Perforation of tympanic membrane,2,0.0012099213551119178
+R19,Other symptoms and signs involving the digestive system and abdomen,2,0.0012099213551119178
+S76,"Injury of muscle, fascia and tendon at hip and thigh level",2,0.0012099213551119178
+U07,Emergency use of U07,2,0.0012099213551119178
+J40,"Bronchitis, not specified as acute or chronic",2,0.0012099213551119178
+L27,Dermatitis due to substances taken internally,2,0.0012099213551119178
+R21,Rash and other nonspecific skin eruption,2,0.0012099213551119178
+L20,Atopic dermatitis,2,0.0012099213551119178
+M70,"Soft tissue disorders related to use, overuse and pressure",2,0.0012099213551119178
+R39,Other and unspecified symptoms and signs involving the genitourinary system,2,0.0012099213551119178
+D36,Benign neoplasm of other and unspecified sites,2,0.0012099213551119178
+H16,Keratitis,2,0.0012099213551119178
+Z53,"Persons encountering health services for specific procedures and treatment, not carried out",2,0.0012099213551119178
+T23,Burn and corrosion of wrist and hand,2,0.0012099213551119178
+A08,Viral and other specified intestinal infections,2,0.0012099213551119178
+L08,Other local infections of skin and subcutaneous tissue,2,0.0012099213551119178
+K60,Fissure and fistula of anal and rectal regions,2,0.0012099213551119178
+J30,Vasomotor and allergic rhinitis,2,0.0012099213551119178
+S86,"Injury of muscle, fascia and tendon at lower leg level",2,0.0012099213551119178
+J10,Influenza due to other identified influenza virus,2,0.0012099213551119178
+S42,Fracture of shoulder and upper arm,2,0.0012099213551119178
+S29,Other and unspecified injuries of thorax,2,0.0012099213551119178
+H60,Otitis externa,2,0.0012099213551119178
+S00,Superficial injury of head,2,0.0012099213551119178
+S20,Superficial injury of thorax,2,0.0012099213551119178
+L01,Impetigo,2,0.0012099213551119178
+I48,Atrial fibrillation and flutter,2,0.0012099213551119178
+K12,Stomatitis and related lesions,1,0.0006049606775559589
+Z83,Family history of other specific disorders,1,0.0006049606775559589
+J47,Bronchiectasis,1,0.0006049606775559589
+B37,Candidiasis,1,0.0006049606775559589
+R30,Pain associated with micturition,1,0.0006049606775559589
+J01,Acute sinusitis,1,0.0006049606775559589
+M04,Autoinflammatory syndromes,1,0.0006049606775559589
+K92,Other diseases of digestive system,1,0.0006049606775559589
+Z76,Persons encountering health services in other circumstances,1,0.0006049606775559589
+L60,Nail disorders,1,0.0006049606775559589
+L28,Lichen simplex chronicus and prurigo,1,0.0006049606775559589
+B86,Scabies,1,0.0006049606775559589
+S72,Fracture of femur,1,0.0006049606775559589
+H44,Disorders of globe,1,0.0006049606775559589
+M02,Postinfective and reactive arthropathies,1,0.0006049606775559589
+M71,Other bursopathies,1,0.0006049606775559589
+S79,Other and unspecified injuries of hip and thigh,1,0.0006049606775559589
+D49,Neoplasms of unspecified behavior,1,0.0006049606775559589
+R53,Malaise and fatigue,1,0.0006049606775559589
+L53,Other erythematous conditions,1,0.0006049606775559589
+E10,Type 1 diabetes mellitus,1,0.0006049606775559589
+P51,Umbilical hemorrhage of newborn,1,0.0006049606775559589
+M26,Dentofacial anomalies [including malocclusion],1,0.0006049606775559589
+S59,Other and unspecified injuries of elbow and forearm,1,0.0006049606775559589
+S69,"Other and unspecified injuries of wrist, hand and finger(s)",1,0.0006049606775559589
+I88,Nonspecific lymphadenitis,1,0.0006049606775559589
+H00,Hordeolum and chalazion,1,0.0006049606775559589
+R09,Other symptoms and signs involving the circulatory and respiratory system,1,0.0006049606775559589
+B00,Herpesviral [herpes simplex] infections,1,0.0006049606775559589
+K06,Other disorders of gingiva and edentulous alveolar ridge,1,0.0006049606775559589
+H11,Other disorders of conjunctiva,1,0.0006049606775559589
+H02,Other disorders of eyelid,1,0.0006049606775559589
+M94,Other disorders of cartilage,1,0.0006049606775559589
+B80,Enterobiasis,1,0.0006049606775559589
+B30,Viral conjunctivitis,1,0.0006049606775559589
+P83,Other conditions of integument specific to newborn,1,0.0006049606775559589
+S71,Open wound of hip and thigh,1,0.0006049606775559589
+Q82,Other congenital malformations of skin,1,0.0006049606775559589
+M92,Other juvenile osteochondrosis,1,0.0006049606775559589
+H57,Other disorders of eye and adnexa,1,0.0006049606775559589
+M43,Other deforming dorsopathies,1,0.0006049606775559589
+S40,Superficial injury of shoulder and upper arm,1,0.0006049606775559589
+M24,Other specific joint derangements,1,0.0006049606775559589
+N50,Other and unspecified disorders of male genital organs,1,0.0006049606775559589
+M67,Other disorders of synovium and tendon,1,0.0006049606775559589
+T16,Foreign body in ear,1,0.0006049606775559589
+L02,"Cutaneous abscess, furuncle and carbuncle",1,0.0006049606775559589
+L25,Unspecified contact dermatitis,1,0.0006049606775559589
+R56,"Convulsions, not elsewhere classified",1,0.0006049606775559589

@@ -1,0 +1,753 @@
+patient_number,patient_info,golden_diagnosis,predict_diagnosis,predict_rank
+0,"Compulsive behaviors,Delayed speech and language development,Neonatal hypotonia,Slurred speech,Mild postnatal growth retardation,Decreased fetal movement,Weak cry,Poor suck,Abnormal stomach morphology,Increased body weight,Aspiration pneumonia,Grade I preterm intraventricular hemorrhage,Elevated hemoglobin A1c","Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome","1. Rett syndrome
+2. fragile X syndrome
+3. cerebral palsy
+4. Down syndrome
+5. Kabuki syndrome
+6. neurofibromatosis type 1
+7. Turners syndrome
+8. Lennox-Glessner syndrome
+9. meningitis
+10. congenital heart disease with hydrocephalus
+
+It is important to note that this is not an exhaustive list and other possibilities may exist. The diagnosis should be made by a medical professional after a thorough evaluation of the patient's symptoms and medical history.",否
+1,"Cryptorchidism,Carious teeth,Excessive daytime somnolence,Dysphonia,Infantile muscular hypotonia,Feeding difficulties,Meconium stained amniotic fluid","Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome","1. Klinefelter syndrome
+2. Turners syndrome
+3. Prader-Willi syndrome
+4.唐氏综合症
+5.Pompe病
+6.X染色体连锁智力低下症
+7.肌营养不良症
+8.先天性肌病
+9.营养不良
+10.染色体异常病",3
+2,"High palate,Abnormal mandible morphology,Neonatal hypotonia,Intrauterine growth retardation,Premature rupture of membranes,Poor suck,Lacticaciduria,Poor appetite,Bilateral cryptorchidism,Abnormality of the palmar creases","Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome","1. congenital aganglionic megacolon
+2. congenital midline aganglionic malrotation
+3. congenital hydrocephalus
+4. congenital heart disease
+5. congenital diaphragmatic hernia
+6. congenital empyramidal郎格母细胞瘤
+7. congenital adrenal hyperplasia
+8. congenital thyroglossal duct cyst
+9. velocicletorium
+10. aganglionic teratoma",否
+3,"Compulsive behaviors,Delayed speech and language development,Poor suck,Postnatal growth retardation,Infantile muscular hypotonia","Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome","1. Rett syndrome
+2.fragile X syndrome
+3.Prader-Willi syndrome
+4.Turner syndrome
+5.Klinefelter syndrome
+6.Down syndrome
+7.Congenital aganglionic blindness
+8.Refsum disease
+9.Wilson's disease
+10.Late-onset congenital disorders of glycosylation",3
+4,"Micropenis,Myopia,Amblyopia,Encephalopathy,Slurred speech,Obesity,Decreased fetal movement,Pneumonia,Intracranial hemorrhage,Polyphagia,Cerebral ischemia,Hypocalcemia,Methylmalonic acidemia,Abnormality of the wrist,Dicarboxylic aciduria,Propionic acidemia,Lacticaciduria,Congenital laryngeal stridor,Bilateral cryptorchidism,Postnatal growth retardation,Infantile muscular hypotonia,Abnormal circulating acetylcarnitine concentration,Appendicular hypotonia,Meconium stained amniotic fluid,Neonatal asphyxia,Microphallus,Vitamin B12 deficiency,Reduced blood folate concentration","Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome,Prader-Willi 综合征/Prader-Willi syndrome; PWS/Prader-Willi syndrome/Prader-Willi syndrome","1. Congenital disorder of glycosylation (CDG)
+2. Phenylketonuria (PKU)
+3. Hypothyroidism
+4. Urea cycle disorder
+5. Methionine cycle disorder
+6. Phenylalanine hydroxylase deficiency
+7. Tyrosine hydroxylase deficiency
+8. Phenylacetylglutamate合成酶 deficiency
+9. Acetyl-CoA合成酶 deficiency
+10. Mitochondrial encephalomyopathy with stroke-like episodes (MELAS)",否
+5,"Hematuria,Jaundice,Skin rash,Cirrhosis,Ascites,Hyperammonemia,Conjugated hyperbilirubinemia,Hypoalbuminemia,Elevated circulating alkaline phosphatase concentration,Elevated circulating creatine kinase concentration,Abdominal distention,Increased total bilirubin,Prolonged prothrombin time,Pedal edema,Decreased circulating ceruloplasmin concentration,Abnormal urinary color,Increased urinary porphobilinogen,Abnormality of hepatobiliary system physiology,Hypoactive bowel sounds,Elevated circulating aspartate aminotransferase concentration,Elevated circulating alanine aminotransferase concentration,Kayser-Fleischer ring","肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease","1. Primary biliary cholangitis (PBC)
+2.中级胆管癌 (mid-journey cholangiopancreatic cancer)
+3.肝硬化 (hepatic cirrhosis)
+4.肝细胞癌 (hepatocellular carcinoma)
+5.胆管结石 (biliary calculus)
+6.胆管癌 (biliary tract cancer)
+7.肝内胆管结石 (intrahepatic cholangitis)
+8.肝硬化并发出路阻塞 (cirrhosis with portosystemic shunt)
+9.门脉高压 (portal hypertension)
+10.胆管扩张 (biliary dilation)",否
+6,"Irritability,Personality changes,Tremor,Nausea,Abdominal pain,Hepatomegaly,Sleep disturbance,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Elevated circulating aspartate aminotransferase concentration,Elevated circulating alanine aminotransferase concentration,Mania,Kayser-Fleischer ring","肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease","1. Wilson's disease
+2. Huntington's disease
+3. Parkinson's disease
+4. Multiple sclerosis
+5. Amyotrophic lateral sclerosis (ALS)
+6. Inflammatory neuropathies such as Guillain-Barre syndrome
+7. Subacute bacterial endocarditis
+8. Chronic fatigue syndrome
+9. Irritable bowel syndrome
+10. Lead poisoning",1
+7,"Hematuria,Slurred speech,Abnormality of the liver,Dysphagia,Drooling,Abnormal caudate nucleus morphology,Hand tremor,Poor appetite,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Kayser-Fleischer ring","肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease","1. Wilson's disease
+2. hemochromatosis
+3. lead poisoning
+4. neuroleptic malignant syndrome
+5. hereditary transthyretin amyloidosis
+6. maple syrup urine disease
+7. cabinet disease
+8. gitelsen's disease
+9. zaroff's disease
+10. hamartomatous polyposis syndrome.",1
+8,"Muscle weakness,Slurred speech,Abnormality of the liver,Splenomegaly,Hyperhomocystinemia,Drooling,Incoordination,Abnormal caudate nucleus morphology,Microscopic hematuria,Elevated circulating alkaline phosphatase concentration,Increased circulating ferritin concentration,Involuntary movements,Increased body weight,Abnormality of vitamin B12 metabolism,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness,Kayser-Fleischer ring,Abnormality of the maxillary sinus","肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease","1. Wilson's disease
+2.辉瑞克病（Peyer-K Paget's disease）
+3.肝硬化
+4.肝豆豆病（Hepatitis C）
+5.阵发性睡眠性血红蛋白尿（Persistent truncus arteriosus）
+6.脑膜脑炎（Neuroencephalitis）
+7.Kayexalateuria
+8.Melanocytosis
+9.Familial amyloid neuropathy
+10.Congenital disorders of glycosylation",1
+9,"Proteinuria,Slurred speech,Drooling,Hand tremor,Decreased circulating ceruloplasmin concentration,Increased urinary copper concentration,Hand muscle weakness","肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease,肝豆状核变性; 威尔逊氏病/Hepatolenticular degeneration; Wilson disease/Wilson disease/Wilson disease","1. Wilson's disease
+2. Meniere's disease
+3. Multiple sclerosis
+4. Amyotrophic lateral sclerosis (ALS)
+5. Hereditary spasticichromatosis
+6. Kearns-Sayre syndrome
+7. Mitochondrial encephalomyopathy with lactic acidosis and stenosis of the heart (MELAS)
+8. lead toxicity
+9. neurodegenerative disorder
+10. congenital disorder of glycosylation (CDG)",1
+10,"Abnormal vagina morphology,Abnormal mandible morphology,Hearing impairment,Conjunctivitis,Abnormality of the breast,Cafe-au-lait spot,Skin rash,Gait disturbance,Bone pain,Fractures of the long bones,Elevated circulating alkaline phosphatase concentration,Abnormal femoral neck morphology,Large cafe-au-lait macules with irregular margins,Accelerated skeletal maturation,Precocious puberty in females,Fibrous dysplasia of the bones,Increased serum estradiol,Decreased circulating follicle stimulating hormone concentration,Decreased circulating luteinizing hormone level,Ear pain,Hip pain,Increased size of nasopharyngeal adenoids,Metrorrhagia","McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic","1. X-linked agammaglobulinemia
+2. Autosomal dominant hypogonadism (ADH)
+3. Congenital adrenal hyperplasia (CAH)
+4. 21-hydroxylase deficiency
+5. 17-hydroxyprogesterone dehydrogenase deficiency
+6. Primary ovarian insufficiency
+7. Hypothalamic/pituitary dysfunction
+8. An inherited骨代谢异常病如成骨不全症或成骨不全 type 2
+9. Neurofibromatosis type 1
+10. W潭病",否
+11,"Ovarian cyst,Abnormal vagina morphology,Abnormality of the breast,Cafe-au-lait spot,Accelerated skeletal maturation,Premature thelarche,Polyostotic fibrous dysplasia,Monostotic fibrous dysplasia,Pain,Increased serum estradiol,Decreased circulating follicle stimulating hormone concentration,Decreased circulating luteinizing hormone level,Enlarged tonsils,Increased size of nasopharyngeal adenoids,Metrorrhagia,Enlarged uterus","McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic","1. Polycystic ovary syndrome (PCOS)
+2. Hyperandrogenic anovulation
+3. Central precocious puberty (CPP)
+4. Growth hormone deficiency (GHD)
+5. Dehydroepiandrosterone (DHEA) deficiency
+6. Androgen insensitivity syndrome (AIS)
+7. Estrogen receptor deficiency (ERD)
+8. Luteal phase defect
+9. Ovarian tumor
+10. Molar pregnancy.",否
+12,"Elevated circulating growth hormone concentration,Increased circulating prolactin concentration,Cafe-au-lait spot,Acne,Abnormal calvaria morphology,Elevated circulating alkaline phosphatase concentration,Accelerated skeletal maturation,Fibrous dysplasia of the bones,Premature pubarche,Increased serum testosterone level,Abnormality of the testis size,Thickened cortex of bones","McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic","1. Growth hormone excess (GHE) due to a growth hormone insensitivity syndrome or a functional pituitary tumor
+2. Prolactin excess (PEx) caused by a pituitary tumor or a functional hyperprolactinemia
+3. Cafe-au-lait spot (CAL) caused by a congenital adrenocarcinoma or a hyperplasia
+4. Acne caused by an androgen excess or an imbalance of skin油脂分泌
+5. Abnormal calvaria morphology (ACM) caused by a rare genetic disorder or a congenital abnormality
+6. Elevated alkaline phosphatase (ALP) concentration caused by a bone disease or a chronic kidney disease
+7. Accelerated skeletal maturation (ASM) caused by a rare genetic disorder or a chronic disease
+8. Fibrous dysplasia of the bones (FDOB) caused by a rare genetic disorder or a bone disease
+9. Premature pubarche (PP) caused by a hormonal imbalance or a genetic disorder
+10. Increased testosterone level (IT) caused by a hormonal imbalance or a tumor.",3
+13,"Abnormality of refraction,Visual loss,Cafe-au-lait spot,Cranial hyperostosis,Large cafe-au-lait macules with irregular margins,Polyostotic fibrous dysplasia,Abnormal shape of the occiput","McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic","1. Congenital anomalies of the eye and brain, such as a condition called a ""cafe-au-lait spots"" and ""fibrotic dysplasia""
+2. Brain tumors such as a glioma or meningioma
+3. Genetic disorders such as neurofibromatosis type 1 (NF1) or type 2 (NF2)
+4. Developmental disorders such as a condition called ""aniridia""
+5. Metabolic disorders such as a rare form of折光不正 called ""keratosis maculosa""
+6. Endocrine disorders such as a condition called congenital hyperthyroidism
+7. Inflammatory diseases such as multiple sclerosis or rheumatoid arthritis
+8. Neurdegenerative disorders such as Alzheimer's disease or Parkinson's disease
+9. Developmental delays and cognitive impairments
+10. Eye diseases such as cataracts or glaucoma.",否
+14,"Abnormal vagina morphology,Delayed speech and language development,Abnormality of the breast,Cafe-au-lait spot,Elevated circulating alkaline phosphatase concentration,Large cafe-au-lait macules with irregular margins,Increased circulating free T3,Premature pubarche,Increased serum estradiol,Decreased thyroid-stimulating hormone level,Increased circulating progesterone,Metrorrhagia,Abnormal eating behavior","McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic,McCune-Albright 综合征/McCune-Albright syndrome; MAS/McCune-Albright syndrome/McCune-Albright syndrome, somatic, mosaic","1. congenital adrenal hyperplasia (CAH)
+2. neurofibromatosis type 1 (NF1)
+3.Prune-Birdie syndrome
+4.Rare earth element deficiency
+5.Hyperparathyroidism
+6. congenital催眠性分化综合症
+7. Klinefelter syndrome
+8.Turner syndrome
+9.Polycystic ovary syndrome (PCOS)
+10. Familial International Hyperinsulinism (FIH)",否
+15,"Inguinal hernia,Hypertension,Hoarse voice,Cardiomegaly,Abnormal aortic valve morphology,Mitral regurgitation,Aortic regurgitation,Abnormal left ventricle morphology,Fever,Palpitations,Dyspnea,Hemoptysis,Bronchiectasis,Decreased body weight,Ascending tubular aorta aneurysm,Abnormal left ventricular function,Abnormal B-type natriuretic peptide concentration,Productive cough","Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome","1. Primary hypoplasmic myeloid leukemia (PVML)
+2. Myelodysplastic syndromes of childhood (MDSC)
+3. Myeloproliferative neoplasm (MPN)
+4. Myelodysplastic syndromes of adults (MDSOA)
+5. Erythrocytosis
+6. Hypertension
+7. Aortic valve disease
+8. left ventricular hypertrophy (LVH)
+9. B-type natriuretic peptide (BNP) elevation
+10. Pulmonary hypertension",否
+16,Kyphoscoliosis,"Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome","1. Kyphoscoliosis and congenital scoliosis
+2. Kyphoscoliosis and costochondritis
+3. Kyphoscoliosis and primary scoliosis
+4. Kyphoscoliosis and neuromuscular disorder
+5. Kyphoscoliosis and congenital muscular dystrophy
+6. Kyphoscoliosis and multiple sclerosis
+7. Kyphoscoliosis and neuromyelitis optica
+8. Kyphoscoliosis and cerebral palsy
+9. Kyphoscoliosis and congenital aganglionic neuropathies
+10. Kyphoscoliosis and congenital heart defects.",否
+17,"Tall stature,Mitral valve prolapse,Hypertrophic cardiomyopathy,Abnormal aortic valve morphology,Mitral regurgitation,Aortic regurgitation,Tricuspid valve prolapse,Left ventricular hypertrophy,Dyspnea,Aortic root aneurysm,Kyphoscoliosis,Tachypnea,Back pain,Exercise intolerance,Tricuspid regurgitation,Heart murmur,Chest pain","Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome","1. Congenital heart disease with mitigateal valve prolapse and left ventricular hypertrophy
+2. Aortic stenosis
+3. Aortic regurgitation
+4. Mitral regurgitation
+5. Tricuspid regurgitation
+6. Hypertrophic cardiomyopathy
+7. Mitral valve dysfunction
+8. Aortic root aneurysm
+9. Kyphoscoliosis
+10. Pulmonic stenosis",否
+18,"Lens subluxation,Scoliosis,Low back pain,High myopia,Lens luxation","Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome","1. Lens luxation
+2. Scoliosis
+3. Low back pain
+4. High myopia
+5. Lens subluxation
+6. Hyperparathyroidism
+7.弹力素质降低
+8. 玻璃体脱位
+9. 先天性白内障
+10. 视网膜脱落",否
+19,"Cardiomegaly,Dyspnea,Abdominal distention,Exercise intolerance,Poor appetite,Myocarditis,Increased circulating NT-proBNP concentration","Neonatal Marfan syndrome,Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome,马方综合征/Marfan syndrome; MFS/Marfan syndrome","1. Brugs-Schmid Shielding phenomenon
+2. Hypertrophic cardiomyopathy
+3. Dilated cardiomyopathy
+4. arrhythmogenic cardiomyopathy
+5. Long QT syndrome
+6. Bundle branch block pattern
+7. Complete heart block
+8. Subaortic stenosis
+9. Aortic stenosis
+10. Hypertension-induced cardiomyopathy",否
+20,"Uterine leiomyoma,Syncope,Muscle weakness,Cardiomegaly,Dilated cardiomyopathy,Abnormal tricuspid valve morphology,Right ventricular failure,Weight loss,Palpitations,Nausea,Exertional dyspnea,Hyperlipidemia,Poor appetite,Paroxysmal ventricular tachycardia,Elevated pulmonary artery pressure,Right ventricular dilatation,Abnormal left ventricular function,Paroxysmal atrial tachycardia,Reduced systolic function,Premature ventricular contraction,Loss of consciousness,Pedal edema,Decreased urine output,Right atrial enlargement,Increased circulating NT-proBNP concentration,Nonproductive cough","Arrhythmogenic right ventricular dysplasia, familial, 10,Arrhythmogenic right ventricular dysplasia 12,Arrhythmogenic right ventricular dysplasia, familial, 9,Arrhythmogenic right ventricular dysplasia, familial, 8,Arrhythmogenic right ventricular dysplasia, familial, 11,Naxos disease/Naxos disease,Desminopathy/Myopathy, myofibrillar, 1,Arrhythmogenic right ventricular dysplasia, familial, 2,Arrhythmogenic right ventricular dysplasia, familial, 5,Arrhythmogenic right ventricular dysplasia, familial, 1,Arrhythmogenic right ventricular dysplasia, familial, 4,Arrhythmogenic right ventricular dysplasia, familial, 3,Arrhythmogenic right ventricular dysplasia, familial, 6,Desminopathy/Myopathy, myofibrillar, 1,致心律失常性右室发育不良/心肌病（ARVD/C）/Arrhythmogenic right ventriculardysplasia/ cardiomyopathy; ARVD/C,Arrhythmogenic right ventricular dysplasia, familial, 13","1. Primary pulmonary hypertension
+2. Hypothyroidism
+3. Hyperparathyroidism
+4. Renal cell carcinoma
+5. Metastatic lung cancer
+6. Thoracic cancer
+7. Lactic acidosis
+8. Myocardial infarction
+9. Cardiomyopathy
+10. Uterine fibroids",否
+21,"Cardiomegaly,Mitral regurgitation,Sinus bradycardia,Palpitations,Vomiting,Hyperkalemia,Falls,Elevated circulating creatinine concentration,Ventricular tachycardia,Right ventricular dilatation,Tricuspid regurgitation,Premature ventricular contraction,Lower limb muscle weakness,T-wave inversion,Sinus tachycardia,Right bundle branch block,ST segment depression,Regional left ventricular wall motion abnormality,Left ventricular systolic dysfunction","Arrhythmogenic right ventricular dysplasia, familial, 10,Arrhythmogenic right ventricular dysplasia 12,Arrhythmogenic right ventricular dysplasia, familial, 9,Arrhythmogenic right ventricular dysplasia, familial, 8,Arrhythmogenic right ventricular dysplasia, familial, 11,Naxos disease/Naxos disease,Desminopathy/Myopathy, myofibrillar, 1,Arrhythmogenic right ventricular dysplasia, familial, 2,Arrhythmogenic right ventricular dysplasia, familial, 5,Arrhythmogenic right ventricular dysplasia, familial, 1,Arrhythmogenic right ventricular dysplasia, familial, 4,Arrhythmogenic right ventricular dysplasia, familial, 3,Arrhythmogenic right ventricular dysplasia, familial, 6,Desminopathy/Myopathy, myofibrillar, 1,致心律失常性右室发育不良/心肌病（ARVD/C）/Arrhythmogenic right ventriculardysplasia/ cardiomyopathy; ARVD/C,Arrhythmogenic right ventricular dysplasia, familial, 13","1. Hypertrophic cardiomyopathy
+2. Dilated cardiomyopathy
+3. arrhythmia
+4. Atrial fibrillation
+5. Atrial flutter
+6.AV block
+7.Brugada syndrome
+8.Hyperkalemia
+9.Hypertension
+10. valvular heart disease",否
+22,"Syncope,Hepatic cysts,Ascites,Abnormal mitral valve morphology,Cardiomegaly,Abnormal pulmonary valve morphology,Abnormal aortic valve morphology,Tachycardia,Mitral regurgitation,Pericardial effusion,Abnormal tricuspid valve morphology,Right ventricular failure,Third degree atrioventricular block,Abnormal left ventricle morphology,Pleural effusion,Sleep disturbance,Episodic vomiting,Conjugated hyperbilirubinemia,Hypoalbuminemia,Elevated circulating creatine kinase concentration,Fatigable weakness,Exercise intolerance,Increased total bilirubin,Increased body weight,Poor appetite,Tricuspid regurgitation,Loss of consciousness,Abnormal ventricular septum morphology,Pedal edema,Decreased urine output,Regional left ventricular wall motion abnormality,Orthopnea,Left ventricular diastolic dysfunction,Right atrial enlargement,Increased circulating creatine kinase MB isoform","Arrhythmogenic right ventricular dysplasia, familial, 10,Arrhythmogenic right ventricular dysplasia 12,Arrhythmogenic right ventricular dysplasia, familial, 9,Arrhythmogenic right ventricular dysplasia, familial, 8,Arrhythmogenic right ventricular dysplasia, familial, 11,Naxos disease/Naxos disease,Desminopathy/Myopathy, myofibrillar, 1,Arrhythmogenic right ventricular dysplasia, familial, 2,Arrhythmogenic right ventricular dysplasia, familial, 5,Arrhythmogenic right ventricular dysplasia, familial, 1,Arrhythmogenic right ventricular dysplasia, familial, 4,Arrhythmogenic right ventricular dysplasia, familial, 3,Arrhythmogenic right ventricular dysplasia, familial, 6,Desminopathy/Myopathy, myofibrillar, 1,致心律失常性右室发育不良/心肌病（ARVD/C）/Arrhythmogenic right ventriculardysplasia/ cardiomyopathy; ARVD/C,Arrhythmogenic right ventricular dysplasia, familial, 13","1. Mitral stenosis with regurgitation
+2. Bile duct cancer with cholangitis and sepsis
+3. Acute liver failure with encephalopathy
+4. Pulmonary embolism with right heart failure
+5. Cardiomyopathy with left ventricular hypertrophy and tachycardia
+6. Aortic stenosis with regurgitation
+7. Cholecystitis with sepsis and empyema
+8. Portal hypertension with collateral emboli
+9. Hypoplasia of the left side of the heart
+10. Myocardial infarction with left ventricular dysfunction and tachycardia",否
+23,"Nephrolithiasis,Skin rash,Hemangioma,Syncope,Muscle weakness,Cardiomegaly,Abnormal right ventricle morphology,Right ventricular failure,Abnormal left ventricle morphology,Palpitations,Abnormal thrombosis,Dyspnea,Ischemic stroke,Ventricular tachycardia,Elevated pulmonary artery pressure,Abnormal T-wave,Tricuspid regurgitation,Premature ventricular contraction,Loss of consciousness,Right ventricular cardiomyopathy,Atrial septal dilatation,Biventricular noncompaction cardiomyopathy,Myocarditis,Left ventricular diastolic dysfunction,Left ventricular systolic dysfunction,Amaurosis fugax","Arrhythmogenic right ventricular dysplasia, familial, 10,Arrhythmogenic right ventricular dysplasia 12,Arrhythmogenic right ventricular dysplasia, familial, 9,Arrhythmogenic right ventricular dysplasia, familial, 8,Arrhythmogenic right ventricular dysplasia, familial, 11,Naxos disease/Naxos disease,Desminopathy/Myopathy, myofibrillar, 1,Arrhythmogenic right ventricular dysplasia, familial, 2,Arrhythmogenic right ventricular dysplasia, familial, 5,Arrhythmogenic right ventricular dysplasia, familial, 1,Arrhythmogenic right ventricular dysplasia, familial, 4,Arrhythmogenic right ventricular dysplasia, familial, 3,Arrhythmogenic right ventricular dysplasia, familial, 6,Desminopathy/Myopathy, myofibrillar, 1,致心律失常性右室发育不良/心肌病（ARVD/C）/Arrhythmogenic right ventriculardysplasia/ cardiomyopathy; ARVD/C,Arrhythmogenic right ventricular dysplasia, familial, 13","1. Primary nephrolithiasis
+2. Hemangioma
+3. Syncope
+4. Muscle weakness
+5. Cardiomegaly
+6. Abnormal right ventricle morphology
+7. Right ventricular failure
+8. Abnormal left ventricle morphology
+9. Palpitations
+10. Dyspnea",否
+24,"Ventricular fibrillation,Pneumonia,Dyspnea,Exercise intolerance,Viral hepatitis,ST segment elevation,Cough","Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1","1. Ventricular fibrillation with cardiomyopathy
+2. Pneumonia caused by a bacterial or viral infection
+3. Dyspnea (shortness of breath) due to heart failure
+4. Exercise intolerance caused by ventricular dysfunction
+5. Viral hepatitis
+6. ST-segment elevation, which could indicate a myocardial infarction
+7. Coughing that is persistent or fitsful, which could be a symptom of heart failure or a lung infection
+8. Heart failure caused by ventricular dysfunction
+9. Pneumonia caused by a fungal infection
+10. Myocardial infarction (heart attack)",否
+25,"Trismus,Hyperhidrosis,Syncope,Vomiting,Loss of consciousness,Right bundle branch block,ST segment elevation","Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1","1. Guillain-Barré Syndrome
+2. Sepsis
+3. meningitis
+4. multiple sclerosis
+5. Guillain-Barré Syndrome
+6. Sepsis
+7. meningitis
+8. encephalitis
+9.百草枯中毒
+10. other Toxin-Induced Neurological Disorders",否
+26,"Urinary hesitancy,Urinary incontinence,Prostatitis,Syncope,Muscle weakness,Elevated circulating creatine kinase concentration,Exercise intolerance,Loss of consciousness,Pedal edema,ST segment elevation,Increased circulating creatine kinase MB isoform,Dysuria,Amaurosis fugax","Brugada syndrome 2,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 6,Brugada syndrome 5,Brugada syndrome 4,Brugada syndrome 8,Brugada syndrome 9,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1,Brugada syndrome 7,Brugada syndrome 3,Brugada综合征/Brugada Syndrome, BrS/Brugada syndrome/Brugada syndrome 1","1. Polycystic ovary syndrome (PCOS)
+2. Uterine fibroids
+3. Endometriosis
+4. Interstitial cystitis (IC)
+5. Urethral urgency incontinence
+6. Interstitial radiation therapy-induced neurogenic bladder
+7. Charcoal tablet ingestion
+8. Acute ischemic stroke
+9. Hyponatremia
+10. Renal cause, such as nephrotic syndrome or glomerulonephritis.",否
+27,"Muscle weakness,Pericardial effusion,Abnormal tricuspid valve morphology,Palpitations,Vomiting,Abdominal pain,Dyspnea,Exercise intolerance,Poor appetite,Vascular tortuosity,Atrial fibrillation,Tricuspid regurgitation,Pedal edema,Right bundle branch block,Abnormal ST segment,Left ventricular systolic dysfunction,Right atrial enlargement,Increased circulating NT-proBNP concentration,Left atrial enlargement,Abnormality of internal jugular vein","Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26","1. Dilated cardiomyopathy with left ventricular dysfunction and preserved ejection fraction (LVDF)
+2. Hypertrophic cardiomyopathy (HCM)
+3. Myocardial infarction (MIC)
+4. Angina pectoris
+5. Atrial fibrillation (AF)
+6. Aortic stenosis (AS)
+7. Valvular heart disease, specifically truncus valve morphology and regurgitation
+8. Subaortic stenosis
+9. Hypertension
+10. Pulmonary hypertension.",否
+28,"Urinary hesitancy,Nephrolithiasis,Hypertrophic cardiomyopathy,Pericardial effusion,Left ventricular hypertrophy,Abnormal thrombosis,Pneumonia,Pulmonary arterial hypertension,Dyspnea,Hypokalemia,Conjugated hyperbilirubinemia,Exercise intolerance,Increased total bilirubin,Atrial fibrillation,Right ventricular dilatation,Abnormal T-wave,Ventricular septal hypertrophy,Tricuspid regurgitation,Premature ventricular contraction,Pedal edema,Right bundle branch block,Reduced left ventricular ejection fraction,Regional left ventricular wall motion abnormality,Left ventricular diastolic dysfunction,Right atrial enlargement,Abnormal B-type natriuretic peptide concentration,Productive cough,Left atrial enlargement,Dysuria,Chest pain","Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26","1. Uroporphyrinum
+2. Lead toxicity
+3. Calcium channel blocker toxicity
+4. Hypertension
+5. Endocarditis
+6. Enlarged heart failure
+7. Thrombosis
+8. Pulmonary embolism
+9. Congestive heart failure
+10. Renal cell carcinoma",否
+29,"Cholecystitis,Cerebral hemorrhage,Ascites,Abnormal mitral valve morphology,Cardiomegaly,Pericardial effusion,Abnormal tricuspid valve morphology,Right ventricular failure,Accessory spleen,Abdominal pain,Pulmonary arterial hypertension,Dyspnea,Pleural effusion,Sparse scalp hair,Hepatomegaly,Conjugated hyperbilirubinemia,Generalized muscle weakness,Exercise intolerance,Increased total bilirubin,Permanent atrial fibrillation,Pulmonary artery dilatation,Abnormal vena cava morphology,Reduced systolic function,Pedal edema,Decreased urine output,Reduced left ventricular ejection fraction,Left ventricular diastolic dysfunction,Right atrial enlargement,Increased circulating NT-proBNP concentration,Left atrial enlargement","Cardiomyopathy, familial restrictive, 1,家族性/特发性限制型心肌病/Familial/Idiopathic restrictive cardiomyopathy,Cardiomyopathy, familial restrictive, 3,Cardiomyopathy, dilated, 1KK,Cardiomyopathy, familial hypertrophic, 26","1. Primary biliary cholangitis (PBC) with secondary胆管炎 and liver cirrhosis leading to cerebral hemorrhage and ascites
+2. Mitochondrial encephalomyopathy with stroke-like episodes (MELAS) and dilated cardiomyopathy
+3. Familial international normalized ratio (FIRN) disorder with abnormal mitral and tricuspid valve morphology, cardiomegaly, and right ventricular failure
+4. Systemic lupus erythematosus (SLE) with nephrotic syndrome, neuroticulate symptoms, and splenomegaly
+5. Polycystic ovary syndrome (PCOS) with pelvic pain, hypertriglyceridemia, and abnormal scalp hair
+6. Congenital heart disease with triposidinic truncus arteriosus, right ventricular hypoplasia, and abnormal mitral and tricuspid valve morphology
+7. Bacterial endocarditis with pericardial effusion, tachycardia, and right ventricular failure
+8. Viral trigeminal neuralgia with facial pain,uralaema, and increased total bilirubin
+9. Hypersensitivity syndrome with renal dysfunction, hemolytic anemia, and abdominal pain
+10. Myofascial pain syndrome with generalized muscle weakness, exercise intolerance, and decreased urine output.",2
+30,"Hemangioma,Spastic paraplegia,Difficulty walking,EMG: neuropathic changes,Babinski sign,Difficulty standing,Decreased finger mobility,Hyperactive deep tendon reflexes,Lower limb muscle weakness,Abasia,Abnormal thoracic spine morphology","Amyotrophic lateral sclerosis 1,Amyotrophic lateral sclerosis, susceptibility to, 24,Amyotrophic lateral sclerosis 5, juvenile,Amyotrophic lateral sclerosis 2, juvenile,Amyotrophic lateral sclerosis 9,Amyotrophic lateral sclerosis 16, juvenile,Frontotemporal dementia and/or amyotrophic lateral sclerosis 6,Amyotrophic lateral sclerosis 18,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 8,Amyotrophic lateral sclerosis, susceptibility to, 25,Juvenile amyotrophic lateral sclerosis,Spinocerebellar ataxia type 2/Spinocerebellar ataxia 2,Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 22 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 20,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 15 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia,Amyotrophic lateral sclerosis 21,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 11,Amyotrophic lateral sclerosis 12 with or without frontotemporal dementia,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 19,Amyotrophic lateral sclerosis 23,Amyotrophic lateral sclerosis 3","1. Hemangioma
+2. Spastic paraplegia
+3. Acute ischemic stroke
+4. Multiple sclerosis
+5. Transverse myelitis
+6. Guillain-Barré syndrome
+7. Myasthenia gravis
+8. Amyotrophic lateral sclerosis
+9. Charcot-步态
+10. Myelodysplastic syndromes of childhood (MDSC)",8
+31,"Slurred speech,Abnormal cerebral white matter morphology,Cerebral ischemia,Abnormal sella turcica morphology,Abnormality of the cervical spine,Spinal canal stenosis,EMG: neuropathic changes,Upper limb muscle weakness,Abnormal intervertebral disk morphology,Upper limb pain,Cough,Tongue pain","Amyotrophic lateral sclerosis 1,Amyotrophic lateral sclerosis, susceptibility to, 24,Amyotrophic lateral sclerosis 5, juvenile,Amyotrophic lateral sclerosis 2, juvenile,Amyotrophic lateral sclerosis 9,Amyotrophic lateral sclerosis 16, juvenile,Frontotemporal dementia and/or amyotrophic lateral sclerosis 6,Amyotrophic lateral sclerosis 18,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 8,Amyotrophic lateral sclerosis, susceptibility to, 25,Juvenile amyotrophic lateral sclerosis,Spinocerebellar ataxia type 2/Spinocerebellar ataxia 2,Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 22 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 20,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 15 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia,Amyotrophic lateral sclerosis 21,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 11,Amyotrophic lateral sclerosis 12 with or without frontotemporal dementia,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 19,Amyotrophic lateral sclerosis 23,Amyotrophic lateral sclerosis 3","1. Amyotrophic Lateral Sclerosis (ALS)
+2. Neuromyelitis Optica (NMO)
+3. Guillain-Barre Syndrome (GBS)
+4. Inflammatory Neuropathies (e.g. Encephalitis)
+5. Subacute bacterial Encephalitis (SBE)
+6. Viral Encephalitis (e.g. JC virus)
+7. Demyelinating Neuromuscular Disorders (e.g. PMA-22)
+8. Myasthenia Gravis
+9. Spinal Muscular Atrophy (SMA)
+10. Hypocalcemia",1
+32,"Hypertension,Coma,Dysarthria,Constipation,Morphological abnormality of the pyramidal tract,Spastic gait,Difficulty walking,Sleep disturbance,Anarthria,Upper limb muscle weakness,Babinski sign,Exercise intolerance,Difficulty climbing stairs,Hyperactive deep tendon reflexes,Lower limb muscle weakness,Leg muscle stiffness,Upper limb amyotrophy,Ankle clonus,Palmomental reflex,Suck reflex,Hoffmann sign","Amyotrophic lateral sclerosis 1,Amyotrophic lateral sclerosis, susceptibility to, 24,Amyotrophic lateral sclerosis 5, juvenile,Amyotrophic lateral sclerosis 2, juvenile,Amyotrophic lateral sclerosis 9,Amyotrophic lateral sclerosis 16, juvenile,Frontotemporal dementia and/or amyotrophic lateral sclerosis 6,Amyotrophic lateral sclerosis 18,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 8,Amyotrophic lateral sclerosis, susceptibility to, 25,Juvenile amyotrophic lateral sclerosis,Spinocerebellar ataxia type 2/Spinocerebellar ataxia 2,Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 22 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 20,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 15 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia,Amyotrophic lateral sclerosis 21,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 11,Amyotrophic lateral sclerosis 12 with or without frontotemporal dementia,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 19,Amyotrophic lateral sclerosis 23,Amyotrophic lateral sclerosis 3","1. Hypertensive encephalopathy
+2. Hyponatremia
+3. Hypokalemia
+4. Brain edema
+5. Hyperkalemia
+6. Hypoxia
+7. Metabolic acidosis
+8. Hypoglycemia
+9. Electrolyte imbalance
+10. Cerebrovascular accident",否
+33,"Pes cavus,Talipes,Hyperammonemia,Hyperhomocystinemia,Elevated circulating creatine kinase concentration,EMG: neuropathic changes,Decreased body weight,Abnormal intervertebral disk morphology,Decreased finger mobility,Hyperactive patellar reflex,Abnormal pyramidal sign,Distal upper limb muscle weakness,Proximal muscle weakness in lower limbs,Proximal muscle weakness in upper limbs,Distal lower limb muscle weakness,Decreased Achilles reflex,Hand muscle atrophy,Hyporeflexia of upper limbs,Abnormal tendon morphology,Vitamin B12 deficiency","Amyotrophic lateral sclerosis 1,Amyotrophic lateral sclerosis, susceptibility to, 24,Amyotrophic lateral sclerosis 5, juvenile,Amyotrophic lateral sclerosis 2, juvenile,Amyotrophic lateral sclerosis 9,Amyotrophic lateral sclerosis 16, juvenile,Frontotemporal dementia and/or amyotrophic lateral sclerosis 6,Amyotrophic lateral sclerosis 18,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 8,Amyotrophic lateral sclerosis, susceptibility to, 25,Juvenile amyotrophic lateral sclerosis,Spinocerebellar ataxia type 2/Spinocerebellar ataxia 2,Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 22 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 20,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 15 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia,Amyotrophic lateral sclerosis 21,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 11,Amyotrophic lateral sclerosis 12 with or without frontotemporal dementia,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 19,Amyotrophic lateral sclerosis 23,Amyotrophic lateral sclerosis 3","1. Congenital disorder of glycosylation (CDG)
+2. Mitochondrial encephalomyopathy with lactic acidosis and stenosis of the heart (MELAS)
+3. Urea cycle disorder
+4. Primary hyperparathyroidism
+5. Hyperammonemia
+6. Hyperhomocystinemia
+7. Elevated circulating creatine kinase concentration (CK)
+8. Myopathy with muscle weakness and elevated CK
+9. Neuromyelitis optica
+10. Guillain-Barré syndrome",否
+34,"Abnormal joint morphology,Difficulty walking,Morphological abnormality of the corticospinal tract,EMG: neuropathic changes,Upper limb muscle weakness,Abnormal muscle tone,Abnormal 4th finger morphology,Poor fine motor coordination,Interosseus muscle atrophy,Lower limb muscle weakness,Exercise-induced leg cramps,Hand muscle weakness","Amyotrophic lateral sclerosis 1,Amyotrophic lateral sclerosis, susceptibility to, 24,Amyotrophic lateral sclerosis 5, juvenile,Amyotrophic lateral sclerosis 2, juvenile,Amyotrophic lateral sclerosis 9,Amyotrophic lateral sclerosis 16, juvenile,Frontotemporal dementia and/or amyotrophic lateral sclerosis 6,Amyotrophic lateral sclerosis 18,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 8,Amyotrophic lateral sclerosis, susceptibility to, 25,Juvenile amyotrophic lateral sclerosis,Spinocerebellar ataxia type 2/Spinocerebellar ataxia 2,Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 22 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 20,Amyotrophic lateral sclerosis type 4/Amyotrophic lateral sclerosis 4, juvenile,Amyotrophic lateral sclerosis 15 with or without frontotemporal dementia,Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia,Amyotrophic lateral sclerosis 21,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 11,Amyotrophic lateral sclerosis 12 with or without frontotemporal dementia,肌萎缩侧索硬化/Amyotrophic lateral sclerosis; ALS/Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis 19,Amyotrophic lateral sclerosis 23,Amyotrophic lateral sclerosis 3","1. Guillain-Barré Syndrome
+2. Charcot-Marie-Tooth Disease
+3. Hereditary Spasticity
+4. Newton's disease
+5. Myasthenia Gravis
+6. Limb-girdle strengthsyndrom
+7. congenital disorder of glycosylation
+8. Emery-Dreifuss Muscular Dysplasia
+9. Myopathy of中心粒无力
+10. 肌阵挛",否
+35,"Bilateral ptosis,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Difficulty climbing stairs,Difficulty standing,EMG: repetitive nerve stimulation abnormality,Favorable response of weakness to acetylcholine esterase inhibitors,Abnormal levator palpebrae superioris morphology","全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis","1. Myasthenia gravis
+2. Acoustic neuroma
+3. Facioscapulohumeral dystrophy
+4. Amyotrophic lateral sclerosis
+5. Spinal muscular atrophy
+6. Emery-Dreifuss muscle disease
+7. Limb-girdle muscle weakness syndrome
+8. Myofascial dystrophy
+9. Intermediate neuromuscular disorder
+10. PrimaryPT",1
+36,"Blurred vision,Impaired ocular abduction,Diplopia,Oculomotor apraxia,Bilateral ptosis,Dysphagia,Dyspnea,Generalized muscle weakness,Easy fatigability,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Upper limb muscle weakness,Weakness of muscles of respiration,Impaired mastication,Lower limb muscle weakness,Unilateral ptosis,EMG: repetitive nerve stimulation abnormality","全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis","1. Charitable冰山病
+2. 神经元退行性疾病，如SOD1基因突变导致的SOD1神经元变性
+3. 线粒体病，如KJN2基因突变导致的线粒体呼吸链缺陷
+4. 遗传性球形细胞性贫血
+5. 抗利尿激素分泌过多症
+6. 库欣综合症
+7. 脑膜脑炎
+8. 肌营养不良
+9. 脑干功能衰竭
+10. 吉兰-巴利综合症",否
+37,"Diplopia,Bilateral ptosis,Dysphagia,Leukoencephalopathy,Difficulty walking,Abnormal cerebral white matter morphology,Varicose veins,Atherosclerosis,Easy fatigability,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Exercise intolerance,Abnormal carotid artery morphology,Unilateral ptosis,EMG: repetitive nerve stimulation abnormality,Anti-acetylcholine receptor antibody positivity","全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis","1. Acetylcholine-deficient syndrome
+2. Myasthenia gravis
+3. Compound muscle action potential decremental response syndrome
+4. Leukoencephalopathy
+5. Varicose veins and atherosclerosis
+6. Sydenham's disease
+7. Guillain-Barre syndrome
+8. Myelitis
+9. Encephalitis
+10. Neuromyelitis optica",2
+38,"Abnormality of the tongue,Diplopia,Depression,Diabetes mellitus,Hypertension,Dysarthria,Reduced tendon reflexes,Slurred speech,Bilateral ptosis,Ischemic stroke,Difficulty walking,Abnormal cerebral white matter morphology,Hyperlipidemia,Arterial calcification,Easy fatigability,EMG abnormality,Upper limb muscle weakness,Impaired mastication,Cerebral artery atherosclerosis,Unilateral ptosis,Favorable response of weakness to acetylcholine esterase inhibitors,Anti-acetylcholine receptor antibody positivity,Abnormality of the maxillary sinus","全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis","1. Acoustic neuroma
+2. Cochlear implantation-related complications
+3. Labyrinthitis
+4. Meniere's disease
+5. Vestibular nerveparalysis
+6. Benign paroxysmal positional vertigo
+7. Neuromuscular disorder
+8. Myasthenia gravis
+9. Acetylcholine-deficient syndrome
+10. Angioedema (allergic angioedema)",8
+39,"Diplopia,Hypertension,Hashimoto thyroiditis,Dysarthria,Bilateral ptosis,Hoarse voice,Progressive hearing impairment,Diarrhea,Dysphagia,Abnormal basal ganglia morphology,Ischemic stroke,Atherosclerosis,Generalized muscle weakness,EMG: decremental response of compound muscle action potential to repetitive nerve stimulation,Fatigable weakness,Proximal muscle weakness,Decreased body weight,Unilateral ptosis,Thymus hyperplasia,Increased carotid artery intimal medial thickness,Appendicular hypotonia,EMG: repetitive nerve stimulation abnormality,Favorable response of weakness to acetylcholine esterase inhibitors,Thymoma","全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis,全身型重症肌无力/Generalized myasthenia gravis; GMG/Myasthenia gravis/Myasthenia gravis","1. Multiple sclerosis
+2. Neuromyelitis optica
+3. Guillain-Barré syndrome
+4. Acute ischemic stroke
+5. Subacute ischemic stroke
+6. Transient ischemic attack
+7. Hypertension
+8. Hashimoto thyroiditis
+9. Diplopia
+10. Thymus hyperplasia",否
+40,"Urinary urgency,Urinary retention,Urinary hesitancy,Urinary incontinence,Episodic hypertension,Hepatic steatosis,Constipation,Bradykinesia,Abnormal basal ganglia morphology,Akinesia,Clumsiness,Action tremor,Sleep disturbance,Shuffling gait,Falls,EMG abnormality,Decreased body weight,Abnormal left ventricular function,Poor fine motor coordination,Progressive language deterioration,Foot dorsiflexor weakness,Paroxysmal vertigo,Aortic atherosclerotic lesion,Pain,Abnormal urine cytology,Abasia,Abnormal lateral ventricle morphology,Hand muscle weakness,Reduced blood folate concentration,Pollakisuria,Dysuria","多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to","1. Uroporphyrinism
+2. Acute interstitial nephritis
+3. Glomerulonephritis
+4. Kidney cancer
+5. Urothelial carcinoma
+6. Renal abscess
+7. Pyelonephritis
+8. Renal papillary neoplasm
+9. Urethral stricture
+10. Interstitial cystitis",否
+41,"Urinary urgency,Urinary hesitancy,Urinary incontinence,Xerostomia,Visual loss,Hypertension,Hemangioma,Abnormal fundus morphology,Dysarthria,Syncope,Slurred speech,Patent foramen ovale,Dysdiadochokinesis,Clumsiness,EEG abnormality,Memory impairment,Positive Romberg sign,Dyscalculia,Abnormal cerebral white matter morphology,Waddling gait,Inability to walk,Bowel incontinence,Arteriosclerosis,Cerebral ischemia,EMG: neuropathic changes,Babinski sign,Increased body weight,Poor appetite,Decreased facial expression,Aortic aneurysm,Hyperactive deep tendon reflexes,Pontocerebellar atrophy,Poor fine motor coordination,Abnormal pons morphology,Renal hamartoma,Abnormal ventricular septum morphology,Dysgraphia,Chaddock reflex,Abnormal medulla oblongata morphology,Ankle clonus,Abasia,Palmomental reflex,Pollakisuria,Dysuria,Erectile dysfunction","多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to","1. Neuromuscular disorder
+2. Genetic disorder
+3. Encephalomyopathy
+4. Vascular disease
+5. Epilepsy
+6. Head trauma
+7. Brain tumor
+8. Multiple sclerosis
+9. Inflammatory disease
+10. Metabolic disorder",否
+42,"Urinary incontinence,Hallucinations,Hyperactivity,Syncope,Hepatic steatosis,Bradykinesia,Dysdiadochokinesis,Broad-based gait,Dilated fourth ventricle,Frequent falls,Sleep disturbance,Hyperkinetic movements,Falls,Inability to walk,Atherosclerosis,Spinal canal stenosis,Back pain,Babinski sign,Difficulty climbing stairs,Difficulty standing,Abnormal intervertebral disk morphology,Abnormal carotid artery morphology,Pontocerebellar atrophy,Lower limb hypertonia,Poor fine motor coordination,Short stepped shuffling gait,Lower limb muscle weakness,Cervical spondylosis,Lipomatous tumor,Abasia,Cough","多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to","1. Competing interests: This patient's symptoms may be related to competing interests, such as difficulty climbing stairs, difficulty standing, and difficulty walking, which could be caused by spinal canal stenosis, back pain, and lower limb muscle weakness.
+2. Hypocalcemia: This patient's symptoms of urinary incontinence, hallucinations, and sleep disturbance may be related to hypocalcemia, which can cause confusion, agitation, and difficulty concentrating.
+3. Hypercalcemia: This patient's symptoms of urinary incontinence, hallucinations, and sleep disturbance may be related to hypercalcemia, which can cause confusion, agitation, and difficulty concentrating.
+4. Psychosis: This patient's symptoms of hallucinations and sleep disturbance may be related to psychosis, which can cause delusions, hallucinations, and disorganized thinking.
+5. Epilepsy: This patient's symptoms of hallucinations and sleep disturbance may be related to epilepsy, which can cause fits of confusion and disorganized thinking.
+6. Migraine: This patient's symptoms of hallucinations and sleep disturbance may be related to migraine, which can cause fits of confusion and disorganized thinking.
+7. Multiple sclerosis: This patient's symptoms of urinary incontinence, hallucinations, and sleep disturbance may be related to multiple sclerosis, which can cause difficulty climbing stairs, difficulty standing, and lower limb hypertonia.
+8. Parkinson's disease: This patient's symptoms of hallucinations, hyperactivity, and difficulty standing may be related to Parkinson's disease, which can cause fits of agitation and confusion.
+9. Chronic fatigue syndrome: This patient's symptoms of fatigue, difficulty climbing stairs, and poor fine motor coordination may be related to chronic fatigue syndrome, which can cause fatigue and muscle weakness.
+10. Systemic lupus erythematosus: This patient's symptoms of hallucinations, sleep disturbance, and lower limb hypertonia may be related to systemic lupus erythematosus, which can cause fatigue and muscle weakness.",否
+43,"Urinary urgency,Urinary hesitancy,Urinary incontinence,Syncope,Stroke,Slurred speech,Constipation,Cerebral atrophy,Dysdiadochokinesis,Abnormal spinal cord morphology,Positive Romberg sign,Abnormal cerebral white matter morphology,Increased intracranial pressure,Cerebral ischemia,Increased CSF protein concentration,EMG: neuropathic changes,Babinski sign,Difficulty climbing stairs,Loss of consciousness,Lower limb muscle weakness,Abnormal prostate morphology,Sleep apnea,CSF pleocytosis,Dysesthesia,Abasia,Abnormal male reproductive system physiology,Schwannoma,Pollakisuria,Dysuria,Neoplasm of the lung,Erectile dysfunction,Abnormal lumbar spine morphology","多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to","1. Neuromuscular disorder
+2. Inflammatory neuropathy
+3. Genetic disorder
+4. Encephalomyopathy
+5. Stroke-related disorder
+6. Neurodegenerative disorder
+7. Myelination disorder
+8. Metabolic disorder
+9. Endocrine disorder
+10. Infectious disease",6
+44,"Nocturia,Urinary hesitancy,Urinary incontinence,Male hypogonadism,Diabetes mellitus,Slurred speech,Bradykinesia,Broad-based gait,Unsteady gait,Memory impairment,Positive Romberg sign,Dyscalculia,Falls,Hyporeflexia of lower limbs,Bowel incontinence,Paresthesia,Babinski sign,Decreased body weight,Abnormal intervertebral disk morphology,Impaired vibration sensation at ankles,Impaired pain sensation,Benign prostatic hyperplasia,Fibroma,Chaddock reflex,Abasia,Hoffmann sign,Pollakisuria,Dysuria,Abnormal lumbar spine morphology","多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, parkinsonian type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to,Multiple system atrophy, cerebellar type,多系统萎缩/Multiple system atrophy; MSA/Multiple system atrophy/Multiple system atrophy 1, susceptibility to","1. Benign prostatic hyperplasia (BPH)
+2. Urinary tract infection (UTI)
+3. Diabetes mellitus
+4. Hypogonadism
+5. Multiple sclerosis (MS)
+6. Neuromuscular disorder
+7. Encephalitis
+8. Multiple system atrophy (MSA)
+9. Amyotrophic lateral sclerosis (ALS)
+10. Inflammatory neuropathies",8
+45,"Nocturia,Proteinuria,Hematuria,Hypertension,Acne,Hyperkalemia,Hypoalbuminemia,Hypercholesterolemia,Hyperuricosuria,Elevated circulating creatinine concentration,Nodular goiter,Abnormal urinary color","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Alport syndrome
+2. Glomerulonephritis
+3. Membranous nephropathy
+4. focal segmental glomerulosclerosis
+5. lupus nephritis
+6. Goodpasture's disease
+7. vasculitis
+8. granulomatosis
+9. mixed connective tissue disease
+10.primary biliary cholangitis",1
+46,"Proteinuria,Hypertension,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Severe sensorineural hearing impairment,Abnormal urinary color,Macroscopic hematuria,Cylindruria","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Membranous nephropathy: a common cause of proteinuria, hypertension, and fever in patients with kidney disease.
+2. Lupus nephritis: an autoimmune disorder that can cause proteinuria, hypertension, fever, and kidney damage.
+3. Mesangial cell nephritis: a type of glomerulonephritis that causes inflammation of the mesangial cells in the glomeruli.
+4. Listeria monocytogenes infection: a rare but serious infection that can cause fever, hypertension, and proteinuria.
+5. Erythrocyte sedimentation rate (ESR) elevation: an increase in the ESR, which is a measure of red blood cell Sed rate, can be caused by inflammation, infection, or autoimmune disorders.
+6. Sepsis: a systemic inflammatory response to an infection that can cause fever, septic shock, and organ dysfunction.
+7. Glomerulonephritis: a group of kidney diseases that cause inflammation of the glomeruli, leading to proteinuria, hematuria, and cylindruria.
+8. Renal cell carcinoma: a cancer that can cause hypertension, proteinuria, and hematuria.
+9. Polycystic ovary syndrome (PCOS): a hormonal disorder that can cause obesity, insulin resistance, and ovarian cysts.
+10. Acute kidney injury (AKI): an unexpected and severe loss of kidney function that can be caused by a variety of factors, including infections, drugs, or severe trauma.",否
+47,"Nephritis,Sinusitis,High-frequency sensorineural hearing impairment,Microscopic hematuria,Abnormal urinary color,Macroscopic hematuria","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Lupus nephritis
+2. Chronic obstructive pulmonary disease (COPD)
+3. Sinusitis
+4. Vasculitis
+5. Chronic fatigue syndrome (CFS)
+6. Post-influenza nephritis
+7. Lyme disease
+8. Sjogren's syndrome
+9. Polymyositis
+10. Neutrophilic esophagitis",否
+48,"Nocturia,Proteinuria,Glomerulonephritis,Hematuria,Increased circulating IgM level,Elevated erythrocyte sedimentation rate,Nodular goiter,Chronic kidney disease,Pollakisuria","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Primary nephrotic syndrome
+2. Membranous nephropathy
+3. Glomerulonephritis
+4. Lupus nephritis
+5. Goodpasture's disease
+6. Membranous microangiopathy
+7. Chronic kidney disease
+8. Essential hypertension
+9. Hyperparathyroidism
+10. Thrombotic microangiopathy.",否
+49,"Proteinuria,Glomerulonephritis,Hearing impairment,Visual loss,Fever,Hypercholesterolemia,Elevated circulating creatinine concentration,Elevated erythrocyte sedimentation rate,Recurrent tonsillitis,Abnormal urinary color,Macroscopic hematuria","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Membranous nephropathy with minimal change disease
+2. Lupus nephritis
+3. Goodpasture's disease
+4. Sjogren's syndrome
+5. vasculitis
+6. Polyneuropathy
+7. Chronic activeScriptive polymyositis
+8. Guillain-Barre syndrome
+9. Chronic fatigue syndrome
+10.",否
+50,"Renal tubular atrophy,Proteinuria,Focal segmental glomerulosclerosis,Glomerulonephritis,Abnormality of the pharynx,Fever,Sparse scalp hair,Hypoalbuminemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Foam cells,Increased body weight,Tubulointerstitial fibrosis","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Primary glomerulonephritis
+2. Membranous nephropathy
+3. focal segmental glomerulosclerosis
+4. membranous nephropathy
+5. Goodpasture's disease
+6. Lupus nephritis
+7. vasculitis
+8. nephrotic syndrome
+9. amyloidosis
+10. chronic kidney disease.",否
+51,"Proteinuria,Glomerulonephritis,Renal cyst,Hearing impairment,Hematuria,Thrombocytosis,Leukocytosis,Hypoalbuminemia,Hypercholesterolemia,Poor appetite,Abnormal prostate morphology,Chronic kidney disease","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Primary nephrotic syndrome
+2. Membranous nephropathy
+3. focal segmental glomerulosclerosis
+4. podocytomatosis
+5. minimal change disease
+6. membranous nephropathy
+7. Goodpasture's disease
+8. lupus nephritis
+9. vasculitis
+10. hemolytic uremic syndrome",否
+52,"Proteinuria,Xerostomia,Large for gestational age,Fever,Hypercholesterolemia,Decreased body weight,Macroscopic hematuria","Alport syndrome, X-linked,Alport syndrome 2, autosomal recessive,Alport syndrome 3, autosomal dominant,Alport 综合征/Alport syndrome/Alport syndrome,Alport 综合征/Alport syndrome/Alport syndrome","1. Congenital aganglionic megacolon
+2. Congenital midgut malrotation
+3. Intestinal malrotation
+4. Acute ischemic stroke
+5. Hypoglycemia
+6. Hypokalemia
+7. Hypomagnesemia
+8. Hyperparathyroidism
+9. Hypercalcemia
+10. Renal cause, such as glomerulonephritis or vasculitis.",否
+53,"Proteinuria,Xerostomia,Hematuria,Hypertension,Premature birth,Thrombocytosis,Leukocytosis,Chronic diarrhea,Drowsiness,Arthralgia,Increased blood urea nitrogen,Elevated circulating creatinine concentration,Decreased body weight","法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease","1. Congenital agangloidism
+2. Congenital polyglobulinuria
+3. Lead toxicity
+4. Genetic disorder of creatinine transport
+5. Acute kidney injury
+6. Chronic kidney disease
+7. Membranous nephropathy
+8. focal segmental glomerulosclerosis
+9. Microangiopathic hemolytic uremic
+10. Urea cycle disorder",否
+54,"Abnormality of the ureter,Proteinuria,Abnormality of the auditory canal,Hypercholesterolemia,Fractured hand bones,Abnormal finger phalanx morphology,Unilateral deafness,Abnormality of the tympanic membrane,Nasal polyposis","法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease","1. Ureteric calcification with obstruction
+2. Autosomal recessive polycystic kidney disease (ARPKD)
+3. Congenital adrenal hyperplasia (CAH) type 21
+4. congenital aganglionic megacolon
+5. Lysyl oxidase deficiency
+6. Absence of the distal ureter
+7. Urethral stricture
+8. Cyst in the nasal cavity
+9. Osteogenesis imperfecta type 2
+10. Sensorineural hearing loss.",否
+55,"Nocturia,Proteinuria,Glomerulonephritis,Renal cyst,Hydronephrosis,Blurred vision,Hematuria,IgA deposition in the glomerulus,Hypertension,Syncope,Hypertrophic cardiomyopathy,Weight loss,Palpitations,Hypertriglyceridemia,Hypercholesterolemia,Elevated circulating creatinine concentration,Supraventricular arrhythmia,Ventricular septal hypertrophy,Abnormality of the gallbladder,Premature ventricular contraction,Pedal edema,Right bundle branch block,Abnormal ST segment,Chronic kidney disease,Left ventricular diastolic dysfunction,Chest pain","法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease,法布雷病/Fabry disease/Fabry disease/Fabry disease","1. Minimal change disease (MCD)
+2. Membranous nephropathy (MN)
+3. focal segmental glomerulosclerosis (FSG)
+4. lupus nephritis (LN)
+5. vasculitis
+6. Goodpasture's disease
+7. listeria infection
+8. eosinophilic nephritis (EN)
+9. biliary tract disease
+10. renal淀粉样变性 (RENAL AMyloidosis)",否
+56,"Renal potassium wasting,Skin rash,Prolonged QT interval,Dyspnea,Hypokalemia,Hyperchloriduria,Hypomagnesemia,Increased urinary potassium,Generalized muscle weakness,Paresthesia,Renal magnesium wasting,Hyponatriuria,Hypernatriuria,Hypermagnesiuria,Metabolic alkalosis","Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome","1. Primary hyperparathyroidism
+2. Hyperparathyroidism secondary to chronic kidney disease
+3. Hyperkalemia due to a potassium-sensing receptor autoimmune disorder (e.g., primary hyperparathyroidism,公开展示)
+4. Hypokalemia due to a potassium-sensing receptor autoimmune disorder
+5. Hypomagnesemia due to a potassium-sensing receptor autoimmune disorder
+6. Hypernatriuria and hypermagnesiuria due to a kidney disorder or mineral代谢紊乱
+7. Renal potassium wasting due to a kidney disorder or mineral metabolism disorder
+8. Paresthesia and muscle weakness due to a neural disorder or electrolyte imbalance
+9. Dyspnea and renal magnesium wasting due to a cardiomyopathy or neuromuscular disorder
+10. Long QT interval and metabolic alkalosis due to an electrolyte imbalance or a renal disorder.",5
+57,"Nocturia,Renal potassium wasting,Hyperhidrosis,Urticaria,Hepatic steatosis,Palpitations,Hyperuricemia,Hypokalemia,Hyperchloriduria,Increased urinary potassium,Lower limb muscle weakness,Sinus tachycardia,Hypernatriuria,Elevated circulating alanine aminotransferase concentration","Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome","1. Primary hyperparathyroidism
+2. Hypercalcemia
+3. Hypokalemia
+4. Hypomagnesemia
+5. Hyperuricemia
+6. Renal cell carcinoma
+7. Erythrocyte Sedimentation Rate (ESR) increase
+8. Systemic lupus erythematosus (SLE)
+9. Polycystic ovary syndrome (PCOS)
+10. congenital adrenal hyperplasia (CAH)",否
+58,"Oral ulcer,Increased circulating renin level,Syncope,Palpitations,Diarrhea,Dyspnea,Hypokalemia,Hypomagnesemia,Generalized muscle weakness,Lower limb muscle weakness,Paroxysmal vertigo,T-wave inversion,Abnormality of urine calcium concentration,Nodular regenerative hyperplasia of liver,Dysesthesia,Amaurosis fugax","Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome","1. Hyperparathyroidism
+2. essential hypertension
+3. primary hyperparathyroidism
+4. rencontre
+5. myocardial infarction
+6. arrhythmia
+7. chronic kidney disease
+8. primary hyperatlasia
+9. neurocardiomyopathy
+10. end-stage renal disease.",否
+59,"Renal potassium wasting,Hypokalemia,Increased urinary potassium,Hypocalciuria,Metabolic alkalosis","Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome,Gitelman 综合征/Gitelman syndrome; GS/Gitelman syndrome/Gitelman syndrome","1. Primary hyperparathyroidism
+2. Hypercalcemia
+3. Hyperkalemia
+4. Renal potassium wasting
+5. Hyponatremia
+6. Hypokalemia
+7. Renal insufficiency
+8. Electrolyte imbalance
+9. Acute kidney injury
+10. Chronic kidney disease.",否
+60,"Proteinuria,Urticaria,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Megaloblastic anemia,Reticulocytosis,Diarrhea,Vertigo,Hyperglycemia,Generalized muscle weakness,Increased total bilirubin,Decreased body weight,Unconjugated hyperbilirubinemia,Anisocytosis,Abnormal urinary color,Abnormal granulocytopoietic cell morphology,Macroscopic hematuria,Elevated circulating aspartate aminotransferase concentration,Hypercoagulability","阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria","1. Lupus nephritis
+2. Goodpasture's disease
+3. Sjogren's syndrome
+4. vasculitis
+5. lupus erythematosus
+6. rheumatoid arthritis
+7. lupus nephritis
+8. lupus erythematosus
+9. Sjogren's syndrome
+10. lupus nephritis",否
+61,"Nocturia,Proteinuria,Hematuria,Hypertension,Jaundice,Cholelithiasis,Confusion,Alopecia,Tachycardia,Anemia,Aplastic anemia,Reticulocytosis,Fever,Palpitations,Vomiting,Diarrhea,Nausea,Dyspnea,Pleural effusion,Sparse scalp hair,Hypokalemia,Hyperglycemia,Elevated circulating creatinine concentration,Abdominal distention,Elevated erythrocyte sedimentation rate,Increased total bilirubin,Increased body weight,Unconjugated hyperbilirubinemia,Abnormal prostate morphology,Abnormal urinary color,Productive cough,Anuria","阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria","1. Glomerulonephritis
+2. Membranous nephropathy
+3. Goodpasture's disease
+4. Lupus nephritis
+5. Mesangitis
+6. Systemic lupus erythematosus
+7. Sjogren's syndrome
+8. Polycystic ovary syndrome
+9. Endometriosis
+10. Hypothyroidism",否
+62,"Depression,Hepatic cysts,Hepatosplenomegaly,Ascites,Splenomegaly,Weight loss,Neutropenia,Leukopenia,Anemia,Reticulocytosis,Hepatomegaly,Abdominal distention,Generalized muscle weakness,Abnormality of the abdominal wall,Poor appetite,Poikilocytosis,Anomalous splenoportal venous system,Abnormality of the gallbladder,Increased megakaryocyte count,Vertebral hyperostosis,Pedal edema,Anisocytosis,Myelofibrosis,Abnormal urinary color,Reduced granulocyte CD55 level,Reduced granulocyte CD59 level,Decreased expression of GPI-anchored proteins on the cell surface,Abnormality of mesentery morphology","阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria","1. Primary biliary cholangitis (PBC)
+2. Secondary biliary cholangitis (SBC)
+3. Mixed anomaly of liver and biliary ducts (MALBD)
+4. Hepatic帝型病毒感染(Hepatitis E)
+5. Hepatitis C
+6. Hepatitis B
+7. Nonalcoholic steatohepatitis (NASH)
+8. Alcoholic liver disease (ALD)
+9. Idiopathic thrombocytopenia purpura (ITP)
+10. Sjogren's syndrome",否
+63,"Oral ulcer,Skin rash,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Reticulocytosis,Fever,Hematochezia,Recurrent upper respiratory tract infections,Myelodysplasia,Anisocytosis,Abnormal erythroid lineage cell morphology,Abnormal megakaryocyte morphology","阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria","1. Lyme disease
+2. Sjogren's syndrome
+3. vasculitis
+4. lupus
+5.干燥综合征（Sjogren's syndrome）
+6. 血管炎
+7. 红斑狼疮（lupus）
+8. 骨髓增生异常综合症（myelodysplasia）
+9. 异常细胞核形态改变（an abnormal erythroid lineage cell morphology）
+10. 发热性贫血（fever anemia）",否
+64,"Purpura,Skin rash,Muscle weakness,Ascites,Thrombocytopenia,Anemia,Fever,Leukocytosis,Hepatomegaly,Vertigo,Low back pain,Increased total bilirubin,Recurrent thromboembolism,Respiratory tract infection,Abnormal urinary color,Abnormal erythroid lineage cell morphology,Abnormal granulocytopoietic cell morphology,Hemophagocytosis,Lower limb pain,Gastric varix,Portal vein thrombosis,Productive cough,Hypercoagulability","阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria,Paroxysmal nocturnal hemoglobinuria 2,阵发性睡眠性血红蛋白尿症/Paroxysmal nocturnal hemoglobinuria; PNH/Paroxysmal nocturnal hemoglobinuria/Paroxysmal nocturnal hemoglobinuria","1. Lupus erythematosus (LE)
+2. Sjogren's syndrome
+3. vasculitis
+4. Goodpasture's disease
+5. Sepsis
+6. Hemolytic uremic syndrome (HUS)
+7. Myelofibrosis
+8. Polycythemia vera (PV)
+9. Essential thrombocythemia
+10. MDS (Myelodysplastic Syndromes)",否
+65,"Proteinuria,Ovarian cyst,Hematuria,Hypothyroidism,Hypertension,Abnormality of skin pigmentation,Hepatosplenomegaly,Ascites,Congestive heart failure,Cardiomegaly,Patent foramen ovale,Pericardial effusion,Abnormal tricuspid valve morphology,Splenomegaly,Thrombocytosis,Anemia,Fever,Pneumonia,Pulmonary arterial hypertension,Hypophosphatemia,Pleural effusion,Hematochezia,Lymphadenopathy,Hypocalcemia,Elevated circulating thyroid-stimulating hormone concentration,Hypoalbuminemia,Abdominal distention,Elevated erythrocyte sedimentation rate,Decreased body weight,Abnormal intervertebral disk morphology,Intestinal edema,Abnormal vena cava morphology,Pedal edema,Elevated circulating C-reactive protein concentration,Anasarca,Ovarian teratoma,Pain,Dysesthesia,Cervicitis,Right atrial enlargement,Left atrial enlargement,Abnormal circulating thyroid hormone concentration,Enlarged ovaries","POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome","1. Hereditary transthyretin amyloidosis
+2. Familial hypithyroidism
+3. Carcinoid syndrome
+4. Neuroendocrine tumor
+5. Paraneoplastic autoimmune neuropathy
+6. Lupus erythematosus
+7. Sjogren's syndrome
+8. Primary biliary cholangitis
+9. secondary biliary cholangitis
+10. hemochromatosis.",否
+66,"Facial edema,Impaired social interactions,Apathy,Hypothyroidism,Increased circulating prolactin concentration,Hyperpigmentation of the skin,Papilledema,Cirrhosis,Hepatosplenomegaly,Ascites,Pericardial effusion,Splenomegaly,Anemia,Fever,Dyspnea,Pleural effusion,Lymphadenopathy,Hypoproteinemia,Abdominal distention,EMG abnormality,Upper limb muscle weakness,Decreased body weight,Poor appetite,Abnormal intervertebral disk morphology,Anomalous splenoportal venous system,Foot dorsiflexor weakness,Pedal edema,Anasarca,Lower limb pain,Dysesthesia,Abnormal circulating thyroid hormone concentration,Monoclonal elevation of IgG","POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome","1. Lupus erythematosus (a chronic autoimmune disease that can cause facial edema, impaired social interactions, apathy, and hypothyroidism)
+2. congenital aganglionic megacolon (a rare genetic disorder characterized by abdominal distension, lymphadenopathy, and foot dorsiflexor weakness)
+3. primary biliary cholangitis (an inflammatory condition of the bile ducts that can cause increased circulating prolactin concentration, hypoproteinemia, and splenomegaly)
+4. neuroendocrine tumor (a type of cancer that can produce hormones and can cause various symptoms such as fever, dyspnea, and pericardial effusion)
+5. congenital adrenal hyperplasia (a genetic disorder that can cause hypertension, heart failure, and hypothyroidism)
+6. multiple sclerosis (a chronic autoimmune disease that can cause muscle weakness, EMG abnormality, and fatigue)
+7. rhabdomyolysis (a condition characterized by muscle breakdown and release of muscle contents into the bloodstream, which can cause anemia, fever, and dyspnea)
+8. Goodpasture's disease (an autoimmune disorder that affects the blood vessels in the skin and internal organs, leading to hypothyroidism, apathy, and foot dorsiflexor weakness)
+9. Fabry disease (a rare inherited disorder that affects the body's ability to produce the enzyme acid alpha-glucosidase, leading to increased circulating prolactin concentration, hypoproteinemia, and pericardial effusion)
+10. hereditary angioedema (a genetic disorder that can cause facial edema, lymphadenopathy, and foot dorsiflexor weakness)",否
+67,"Papilledema,Hepatic steatosis,Myocardial infarction,Coronary artery atherosclerosis,Splenomegaly,Thrombocytosis,Pulmonary arterial hypertension,Increased circulating IgA level,Difficulty climbing stairs,Osteoporosis of vertebrae,Dilatation of the ventricular cavity,Demyelinating motor neuropathy,Lower limb muscle weakness,Demyelinating sensory neuropathy,Left anterior fascicular block,Abnormal granulocytopoietic cell morphology,Dysesthesia,Abasia,Left ventricular diastolic dysfunction,Left atrial enlargement,Abnormal peripheral nerve morphology by anatomical site,Abnormal thoracic spine morphology","POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome","1. Primary angle glaucoma
+2. Congestive heart failure
+3. Hepatic congestion
+4. Thrombotic microangiopathy
+5. Multiple sclerosis
+6. Sepsis
+7. Pulmonary embolism
+8. Systemic lupus erythematosus
+9. Myasthenia gravis
+10. Guillain-Barré syndrome",否
+68,"Proteinuria,Abnormal renal glomerulus morphology,Hydronephrosis,Abnormality of the neck,Hematuria,Hypothyroidism,Hypertension,Hyperpigmentation of the skin,Thickened skin,Ascites,Pericardial effusion,Abnormal left ventricle morphology,Splenomegaly,Weight loss,Thrombocytosis,Abnormal tubulointerstitial morphology,Diarrhea,Ischemic stroke,Hyperuricemia,Hyperkalemia,Pleural effusion,Lymphadenopathy,Lymphadenitis,Elevated circulating creatinine concentration,Increased circulating IgA level,Abdominal distention,Somatic sensory dysfunction,Difficulty climbing stairs,Elevated erythrocyte sedimentation rate,Abnormal gastric mucosa morphology,Enterocolitis,Tricuspid regurgitation,Lower limb muscle weakness,Pedal edema,Abnormality of adrenal morphology,Abnormality of adrenal physiology,Dysesthesia,Hand muscle weakness,Abnormal circulating thyroid hormone concentration","POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome","1. Alport syndrome
+2. focal segmental glomerulosclerosis (FSGS)
+3. membranous nephropathy
+4. nephrotic syndrome
+5. Goodpasture's disease
+6. lupus nephritis
+7. vasculitis
+8. Goodpasture's disease
+9. lupus nephritis
+10. Membranous nephropathy.",否
+69,"Facial edema,Nephrolithiasis,Hematuria,Hypothyroidism,Dry skin,Ascites,Cardiomegaly,Abnormal aortic valve morphology,Pericardial effusion,Splenomegaly,Weight loss,Anemia,Pulmonary arterial hypertension,Hyperuricemia,Pleural effusion,Sleep disturbance,Follicular hyperplasia,Exertional dyspnea,Hypocalcemia,Hypoalbuminemia,Elevated circulating creatinine concentration,Abdominal distention,Exercise intolerance,Abnormal lymphocyte morphology,Abnormality of bone mineral density,Poor appetite,Right ventricular dilatation,Chronic gastritis,Elevated circulating C-reactive protein concentration,Lower limb pain,Increased circulating NT-proBNP concentration,Productive cough,Decreased circulating T4 concentration,Monoclonal elevation of circulating IgA,Scaling skin,Abnormality of mesentery morphology,Chronic colitis","POEMS 综合征/POEMS syndrome/POEMS syndrome,POEMS 综合征/POEMS syndrome/POEMS syndrome","1. Polycystic ovary syndrome (PCOS)
+2. Lupus erythematosus (LE)
+3. Sjogren's syndrome
+4. Systemic lupus erythematosus (SLE)
+5. Vasculitis
+6. Post-transplant nephrotic syndrome (PTNS)
+7. Membranous nephropathy (MN)
+8. Glomerulonephritis
+9. Chronic kidney disease (CKD)
+10. Renal cell carcinoma (RCC)",否
+70,"Urinary incontinence,Hepatosplenomegaly,Protuberant abdomen,Fever,Recurrent respiratory infections,Intermittent diarrhea,Falls,Bowel incontinence,Bone-marrow foam cells,Cough","尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,Niemann-pick disease, type C2,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A","1. Umbrella diagnosis: Rare disease
+2. Hepatitis B
+3. Hepatitis C
+4. liver cancer
+5. cirrhosis
+6. ascites
+7. abdominal pain
+8. diarrhea
+9. fever
+10. respiratory infections",否
+71,"Myopia,Abnormal choroid morphology,Splenomegaly,Leukopenia,Reticulocytosis,Diarrhea,Abdominal pain,Abnormal basal ganglia morphology,Headache,Lymphadenopathy,Hypocholesterolemia,Poor appetite,Intellectual disability, progressive,Postnatal growth retardation,Abnormality of mesentery morphology,Abnormality of the maxillary sinus","尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,Niemann-pick disease, type C2,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A","1. Congenital disorder of glycosylation (CDG)
+2. Fabry disease
+3. Inherited ellagic acid aminotransferase (EAT) deficiency
+4. Lysosomal storage disease type 1 (LSD1)
+5. Mucolipidosis type 1
+6. Primary sulfatide disease
+7. Subacute sclerosing panencephalitis (SSPE)
+8. T波特综合症 (T波特综合症)
+9. Urea cycle disorder
+10. VLCD (Vitellin-1 deficiency)",否
+72,"Proteinuria,Hepatosplenomegaly,Cardiomegaly,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Reticulocytosis,Subcutaneous hemorrhage,Schistocytosis,Vomiting,Nausea,Abdominal pain,Hepatomegaly,Neonatal respiratory distress,Recurrent upper respiratory tract infections,Conjugated hyperbilirubinemia,Hypocholesterolemia,Exercise intolerance,Decreased glucosephosphate isomerase level,Increased total bilirubin,Prolonged partial thromboplastin time,Elliptocytosis,Generalized lymphadenopathy,Anisocytosis,Increased mean platelet volume,Abnormal erythroid lineage cell morphology,Abnormal megakaryocyte morphology,Abnormal gallbladder morphology,Left atrial enlargement","尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,Niemann-pick disease, type C2,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A","1. Congenital hemolytic anemia with aReticulocytosis
+2. Sickle cell disease
+3. Thalassemia
+4. lead toxicity
+5. sickle cell anemia
+6. Post-transfusion hemolytic anemia
+7. Myelodysplastic syndromes of childhood (MDS)
+8. Leukemia
+9. Myeloproliferative neoplasm (MPN)
+10. Hereditary angioedema",否
+73,"Inguinal hernia,Trismus,Intellectual disability,Seizure,Dysarthria,Tetany,Gait disturbance,Slurred speech,Splenomegaly,Talipes,Abnormal lung morphology,Drooling,Memory impairment,Dyscalculia,Abnormal cerebral white matter morphology,Progressive language deterioration,Loss of consciousness,Abnormal medulla oblongata morphology,Abnormality of the maxillary sinus","尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,Niemann-pick disease, type C2,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A","1. Congenital muscular dystrophy (CMD) with a focus on the inguinal hernia and gait disturbance
+2. Myotonic dystrophy with a focus on the trismus, intellectual disability, and memory impairment
+3. Emery-Dreifuss muscle disease with a focus on the quadriceps muscle weakness and gait disturbance
+4. congenital aganglionic malrotation with a focus on the intussusception, splenomegaly, and abnormal lung morphology
+5. Congenital heart defect with a focus on the atrial fibrillation and progressive language deterioration
+6. Congenital愚型症候群 (Congenital mental retardation) with a focus on the intellectual disability, memory impairment, and loss of consciousness
+7. Acromegaly with a focus on the intussusception, splenomegaly, and abnormal lung morphology
+8. Myasthenia gravis with a focus on the muscle weakness, dysarthria, and gait disturbance
+9. Spinocerebellar ataxia with a focus on the intussusception, memory impairment, and loss of consciousness
+10. congenital diaphragmatic hernia with a focus on the lung hypoplasia, abnormal sinus, and gait disturbance",否
+74,"Delayed puberty,Jaundice,Bruising susceptibility,Hepatosplenomegaly,Abnormal mitral valve morphology,Congestive heart failure,Cardiomegaly,Abnormal aortic valve morphology,Mitral regurgitation,Pericardial effusion,Left ventricular hypertrophy,Splenomegaly,Thrombocytopenia,Neutropenia,Pancytopenia,Leukopenia,Anemia,Fever,Alkalosis,Pulmonary arterial hypertension,Melena,Exertional dyspnea,Hypokalemia,Conjugated hyperbilirubinemia,Hypoalbuminemia,Abdominal distention,Generalized muscle weakness,Exercise intolerance,Increased total bilirubin,Decreased body weight,Spontaneous, recurrent epistaxis,Anomalous splenoportal venous system,Pancreatic calcification,Thoracolumbar kyphosis,Abnormal pulmonary interstitial morphology,Hepatic calcification,Prolonged prothrombin time,Postnatal growth retardation,Decreased urine output,Abnormal left ventricular outflow tract morphology,Hypofibrinogenemia,ST segment elevation,Pain,Abnormal cardiac ventricular function,Increased circulating NT-proBNP concentration,Productive cough,Left atrial enlargement","尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病B型/Niemann-Pick disease type B; NPD-B/Chronic visceral acid sphingomyelinase deficiency/Niemann-pick disease, type B,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,尼曼匹克病C型/Niemann-Pick disease type C; NPD-C/Niemann-Pick disease type C/Niemann-pick disease, type C1,Niemann-pick disease, type C2,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A,尼曼匹克病A型/Niemann-Pick disease type A; NPD-A/Niemann-Pick disease, type A","1. congenital adrenal hyperplasia (CAH)
+2. primary hyperparathyroidism
+3. hypothyroidism
+4. growth hormone deficiency
+5. thyroiditis
+6. rhabdomyolysis
+7. lupus erythematosus
+8. sickle cell disease
+9. beta-thalassemia
+10. homocystinuria",否

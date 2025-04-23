@@ -1,0 +1,143 @@
+code,name,count,percentage
+S09.90XA,"Unspecified injury of head, initial encounter",9,0.036734693877551024
+S93.401A,"Sprain of unspecified ligament of right ankle, initial encounter",9,0.036734693877551024
+S93.402A,"Sprain of unspecified ligament of left ankle, initial encounter",7,0.02857142857142857
+S60.222A,"Contusion of left hand, initial encounter",6,0.024489795918367346
+S93.409A,"Sprain of unspecified ligament of unspecified ankle, initial encounter",6,0.024489795918367346
+T14.8XXA,"Other injury of unspecified body region, initial encounter",6,0.024489795918367346
+S80.02XA,"Contusion of left knee, initial encounter",6,0.024489795918367346
+S90.31XA,"Contusion of right foot, initial encounter",5,0.02040816326530612
+S60.212A,"Contusion of left wrist, initial encounter",5,0.02040816326530612
+S63.512A,"Sprain of carpal joint of left wrist, initial encounter",4,0.0163265306122449
+S06.9X0A,"Unspecified intracranial injury without loss of consciousness, initial encounter",4,0.0163265306122449
+S09.93XA,"Unspecified injury of face, initial encounter",3,0.012244897959183673
+S01.90XA,"Unspecified open wound of unspecified part of head, initial encounter",3,0.012244897959183673
+S80.01XA,"Contusion of right knee, initial encounter",3,0.012244897959183673
+S09.92XA,"Unspecified injury of nose, initial encounter",3,0.012244897959183673
+S63.502A,"Unspecified sprain of left wrist, initial encounter",3,0.012244897959183673
+S93.602A,"Unspecified sprain of left foot, initial encounter",3,0.012244897959183673
+S60.221A,"Contusion of right hand, initial encounter",3,0.012244897959183673
+S50.02XA,"Contusion of left elbow, initial encounter",3,0.012244897959183673
+S90.32XA,"Contusion of left foot, initial encounter",3,0.012244897959183673
+S60.041A,"Contusion of right ring finger without damage to nail, initial encounter",3,0.012244897959183673
+S05.90XA,"Unspecified injury of unspecified eye and orbit, initial encounter",3,0.012244897959183673
+G43.909,"Migraine, unspecified, not intractable, without status migrainosus",3,0.012244897959183673
+M25.569,Pain in unspecified knee,2,0.00816326530612245
+L03.213,Periorbital cellulitis,2,0.00816326530612245
+S52.509A,"Unspecified fracture of the lower end of unspecified radius, initial encounter for closed fracture",2,0.00816326530612245
+T78.2XXA,"Anaphylactic shock, unspecified, initial encounter",2,0.00816326530612245
+S50.01XA,"Contusion of right elbow, initial encounter",2,0.00816326530612245
+S93.611A,"Sprain of tarsal ligament of right foot, initial encounter",2,0.00816326530612245
+S50.10XA,"Contusion of unspecified forearm, initial encounter",2,0.00816326530612245
+S99.921A,"Unspecified injury of right foot, initial encounter",2,0.00816326530612245
+L03.019,Cellulitis of unspecified finger,2,0.00816326530612245
+S63.511A,"Sprain of carpal joint of right wrist, initial encounter",2,0.00816326530612245
+S30.0XXA,"Contusion of lower back and pelvis, initial encounter",2,0.00816326530612245
+S90.111A,"Contusion of right great toe without damage to nail, initial encounter",2,0.00816326530612245
+M12.572,"Traumatic arthropathy, left ankle and foot",2,0.00816326530612245
+S63.602A,"Unspecified sprain of left thumb, initial encounter",2,0.00816326530612245
+M76.899,"Other specified enthesopathies of unspecified lower limb, excluding foot",2,0.00816326530612245
+S20.229A,"Contusion of unspecified back wall of thorax, initial encounter",2,0.00816326530612245
+S52.302A,"Unspecified fracture of shaft of left radius, initial encounter for closed fracture",2,0.00816326530612245
+G43.109,"Migraine with aura, not intractable, without status migrainosus",2,0.00816326530612245
+S01.102A,"Unspecified open wound of left eyelid and periocular area, initial encounter",2,0.00816326530612245
+H73.009,"Acute myringitis, unspecified ear",2,0.00816326530612245
+H16.009,"Unspecified corneal ulcer, unspecified eye",2,0.00816326530612245
+S29.9XXA,"Unspecified injury of thorax, initial encounter",2,0.00816326530612245
+S61.401A,"Unspecified open wound of right hand, initial encounter",2,0.00816326530612245
+S63.509A,"Unspecified sprain of unspecified wrist, initial encounter",1,0.004081632653061225
+S42.209A,"Unspecified fracture of upper end of unspecified humerus, initial encounter for closed fracture",1,0.004081632653061225
+S52.301A,"Unspecified fracture of shaft of right radius, initial encounter for closed fracture",1,0.004081632653061225
+M25.511,Pain in right shoulder,1,0.004081632653061225
+S90.30XA,"Contusion of unspecified foot, initial encounter",1,0.004081632653061225
+S76.301A,"Unspecified injury of muscle, fascia and tendon of the posterior muscle group at thigh level, right thigh, initial encounter",1,0.004081632653061225
+S60.229A,"Contusion of unspecified hand, initial encounter",1,0.004081632653061225
+M25.562,Pain in left knee,1,0.004081632653061225
+S63.615A,"Unspecified sprain of left ring finger, initial encounter",1,0.004081632653061225
+S83.91XA,"Sprain of unspecified site of right knee, initial encounter",1,0.004081632653061225
+T23.022A,"Burn of unspecified degree of single left finger (nail) except thumb, initial encounter",1,0.004081632653061225
+S86.129A,"Laceration of other muscle(s) and tendon(s) of posterior muscle group at lower leg level, unspecified leg, initial encounter",1,0.004081632653061225
+H44.819,"Hemophthalmos, unspecified eye",1,0.004081632653061225
+S52.502A,"Unspecified fracture of the lower end of left radius, initial encounter for closed fracture",1,0.004081632653061225
+L03.113,Cellulitis of right upper limb,1,0.004081632653061225
+S01.80XA,"Unspecified open wound of other part of head, initial encounter",1,0.004081632653061225
+S05.92XA,"Unspecified injury of left eye and orbit, initial encounter",1,0.004081632653061225
+S79.929A,"Unspecified injury of unspecified thigh, initial encounter",1,0.004081632653061225
+S72.92XA,"Unspecified fracture of left femur, initial encounter for closed fracture",1,0.004081632653061225
+S60.052A,"Contusion of left little finger without damage to nail, initial encounter",1,0.004081632653061225
+S90.01XA,"Contusion of right ankle, initial encounter",1,0.004081632653061225
+T78.40XA,"Allergy, unspecified, initial encounter",1,0.004081632653061225
+S69.91XA,"Unspecified injury of right wrist, hand and finger(s), initial encounter",1,0.004081632653061225
+S83.90XA,"Sprain of unspecified site of unspecified knee, initial encounter",1,0.004081632653061225
+S92.353A,"Displaced fracture of fifth metatarsal bone, unspecified foot, initial encounter for closed fracture",1,0.004081632653061225
+S59.912A,"Unspecified injury of left forearm, initial encounter",1,0.004081632653061225
+S53.103A,"Unspecified subluxation of unspecified ulnohumeral joint, initial encounter",1,0.004081632653061225
+S99.912A,"Unspecified injury of left ankle, initial encounter",1,0.004081632653061225
+T16.9XXA,"Foreign body in ear, unspecified ear, initial encounter",1,0.004081632653061225
+S80.00XA,"Contusion of unspecified knee, initial encounter",1,0.004081632653061225
+S62.617A,"Displaced fracture of proximal phalanx of left little finger, initial encounter for closed fracture",1,0.004081632653061225
+S52.202A,"Unspecified fracture of shaft of left ulna, initial encounter for closed fracture",1,0.004081632653061225
+H73.892,"Other specified disorders of tympanic membrane, left ear",1,0.004081632653061225
+S50.11XA,"Contusion of right forearm, initial encounter",1,0.004081632653061225
+S60.021A,"Contusion of right index finger without damage to nail, initial encounter",1,0.004081632653061225
+S63.613A,"Unspecified sprain of left middle finger, initial encounter",1,0.004081632653061225
+S99.929A,"Unspecified injury of unspecified foot, initial encounter",1,0.004081632653061225
+S93.601A,"Unspecified sprain of right foot, initial encounter",1,0.004081632653061225
+S60.032A,"Contusion of left middle finger without damage to nail, initial encounter",1,0.004081632653061225
+L03.012,Cellulitis of left finger,1,0.004081632653061225
+T23.021A,"Burn of unspecified degree of single right finger (nail) except thumb, initial encounter",1,0.004081632653061225
+S92.515A,"Nondisplaced fracture of proximal phalanx of left lesser toe(s), initial encounter for closed fracture",1,0.004081632653061225
+M12.541,"Traumatic arthropathy, right hand",1,0.004081632653061225
+S83.006A,"Unspecified dislocation of unspecified patella, initial encounter",1,0.004081632653061225
+S63.519A,"Sprain of carpal joint of unspecified wrist, initial encounter",1,0.004081632653061225
+S90.00XA,"Contusion of unspecified ankle, initial encounter",1,0.004081632653061225
+M67.359,"Transient synovitis, unspecified hip",1,0.004081632653061225
+M76.892,"Other specified enthesopathies of left lower limb, excluding foot",1,0.004081632653061225
+L03.011,Cellulitis of right finger,1,0.004081632653061225
+S42.402A,"Unspecified fracture of lower end of left humerus, initial encounter for closed fracture",1,0.004081632653061225
+H02.849,"Edema of unspecified eye, unspecified eyelid",1,0.004081632653061225
+S93.501A,"Unspecified sprain of right great toe, initial encounter",1,0.004081632653061225
+L03.032,Cellulitis of left toe,1,0.004081632653061225
+S86.102A,"Unspecified injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg level, left leg, initial encounter",1,0.004081632653061225
+S01.00XA,"Unspecified open wound of scalp, initial encounter",1,0.004081632653061225
+S90.819A,"Abrasion, unspecified foot, initial encounter",1,0.004081632653061225
+S63.612A,"Unspecified sprain of right middle finger, initial encounter",1,0.004081632653061225
+S60.029A,"Contusion of unspecified index finger without damage to nail, initial encounter",1,0.004081632653061225
+S61.205A,"Unspecified open wound of left ring finger without damage to nail, initial encounter",1,0.004081632653061225
+S00.33XA,"Contusion of nose, initial encounter",1,0.004081632653061225
+S80.12XA,"Contusion of left lower leg, initial encounter",1,0.004081632653061225
+M25.579,Pain in unspecified ankle and joints of unspecified foot,1,0.004081632653061225
+M12.542,"Traumatic arthropathy, left hand",1,0.004081632653061225
+M79.604,Pain in right leg,1,0.004081632653061225
+H66.009,"Acute suppurative otitis media without spontaneous rupture of ear drum, unspecified ear",1,0.004081632653061225
+H00.019,"Hordeolum externum unspecified eye, unspecified eyelid",1,0.004081632653061225
+M25.531,Pain in right wrist,1,0.004081632653061225
+S60.042A,"Contusion of left ring finger without damage to nail, initial encounter",1,0.004081632653061225
+S63.631A,"Sprain of interphalangeal joint of left index finger, initial encounter",1,0.004081632653061225
+S00.83XA,"Contusion of other part of head, initial encounter",1,0.004081632653061225
+H66.002,"Acute suppurative otitis media without spontaneous rupture of ear drum, left ear",1,0.004081632653061225
+S60.031A,"Contusion of right middle finger without damage to nail, initial encounter",1,0.004081632653061225
+S90.02XA,"Contusion of left ankle, initial encounter",1,0.004081632653061225
+S63.639A,"Sprain of interphalangeal joint of unspecified finger, initial encounter",1,0.004081632653061225
+N50.819,"Testicular pain, unspecified",1,0.004081632653061225
+M70.951,"Unspecified soft tissue disorder related to use, overuse and pressure, right thigh",1,0.004081632653061225
+T78.01XA,"Anaphylactic reaction due to peanuts, initial encounter",1,0.004081632653061225
+S62.605A,"Fracture of unspecified phalanx of left ring finger, initial encounter for closed fracture",1,0.004081632653061225
+S40.011A,"Contusion of right shoulder, initial encounter",1,0.004081632653061225
+S99.919A,"Unspecified injury of unspecified ankle, initial encounter",1,0.004081632653061225
+M92.529,"Juvenile osteochondrosis of tibia tubercle, unspecified leg",1,0.004081632653061225
+S52.529A,"Torus fracture of lower end of unspecified radius, initial encounter for closed fracture",1,0.004081632653061225
+S76.229A,"Laceration of adductor muscle, fascia and tendon of unspecified thigh, initial encounter",1,0.004081632653061225
+S90.122A,"Contusion of left lesser toe(s) without damage to nail, initial encounter",1,0.004081632653061225
+S06.309A,"Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, initial encounter",1,0.004081632653061225
+S71.002A,"Unspecified open wound, left hip, initial encounter",1,0.004081632653061225
+S53.402A,"Unspecified sprain of left elbow, initial encounter",1,0.004081632653061225
+S01.501A,"Unspecified open wound of lip, initial encounter",1,0.004081632653061225
+S50.00XA,"Contusion of unspecified elbow, initial encounter",1,0.004081632653061225
+M25.551,Pain in right hip,1,0.004081632653061225
+S83.92XA,"Sprain of unspecified site of left knee, initial encounter",1,0.004081632653061225
+S63.103A,"Unspecified subluxation of unspecified thumb, initial encounter",1,0.004081632653061225
+S53.031A,"Nursemaid's elbow, right elbow, initial encounter",1,0.004081632653061225
+S92.502A,"Displaced unspecified fracture of left lesser toe(s), initial encounter for closed fracture",1,0.004081632653061225
+L03.031,Cellulitis of right toe,1,0.004081632653061225
+S62.608A,"Fracture of unspecified phalanx of other finger, initial encounter for closed fracture",1,0.004081632653061225

@@ -1,0 +1,150 @@
+differential_diagnosis_id,patient_id,model_name,golden_diagnosis,golden_diagnosis_severity,severity_score
+1,1,c3opus,Prader-Willi syndrome,rare,9.999999999999998
+526,1,llama2_7b,Prader-Willi syndrome,rare,7.0
+2,2,c3opus,Prader-Willi syndrome,rare,16.0
+527,2,llama2_7b,Prader-Willi syndrome,rare,13.000000000000002
+11,3,c3opus,McCune-Albright syndrome,rare,14.0
+536,3,llama2_7b,McCune-Albright syndrome,rare,16.0
+12,4,c3opus,McCune-Albright syndrome,rare,6.785714285714287
+537,4,llama2_7b,McCune-Albright syndrome,rare,4.666666666666667
+13,5,c3opus,McCune-Albright syndrome,rare,9.866666666666665
+538,5,llama2_7b,McCune-Albright syndrome,rare,10.2
+14,6,c3opus,McCune-Albright syndrome,rare,12.000000000000002
+539,6,llama2_7b,McCune-Albright syndrome,rare,8.0
+15,7,c3opus,McCune-Albright syndrome,rare,6.357142857142858
+540,7,llama2_7b,McCune-Albright syndrome,rare,13.000000000000002
+16,8,c3opus,Neonatal Marfan syndrome,rare,4.8
+541,8,llama2_7b,Neonatal Marfan syndrome,rare,1.866666666666667
+17,9,c3opus,Neonatal Marfan syndrome,rare,7.6000000000000005
+542,9,llama2_7b,Neonatal Marfan syndrome,rare,2.4
+18,10,c3opus,Neonatal Marfan syndrome,rare,13.4
+543,10,llama2_7b,Neonatal Marfan syndrome,rare,2.0
+19,11,c3opus,Neonatal Marfan syndrome,rare,15.0
+544,11,llama2_7b,Neonatal Marfan syndrome,rare,3.6
+20,12,c3opus,Neonatal Marfan syndrome,rare,3.1999999999999997
+545,12,llama2_7b,Neonatal Marfan syndrome,rare,4.3999999999999995
+3,13,c3opus,Prader-Willi syndrome,rare,14.600000000000001
+528,13,llama2_7b,Prader-Willi syndrome,rare,12.0
+21,14,c3opus,Desminopathy,rare,7.599999999999999
+546,14,llama2_7b,Desminopathy,rare,1.5999999999999999
+22,15,c3opus,Desminopathy,rare,4.2
+547,15,llama2_7b,Desminopathy,rare,2.3333333333333335
+23,16,c3opus,Desminopathy,rare,7.133333333333333
+548,16,llama2_7b,Desminopathy,rare,2.7999999999999994
+24,17,c3opus,Desminopathy,rare,7.599999999999999
+549,17,llama2_7b,Desminopathy,rare,4.133333333333333
+25,18,c3opus,Brugada syndrome,rare,4.466666666666666
+550,18,llama2_7b,Brugada syndrome,rare,4.0
+26,19,c3opus,Brugada syndrome,rare,6.133333333333334
+551,19,llama2_7b,Brugada syndrome,rare,8.333333333333334
+27,20,c3opus,Brugada syndrome,rare,5.666666666666667
+552,20,llama2_7b,Brugada syndrome,rare,2.5333333333333337
+28,21,c3opus,Familial Idiopathic restrictive cardiomyopathy,rare,4.6
+553,21,llama2_7b,Familial Idiopathic restrictive cardiomyopathy,rare,1.2307692307692308
+29,22,c3opus,Familial Idiopathic restrictive cardiomyopathy,rare,5.0
+554,22,llama2_7b,Familial Idiopathic restrictive cardiomyopathy,rare,4.066666666666666
+30,23,c3opus,Familial Idiopathic restrictive cardiomyopathy,rare,4.3999999999999995
+555,23,llama2_7b,Familial Idiopathic restrictive cardiomyopathy,rare,5.933333333333334
+4,24,c3opus,Prader-Willi syndrome,rare,10.933333333333335
+529,24,llama2_7b,Prader-Willi syndrome,rare,4.0
+31,25,c3opus,Amyotrophic lateral sclerosis type 4,rare,9.799999999999999
+556,25,llama2_7b,Amyotrophic lateral sclerosis type 4,rare,7.133333333333333
+32,26,c3opus,Amyotrophic lateral sclerosis type 4,rare,2.3333333333333335
+557,26,llama2_7b,Amyotrophic lateral sclerosis type 4,rare,5.666666666666667
+33,27,c3opus,Amyotrophic lateral sclerosis type 4,rare,5.133333333333334
+558,27,llama2_7b,Amyotrophic lateral sclerosis type 4,rare,3.0
+34,28,c3opus,Amyotrophic lateral sclerosis type 4,rare,11.866666666666667
+559,28,llama2_7b,Amyotrophic lateral sclerosis type 4,rare,7.6000000000000005
+35,29,c3opus,Amyotrophic lateral sclerosis type 4,rare,12.133333333333333
+560,29,llama2_7b,Amyotrophic lateral sclerosis type 4,rare,9.2
+36,30,c3opus,Myasthenia gravis,rare,12.0
+561,30,llama2_7b,Myasthenia gravis,rare,9.000000000000002
+37,31,c3opus,Myasthenia gravis,rare,13.0
+562,31,llama2_7b,Myasthenia gravis,rare,8.200000000000001
+38,32,c3opus,Myasthenia gravis,rare,11.866666666666667
+563,32,llama2_7b,Myasthenia gravis,rare,5.266666666666667
+39,33,c3opus,Myasthenia gravis,rare,10.25
+564,33,llama2_7b,Myasthenia gravis,rare,3.8666666666666667
+40,34,c3opus,Myasthenia gravis,rare,14.285714285714286
+565,34,llama2_7b,Myasthenia gravis,rare,8.000000000000002
+5,35,c3opus,Prader-Willi syndrome,rare,12.533333333333333
+530,35,llama2_7b,Prader-Willi syndrome,rare,8.999999999999998
+41,36,c3opus,Multiple system atrophy,rare,2.733333333333333
+566,36,llama2_7b,Multiple system atrophy,rare,3.0
+42,37,c3opus,Multiple system atrophy,rare,5.3999999999999995
+567,37,llama2_7b,Multiple system atrophy,rare,5.333333333333333
+43,38,c3opus,Multiple system atrophy,rare,4.0
+568,38,llama2_7b,Multiple system atrophy,rare,2.733333333333334
+44,39,c3opus,Multiple system atrophy,rare,4.466666666666667
+569,39,llama2_7b,Multiple system atrophy,rare,3.3333333333333335
+45,40,c3opus,Multiple system atrophy,rare,3.0
+570,40,llama2_7b,Multiple system atrophy,rare,1.8666666666666665
+46,41,c3opus,Alport syndrome,rare,4.3999999999999995
+571,41,llama2_7b,Alport syndrome,rare,2.2
+47,42,c3opus,Alport syndrome,rare,5.2
+572,42,llama2_7b,Alport syndrome,rare,2.8000000000000003
+48,43,c3opus,Alport syndrome,rare,6.9333333333333345
+573,43,llama2_7b,Alport syndrome,rare,2.0666666666666664
+49,44,c3opus,Alport syndrome,rare,1.7142857142857144
+574,44,llama2_7b,Alport syndrome,rare,2.4
+50,45,c3opus,Alport syndrome,rare,6.9333333333333345
+575,45,llama2_7b,Alport syndrome,rare,2.1333333333333333
+6,46,c3opus,Wilson disease,rare,10.857142857142858
+531,46,llama2_7b,Wilson disease,rare,6.8
+51,47,c3opus,Alport syndrome,rare,4.6
+576,47,llama2_7b,Alport syndrome,rare,2.6
+52,48,c3opus,Alport syndrome,rare,6.8
+577,48,llama2_7b,Alport syndrome,rare,2.9999999999999996
+53,49,c3opus,Alport syndrome,rare,6.066666666666667
+578,49,llama2_7b,Alport syndrome,rare,2.0
+54,50,c3opus,Fabry disease,rare,5.533333333333332
+579,50,llama2_7b,Fabry disease,rare,4.8
+55,51,c3opus,Fabry disease,rare,10.333333333333334
+580,51,llama2_7b,Fabry disease,rare,0.6
+56,52,c3opus,Fabry disease,rare,11.4
+581,52,llama2_7b,Fabry disease,rare,1.7333333333333334
+57,53,c3opus,Gitelman syndrome,rare,11.933333333333335
+582,53,llama2_7b,Gitelman syndrome,rare,9.866666666666667
+58,54,c3opus,Gitelman syndrome,rare,10.200000000000001
+583,54,llama2_7b,Gitelman syndrome,rare,9.133333333333335
+59,55,c3opus,Gitelman syndrome,rare,11.133333333333333
+584,55,llama2_7b,Gitelman syndrome,rare,4.8
+60,56,c3opus,Gitelman syndrome,rare,10.200000000000001
+585,56,llama2_7b,Gitelman syndrome,rare,13.0
+7,57,c3opus,Wilson disease,rare,7.071428571428572
+532,57,llama2_7b,Wilson disease,rare,7.0
+61,58,c3opus,Paroxysmal nocturnal hemoglobinuria,rare,4.8
+586,58,llama2_7b,Paroxysmal nocturnal hemoglobinuria,rare,1.9333333333333333
+62,59,c3opus,Paroxysmal nocturnal hemoglobinuria,rare,1.6000000000000003
+587,59,llama2_7b,Paroxysmal nocturnal hemoglobinuria,rare,2.0
+63,60,c3opus,Paroxysmal nocturnal hemoglobinuria,rare,9.4
+588,60,llama2_7b,Paroxysmal nocturnal hemoglobinuria,rare,3.0
+64,61,c3opus,Paroxysmal nocturnal hemoglobinuria,rare,5.666666666666667
+589,61,llama2_7b,Paroxysmal nocturnal hemoglobinuria,rare,5.785714285714286
+65,62,c3opus,Paroxysmal nocturnal hemoglobinuria,rare,6.3999999999999995
+590,62,llama2_7b,Paroxysmal nocturnal hemoglobinuria,rare,2.6
+66,63,c3opus,POEMS syndrome,rare,3.3333333333333335
+591,63,llama2_7b,POEMS syndrome,rare,2.3333333333333335
+67,64,c3opus,POEMS syndrome,rare,5.714285714285714
+592,64,llama2_7b,POEMS syndrome,rare,1.8
+68,65,c3opus,POEMS syndrome,rare,4.3999999999999995
+593,65,llama2_7b,POEMS syndrome,rare,1.0
+69,66,c3opus,POEMS syndrome,rare,6.0
+594,66,llama2_7b,POEMS syndrome,rare,2.8000000000000003
+70,67,c3opus,POEMS syndrome,rare,4.866666666666667
+595,67,llama2_7b,POEMS syndrome,rare,1.2
+8,68,c3opus,Wilson disease,rare,7.399999999999999
+533,68,llama2_7b,Wilson disease,rare,6.600000000000001
+71,69,c3opus,Chronic visceral acid sphingomyelinase deficiency,rare,9.4
+596,69,llama2_7b,Chronic visceral acid sphingomyelinase deficiency,rare,2.2666666666666666
+72,70,c3opus,Chronic visceral acid sphingomyelinase deficiency,rare,11.071428571428573
+597,70,llama2_7b,Chronic visceral acid sphingomyelinase deficiency,rare,4.6000000000000005
+73,71,c3opus,Chronic visceral acid sphingomyelinase deficiency,rare,11.066666666666665
+598,71,llama2_7b,Chronic visceral acid sphingomyelinase deficiency,rare,3.1999999999999997
+599,72,llama2_7b,Chronic visceral acid sphingomyelinase deficiency,rare,10.4
+75,73,c3opus,Chronic visceral acid sphingomyelinase deficiency,rare,12.600000000000001
+600,73,llama2_7b,Chronic visceral acid sphingomyelinase deficiency,rare,5.0
+9,74,c3opus,Wilson disease,rare,8.933333333333332
+534,74,llama2_7b,Wilson disease,rare,11.999999999999998
+10,75,c3opus,Wilson disease,rare,6.133333333333334
+535,75,llama2_7b,Wilson disease,rare,2.7999999999999994

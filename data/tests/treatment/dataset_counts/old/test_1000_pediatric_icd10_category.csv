@@ -1,0 +1,64 @@
+﻿code,name,count,percentage
+J03,Acute tonsillitis,18,0.05373134328358209
+J02,Acute pharyngitis,44,0.13134328358208955
+H66,Suppurative and unspecified otitis media,26,0.07761194029850746
+J22,Unspecified acute lower respiratory infection,7,0.020895522388059702
+J00,Acute nasopharyngitis [common cold],16,0.04776119402985075
+R10,Abdominal and pelvic pain,4,0.011940298507462687
+H10,Conjunctivitis,8,0.023880597014925373
+R55,Syncope and collapse,2,0.005970149253731343
+J21,Acute bronchiolitis,15,0.04477611940298507
+J98,Other respiratory disorders,26,0.07761194029850746
+S06,Intracranial injury,1,0.0029850746268656717
+J18,"Pneumonia, unspecified organism",4,0.011940298507462687
+S09,Other and unspecified injuries of head,1,0.0029850746268656717
+M12,Other and unspecified arthropathy,2,0.005970149253731343
+J20,Acute bronchitis,8,0.023880597014925373
+R50,Fever of other and unknown origin,5,0.014925373134328358
+S01,Open wound of head,1,0.0029850746268656717
+J11,Influenza due to unidentified influenza virus,6,0.01791044776119403
+J06,Acute upper respiratory infections of multiple and unspecified sites,51,0.15223880597014924
+L30,Other and unspecified dermatitis,2,0.005970149253731343
+S90,"Superficial injury of ankle, foot and toes",1,0.0029850746268656717
+I88,Nonspecific lymphadenitis,1,0.0029850746268656717
+J04,Acute laryngitis and tracheitis,17,0.050746268656716415
+S00,Superficial injury of head,1,0.0029850746268656717
+S93,"Dislocation and sprain of joints and ligaments at ankle, foot and toe level",2,0.005970149253731343
+S63,Dislocation and sprain of joints and ligaments at wrist and hand level,2,0.005970149253731343
+K52,Other and unspecified noninfective gastroenteritis and colitis,8,0.023880597014925373
+B27,Infectious mononucleosis,2,0.005970149253731343
+R11,Nausea and vomiting,1,0.0029850746268656717
+K59,Other functional intestinal disorders,2,0.005970149253731343
+G43,Migraine,1,0.0029850746268656717
+S60,"Superficial injury of wrist, hand and fingers",5,0.014925373134328358
+L08,Other local infections of skin and subcutaneous tissue,1,0.0029850746268656717
+N39,Other disorders of urinary system,3,0.008955223880597015
+M25,"Other joint disorder, not elsewhere classified",2,0.005970149253731343
+H00,Hordeolum and chalazion,1,0.0029850746268656717
+L50,Urticaria,1,0.0029850746268656717
+B34,Viral infection of unspecified site,5,0.014925373134328358
+M65,Synovitis and tenosynovitis,1,0.0029850746268656717
+S50,Superficial injury of elbow and forearm,1,0.0029850746268656717
+N76,Other inflammation of vagina and vulva,1,0.0029850746268656717
+S05,Injury of eye and orbit,1,0.0029850746268656717
+H65,Nonsuppurative otitis media,2,0.005970149253731343
+H92,Otalgia and effusion of ear,3,0.008955223880597015
+R09,Other symptoms and signs involving the circulatory and respiratory system,1,0.0029850746268656717
+M54,Dorsalgia,2,0.005970149253731343
+M79,"Other and unspecified soft tissue disorders, not elsewhere classified",1,0.0029850746268656717
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",1,0.0029850746268656717
+S80,Superficial injury of knee and lower leg,1,0.0029850746268656717
+B99,Other and unspecified infectious diseases,2,0.005970149253731343
+S61,"Open wound of wrist, hand and fingers",1,0.0029850746268656717
+J32,Chronic sinusitis,2,0.005970149253731343
+B00,Herpesviral [herpes simplex] infections,1,0.0029850746268656717
+K06,Other disorders of gingiva and edentulous alveolar ridge,1,0.0029850746268656717
+M76,"Enthesopathies, lower limb, excluding foot",1,0.0029850746268656717
+M93,Other osteochondropathies,1,0.0029850746268656717
+A38,Scarlet fever,2,0.005970149253731343
+R51,Headache,1,0.0029850746268656717
+H11,Other disorders of conjunctiva,1,0.0029850746268656717
+H60,Otitis externa,1,0.0029850746268656717
+L22,Diaper dermatitis,1,0.0029850746268656717
+J10,Influenza due to other identified influenza virus,1,0.0029850746268656717
+K35,Acute appendicitis,1,0.0029850746268656717

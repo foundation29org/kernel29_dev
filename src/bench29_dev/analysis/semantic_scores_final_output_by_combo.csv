@@ -1,0 +1,150 @@
+patient_id,model_name,prompt_name,model_prompt_combo,golden_diagnosis,golden_diagnosis_severity,semantic_score,num_predictions_considered,differential_diagnosis_id
+1,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Prader-Willi syndrome,rare,5.8000,5,1
+1,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Prader-Willi syndrome,rare,6.6667,5,526
+2,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Prader-Willi syndrome,rare,6.0000,5,2
+2,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Prader-Willi syndrome,rare,5.0000,5,527
+3,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,McCune-Albright syndrome,rare,9.2000,5,11
+3,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,McCune-Albright syndrome,rare,0.8000,5,536
+4,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,McCune-Albright syndrome,rare,6.3571,4,12
+4,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,McCune-Albright syndrome,rare,1.2000,5,537
+5,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,McCune-Albright syndrome,rare,5.0000,5,13
+5,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,McCune-Albright syndrome,rare,6.0000,5,538
+6,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,McCune-Albright syndrome,rare,6.0000,5,14
+6,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,McCune-Albright syndrome,rare,0.0000,5,539
+7,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,McCune-Albright syndrome,rare,6.3571,4,15
+7,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,McCune-Albright syndrome,rare,1.0000,5,540
+8,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Neonatal Marfan syndrome,rare,1.0000,5,16
+8,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Neonatal Marfan syndrome,rare,2.9333,5,541
+9,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Neonatal Marfan syndrome,rare,2.4667,5,17
+9,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Neonatal Marfan syndrome,rare,2.2667,5,542
+10,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Neonatal Marfan syndrome,rare,6.8000,5,18
+10,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Neonatal Marfan syndrome,rare,1.0000,5,543
+11,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Neonatal Marfan syndrome,rare,5.9333,5,19
+11,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Neonatal Marfan syndrome,rare,1.0000,5,544
+12,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Neonatal Marfan syndrome,rare,0.9333,5,20
+12,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Neonatal Marfan syndrome,rare,1.0000,5,545
+13,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Prader-Willi syndrome,rare,4.4667,5,3
+13,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Prader-Willi syndrome,rare,4.0000,5,528
+14,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Desminopathy,rare,1.0000,5,21
+14,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Desminopathy,rare,1.2000,5,546
+15,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Desminopathy,rare,5.2667,5,22
+15,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Desminopathy,rare,1.0000,5,547
+16,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Desminopathy,rare,3.0000,5,23
+16,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Desminopathy,rare,0.0000,5,548
+17,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Desminopathy,rare,0.9333,5,24
+17,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Desminopathy,rare,1.8000,5,549
+18,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Brugada syndrome,rare,0.6000,5,25
+18,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Brugada syndrome,rare,0.6000,5,550
+19,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Brugada syndrome,rare,2.3333,5,26
+19,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Brugada syndrome,rare,0.6000,5,551
+20,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Brugada syndrome,rare,0.2000,5,27
+20,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Brugada syndrome,rare,0.0000,5,552
+21,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Familial Idiopathic restrictive cardiomyopathy,rare,3.4000,5,28
+21,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Familial Idiopathic restrictive cardiomyopathy,rare,1.0000,4,553
+22,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Familial Idiopathic restrictive cardiomyopathy,rare,4.2143,4,29
+22,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Familial Idiopathic restrictive cardiomyopathy,rare,0.6000,5,554
+23,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Familial Idiopathic restrictive cardiomyopathy,rare,1.3333,5,30
+23,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Familial Idiopathic restrictive cardiomyopathy,rare,1.1333,5,555
+24,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Prader-Willi syndrome,rare,6.0000,5,4
+24,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Prader-Willi syndrome,rare,4.6000,5,529
+25,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,4.0000,5,31
+25,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,1.5333,5,556
+26,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,3.9333,5,32
+26,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,2.0000,5,557
+27,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,3.6667,5,33
+27,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,1.0000,5,558
+28,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,3.0000,5,34
+28,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,1.4000,5,559
+29,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,3.7333,5,35
+29,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Amyotrophic lateral sclerosis type 4,rare,4.4667,5,560
+30,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Myasthenia gravis,rare,8.2500,3,36
+30,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Myasthenia gravis,rare,6.8000,5,561
+31,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Myasthenia gravis,rare,8.2500,3,37
+31,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Myasthenia gravis,rare,5.0000,5,562
+32,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Myasthenia gravis,rare,6.6000,5,38
+32,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Myasthenia gravis,rare,4.0000,5,563
+33,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Myasthenia gravis,rare,7.0000,3,39
+33,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Myasthenia gravis,rare,1.0000,5,564
+34,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Myasthenia gravis,rare,7.2143,4,40
+34,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Myasthenia gravis,rare,4.4000,5,565
+35,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Prader-Willi syndrome,rare,2.9333,5,5
+35,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Prader-Willi syndrome,rare,1.0000,5,530
+36,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Multiple system atrophy,rare,4.8000,5,41
+36,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Multiple system atrophy,rare,5.6000,5,566
+37,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Multiple system atrophy,rare,6.0000,5,42
+37,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Multiple system atrophy,rare,0.3333,5,567
+38,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Multiple system atrophy,rare,3.7857,4,43
+38,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Multiple system atrophy,rare,1.0000,5,568
+39,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Multiple system atrophy,rare,0.6000,5,44
+39,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Multiple system atrophy,rare,0.6000,5,569
+40,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Multiple system atrophy,rare,1.4000,5,45
+40,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Multiple system atrophy,rare,0.3333,5,570
+41,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,3.3333,5,46
+41,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,3.3333,5,571
+42,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,6.1333,5,47
+42,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,1.0000,5,572
+43,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,6.0000,5,48
+43,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,3.9333,5,573
+44,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,2.5714,4,49
+44,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,2.1333,5,574
+45,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,6.0000,5,50
+45,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,1.0000,5,575
+46,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Wilson disease,rare,6.3571,4,6
+46,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Wilson disease,rare,6.0000,5,531
+47,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,4.7333,5,51
+47,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,1.9333,5,576
+48,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,5.9333,5,52
+48,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,1.0000,5,577
+49,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Alport syndrome,rare,1.0667,5,53
+49,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Alport syndrome,rare,0.9333,5,578
+50,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Fabry disease,rare,0.8000,5,54
+50,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Fabry disease,rare,1.0000,5,579
+51,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Fabry disease,rare,0.3333,5,55
+51,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Fabry disease,rare,0.6000,5,580
+52,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Fabry disease,rare,5.8667,5,56
+52,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Fabry disease,rare,1.0000,5,581
+53,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Gitelman syndrome,rare,6.8000,5,57
+53,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Gitelman syndrome,rare,1.6667,5,582
+54,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Gitelman syndrome,rare,5.6667,5,58
+54,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Gitelman syndrome,rare,1.3333,5,583
+55,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Gitelman syndrome,rare,5.8000,5,59
+55,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Gitelman syndrome,rare,1.5333,5,584
+56,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Gitelman syndrome,rare,6.8000,5,60
+56,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Gitelman syndrome,rare,4.8000,5,585
+57,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Wilson disease,rare,6.3571,4,7
+57,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Wilson disease,rare,5.5333,5,532
+58,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,0.8667,5,61
+58,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,1.8000,5,586
+59,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,1.2000,5,62
+59,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,0.0000,5,587
+60,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,4.0000,5,63
+60,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,0.0000,5,588
+61,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,3.2667,5,64
+61,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,1.0000,4,589
+62,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,0.9333,5,65
+62,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Paroxysmal nocturnal hemoglobinuria,rare,0.8000,5,590
+63,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,POEMS syndrome,rare,1.0000,5,66
+63,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,POEMS syndrome,rare,0.7333,5,591
+64,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,POEMS syndrome,rare,3.1429,4,67
+64,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,POEMS syndrome,rare,1.0000,5,592
+65,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,POEMS syndrome,rare,2.0667,5,68
+65,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,POEMS syndrome,rare,9.0000,1,593
+66,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,POEMS syndrome,rare,1.0000,3,69
+66,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,POEMS syndrome,rare,0.7333,5,594
+67,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,POEMS syndrome,rare,1.2000,5,70
+67,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,POEMS syndrome,rare,1.0000,5,595
+68,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Wilson disease,rare,6.0000,5,8
+68,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Wilson disease,rare,6.8000,5,533
+69,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,3.5333,5,71
+69,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,0.5333,5,596
+70,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,7.0714,4,72
+70,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,9.6667,5,597
+71,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,1.3333,5,73
+71,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,1.0000,5,598
+72,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,0.6000,5,599
+73,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,6.6667,5,75
+73,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Chronic visceral acid sphingomyelinase deficiency,rare,0.0000,5,600
+74,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Wilson disease,rare,7.8000,5,9
+74,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Wilson disease,rare,6.8000,5,534
+75,c3opus,dxgpt_prompt,c3opus_dxgpt_prompt,Wilson disease,rare,5.9333,5,10
+75,llama2_7b,dxgpt_prompt,llama2_7b_dxgpt_prompt,Wilson disease,rare,0.9333,5,535

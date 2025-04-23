@@ -1,0 +1,25 @@
+﻿code,name,count,percentage
+E87.1,Hypo-osmolality and hyponatremia,1,0.023255813953488372
+K85.90,"Acute pancreatitis without necrosis or infection, unspecified",1,0.023255813953488372
+N39.0,"Urinary tract infection, site not specified",3,0.06976744186046512
+I50.9,"Heart failure, unspecified",4,0.09302325581395349
+J98.01,Acute bronchospasm,2,0.046511627906976744
+G45.9,"Transient cerebral ischemic attack, unspecified",1,0.023255813953488372
+R16.0,"Hepatomegaly, not elsewhere classified",1,0.023255813953488372
+J96.90,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",3,0.06976744186046512
+J22,Unspecified acute lower respiratory infection,2,0.046511627906976744
+J18.9,"Pneumonia, unspecified organism",7,0.16279069767441862
+T14.8XXA,"Other injury of unspecified body region, initial encounter",2,0.046511627906976744
+K81.0,Acute cholecystitis,2,0.046511627906976744
+I75.89,Atheroembolism of other site,1,0.023255813953488372
+U07.1,COVID-19,2,0.046511627906976744
+J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,1,0.023255813953488372
+I47.1,Supraventricular tachycardia,1,0.023255813953488372
+K57.92,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",1,0.023255813953488372
+R11.10,"Vomiting, unspecified",1,0.023255813953488372
+J98.8,Other specified respiratory disorders,1,0.023255813953488372
+T84.53XA,"Infection and inflammatory reaction due to internal right knee prosthesis, initial encounter",1,0.023255813953488372
+K56.609,"Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",2,0.046511627906976744
+R53.81,Other malaise,1,0.023255813953488372
+I63.9,"Cerebral infarction, unspecified",1,0.023255813953488372
+I20.0,Unstable angina,1,0.023255813953488372

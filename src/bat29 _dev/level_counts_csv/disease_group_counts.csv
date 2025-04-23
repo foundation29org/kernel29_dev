@@ -1,0 +1,574 @@
+code,count,name
+J06.9,410,"Acute upper respiratory infection, unspecified"
+B34.9,382,"Viral infection, unspecified"
+J02.9,326,"Acute pharyngitis, unspecified"
+J03.9,258,"Acute tonsillitis, unspecified"
+J98.8,236,Other specified respiratory disorders
+H66.9,176,"Otitis media, unspecified"
+N39.0,165,"Urinary tract infection, site not specified"
+K52.9,150,"Noninfective gastroenteritis and colitis, unspecified"
+J98.0,132,"Diseases of bronchus, not elsewhere classified"
+M54.5,107,Low back pain
+S93.4,103,Sprain of ankle
+H10.3,99,Unspecified acute conjunctivitis
+J04.0,98,Acute laryngitis
+J20.9,93,"Acute bronchitis, unspecified"
+R10.9,86,Unspecified abdominal pain
+J18.9,75,"Pneumonia, unspecified organism"
+U07.1,70,COVID-19
+M25.5,69,Pain in joint
+H60.9,49,Unspecified otitis externa
+R07.8,48,Other chest pain
+J21.9,46,"Acute bronchiolitis, unspecified"
+M54.2,42,Cervicalgia
+S60.2,42,Contusion of wrist and hand
+R51.9,38,"Headache, unspecified"
+M54.9,34,"Dorsalgia, unspecified"
+R50.9,34,"Fever, unspecified"
+J11.1,33,Influenza due to unidentified influenza virus with other respiratory manifestations
+H81.3,32,Other peripheral vertigo
+T14.8,32,Other injury of unspecified body region
+S20.2,32,Contusion of thorax
+N30.9,32,"Cystitis, unspecified"
+J32.9,28,"Chronic sinusitis, unspecified"
+L50.9,28,"Urticaria, unspecified"
+S90.3,27,Contusion of foot
+T78.4,25,Other and unspecified allergy
+M65.9,25,"Synovitis and tenosynovitis, unspecified"
+S63.6,24,Other and unspecified sprain of finger(s)
+R07.9,24,"Chest pain, unspecified"
+H00.0,23,Hordeolum (externum) (internum) of eyelid
+S80.0,23,Contusion of knee
+R11.1,22,Vomiting
+R19.7,22,"Diarrhea, unspecified"
+S61.2,21,Open wound of other finger without damage to nail
+S09.9,21,Unspecified injury of face and head
+M54.4,21,Lumbago with sciatica
+H11.3,21,Conjunctival hemorrhage
+S61.4,21,Open wound of hand
+J01.9,21,"Acute sinusitis, unspecified"
+S06.9,21,Unspecified intracranial injury
+G43.9,20,"Migraine, unspecified"
+S60.0,20,Contusion of finger without damage to nail
+L30.9,19,"Dermatitis, unspecified"
+S63.5,19,Other and unspecified sprain of wrist
+L03.0,19,Cellulitis and acute lymphangitis of finger and toe
+M62.4,18,Contracture of muscle
+M76.8,18,"Other specified enthesopathies of lower limb, excluding foot"
+B99.9,18,Unspecified infectious disease
+J45.9,17,Other and unspecified asthma
+H92.0,17,Otalgia
+F41.9,17,"Anxiety disorder, unspecified"
+M79.6,17,"Pain in limb, hand, foot, fingers and toes"
+R10.1,15,Pain localized to upper abdomen
+S52.5,15,Fracture of lower end of radius
+S30.0,15,Contusion of lower back and pelvis
+H65.9,15,Unspecified nonsuppurative otitis media
+J04.1,15,Acute tracheitis
+J96.9,14,"Respiratory failure, unspecified"
+S90.1,14,Contusion of toe without damage to nail
+S99.9,13,Unspecified injury of ankle and foot
+S50.0,13,Contusion of elbow
+K08.8,13,Other specified disorders of teeth and supporting structures
+L02.9,13,"Cutaneous abscess, furuncle and carbuncle, unspecified"
+K59.0,13,Constipation
+M12.5,13,Traumatic arthropathy
+M77.9,12,"Enthesopathy, unspecified"
+H61.2,12,Impacted cerumen
+B02.8,12,Zoster with other complications
+M51.9,12,"Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder"
+I16.9,12,"Hypertensive crisis, unspecified"
+B27.9,11,"Infectious mononucleosis, unspecified"
+H01.0,11,Blepharitis
+R14.0,11,Abdominal distension (gaseous)
+G44.2,11,Tension-type headache
+S86.1,11,Injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg level
+M75.1,11,"Rotator cuff tear or rupture, not specified as traumatic"
+M79.1,10,Myalgia
+S83.9,10,Sprain of unspecified site of knee
+I50.9,10,"Heart failure, unspecified"
+G58.0,10,Intercostal neuropathy
+S62.6,10,Fracture of other and unspecified finger(s)
+J02.8,10,Acute pharyngitis due to other specified organisms
+S93.6,10,Sprain of foot
+K35.8,9,Other and unspecified acute appendicitis
+K57.9,9,"Diverticular disease of intestine, part unspecified, without perforation or abscess"
+R00.2,9,Palpitations
+J32.0,9,Chronic maxillary sinusitis
+R33.9,9,"Retention of urine, unspecified"
+S92.5,9,Fracture of lesser toe(s)
+S29.9,9,Unspecified injury of thorax
+M79.2,9,"Neuralgia and neuritis, unspecified"
+R10.8,9,Other abdominal pain
+M17.1,8,Unilateral primary osteoarthritis of knee
+J03.0,8,Streptococcal tonsillitis
+L20.9,8,"Atopic dermatitis, unspecified"
+J31.0,8,Chronic rhinitis
+R04.0,8,Epistaxis
+N41.0,8,Acute prostatitis
+M93.9,7,"Osteochondropathy, unspecified"
+H16.0,7,Corneal ulcer
+M53.1,7,Cervicobrachial syndrome
+F41.0,7,Panic disorder [episodic paroxysmal anxiety]
+K60.2,7,"Anal fissure, unspecified"
+N50.8,7,Other specified disorders of male genital organs
+Z53.2,7,Procedure and treatment not carried out because of patient's decision for other and unspecified reasons
+S90.0,7,Contusion of ankle
+L60.0,7,Ingrowing nail
+J44.1,7,Chronic obstructive pulmonary disease with (acute) exacerbation
+S05.9,7,Unspecified injury of eye and orbit
+K80.5,7,Calculus of bile duct without cholangitis or cholecystitis
+M72.2,7,Plantar fascial fibromatosis
+K62.5,7,Hemorrhage of anus and rectum
+M10.0,6,Idiopathic gout
+S01.8,6,Open wound of other parts of head
+M13.0,6,"Polyarthritis, unspecified"
+M54.6,6,Pain in thoracic spine
+K11.2,6,Sialoadenitis
+S42.2,6,Fracture of upper end of humerus
+N30.0,6,Acute cystitis
+H66.4,6,"Suppurative otitis media, unspecified"
+S80.1,6,Contusion of lower leg
+M77.4,6,Metatarsalgia
+M19.9,6,"Osteoarthritis, unspecified site"
+I48.9,6,Unspecified atrial fibrillation and atrial flutter
+S01.1,6,Open wound of eyelid and periocular area
+M77.2,6,Periarthritis of wrist
+J02.0,6,Streptococcal pharyngitis
+S01.5,6,Open wound of lip and oral cavity
+S13.4,6,Sprain of ligaments of cervical spine
+R53.8,6,Other malaise and fatigue
+T81.3,6,"Disruption of wound, not elsewhere classified"
+J10.1,5,Influenza due to other identified influenza virus with other respiratory manifestations
+M70.9,5,"Unspecified soft tissue disorder related to use, overuse and pressure"
+A08.4,5,"Viral intestinal infection, unspecified"
+M10.9,5,"Gout, unspecified"
+S61.0,5,Open wound of thumb without damage to nail
+S50.1,5,Contusion of forearm
+M89.8,5,Other specified disorders of bone
+S02.2,5,Fracture of nasal bones
+N45.2,5,Orchitis
+N48.1,5,Balanitis
+K12.0,5,Recurrent oral aphthae
+H53.9,5,Unspecified visual disturbance
+R07.0,5,Pain in throat
+S62.3,5,Fracture of other and unspecified metacarpal bone
+M94.0,5,Chondrocostal junction syndrome [Tietze]
+K64.9,5,Unspecified hemorrhoids
+I16.0,5,Hypertensive urgency
+S52.3,5,Fracture of shaft of radius
+M75.3,5,Calcific tendinitis of shoulder
+S01.9,5,Open wound of unspecified part of head
+J18.0,4,"Bronchopneumonia, unspecified organism"
+K29.7,4,"Gastritis, unspecified"
+N34.2,4,Other urethritis
+M70.6,4,Trochanteric bursitis
+R20.2,4,Paresthesia of skin
+M76.5,4,Patellar tendinitis
+J21.0,4,Acute bronchiolitis due to respiratory syncytial virus
+R39.9,4,Unspecified symptoms and signs involving the genitourinary system
+K56.6,4,Other and unspecified intestinal obstruction
+R30.0,4,Dysuria
+S81.8,4,Open wound of lower leg
+S00.8,4,Superficial injury of other parts of head
+L08.9,4,"Local infection of the skin and subcutaneous tissue, unspecified"
+S01.0,4,Open wound of scalp
+K61.0,4,Anal abscess
+G43.1,4,Migraine with aura
+R10.2,4,Pelvic and perineal pain
+M23.3,4,Other meniscus derangements
+L01.0,4,Impetigo
+L03.1,4,Cellulitis and acute lymphangitis of other parts of limb
+H10.1,4,Acute atopic conjunctivitis
+M70.2,4,Olecranon bursitis
+R59.0,4,Localized enlarged lymph nodes
+H43.8,4,Other disorders of vitreous body
+R60.0,4,Localized edema
+S43.0,4,Subluxation and dislocation of shoulder joint
+K04.7,4,Periapical abscess without sinus
+R59.9,4,"Enlarged lymph nodes, unspecified"
+B36.9,4,"Superficial mycosis, unspecified"
+L05.9,4,Pilonidal cyst and sinus without abscess
+S69.9,4,"Unspecified injury of wrist, hand and finger(s)"
+M79.8,4,Other specified soft tissue disorders
+L28.2,4,Other prurigo
+L02.4,4,"Cutaneous abscess, furuncle and carbuncle of limb"
+K11.5,4,Sialolithiasis
+K85.9,4,"Acute pancreatitis, unspecified"
+S40.0,4,Contusion of shoulder and upper arm
+L03.8,4,Cellulitis and acute lymphangitis of other sites
+M93.8,4,Other specified osteochondropathies
+H57.1,4,Ocular pain
+S32.5,3,Fracture of pubis
+T18.1,3,Foreign body in esophagus
+S82.6,3,Fracture of lateral malleolus
+S63.2,3,Subluxation and dislocation of other finger(s)
+B02.2,3,Zoster with other nervous system involvement
+K13.0,3,Diseases of lips
+E11.9,3,Type 2 diabetes mellitus without complications
+M70.3,3,Other bursitis of elbow
+D64.9,3,"Anemia, unspecified"
+H53.1,3,Subjective visual disturbances
+J30.9,3,"Allergic rhinitis, unspecified"
+J18.1,3,"Lobar pneumonia, unspecified organism"
+B30.9,3,"Viral conjunctivitis, unspecified"
+I20.0,3,Unstable angina
+Z48.0,3,"Encounter for attention to dressings, sutures and drains"
+M25.8,3,Other specified joint disorders
+G57.0,3,Lesion of sciatic nerve
+L98.9,3,"Disorder of the skin and subcutaneous tissue, unspecified"
+N64.4,3,Mastodynia
+J98.4,3,Other disorders of lung
+K81.0,3,Acute cholecystitis
+S00.3,3,Superficial injury of nose
+I63.9,3,"Cerebral infarction, unspecified"
+S82.4,3,Fracture of shaft of fibula
+T78.3,3,Angioneurotic edema
+M75.5,3,Bursitis of shoulder
+M65.4,3,Radial styloid tenosynovitis [de Quervain]
+M65.2,3,Calcific tendinitis
+Z76.0,3,Encounter for issue of repeat prescription
+H66.0,3,Acute suppurative otitis media
+S76.3,3,"Injury of muscle, fascia and tendon of the posterior muscle group at thigh level"
+S60.1,3,Contusion of finger with damage to nail
+A38.9,3,"Scarlet fever, uncomplicated"
+B37.0,3,Candidal stomatitis
+M75.8,3,Other shoulder lesions
+R06.0,3,Dyspnea
+M47.8,3,Other spondylosis
+T23.0,3,Burn of unspecified degree of wrist and hand
+S92.3,3,Fracture of metatarsal bone(s)
+S42.3,3,Fracture of shaft of humerus
+N76.0,3,Acute vaginitis
+G45.9,3,"Transient cerebral ischemic attack, unspecified"
+R31.9,3,"Hematuria, unspecified"
+I47.1,3,Supraventricular tachycardia
+B08.5,3,Enteroviral vesicular pharyngitis
+T17.5,3,Foreign body in bronchus
+S83.0,3,Subluxation and dislocation of patella
+S70.0,3,Contusion of hip
+L72.3,3,Sebaceous cyst
+F43.9,3,"Reaction to severe stress, unspecified"
+S91.3,2,Open wound of foot
+M76.6,2,Achilles tendinitis
+L27.1,2,Localized skin eruption due to drugs and medicaments taken internally
+S32.0,2,Fracture of lumbar vertebra
+R19.8,2,Other specified symptoms and signs involving the digestive system and abdomen
+M77.5,2,Other enthesopathy of foot and ankle
+M71.2,2,Synovial cyst of popliteal space [Baker]
+J12.9,2,"Viral pneumonia, unspecified"
+I49.9,2,"Cardiac arrhythmia, unspecified"
+H16.1,2,Other and unspecified superficial keratitis without conjunctivitis
+S53.4,2,Sprain of elbow
+M70.7,2,Other bursitis of hip
+M71.9,2,"Bursopathy, unspecified"
+N49.9,2,Inflammatory disorder of unspecified male genital organ
+H81.9,2,Unspecified disorder of vestibular function
+J47.0,2,Bronchiectasis with acute lower respiratory infection
+S52.2,2,Fracture of shaft of ulna
+N99.8,2,Other intraoperative and postprocedural complications and disorders of genitourinary system
+H93.1,2,Tinnitus
+K92.2,2,"Gastrointestinal hemorrhage, unspecified"
+E87.1,2,Hypo-osmolality and hyponatremia
+R20.9,2,Unspecified disturbances of skin sensation
+N45.1,2,Epididymitis
+S21.9,2,Open wound of unspecified part of thorax
+M54.3,2,Sciatica
+K05.1,2,Chronic gingivitis
+G57.6,2,Lesion of plantar nerve
+M18.1,2,Unilateral primary osteoarthritis of first carpometacarpal joint
+S82.0,2,Fracture of patella
+K64.8,2,Other hemorrhoids
+R56.9,2,Unspecified convulsions
+H72.9,2,Unspecified perforation of tympanic membrane
+S01.3,2,Open wound of ear
+M76.7,2,Peroneal tendinitis
+H11.4,2,Other conjunctival vascular disorders and cysts
+L53.9,2,"Erythematous condition, unspecified"
+L03.2,2,Cellulitis and acute lymphangitis of face and neck
+G89.3,2,Neoplasm related pain (acute) (chronic)
+G45.4,2,Transient global amnesia
+S22.0,2,Fracture of thoracic vertebra
+B07.9,2,"Viral wart, unspecified"
+I31.9,2,"Disease of pericardium, unspecified"
+D36.7,2,Benign neoplasm of other specified sites
+T78.2,2,"Anaphylactic shock, unspecified"
+S70.1,2,Contusion of thigh
+I48.0,2,Paroxysmal atrial fibrillation
+S42.0,2,Fracture of clavicle
+I49.3,2,Ventricular premature depolarization
+G89.2,2,"Chronic pain, not elsewhere classified"
+K29.0,2,Acute gastritis
+R53.1,2,Weakness
+M13.1,2,"Monoarthritis, not elsewhere classified"
+L25.9,2,"Unspecified contact dermatitis, unspecified cause"
+L60.8,2,Other nail disorders
+H10.9,2,Unspecified conjunctivitis
+K06.8,2,Other specified disorders of gingiva and edentulous alveolar ridge
+M79.7,2,Fibromyalgia
+R22.9,2,"Localized swelling, mass and lump, unspecified"
+L02.3,2,"Cutaneous abscess, furuncle and carbuncle of buttock"
+H10.5,2,Blepharoconjunctivitis
+M79.5,2,Residual foreign body in soft tissue
+M94.9,2,"Disorder of cartilage, unspecified"
+L73.2,2,Hidradenitis suppurativa
+L23.9,2,"Allergic contact dermatitis, unspecified cause"
+H53.2,2,Diplopia
+J04.2,2,Acute laryngotracheitis
+S76.1,2,"Injury of quadriceps muscle, fascia and tendon"
+T20.0,2,"Burn of unspecified degree of head, face, and neck"
+L76.3,2,Postprocedural hematoma and seroma of skin and subcutaneous tissue following a procedure
+S82.8,2,Other fractures of lower leg
+S42.4,2,Fracture of lower end of humerus
+I30.9,2,"Acute pericarditis, unspecified"
+T81.9,2,Unspecified complication of procedure
+M26.6,2,Temporomandibular joint disorders
+R49.0,2,Dysphonia
+S39.9,2,"Unspecified injury of abdomen, lower back, pelvis and external genitals"
+M22.4,2,Chondromalacia patellae
+K21.9,2,Gastro-esophageal reflux disease without esophagitis
+K64.4,2,Residual hemorrhoidal skin tags
+H73.0,2,Acute myringitis
+S62.0,2,Fracture of navicular [scaphoid] bone of wrist
+T25.0,2,Burn of unspecified degree of ankle and foot
+I49.4,2,Other and unspecified premature depolarization
+M02.3,1,Reiter's disease
+S89.9,1,Unspecified injury of lower leg
+H15.0,1,Scleritis
+R73.9,1,"Hyperglycemia, unspecified"
+T65.9,1,Toxic effect of unspecified substance
+J31.2,1,Chronic pharyngitis
+I82.8,1,Embolism and thrombosis of other specified veins
+B37.2,1,Candidiasis of skin and nail
+K65.4,1,Sclerosing mesenteritis
+R22.2,1,"Localized swelling, mass and lump, trunk"
+T21.0,1,Burn of unspecified degree of trunk
+M43.1,1,Spondylolisthesis
+Z83.5,1,Family history of eye and ear disorders
+S72.9,1,Unspecified fracture of femur
+S92.4,1,Fracture of great toe
+Z51.8,1,Encounter for other specified aftercare
+M93.2,1,Osteochondritis dissecans
+S99.8,1,Other specified injuries of ankle and foot
+G89.1,1,"Acute pain, not elsewhere classified"
+I50.1,1,"Left ventricular failure, unspecified"
+A74.8,1,Other chlamydial diseases
+Z79.0,1,Long term (current) use of anticoagulants and antithrombotics/antiplatelets
+S49.9,1,Unspecified injury of shoulder and upper arm
+N13.9,1,"Obstructive and reflux uropathy, unspecified"
+N76.2,1,Acute vulvitis
+M04.8,1,Other autoinflammatory syndromes
+H15.1,1,Episcleritis
+B37.4,1,Candidiasis of other urogenital sites
+R20.8,1,Other disturbances of skin sensation
+F45.8,1,Other somatoform disorders
+H44.8,1,Other disorders of globe
+T17.1,1,Foreign body in nostril
+M24.4,1,Recurrent dislocation of joint
+R22.0,1,"Localized swelling, mass and lump, head"
+S80.8,1,Other superficial injuries of lower leg
+S36.8,1,Injury of other intra-abdominal organs
+M77.0,1,Medial epicondylitis
+S61.5,1,Open wound of wrist
+B00.9,1,"Herpesviral infection, unspecified"
+K40.9,1,"Unilateral inguinal hernia, without obstruction or gangrene"
+T17.2,1,Foreign body in pharynx
+I83.9,1,Asymptomatic varicose veins of lower extremities
+R09.8,1,Other specified symptoms and signs involving the circulatory and respiratory systems
+T30.0,1,"Burn of unspecified body region, unspecified degree"
+E10.9,1,Type 1 diabetes mellitus without complications
+R14.1,1,Gas pain
+Z72.8,1,Other problems related to lifestyle
+L02.0,1,"Cutaneous abscess, furuncle and carbuncle of face"
+S62.5,1,Fracture of thumb
+D49.2,1,"Neoplasm of unspecified behavior of bone, soft tissue, and skin"
+R36.1,1,Hematospermia
+R25.3,1,Fasciculation
+K65.1,1,Peritoneal abscess
+N28.1,1,"Cyst of kidney, acquired"
+L13.9,1,"Bullous disorder, unspecified"
+J69.0,1,Pneumonitis due to inhalation of food and vomit
+M75.9,1,"Shoulder lesion, unspecified"
+I88.9,1,"Nonspecific lymphadenitis, unspecified"
+R16.0,1,"Hepatomegaly, not elsewhere classified"
+I26.9,1,Pulmonary embolism without acute cor pulmonale
+G90.2,1,Horner's syndrome
+O99.0,1,"Anemia complicating pregnancy, childbirth and the puerperium"
+S30.2,1,Contusion of external genital organs
+N45.3,1,Epididymo-orchitis
+S72.1,1,Pertrochanteric fracture
+S72.0,1,Fracture of head and neck of femur
+K92.0,1,Hematemesis
+N13.2,1,Hydronephrosis with renal and ureteral calculous obstruction
+N20.1,1,Calculus of ureter
+J05.1,1,Acute epiglottitis
+I75.8,1,Atheroembolism of other sites
+S65.5,1,Injury of blood vessel of other and unspecified finger
+S82.2,1,Fracture of shaft of tibia
+N05.9,1,Unspecified nephritic syndrome with unspecified morphologic changes
+K35.3,1,Acute appendicitis with localized peritonitis
+T84.5,1,Infection and inflammatory reaction due to internal joint prosthesis
+J34.8,1,Other specified disorders of nose and nasal sinuses
+I99.8,1,Other disorder of circulatory system
+G04.9,1,"Encephalitis, myelitis and encephalomyelitis, unspecified"
+I21.3,1,ST elevation (STEMI) myocardial infarction of unspecified site
+S00.2,1,Other and unspecified superficial injuries of eyelid and periocular area
+Z78.0,1,Asymptomatic menopausal state
+N20.0,1,Calculus of kidney
+R25.2,1,Cramp and spasm
+R19.3,1,Abdominal rigidity
+G47.0,1,Insomnia
+Z79.1,1,Long term (current) use of non-steroidal anti-inflammatories (NSAID)
+L91.0,1,Hypertrophic scar
+S79.9,1,Unspecified injury of hip and thigh
+R35.0,1,Frequency of micturition
+M17.0,1,Bilateral primary osteoarthritis of knee
+H57.0,1,Anomalies of pupillary function
+P51.9,1,"Umbilical hemorrhage of newborn, unspecified"
+H16.9,1,Unspecified keratitis
+R59.1,1,Generalized enlarged lymph nodes
+A15.0,1,Tuberculosis of lung
+R11.0,1,Nausea
+I80.3,1,"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+H73.8,1,Other specified disorders of tympanic membrane
+B08.4,1,Enteroviral vesicular stomatitis with exanthem
+M81.0,1,Age-related osteoporosis without current pathological fracture
+W54.0,1,Bitten by dog
+R63.2,1,Polyphagia
+B35.1,1,Tinea unguium
+T85.7,1,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts"
+R79.9,1,"Abnormal finding of blood chemistry, unspecified"
+H73.9,1,Unspecified disorder of tympanic membrane
+M50.9,1,"Cervical disc disorder, unspecified"
+E11.6,1,Type 2 diabetes mellitus with other specified complications
+L70.9,1,"Acne, unspecified"
+B02.3,1,Zoster ocular disease
+R19.5,1,Other fecal abnormalities
+J44.9,1,"Chronic obstructive pulmonary disease, unspecified"
+S09.2,1,Traumatic rupture of ear drum
+K14.0,1,Glossitis
+L29.0,1,Pruritus ani
+L29.9,1,"Pruritus, unspecified"
+I87.2,1,Venous insufficiency (chronic) (peripheral)
+Z34.9,1,"Encounter for supervision of normal pregnancy, unspecified"
+S22.3,1,Fracture of one rib
+J68.0,1,"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors"
+S71.0,1,Open wound of hip
+Q82.8,1,Other specified congenital malformations of skin
+N31.2,1,"Flaccid neuropathic bladder, not elsewhere classified"
+K31.9,1,"Disease of stomach and duodenum, unspecified"
+S06.3,1,Focal traumatic brain injury
+G51.0,1,Bell's palsy
+L82.1,1,Other seborrheic keratosis
+S90.8,1,Other superficial injuries of foot
+T22.2,1,"Burn of second degree of shoulder and upper limb, except wrist and hand"
+S76.2,1,"Injury of adductor muscle, fascia and tendon of thigh"
+S86.9,1,Injury of unspecified muscle and tendon at lower leg level
+F43.2,1,Adjustment disorders
+M92.5,1,Juvenile osteochondrosis of tibia and fibula
+R79.8,1,Other specified abnormal findings of blood chemistry
+F03.9,1,"Unspecified dementia, unspecified severity"
+Z90.6,1,Acquired absence of other parts of urinary tract
+M43.6,1,Torticollis
+H40.0,1,Glaucoma suspect
+S91.1,1,Open wound of toe without damage to nail
+S02.6,1,Fracture of mandible
+M75.4,1,Impingement syndrome of shoulder
+H11.8,1,Other specified disorders of conjunctiva
+T78.0,1,Anaphylactic reaction due to food
+K56.4,1,Other impaction of intestine
+J68.8,1,"Other respiratory conditions due to chemicals, gases, fumes and vapors"
+K64.5,1,Perianal venous thrombosis
+M62.9,1,"Disorder of muscle, unspecified"
+M19.0,1,Primary osteoarthritis of other joints
+M20.1,1,Hallux valgus (acquired)
+S63.1,1,Subluxation and dislocation of thumb
+A41.9,1,"Sepsis, unspecified organism"
+S46.0,1,Injury of muscle(s) and tendon(s) of the rotator cuff of shoulder
+M54.8,1,Other dorsalgia
+H01.9,1,Unspecified inflammation of eyelid
+T17.9,1,"Foreign body in respiratory tract, part unspecified"
+K91.8,1,Other intraoperative and postprocedural complications and disorders of digestive system
+P83.8,1,Other specified conditions of integument specific to newborn
+P38.9,1,Omphalitis without hemorrhage
+S53.0,1,Subluxation and dislocation of radial head
+B37.3,1,Candidiasis of vulva and vagina
+H81.0,1,Meniere's disease
+Q18.0,1,"Sinus, fistula and cyst of branchial cleft"
+R68.3,1,Clubbing of fingers
+K42.9,1,Umbilical hernia without obstruction or gangrene
+N40.0,1,Benign prostatic hyperplasia without lower urinary tract symptoms
+N47.7,1,Other inflammatory diseases of prepuce
+H10.2,1,Other acute conjunctivitis
+K02.9,1,"Dental caries, unspecified"
+H02.8,1,Other specified disorders of eyelid
+H60.5,1,Acute noninfective otitis externa
+S93.5,1,Sprain of toe
+Z98.8,1,Other specified postprocedural states
+N94.8,1,Other specified conditions associated with female genital organs and menstrual cycle
+N36.8,1,Other specified disorders of urethra
+H43.3,1,Other vitreous opacities
+R22.4,1,"Localized swelling, mass and lump, lower limb"
+T15.0,1,Foreign body in cornea
+K92.1,1,Melena
+H80.9,1,Unspecified otosclerosis
+L40.4,1,Guttate psoriasis
+B00.2,1,Herpesviral gingivostomatitis and pharyngotonsillitis
+D32.9,1,"Benign neoplasm of meninges, unspecified"
+M16.1,1,Unilateral primary osteoarthritis of hip
+N89.8,1,Other specified noninflammatory disorders of vagina
+T83.5,1,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system"
+L97.5,1,Non-pressure chronic ulcer of other part of foot
+K58.9,1,"Irritable bowel syndrome, unspecified"
+S66.3,1,"Injury of extensor muscle, fascia and tendon of other and unspecified finger at wrist and hand level"
+N94.6,1,"Dysmenorrhea, unspecified"
+B37.8,1,Candidiasis of other sites
+K90.4,1,Other malabsorption due to intolerance
+S86.0,1,Injury of Achilles tendon
+R00.0,1,"Tachycardia, unspecified"
+H20.9,1,Unspecified iridocyclitis
+K12.2,1,Cellulitis and abscess of mouth
+B85.2,1,"Pediculosis, unspecified"
+Z95.9,1,"Presence of cardiac and vascular implant and graft, unspecified"
+S53.1,1,Subluxation and dislocation of ulnohumeral joint
+S59.9,1,Unspecified injury of elbow and forearm
+R20.1,1,Hypoesthesia of skin
+J39.8,1,Other specified diseases of upper respiratory tract
+N73.9,1,"Female pelvic inflammatory disease, unspecified"
+K13.7,1,Other and unspecified lesions of oral mucosa
+O99.6,1,"Diseases of the digestive system complicating pregnancy, childbirth and the puerperium"
+I80.9,1,Phlebitis and thrombophlebitis of unspecified site
+H04.3,1,Acute and unspecified inflammation of lacrimal passages
+N32.8,1,Other specified disorders of bladder
+M16.3,1,Unilateral osteoarthritis resulting from hip dysplasia
+Z86.7,1,Personal history of diseases of the circulatory system
+G83.9,1,"Paralytic syndrome, unspecified"
+R09.1,1,Pleurisy
+D49.8,1,Neoplasm of unspecified behavior of other specified sites
+Z93.2,1,Ileostomy status
+S05.3,1,Ocular laceration without prolapse or loss of intraocular tissue
+J39.2,1,Other diseases of pharynx
+M06.9,1,"Rheumatoid arthritis, unspecified"
+M24.2,1,Disorder of ligament
+I49.8,1,Other specified cardiac arrhythmias
+J32.1,1,Chronic frontal sinusitis
+Z20.8,1,Contact with and (suspected) exposure to other communicable diseases
+R35.8,1,Other polyuria
+R41.0,1,"Disorientation, unspecified"
+T50.8,1,"Poisoning by, adverse effect of and underdosing of diagnostic agents"
+R23.8,1,Other skin changes
+H01.1,1,Noninfectious dermatoses of eyelid
+L73.9,1,"Follicular disorder, unspecified"
+M67.3,1,Transient synovitis
+S71.1,1,Open wound of thigh
+T16.9,1,"Foreign body in ear, unspecified ear"
+N18.9,1,"Chronic kidney disease, unspecified"
+J84.1,1,Other interstitial pulmonary diseases with fibrosis
+S46.2,1,"Injury of muscle, fascia and tendon of other parts of biceps"
+E86.0,1,Dehydration
+R10.0,1,Acute abdomen
+M25.0,1,Hemarthrosis
+S02.9,1,Fracture of unspecified skull and facial bones
+N13.7,1,Vesicoureteral-reflux
+N41.3,1,Prostatocystitis
+I25.9,1,"Chronic ischemic heart disease, unspecified"

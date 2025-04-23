@@ -1,0 +1,160 @@
+code,name,count,percentage
+J03.90,"Acute tonsillitis, unspecified",38,0.10644257703081232
+J98.01,Acute bronchospasm,24,0.06722689075630252
+H66.91,"Otitis media, unspecified, right ear",12,0.03361344537815126
+H66.92,"Otitis media, unspecified, left ear",12,0.03361344537815126
+H10.30,"Unspecified acute conjunctivitis, unspecified eye",11,0.03081232492997199
+S93.40,Sprain of unspecified ligament of ankle,10,0.028011204481792718
+R07.89,Other chest pain,8,0.022408963585434174
+H66.93,"Otitis media, unspecified, bilateral",6,0.01680672268907563
+S60.22,Contusion of hand,6,0.01680672268907563
+N30.90,"Cystitis, unspecified without hematuria",6,0.01680672268907563
+H10.31,"Unspecified acute conjunctivitis, right eye",5,0.014005602240896359
+H60.91,"Unspecified otitis externa, right ear",4,0.011204481792717087
+S61.40,Unspecified open wound of hand,4,0.011204481792717087
+J01.90,"Acute sinusitis, unspecified",4,0.011204481792717087
+H00.01,Hordeolum externum,4,0.011204481792717087
+M79.60,"Pain in limb, unspecified",4,0.011204481792717087
+M25.56,Pain in knee,3,0.008403361344537815
+H92.09,"Otalgia, unspecified ear",3,0.008403361344537815
+S20.20,"Contusion of thorax, unspecified",3,0.008403361344537815
+M76.89,"Other specified enthesopathies of lower limb, excluding foot",3,0.008403361344537815
+J04.10,Acute tracheitis without obstruction,3,0.008403361344537815
+S63.61,Unspecified sprain of other and unspecified finger(s),3,0.008403361344537815
+R10.83,Colic,3,0.008403361344537815
+H60.92,"Unspecified otitis externa, left ear",3,0.008403361344537815
+H81.39,Other peripheral vertigo,3,0.008403361344537815
+K59.00,"Constipation, unspecified",3,0.008403361344537815
+H66.90,"Otitis media, unspecified, unspecified ear",3,0.008403361344537815
+H11.30,"Conjunctival hemorrhage, unspecified eye",3,0.008403361344537815
+S62.63,Displaced fracture of distal phalanx of finger,3,0.008403361344537815
+G43.90,"Migraine, unspecified, not intractable",3,0.008403361344537815
+M77.21,"Periarthritis, right wrist",3,0.008403361344537815
+S60.21,Contusion of wrist,2,0.0056022408963585435
+G43.10,"Migraine with aura, not intractable",2,0.0056022408963585435
+S60.04,Contusion of ring finger without damage to nail,2,0.0056022408963585435
+T78.40,"Allergy, unspecified",2,0.0056022408963585435
+M25.53,Pain in wrist,2,0.0056022408963585435
+S63.28,Dislocation of proximal interphalangeal joint of finger,2,0.0056022408963585435
+S50.01,Contusion of right elbow,2,0.0056022408963585435
+L03.01,Cellulitis of finger,2,0.0056022408963585435
+S61.20,Unspecified open wound of other finger without damage to nail,2,0.0056022408963585435
+B27.90,"Infectious mononucleosis, unspecified without complication",2,0.0056022408963585435
+S09.93,Unspecified injury of face,2,0.0056022408963585435
+S01.90,Unspecified open wound of unspecified part of head,2,0.0056022408963585435
+M25.51,Pain in shoulder,2,0.0056022408963585435
+M12.54,"Traumatic arthropathy, hand",2,0.0056022408963585435
+S06.9X,Unspecified intracranial injury,2,0.0056022408963585435
+J03.00,"Acute streptococcal tonsillitis, unspecified",2,0.0056022408963585435
+R11.10,"Vomiting, unspecified",2,0.0056022408963585435
+M12.57,"Traumatic arthropathy, ankle and foot",2,0.0056022408963585435
+M25.80,"Other specified joint disorders, unspecified joint",2,0.0056022408963585435
+H60.90,"Unspecified otitis externa, unspecified ear",2,0.0056022408963585435
+H61.23,"Impacted cerumen, bilateral",2,0.0056022408963585435
+H11.32,"Conjunctival hemorrhage, left eye",2,0.0056022408963585435
+M62.48,"Contracture of muscle, other site",2,0.0056022408963585435
+S90.11,Contusion of great toe without damage to nail,2,0.0056022408963585435
+T81.31,"Disruption of external operation (surgical) wound, not elsewhere classified",2,0.0056022408963585435
+M89.8X,Other specified disorders of bone,2,0.0056022408963585435
+M93.88,Other specified osteochondropathies other,1,0.0028011204481792717
+S92.53,Fracture of distal phalanx of lesser toe(s),1,0.0028011204481792717
+S92.51,Fracture of proximal phalanx of lesser toe(s),1,0.0028011204481792717
+S60.02,Contusion of index finger without damage to nail,1,0.0028011204481792717
+S83.00,Unspecified subluxation and dislocation of patella,1,0.0028011204481792717
+J84.10,"Pulmonary fibrosis, unspecified",1,0.0028011204481792717
+K11.20,"Sialoadenitis, unspecified",1,0.0028011204481792717
+S43.01,Anterior subluxation and dislocation of humerus,1,0.0028011204481792717
+S61.01,Laceration without foreign body of thumb without damage to nail,1,0.0028011204481792717
+G89.29,Other chronic pain,1,0.0028011204481792717
+K29.00,Acute gastritis without bleeding,1,0.0028011204481792717
+H66.42,"Suppurative otitis media, unspecified, left ear",1,0.0028011204481792717
+M25.55,Pain in hip,1,0.0028011204481792717
+M17.10,"Unilateral primary osteoarthritis, unspecified knee",1,0.0028011204481792717
+L02.42,Furuncle of limb,1,0.0028011204481792717
+M75.10,"Unspecified rotator cuff tear or rupture, not specified as traumatic",1,0.0028011204481792717
+S62.30,Unspecified fracture of other metacarpal bone,1,0.0028011204481792717
+M79.18,"Myalgia, other site",1,0.0028011204481792717
+S52.50,Unspecified fracture of the lower end of radius,1,0.0028011204481792717
+M75.82,"Other shoulder lesions, left shoulder",1,0.0028011204481792717
+R79.89,Other specified abnormal findings of blood chemistry,1,0.0028011204481792717
+H10.50,Unspecified blepharoconjunctivitis,1,0.0028011204481792717
+S01.10,Unspecified open wound of eyelid and periocular area,1,0.0028011204481792717
+M54.42,"Lumbago with sciatica, left side",1,0.0028011204481792717
+S02.60,"Fracture of mandible, unspecified",1,0.0028011204481792717
+T17.50,Unspecified foreign body in bronchus,1,0.0028011204481792717
+S90.32,Contusion of left foot,1,0.0028011204481792717
+K35.80,Unspecified acute appendicitis,1,0.0028011204481792717
+S09.90,Unspecified injury of head,1,0.0028011204481792717
+I48.92,Unspecified atrial flutter,1,0.0028011204481792717
+N30.91,"Cystitis, unspecified with hematuria",1,0.0028011204481792717
+T15.00,"Foreign body in cornea, unspecified eye",1,0.0028011204481792717
+D49.89,Neoplasm of unspecified behavior of other specified sites,1,0.0028011204481792717
+S80.10,Contusion of unspecified lower leg,1,0.0028011204481792717
+M47.81,Spondylosis without myelopathy or radiculopathy,1,0.0028011204481792717
+M19.90,"Unspecified osteoarthritis, unspecified site",1,0.0028011204481792717
+M93.98,"Osteochondropathy, unspecified other",1,0.0028011204481792717
+L02.91,"Cutaneous abscess, unspecified",1,0.0028011204481792717
+S90.30,Contusion of unspecified foot,1,0.0028011204481792717
+S82.89,Other fractures of lower leg,1,0.0028011204481792717
+S81.80,Unspecified open wound of lower leg,1,0.0028011204481792717
+Z20.82,Contact with and (suspected) exposure to other viral communicable diseases,1,0.0028011204481792717
+S42.03,Fracture of lateral end of clavicle,1,0.0028011204481792717
+H65.91,"Unspecified nonsuppurative otitis media, right ear",1,0.0028011204481792717
+S92.35,Fracture of fifth metatarsal bone,1,0.0028011204481792717
+S76.12,"Laceration of quadriceps muscle, fascia and tendon",1,0.0028011204481792717
+H01.13,Eczematous dermatitis of eyelid,1,0.0028011204481792717
+T20.00,"Burn of unspecified degree of head, face, and neck, unspecified site",1,0.0028011204481792717
+H61.20,"Impacted cerumen, unspecified ear",1,0.0028011204481792717
+S61.45,Open bite of hand,1,0.0028011204481792717
+R19.30,"Abdominal rigidity, unspecified site",1,0.0028011204481792717
+S99.92,Unspecified injury of foot,1,0.0028011204481792717
+M13.10,"Monoarthritis, not elsewhere classified, unspecified site",1,0.0028011204481792717
+S63.60,Unspecified sprain of thumb,1,0.0028011204481792717
+H10.10,"Acute atopic conjunctivitis, unspecified eye",1,0.0028011204481792717
+S60.01,Contusion of thumb without damage to nail,1,0.0028011204481792717
+M76.51,"Patellar tendinitis, right knee",1,0.0028011204481792717
+K08.89,Other specified disorders of teeth and supporting structures,1,0.0028011204481792717
+M75.90,"Shoulder lesion, unspecified, unspecified shoulder",1,0.0028011204481792717
+S63.63,Sprain of interphalangeal joint of other and unspecified finger(s),1,0.0028011204481792717
+S93.60,Unspecified sprain of foot,1,0.0028011204481792717
+S00.83,Contusion of other part of head,1,0.0028011204481792717
+R10.13,Epigastric pain,1,0.0028011204481792717
+M26.64,Arthritis of temporomandibular joint,1,0.0028011204481792717
+S93.42,Sprain of deltoid ligament,1,0.0028011204481792717
+S65.51,Laceration of blood vessel of other and unspecified finger,1,0.0028011204481792717
+R07.82,Intercostal pain,1,0.0028011204481792717
+S52.30,Unspecified fracture of shaft of radius,1,0.0028011204481792717
+G57.00,"Lesion of sciatic nerve, unspecified lower limb",1,0.0028011204481792717
+S39.92,Unspecified injury of lower back,1,0.0028011204481792717
+M54.40,"Lumbago with sciatica, unspecified side",1,0.0028011204481792717
+J34.89,Other specified disorders of nose and nasal sinuses,1,0.0028011204481792717
+H10.32,"Unspecified acute conjunctivitis, left eye",1,0.0028011204481792717
+S09.92,Unspecified injury of nose,1,0.0028011204481792717
+G44.20,"Tension-type headache, unspecified",1,0.0028011204481792717
+L76.32,Postprocedural hematoma of skin and subcutaneous tissue following other procedure,1,0.0028011204481792717
+H80.90,"Unspecified otosclerosis, unspecified ear",1,0.0028011204481792717
+H15.00,Unspecified scleritis,1,0.0028011204481792717
+H11.31,"Conjunctival hemorrhage, right eye",1,0.0028011204481792717
+I49.49,Other premature depolarization,1,0.0028011204481792717
+S80.12,Contusion of left lower leg,1,0.0028011204481792717
+M25.57,Pain in ankle and joints of foot,1,0.0028011204481792717
+S42.20,Unspecified fracture of upper end of humerus,1,0.0028011204481792717
+S42.25,Fracture of greater tuberosity of humerus,1,0.0028011204481792717
+S09.21,Traumatic rupture of right ear drum,1,0.0028011204481792717
+N30.00,Acute cystitis without hematuria,1,0.0028011204481792717
+H16.00,Unspecified corneal ulcer,1,0.0028011204481792717
+S62.00,Unspecified fracture of navicular [scaphoid] bone of wrist,1,0.0028011204481792717
+M70.20,"Olecranon bursitis, unspecified elbow",1,0.0028011204481792717
+R09.81,Nasal congestion,1,0.0028011204481792717
+T17.20,Unspecified foreign body in pharynx,1,0.0028011204481792717
+M22.40,"Chondromalacia patellae, unspecified knee",1,0.0028011204481792717
+M70.60,"Trochanteric bursitis, unspecified hip",1,0.0028011204481792717
+H66.00,Acute suppurative otitis media without spontaneous rupture of ear drum,1,0.0028011204481792717
+H65.90,"Unspecified nonsuppurative otitis media, unspecified ear",1,0.0028011204481792717
+M75.80,"Other shoulder lesions, unspecified shoulder",1,0.0028011204481792717
+S05.90,Unspecified injury of unspecified eye and orbit,1,0.0028011204481792717
+S61.43,Puncture wound without foreign body of hand,1,0.0028011204481792717
+J45.90,Unspecified asthma,1,0.0028011204481792717
+T81.30,"Disruption of wound, unspecified",1,0.0028011204481792717
+M24.40,"Recurrent dislocation, unspecified joint",1,0.0028011204481792717
+S60.05,Contusion of little finger without damage to nail,1,0.0028011204481792717
