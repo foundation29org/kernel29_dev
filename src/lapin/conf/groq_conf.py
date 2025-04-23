@@ -170,8 +170,12 @@ class LlamaThreeSeventyBConfig(GroqBaseConfig):
     def __init__(self):
         super().__init__()
         self.model = "llama3-70b-8192"
-        self.max_tokens = 8192
-
+        self.max_tokens = 2000
+        self.top_p = None
+        self.frequency_penalty = None
+        self.presence_penalty = None
+        self.temperature = 0.7
+        self.response_format =  {"type": "json_object"}
 
 @register_config
 class LlamaThreeEightBConfig(GroqBaseConfig):
