@@ -1,12 +1,8 @@
 import os
 import sys
 
-
-
-ROOT_DIR_LEVEL = 1
+ROOT_DIR_LEVEL = 2
 parent_dir = "../" * ROOT_DIR_LEVEL
 path2add = os.path.join(os.path.dirname(os.path.abspath(__file__)), parent_dir)
 # print(path2add)
 sys.path.append(path2add)
-
-from dxGPT.models.dxGPT_models import *

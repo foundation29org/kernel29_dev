@@ -2,49 +2,39 @@
 Prompt builders for the dxGPT diagnosis generation task.
 Follows the lapin PromptBuilder pattern using meta-templates and sections.
 """
-from typing import Dict, Any
+from typing import Dict, Any, Type
+# Direct import, removing try...except
+from lapin.prompt_builder.base import PromptBuilder
 
-# Assuming lapin provides these base components
-try:
-    from lapin.prompt_builder.base import PromptBuilder, register_prompt
-except ImportError:
-    # Dummy implementations if lapin is not fully available
-    class PromptBuilder:
-        def __init__(self, verbose: bool = False):
-            self.verbose = verbose
-            self.template = ""
-            self.sections = {}
-            self.meta_template = "" # Must be defined by subclasses
+# --- Local Prompt Registry and Decorator ---
+DXGPT_PROMPT_REGISTRY: Dict[str, Type[PromptBuilder]] = {}
 
-        def load_section_from_text(self, name: str, text: str):
-            self.sections[name] = text
-            if self.verbose: print(f"Loaded section '{name}'")
+# Modified decorator: Takes no arguments, uses cls.alias()
+def register_prompt(cls: Type[PromptBuilder], verbose: bool = False) -> Type[PromptBuilder]:
+    """Decorator to register a dxGPT prompt class using its alias() method."""
+    try:
+        alias = cls.alias()
+        if not isinstance(alias, str):
+            raise TypeError("alias() must return a string.")
+        if alias in DXGPT_PROMPT_REGISTRY:
+            print(f"[WARN] Overwriting existing prompt alias in registry: {alias}")
+        DXGPT_PROMPT_REGISTRY[alias] = cls
+        if verbose: print(f"[INFO] Registered prompt class '{cls.__name__}' with alias '{alias}'")
+    except AttributeError:
+        print(f"[ERROR] Class {cls.__name__} is missing the required 'alias' classmethod for registration.")
+    except TypeError as e:
+        print(f"[ERROR] Class {cls.__name__} alias() method error: {e}")
+    # Return the original class regardless of registration success/failure
+    # to allow Python to continue parsing the class definition.
+    return cls
 
-        def build_template(self):
-            """Builds the main template string from sections and meta_template."""
-            try:
-                self.template = self.meta_template.format(**self.sections)
-                if self.verbose: print("Template built successfully.")
-            except KeyError as e:
-                print(f"[ERROR] Missing section key in meta_template: {e}")
-                self.template = f"Error: Missing section {e}"
-        
-        def build(self, **kwargs) -> str:
-            """Builds the final prompt string using the loaded template and provided kwargs."""
-            # Assumes self.template is already built by build_template()
-            try:
-                return self.template.format(**kwargs)
-            except KeyError as e:
-                 print(f"[ERROR] Missing key in kwargs during final prompt build: {e}")
-                 return f"Error: Missing build key {e}"
-
-    def register_prompt(cls):
-        # Dummy decorator
-        return cls
+# --- Base PromptBuilder ---
+# Inheriting directly from lapin's base.
+# Removed the local dummy PromptBuilder and the to_prompt adapter.
 
 # --- Specific Prompt Builders --- 
 
-@register_prompt
+@register_prompt # Decorator applied without argument
 class StandardDxGPTPrompt(PromptBuilder):
     """Builds the standard diagnosis prompt."""
     @classmethod
@@ -53,19 +43,16 @@ class StandardDxGPTPrompt(PromptBuilder):
 
     def __init__(self, verbose: bool = False):
         super().__init__(verbose=verbose)
-        # Define meta template with placeholder for dynamic description
         self.meta_template = """
 {intro}
 Symptoms:{description}
 """
-        self._initialize() # Load sections and build template
+        self.initialize() # Load sections and build template
 
-    def _initialize(self):
+    def initialize(self):
         intro_text = "Behave like a hypotethical doctor who has to do a diagnosis for a patient. Give me a list of potential diseases with a short description. Shows for each potential diseases always with '\n\n+' and a number, starting with '\n\n+1', for example '\n\n+23.' (never return \n\n-), the name of the disease and finish with ':'. Dont return '\n\n-', return '\n\n+' instead. You have to indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common. The text is"
         self.load_section_from_text("intro", intro_text)
         self.build_template() # Build the template after loading static sections
-
-    # build() method is inherited from base class
 
 @register_prompt
 class RareDxGPTPrompt(PromptBuilder):
@@ -80,9 +67,9 @@ class RareDxGPTPrompt(PromptBuilder):
 {intro}
 Symptoms:{description}
 """
-        self._initialize()
+        self.initialize()
 
-    def _initialize(self):
+    def initialize(self):
         intro_text = "Behave like a hypotethical doctor who has to do a diagnosis for a patient. Give me a list of potential rare diseases with a short description. Shows for each potential rare diseases always with '\n\n+' and a number, starting with '\n\n+1', for example '\n\n+23.' (never return \n\n-), the name of the disease and finish with ':'. Dont return '\n\n-', return '\n\n+' instead. You have to indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common. The text is"
         self.load_section_from_text("intro", intro_text)
         self.build_template()
@@ -111,9 +98,9 @@ Patient Symptoms:
 </patient_description>
 </prompt>
 """
-        self._initialize()
+        self.initialize()
 
-    def _initialize(self):
+    def initialize(self):
         prompt_structure_text = """
 <prompt> As an AI-assisted diagnostic tool, your task is to analyze the given patient symptoms and generate a list of the top 5 potential diagnoses. Follow these steps:
 Carefully review the patient's reported symptoms.
@@ -149,9 +136,9 @@ Here is the patient description:
 {description}
 </patient_description>
 """
-        self._initialize()
+        self.initialize()
 
-    def _initialize(self):
+    def initialize(self):
         intro_text = "Behave like a hypothetical doctor tasked with providing 5 hypothesis diagnosis for a patient based on their description. Your goal is to generate a list of 5 potential diseases, each with a short description, and indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common."
         format_instructions_text = """
 Carefully analyze the patient description and consider various potential diseases that could match the symptoms described. For each potential disease:
@@ -200,7 +187,6 @@ class JSONRiskDxGPTPrompt(PromptBuilder):
 
     def __init__(self, verbose: bool = False):
         super().__init__(verbose=verbose)
-        # Reuse the JSON prompt meta template
         self.meta_template = """
 {intro}
 {format_instructions}
@@ -210,10 +196,9 @@ Here is the patient description:
 {description}
 </patient_description>
 """
-        self._initialize()
+        self.initialize()
 
-    def _initialize(self):
-        # Reuse sections from JSON prompt
+    def initialize(self):
         intro_text = "Behave like a hypothetical doctor tasked with providing 5 hypothesis diagnosis for a patient based on their description. Your goal is to generate a list of 5 potential diseases, each with a short description, and indicate which symptoms the patient has in common with the proposed disease and which symptoms the patient does not have in common."
         format_instructions_text = """
 Carefully analyze the patient description and consider various potential diseases that could match the symptoms described. For each potential disease:

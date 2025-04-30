@@ -3,23 +3,20 @@ from lapin.conf.groq_conf import GroqBaseConfig
 from lapin.conf.base_conf import register_config
 
 
-
 @register_config
-class LlamaThreeEightBConfig(GroqBaseConfig):
+class LlamaThreePointThreeSeventyBSpecDecConfig(GroqBaseConfig):
     """
-    For "llama3-8b-8192" model.
+    For "llama-3.3-70b-specdec" preview model.
     8,192 context window.
     """
     @classmethod
     def alias(cls) -> str:
-        return "llama3-8b"
+        return "dxgpt_debug"
 
     def __init__(self):
         super().__init__()
-        self.model = "llama3-8b-8192"
+        self.model = "meta-llama/llama-4-maverick-17b-128e-instruct"
         self.max_tokens = 8192
-        self.response_format = {"type": "json_object"}
-
 
 
 # List of models identified in the original batch_diagnosis_*.py scripts:

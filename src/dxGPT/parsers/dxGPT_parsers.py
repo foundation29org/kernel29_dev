@@ -3,6 +3,8 @@ Parsing utilities for the dxGPT module.
 """
 import re
 import logging
+from typing import List, Dict, Optional, Callable
+import json
 
 logger = logging.getLogger(__name__)
 
@@ -134,3 +136,71 @@ def parse_top5_xml(diagnosis_text: str | None) -> str | None:
         else:
              logger.warning("Could not find <5_diagnosis_output> tags either.")
              return None 
+
+# --- Stage 1: Extract Diagnosis Text Block ---
+# Maps prompt_alias to a function that takes the raw LLM response (str)
+# and returns the relevant text block (str | None) containing diagnoses.
+PARSER_DIFFERENTIAL_DIAGNOSES: Dict[str, Callable[[str], Optional[str]]] = {
+    # For standard prompts, just pass the raw response through
+    "dxgpt_standard": lambda raw_response: raw_response,
+    "dxgpt_rare": lambda raw_response: raw_response,
+    "dxgpt_improved": parse_top5_xml, # Extracts from <top5>
+    "dxgpt_json": parse_top5_xml, # Extracts from <5_diagnosis_output>
+    "dxgpt_json_risk": parse_top5_xml, # Extracts from <5_diagnosis_output>
+    # Add more mappings as needed
+    # "another_prompt_alias": specific_stage1_parser_function,
+}
+
+# --- Stage 2 Helper: Parse ranks from JSON text block ---
+def _parse_ranks_from_json_block(text_block: str) -> list[tuple[int | None, str | None, str | None]]:
+    """Parses ranks from a JSON string within the text block. Returns list of tuples."""
+    logger.debug(f"Attempting to parse JSON block: {text_block[:100]}...")
+    diagnoses = []
+    try:
+        data = json.loads(text_block)
+        if isinstance(data, list):
+            for rank, item in enumerate(data, start=1):
+                if isinstance(item, dict):
+                    diagnosis_name = item.get('diagnosis')
+                    # Combine description/symptoms into reasoning for compatibility?
+                    reasoning_parts = []
+                    if item.get('description'):
+                        reasoning_parts.append(f"Desc: {item['description']}")
+                    if item.get('symptoms_in_common'):
+                        reasoning_parts.append(f"Common: {', '.join(item['symptoms_in_common'])}")
+                    if item.get('symptoms_not_in_common'):
+                        reasoning_parts.append(f"Not Common: {', '.join(item['symptoms_not_in_common'])}")
+                    reasoning = " | ".join(reasoning_parts) if reasoning_parts else None
+                    
+                    # Use enumerate rank, as JSON doesn't have explicit rank field
+                    diagnoses.append((rank, diagnosis_name, reasoning))
+                else:
+                     logger.warning(f"Item in JSON list is not a dict: {item}")
+        else:
+             logger.warning(f"Parsed JSON is not a list: {type(data)}")
+
+    except json.JSONDecodeError as e:
+        logger.error(f"Failed to decode JSON: {e}. Text block: {text_block[:200]}...")
+    except Exception as e:
+        logger.error(f"Unexpected error parsing JSON block: {e}")
+        
+    if not diagnoses:
+         logger.warning("No diagnoses extracted from JSON block.")
+         
+    return diagnoses
+
+# --- Stage 2: Parse Ranks from Text Block ---
+# Maps prompt_alias to a function that takes the extracted text block (str)
+# and returns a list of tuples: List[tuple[int | None, str | None, str | None]].
+PARSER_DIFFERENTIAL_DIAGNOSES_RANKS: Dict[str, Callable[[str], list[tuple[int | None, str | None, str | None]]]] = {
+    # Example Entries - ADJUST KEYS (prompt aliases) AND VALUES (functions)
+    "dxgpt_standard": universal_dif_diagnosis_parser,
+    "dxgpt_rare": universal_dif_diagnosis_parser,
+    "dxgpt_improved": universal_dif_diagnosis_parser, # Use universal parser on the extracted XML content
+    "dxgpt_json": _parse_ranks_from_json_block,
+    "dxgpt_json_risk": _parse_ranks_from_json_block,
+    # Add more mappings as needed
+    # "another_prompt_alias": specific_stage2_rank_parser,
+}
+
+# Removed _parse_ranks_from_text_block helper

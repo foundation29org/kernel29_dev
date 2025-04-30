@@ -1,0 +1,830 @@
+--- New Run Started: 2025-04-29 18:39:43.720884 ---
+
+Starting processing of 59 files...
+Processing file: diagnoses_PUMCH_ADM_c3opus.csv
+  File 'diagnoses_PUMCH_ADM_c3opus.csv': Using Model: 'c3opus' (ID: 7) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_c3opus.csv': Model='c3opus', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 367
+Processing file: diagnoses_PUMCH_ADM_c3sonnet.csv
+  File 'diagnoses_PUMCH_ADM_c3sonnet.csv': Using Model: 'c3sonnet' (ID: 8) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_c3sonnet.csv': Model='c3sonnet', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 366
+Processing file: diagnoses_PUMCH_ADM_cohere_cplus.csv
+  File 'diagnoses_PUMCH_ADM_cohere_cplus.csv': Using Model: 'cohere_cplus' (ID: 9) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_cohere_cplus.csv': Model='cohere_cplus', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 564
+Processing file: diagnoses_PUMCH_ADM_geminipro.csv
+  File 'diagnoses_PUMCH_ADM_geminipro.csv': Using Model: 'geminipro' (ID: 10) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_geminipro.csv': Model='geminipro', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 313
+Processing file: diagnoses_PUMCH_ADM_gpt4turbo0409.csv
+  File 'diagnoses_PUMCH_ADM_gpt4turbo0409.csv': Using Model: 'gpt4turbo0409' (ID: 11) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_gpt4turbo0409.csv': Model='gpt4turbo0409', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 391
+Processing file: diagnoses_PUMCH_ADM_gpt4turbo1106.csv
+  File 'diagnoses_PUMCH_ADM_gpt4turbo1106.csv': Using Model: 'gpt4turbo1106' (ID: 12) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_gpt4turbo1106.csv': Model='gpt4turbo1106', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 447
+Processing file: diagnoses_PUMCH_ADM_gpt4_0613.csv
+  File 'diagnoses_PUMCH_ADM_gpt4_0613.csv': Using Model: 'gpt4_0613' (ID: 13) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_gpt4_0613.csv': Model='gpt4_0613', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 449
+Processing file: diagnoses_PUMCH_ADM_llama2_7b.csv
+  File 'diagnoses_PUMCH_ADM_llama2_7b.csv': Using Model: 'llama2_7b' (ID: 14) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_llama2_7b.csv': Model='llama2_7b', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 1063
+Processing file: diagnoses_PUMCH_ADM_llama3_70b.csv
+  File 'diagnoses_PUMCH_ADM_llama3_70b.csv': Using Model: 'llama3_70b' (ID: 15) for dataset 'test_PUMCH_ADM'
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 2: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 4: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 20: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 22: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 23: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 26: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 27: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 29: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 39: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 41: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 42: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 44: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 55: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 58: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 62: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 66: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 68: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 69: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 71: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 72: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 73: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_PUMCH_ADM_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_PUMCH_ADM', Row 74: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_PUMCH_ADM_llama3_70b.csv': Model='llama3_70b', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 53, Ranks Added: 326
+Processing file: diagnoses_PUMCH_ADM_llama3_8b.csv
+  File 'diagnoses_PUMCH_ADM_llama3_8b.csv': Using Model: 'llama3_8b' (ID: 16) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_llama3_8b.csv': Model='llama3_8b', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 521
+Processing file: diagnoses_PUMCH_ADM_mistral7b.csv
+  File 'diagnoses_PUMCH_ADM_mistral7b.csv': Using Model: 'mistral7b' (ID: 17) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_mistral7b.csv': Model='mistral7b', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 709
+Processing file: diagnoses_PUMCH_ADM_mixtralmoe.csv
+  File 'diagnoses_PUMCH_ADM_mixtralmoe.csv': Using Model: 'mixtralmoe' (ID: 18) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_mixtralmoe.csv': Model='mixtralmoe', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 685
+Processing file: diagnoses_PUMCH_ADM_mixtralmoe_big.csv
+  File 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv': Using Model: 'mixtralmoe_big' (ID: 19) for dataset 'test_PUMCH_ADM'
+  -> Finished 'diagnoses_PUMCH_ADM_mixtralmoe_big.csv': Model='mixtralmoe_big', Dataset='test_PUMCH_ADM', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 75, Ranks Added: 677
+Processing file: diagnoses_RAMEDIS_c35sonnet.csv
+  File 'diagnoses_RAMEDIS_c35sonnet.csv': Using Model: 'c35sonnet' (ID: 21) for dataset 'test_RAMEDIS_SPLIT'
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='200'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='201'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='202'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='203'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='204'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='205'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='206'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='207'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='208'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='209'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='210'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='211'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='212'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='213'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='214'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='215'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='216'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='217'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='218'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='219'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='220'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='221'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='222'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='223'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='224'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='225'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='226'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='227'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='228'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='229'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='230'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='231'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='232'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='233'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='234'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='235'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='236'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='237'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='238'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='239'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='240'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='241'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='242'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='243'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='244'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='245'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='246'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='247'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='248'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='249'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='250'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='251'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='252'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='253'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='254'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='255'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='256'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='257'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='258'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='259'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='260'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='261'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='262'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='263'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='264'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='265'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='266'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='267'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='268'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='269'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='270'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='271'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='272'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='273'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='274'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='275'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='276'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='277'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='278'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='279'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='280'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='281'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='282'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='283'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='284'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='285'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='286'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='287'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='288'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='289'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='290'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='291'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='292'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='293'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='294'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='295'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='296'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='297'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='298'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='299'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='300'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='301'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='302'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='303'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='304'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='305'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='306'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='307'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='308'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='309'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='310'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='311'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='312'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='313'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='314'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='315'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='316'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='317'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='318'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='319'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='320'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='321'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='322'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='323'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='324'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='325'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='326'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='327'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='328'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='329'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='330'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='331'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='332'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='333'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='334'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='335'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='336'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='337'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='338'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='339'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='340'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='341'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='342'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='343'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='344'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='345'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='346'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='347'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='348'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='349'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='350'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='351'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='352'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='353'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='354'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='355'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='356'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='357'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='358'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='359'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='360'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='361'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='362'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='363'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='364'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='365'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='366'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='367'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='368'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='369'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='370'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='371'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='372'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='373'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='374'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='375'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='376'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='377'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='378'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='379'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='380'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='381'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='382'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='383'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='384'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='385'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='386'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='387'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='388'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='389'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='390'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='391'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='392'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='393'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='394'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='395'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='396'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='397'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='398'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='399'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='400'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='401'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='402'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='403'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='404'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='405'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='406'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='407'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='408'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='409'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='410'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='411'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='412'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='413'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='414'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='415'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='416'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='417'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='418'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='419'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='420'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='421'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='422'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='423'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='424'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='425'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='426'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='427'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='428'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='429'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='430'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='431'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='432'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='433'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='434'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='435'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='436'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='437'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='438'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='439'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='440'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='441'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='442'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='443'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='444'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='445'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='446'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='447'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='448'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='449'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='450'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='451'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='452'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='453'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='454'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='455'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='456'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='457'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='458'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='459'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='460'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='461'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='462'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='463'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='464'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='465'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='466'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='467'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='468'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='469'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='470'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='471'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='472'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='473'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='474'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='475'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='476'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='477'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='478'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='479'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='480'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='481'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='482'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='483'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='484'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='485'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='486'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='487'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='488'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='489'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='490'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='491'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='492'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='493'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='494'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='495'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='496'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='497'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='498'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='499'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='500'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='501'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='502'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='503'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='504'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='505'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='506'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='507'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='508'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='509'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='510'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='511'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='512'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='513'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='514'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='515'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='516'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='517'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='518'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='519'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='520'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='521'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='522'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='523'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='524'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='525'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='526'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='527'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='528'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='529'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='530'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='531'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='532'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='533'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='534'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='535'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='536'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='537'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='538'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='539'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='540'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='541'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='542'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='543'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='544'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='545'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='546'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='547'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='548'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='549'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='550'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='551'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='552'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='553'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='554'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='555'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='556'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='557'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='558'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='559'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='560'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='561'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='562'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='563'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='564'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='565'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='566'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='567'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='568'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='569'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='570'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='571'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='572'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='573'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='574'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='575'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='576'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='577'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='578'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='579'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='580'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='581'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='582'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='583'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='584'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='585'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='586'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='587'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='588'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='589'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='590'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='591'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='592'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='593'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='594'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='595'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='596'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='597'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='598'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='599'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='600'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='601'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='602'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='603'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='604'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='605'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='606'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='607'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='608'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='609'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='610'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='611'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='612'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='613'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='614'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='615'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='616'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='617'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='618'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='619'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='620'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='621'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='622'. Skipping row.
+    File 'diagnoses_RAMEDIS_c35sonnet.csv', Model 'c35sonnet', Dataset 'test_RAMEDIS_SPLIT': Warning: No case found for hospital='test_RAMEDIS_SPLIT', source_file_path='623'. Skipping row.
+  -> Finished 'diagnoses_RAMEDIS_c35sonnet.csv': Model='c35sonnet', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1404
+Processing file: diagnoses_RAMEDIS_c3opus.csv
+  File 'diagnoses_RAMEDIS_c3opus.csv': Using Model: 'c3opus' (ID: 7) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_c3opus.csv': Model='c3opus', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 994
+Processing file: diagnoses_RAMEDIS_c3sonnet.csv
+  File 'diagnoses_RAMEDIS_c3sonnet.csv': Using Model: 'c3sonnet' (ID: 8) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_c3sonnet.csv': Model='c3sonnet', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 951
+Processing file: diagnoses_RAMEDIS_cohere_cplus.csv
+  File 'diagnoses_RAMEDIS_cohere_cplus.csv': Using Model: 'cohere_cplus' (ID: 9) for dataset 'test_RAMEDIS_SPLIT'
+    File 'diagnoses_RAMEDIS_cohere_cplus.csv', Model 'cohere_cplus', Dataset 'test_RAMEDIS_SPLIT', Row 82: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_cohere_cplus.csv', Model 'cohere_cplus', Dataset 'test_RAMEDIS_SPLIT', Row 103: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_RAMEDIS_cohere_cplus.csv': Model='cohere_cplus', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 198, Ranks Added: 1234
+Processing file: diagnoses_RAMEDIS_geminipro15.csv
+  File 'diagnoses_RAMEDIS_geminipro15.csv': Using Model: 'geminipro15' (ID: 23) for dataset 'test_RAMEDIS_SPLIT'
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 41: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 48: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 49: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 50: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 51: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 52: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 58: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 63: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 65: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 66: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 67: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 68: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 69: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 74: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 75: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 76: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 78: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 79: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 80: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 81: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 82: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 83: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 84: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 90: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 91: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 92: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 93: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 99: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 100: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 101: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 102: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 103: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 104: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 105: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 107: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 110: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 112: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 113: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 114: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 116: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 117: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 119: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 124: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 125: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 126: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 127: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 128: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 129: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 130: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 131: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 132: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 133: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 134: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 135: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 136: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 141: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_geminipro15.csv', Model 'geminipro15', Dataset 'test_RAMEDIS_SPLIT', Row 142: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_RAMEDIS_geminipro15.csv': Model='geminipro15', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 143, Ranks Added: 551
+Processing file: diagnoses_RAMEDIS_gpt4o.csv
+  File 'diagnoses_RAMEDIS_gpt4o.csv': Using Model: 'gpt4o' (ID: 22) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_gpt4o.csv': Model='gpt4o', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1706
+Processing file: diagnoses_RAMEDIS_gpt4o_json.csv
+  File 'diagnoses_RAMEDIS_gpt4o_json.csv': Skipping model 'gpt4o_json' due to exclude list.
+  File 'diagnoses_RAMEDIS_gpt4o_json.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_RAMEDIS_gpt4o_json_risk.csv
+  File 'diagnoses_RAMEDIS_gpt4o_json_risk.csv': Skipping model 'gpt4o_json_risk' due to exclude list.
+  File 'diagnoses_RAMEDIS_gpt4o_json_risk.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_RAMEDIS_gpt4turbo0409.csv
+  File 'diagnoses_RAMEDIS_gpt4turbo0409.csv': Using Model: 'gpt4turbo0409' (ID: 11) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_gpt4turbo0409.csv': Model='gpt4turbo0409', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1019
+Processing file: diagnoses_RAMEDIS_gpt4turbo1106.csv
+  File 'diagnoses_RAMEDIS_gpt4turbo1106.csv': Using Model: 'gpt4turbo1106' (ID: 12) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_gpt4turbo1106.csv': Model='gpt4turbo1106', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1064
+Processing file: diagnoses_RAMEDIS_gpt4_0613.csv
+  File 'diagnoses_RAMEDIS_gpt4_0613.csv': Using Model: 'gpt4_0613' (ID: 13) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_gpt4_0613.csv': Model='gpt4_0613', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1145
+Processing file: diagnoses_RAMEDIS_llama2_7b.csv
+  File 'diagnoses_RAMEDIS_llama2_7b.csv': Using Model: 'llama2_7b' (ID: 14) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_llama2_7b.csv': Model='llama2_7b', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 2123
+Processing file: diagnoses_RAMEDIS_llama3_70b.csv
+  File 'diagnoses_RAMEDIS_llama3_70b.csv': Using Model: 'llama3_70b' (ID: 15) for dataset 'test_RAMEDIS_SPLIT'
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 7: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 34: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 42: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 54: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 93: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 99: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 112: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 125: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 129: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 143: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 159: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 175: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_RAMEDIS_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_RAMEDIS_SPLIT', Row 199: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_RAMEDIS_llama3_70b.csv': Model='llama3_70b', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 187, Ranks Added: 1079
+Processing file: diagnoses_RAMEDIS_llama3_8b.csv
+  File 'diagnoses_RAMEDIS_llama3_8b.csv': Using Model: 'llama3_8b' (ID: 16) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_llama3_8b.csv': Model='llama3_8b', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1126
+Processing file: diagnoses_RAMEDIS_mistral7b.csv
+  File 'diagnoses_RAMEDIS_mistral7b.csv': Using Model: 'mistral7b' (ID: 17) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_mistral7b.csv': Model='mistral7b', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1521
+Processing file: diagnoses_RAMEDIS_mistralmoe.csv
+  File 'diagnoses_RAMEDIS_mistralmoe.csv': Using Model: 'mistralmoe' (ID: 24) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_mistralmoe.csv': Model='mistralmoe', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1594
+Processing file: diagnoses_RAMEDIS_mixtralmoe_big.csv
+  File 'diagnoses_RAMEDIS_mixtralmoe_big.csv': Using Model: 'mixtralmoe_big' (ID: 19) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_mixtralmoe_big.csv': Model='mixtralmoe_big', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1627
+Processing file: diagnoses_RAMEDIS_o1_mini.csv
+  File 'diagnoses_RAMEDIS_o1_mini.csv': Using Model: 'o1_mini' (ID: 25) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_o1_mini.csv': Model='o1_mini', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1318
+Processing file: diagnoses_RAMEDIS_o1_preview.csv
+  File 'diagnoses_RAMEDIS_o1_preview.csv': Using Model: 'o1_preview' (ID: 26) for dataset 'test_RAMEDIS_SPLIT'
+  -> Finished 'diagnoses_RAMEDIS_o1_preview.csv': Model='o1_preview', Dataset='test_RAMEDIS_SPLIT', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1396
+Processing file: diagnoses_turbo.csv
+  File 'diagnoses_turbo.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_100.csv
+  File 'diagnoses_URG_Torre_Dic_100.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_1000_c35sonnet.csv
+  File 'diagnoses_URG_Torre_Dic_1000_c35sonnet.csv': Using Model: 'c35sonnet' (ID: 21) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_1000_c35sonnet.csv': Model='c35sonnet', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 1000, Ranks Added: 9457
+Processing file: diagnoses_URG_Torre_Dic_1000_gpt4o.csv
+  File 'diagnoses_URG_Torre_Dic_1000_gpt4o.csv': Using Model: 'gpt4o' (ID: 22) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_1000_gpt4o.csv': Model='gpt4o', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 1000, Ranks Added: 10826
+Processing file: diagnoses_URG_Torre_Dic_1000_gpt4_0613.csv
+  File 'diagnoses_URG_Torre_Dic_1000_gpt4_0613.csv': Using Model: 'gpt4_0613' (ID: 13) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_1000_gpt4_0613.csv': Model='gpt4_0613', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 1000, Ranks Added: 5262
+Processing file: diagnoses_URG_Torre_Dic_200_c3opus.csv
+  File 'diagnoses_URG_Torre_Dic_200_c3opus.csv': Using Model: 'c3opus' (ID: 7) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_c3opus.csv': Model='c3opus', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1037
+Processing file: diagnoses_URG_Torre_Dic_200_c3sonnet.csv
+  File 'diagnoses_URG_Torre_Dic_200_c3sonnet.csv': Using Model: 'c3sonnet' (ID: 8) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_c3sonnet.csv': Model='c3sonnet', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 993
+Processing file: diagnoses_URG_Torre_Dic_200_cohere_cplus.csv
+  File 'diagnoses_URG_Torre_Dic_200_cohere_cplus.csv': Using Model: 'cohere_cplus' (ID: 9) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_cohere_cplus.csv': Model='cohere_cplus', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1018
+Processing file: diagnoses_URG_Torre_Dic_200_geminipro15.csv
+  File 'diagnoses_URG_Torre_Dic_200_geminipro15.csv': Using Model: 'geminipro15' (ID: 23) for dataset 'test_1000'
+    File 'diagnoses_URG_Torre_Dic_200_geminipro15.csv', Model 'geminipro15', Dataset 'test_1000', Row 106: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_URG_Torre_Dic_200_geminipro15.csv': Model='geminipro15', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 199, Ranks Added: 995
+Processing file: diagnoses_URG_Torre_Dic_200_gpt4o.csv
+  File 'diagnoses_URG_Torre_Dic_200_gpt4o.csv': Using Model: 'gpt4o' (ID: 22) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_gpt4o.csv': Model='gpt4o', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 2159
+Processing file: diagnoses_URG_Torre_Dic_200_gpt4o_json.csv
+  File 'diagnoses_URG_Torre_Dic_200_gpt4o_json.csv': Skipping model 'gpt4o_json' due to exclude list.
+  File 'diagnoses_URG_Torre_Dic_200_gpt4o_json.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_200_gpt4o_json_risk.csv
+  File 'diagnoses_URG_Torre_Dic_200_gpt4o_json_risk.csv': Skipping model 'gpt4o_json_risk' due to exclude list.
+  File 'diagnoses_URG_Torre_Dic_200_gpt4o_json_risk.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv
+  File 'diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv': Using Model: 'gpt4turbo0409' (ID: 11) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_gpt4turbo0409.csv': Model='gpt4turbo0409', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1109
+Processing file: diagnoses_URG_Torre_Dic_200_gpt4turbo1106.csv
+  File 'diagnoses_URG_Torre_Dic_200_gpt4turbo1106.csv': Using Model: 'gpt4turbo1106' (ID: 12) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_gpt4turbo1106.csv': Model='gpt4turbo1106', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1291
+Processing file: diagnoses_URG_Torre_Dic_200_gpt4_0613.csv
+  File 'diagnoses_URG_Torre_Dic_200_gpt4_0613.csv': Using Model: 'gpt4_0613' (ID: 13) for dataset 'test_1000'
+    File 'diagnoses_URG_Torre_Dic_200_gpt4_0613.csv', Model 'gpt4_0613', Dataset 'test_1000', Row 76: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_gpt4_0613.csv', Model 'gpt4_0613', Dataset 'test_1000', Row 112: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_URG_Torre_Dic_200_gpt4_0613.csv': Model='gpt4_0613', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 198, Ranks Added: 1046
+Processing file: diagnoses_URG_Torre_Dic_200_improved_c3opus.csv
+  File 'diagnoses_URG_Torre_Dic_200_improved_c3opus.csv': Skipping model 'improved_c3opus' due to exclude list.
+  File 'diagnoses_URG_Torre_Dic_200_improved_c3opus.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_200_improved_c3sonnet.csv
+  File 'diagnoses_URG_Torre_Dic_200_improved_c3sonnet.csv': Skipping model 'improved_c3sonnet' due to exclude list.
+  File 'diagnoses_URG_Torre_Dic_200_improved_c3sonnet.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_200_improved_gpt4_0613.csv
+  File 'diagnoses_URG_Torre_Dic_200_improved_gpt4_0613.csv': Skipping model 'improved_gpt4_0613' due to exclude list.
+  File 'diagnoses_URG_Torre_Dic_200_improved_gpt4_0613.csv': Skipping - No matching dataset key found or all matches excluded.
+Processing file: diagnoses_URG_Torre_Dic_200_llama2_7b.csv
+  File 'diagnoses_URG_Torre_Dic_200_llama2_7b.csv': Using Model: 'llama2_7b' (ID: 14) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_llama2_7b.csv': Model='llama2_7b', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1586
+Processing file: diagnoses_URG_Torre_Dic_200_llama3_70b.csv
+  File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv': Using Model: 'llama3_70b' (ID: 15) for dataset 'test_1000'
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 104: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 106: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 110: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 113: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 114: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 115: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 116: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 117: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 118: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 119: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 120: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 121: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 122: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 123: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 124: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 125: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 126: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 127: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 128: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 129: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 130: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 131: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 132: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 133: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 134: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 135: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 136: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 137: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 138: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 139: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 140: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 141: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 142: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 143: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 144: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 145: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 146: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 147: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 149: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 150: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 151: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 152: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 153: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 154: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 155: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 156: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 157: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 158: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 159: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 160: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 161: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 162: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 163: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 164: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 165: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 166: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 167: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 168: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 169: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 170: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 171: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 172: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 173: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 174: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 175: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 176: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 177: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 178: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 184: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 186: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 189: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 190: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 191: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 192: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 193: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 194: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 197: Skipping row - LLM diagnosis contains ERROR.
+    File 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv', Model 'llama3_70b', Dataset 'test_1000', Row 199: Skipping row - LLM diagnosis contains ERROR.
+  -> Finished 'diagnoses_URG_Torre_Dic_200_llama3_70b.csv': Model='llama3_70b', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 122, Ranks Added: 887
+Processing file: diagnoses_URG_Torre_Dic_200_llama3_8b.csv
+  File 'diagnoses_URG_Torre_Dic_200_llama3_8b.csv': Using Model: 'llama3_8b' (ID: 16) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_llama3_8b.csv': Model='llama3_8b', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1549
+Processing file: diagnoses_URG_Torre_Dic_200_mistral7b.csv
+  File 'diagnoses_URG_Torre_Dic_200_mistral7b.csv': Using Model: 'mistral7b' (ID: 17) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_mistral7b.csv': Model='mistral7b', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1947
+Processing file: diagnoses_URG_Torre_Dic_200_mistralmoe.csv
+  File 'diagnoses_URG_Torre_Dic_200_mistralmoe.csv': Using Model: 'mistralmoe' (ID: 24) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_mistralmoe.csv': Model='mistralmoe', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1235
+Processing file: diagnoses_URG_Torre_Dic_200_mixtralmoe_big.csv
+  File 'diagnoses_URG_Torre_Dic_200_mixtralmoe_big.csv': Using Model: 'mixtralmoe_big' (ID: 19) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_mixtralmoe_big.csv': Model='mixtralmoe_big', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1808
+Processing file: diagnoses_URG_Torre_Dic_200_o1_mini.csv
+  File 'diagnoses_URG_Torre_Dic_200_o1_mini.csv': Using Model: 'o1_mini' (ID: 25) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_o1_mini.csv': Model='o1_mini', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1460
+Processing file: diagnoses_URG_Torre_Dic_200_o1_preview.csv
+  File 'diagnoses_URG_Torre_Dic_200_o1_preview.csv': Using Model: 'o1_preview' (ID: 26) for dataset 'test_1000'
+  -> Finished 'diagnoses_URG_Torre_Dic_200_o1_preview.csv': Model='o1_preview', Dataset='test_1000', Prompt='dxgpt_prompt'
+     Diagnoses Processed: 200, Ranks Added: 1523
+Processing file: diagnoses_URG_Torre_Dic_2022_IA_GEN_test.csv
+  File 'diagnoses_URG_Torre_Dic_2022_IA_GEN_test.csv': Skipping - No matching dataset key found or all matches excluded.
+
+Processing complete.
+Total LLM diagnoses processed across all files: 10400
+Total diagnosis ranks added across all files: 75918
+--- Run Finished: 2025-04-29 18:53:57.549204 ---
