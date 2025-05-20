@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM Architecture Network</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css" />
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+        }
+        #mynetwork {
+            width: 100%;
+            height: 95vh;
+            border: 1px solid #ddd;
+            background-color: white;
+        }
+        .title {
+            text-align: center;
+            padding: 10px;
+            font-size: 1.5em;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+        .legend {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            z-index: 100;
+        }
+        .legend div {
+            margin: 5px 0;
+        }
+        .color-box {
+            display: inline-block;
+            width: 15px;
+            height: 15px;
+            margin-right: 5px;
+            border: 1px solid #666;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="title">LLM Development Architecture Network</h1>
+    <div id="mynetwork"></div>
+    <div class="legend">
+        <h3 style="margin-top: 0;">Legend</h3>
+        <div><span class="color-box" style="background-color: #97C2FC;"></span>Core Components</div>
+        <div><span class="color-box" style="background-color: #FB7E81;"></span>Aplicaciones LLM (dxGPT, juez de diagnósticos)</div>
+        <div><span class="color-box" style="background-color: #7BE141;"></span>Algoritmos (LLM-as-DL, clasificadores, NLP)</div>
+        <div><span class="color-box" style="background-color: #FFA807;"></span>Evaluaciones & Métricas</div>
+    </div>
+
+    <script>
+        // Data for the visualization - parsed from the predicates
+        let predicates = [
+            ["Kernel de desarrollo", "sirve como base de", "LLM-as-DL"],
+            ["orquestador de LLM", "parte de", "Kernel de desarrollo"],
+            ["orquetador de prompts dinamicos", "parte de", "Kernel de desarrollo"],
+            ["LLM-as-DL", "puede ser un", "clasificador binario"],
+            ["LLM-as-DL", "puede ser un", "clasificador multiclase (LLM-as-judge)"],
+            ["LLM-as-DL", "puede ser un", "algoritmo de ranking"],
+            ["LLM-as-DL", "puede ser un", "algoritmo de NLP"],
+            ["algoritmo de NLP", "puede ser", "NER\n(reconocedor de entidades en texto libre)"],
+            ["algoritmo de NLP", "puede ser", "algoritmo de sumarizacion"],
+            ["algoritmo de NLP", "puede ser", "algoritmo de co-ocurrencia/RE (reconocedor de relaciones en texto libre)"],
+            ["clasificador multiclase (LLM-as-judge)", "usado para", "juzgar diagnosticos diferenciales"],
+            ["algoritmo de ranking", "usado para", "dxGPT"],
+            ["juzgar diagnosticos diferenciales", "segun", "score de severidad"],
+            ["juzgar diagnosticos diferenciales", "segun", "score de similitud"],
+            ["dxGPT", "evaluado segun", "eje cartesiano"],
+            ["score de severidad", "agrupado en", "eje cartesiano"],
+            ["score de similitud", "agrupado en", "eje cartesiano"]
+        ];
+
+        // Extract unique nodes
+        let uniqueNodes = new Set();
+        predicates.forEach(pred => {
+            uniqueNodes.add(pred[0]);
+            uniqueNodes.add(pred[2]);
+        });
+
+        // Create nodes with proper groups
+        let nodes = Array.from(uniqueNodes).map(nodeName => {
+            let group = 1; // Default group
+            
+            // Assign groups based on node type
+            if (nodeName.includes("Kernel") || nodeName.includes("orquestador")) {
+                group = 1; // Core components
+            } else if (nodeName.includes("dxGPT") || nodeName.includes("juzgar diagnosticos diferenciales")) {
+                group = 2; // LLM Applications
+            } else if (nodeName === "LLM-as-DL" || nodeName === "clasificador binario" || 
+                      nodeName.includes("algoritmo") || nodeName.includes("NER") || 
+                      nodeName.includes("co-ocurrencia") || nodeName.includes("NLP") ||
+                      nodeName.includes("clasificador multiclase")) {
+                group = 3; // Algorithms - Including LLM-as-DL and all classifiers
+            } else if (nodeName.includes("score") || nodeName.includes("eje")) {
+                group = 4; // Evaluations & Metrics
+            }
+            
+            return {
+                id: nodeName,
+                label: nodeName,
+                group: group,
+                shape: "box",
+                margin: 10,
+                font: { size: 14 }
+            };
+        });
+
+        // Create edges with labels from predicates
+        let edges = predicates.map((pred, index) => {
+            return {
+                from: pred[0],
+                to: pred[2],
+                label: pred[1],
+                arrows: "to",
+                font: { 
+                    align: "middle",
+                    size: 12
+                },
+                id: `e${index}`
+            };
+        });
+
+        // Create the visualization
+        let container = document.getElementById('mynetwork');
+        
+        let data = {
+            nodes: new vis.DataSet(nodes),
+            edges: new vis.DataSet(edges)
+        };
+        
+        let options = {
+            nodes: {
+                borderWidth: 2,
+                shadow: true,
+                color: {
+                    border: '#2B7CE9',
+                    background: '#97C2FC'
+                },
+                shapeProperties: {
+                    borderRadius: 5
+                }
+            },
+            edges: {
+                width: 2,
+                shadow: true,
+                smooth: {
+                    type: "dynamic", 
+                    roundness: 0.5
+                }
+            },
+            physics: {
+                enabled: true,
+                solver: 'forceAtlas2Based',
+                forceAtlas2Based: {
+                    gravitationalConstant: -50,
+                    centralGravity: 0.01,
+                    springLength: 100,
+                    springConstant: 0.08,
+                    damping: 0.4,
+                    avoidOverlap: 1
+                },
+                stabilization: {
+                    iterations: 1000,
+                    updateInterval: 100,
+                    fit: true
+                }
+            },
+            groups: {
+                1: { // Core components
+                    color: {
+                        border: '#2B7CE9',
+                        background: '#97C2FC'
+                    }
+                },
+                2: { // LLM Applications
+                    color: {
+                        border: '#E04141',
+                        background: '#FB7E81'
+                    }
+                },
+                3: { // Algorithms
+                    color: {
+                        border: '#41A906',
+                        background: '#7BE141'
+                    }
+                },
+                4: { // Evaluations & Metrics
+                    color: {
+                        border: '#E09C0F',
+                        background: '#FFA807'
+                    }
+                }
+            },
+            interaction: {
+                hover: true,
+                navigationButtons: true,
+                keyboard: true
+            }
+        };
+        
+        let network = new vis.Network(container, data, options);
+        
+        // Add double-click event to focus on node
+        network.on("doubleClick", function(params) {
+            if (params.nodes.length > 0) {
+                let nodeId = params.nodes[0];
+                network.focus(nodeId, {
+                    scale: 1.5,
+                    animation: true
+                });
+            } else {
+                network.fit({
+                    animation: true
+                });
+            }
+        });
+        
+        // Disable physics after stabilization to prevent continuous movement
+        network.on("stabilizationIterationsDone", function() {
+            // Wait a bit for final positioning
+            setTimeout(function() {
+                // Disable physics to prevent continuous movement
+                options.physics.enabled = false;
+                network.setOptions({ physics: { enabled: false } });
+                console.log("Network stabilized, physics disabled");
+            }, 1000);
+        });
+    </script>
+</body>
+</html>
