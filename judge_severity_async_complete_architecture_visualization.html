@@ -1,0 +1,2302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Architecture Visualization</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network@latest/dist/vis-network.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 20px;
+        }
+        .header h1 {
+            color: #333;
+            margin: 0;
+            font-size: 2em;
+        }
+        .controls-panel {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .control-section {
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            border: 1px solid #e0e0e0;
+        }
+        .control-section h3 {
+            margin: 0 0 15px 0;
+            color: #333;
+            font-size: 1.1em;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .control-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .control-row:last-child {
+            margin-bottom: 0;
+        }
+        .control-row label {
+            font-weight: bold;
+            color: #555;
+            min-width: 120px;
+        }
+        .control-row input[type="range"] {
+            flex: 1;
+            margin: 0 10px;
+        }
+        .control-row input[type="number"] {
+            width: 60px;
+            padding: 2px 5px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        .control-row select, .control-row button {
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            background-color: white;
+            min-width: 100px;
+        }
+        .control-row button {
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            border: none;
+        }
+        .control-row button:hover {
+            background-color: #0056b3;
+        }
+        .control-row button.active {
+            background-color: #28a745;
+        }
+        .navigation-controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .navigation-controls button {
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            background-color: #f8f9fa;
+            cursor: pointer;
+        }
+        .navigation-controls button:hover {
+            background-color: #e9ecef;
+        }
+        .network-container {
+            width: 100%;
+            height: 70vh;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #fafafa;
+            position: relative;
+        }
+        .zoom-controls {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            z-index: 1000;
+        }
+        .zoom-controls button {
+            width: 40px;
+            height: 40px;
+            border: none;
+            border-radius: 4px;
+            background-color: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .zoom-controls button:hover {
+            background-color: rgba(240, 240, 240, 0.9);
+        }
+        .physics-status {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 5px 10px;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            font-size: 12px;
+            z-index: 1000;
+        }
+        .legend {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+        }
+        .legend h3 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        .legend-items {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 3px;
+            border: 2px solid #333;
+        }
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+        .stats {
+            margin-top: 10px;
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+        @media (max-width: 768px) {
+            .controls-panel {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Complete Architecture Visualization</h1>
+            <p>Enhanced Interactive Architecture Visualization with Physics Controls</p>
+        </div>
+        
+        <div class="controls-panel">
+            <div class="control-section">
+                <h3>🎮 Navigation & Layout</h3>
+                <div class="navigation-controls">
+                    <button onclick="fitNetwork()">📐 Fit Screen</button>
+                    <button onclick="resetZoom()">🔍 Reset Zoom</button>
+                    <button onclick="centerNetwork()">🎯 Center</button>
+                    <button onclick="togglePhysics()" id="physics-toggle">⚡ Physics ON</button>
+                </div>
+                <div class="control-row">
+                    <label for="layout-select">Layout Type:</label>
+                    <select id="layout-select">
+                        <option value="forceAtlas2Based">Force Atlas 2</option>
+                        <option value="barnesHut">Barnes Hut</option>
+                        <option value="repulsion">Repulsion</option>
+                        <option value="hierarchicalUD">Hierarchical ↕</option>
+                        <option value="hierarchicalLR">Hierarchical ↔</option>
+                    </select>
+                </div>
+                <div class="control-row">
+                    <label for="solver-select">Physics Solver:</label>
+                    <select id="solver-select">
+                        <option value="forceAtlas2Based">Force Atlas 2</option>
+                        <option value="barnesHut">Barnes Hut</option>
+                        <option value="repulsion">Repulsion</option>
+                        <option value="hierarchicalRepulsion">Hierarchical</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="control-section">
+                <h3>⚙️ Physics Parameters</h3>
+                <div class="control-row">
+                    <label for="gravity-slider">Central Gravity:</label>
+                    <input type="range" id="gravity-slider" min="0" max="2" step="0.1" value="0.3">
+                    <input type="number" id="gravity-value" min="0" max="2" step="0.1" value="0.3">
+                </div>
+                <div class="control-row">
+                    <label for="spring-length-slider">Spring Length:</label>
+                    <input type="range" id="spring-length-slider" min="50" max="500" step="10" value="100">
+                    <input type="number" id="spring-length-value" min="50" max="500" step="10" value="100">
+                </div>
+                <div class="control-row">
+                    <label for="spring-constant-slider">Spring Strength:</label>
+                    <input type="range" id="spring-constant-slider" min="0.01" max="0.5" step="0.01" value="0.08">
+                    <input type="number" id="spring-constant-value" min="0.01" max="0.5" step="0.01" value="0.08">
+                </div>
+                <div class="control-row">
+                    <label for="node-distance-slider">Node Distance:</label>
+                    <input type="range" id="node-distance-slider" min="50" max="300" step="10" value="120">
+                    <input type="number" id="node-distance-value" min="50" max="300" step="10" value="120">
+                </div>
+                <div class="control-row">
+                    <label for="damping-slider">Damping:</label>
+                    <input type="range" id="damping-slider" min="0.01" max="0.99" step="0.01" value="0.09">
+                    <input type="number" id="damping-value" min="0.01" max="0.99" step="0.01" value="0.09">
+                </div>
+            </div>
+        </div>
+        
+        <div class="network-container">
+            <div id="network" style="width: 100%; height: 100%;"></div>
+            <div class="zoom-controls">
+                <button onclick="zoomIn()" title="Zoom In">+</button>
+                <button onclick="zoomOut()" title="Zoom Out">−</button>
+                <button onclick="fitNetwork()" title="Fit to Screen">⌂</button>
+            </div>
+            <div class="physics-status" id="physics-status">
+                Physics: <span id="physics-state">Enabled</span> | 
+                Nodes: 43 | 
+                Edges: 54
+            </div>
+        </div>
+        
+        <div class="legend">
+            <h3>Entity Types</h3>
+            <div class="legend-items">
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #afa; border-color: #3a3;"></div>
+                    <span>Application Components</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #7d7; border-color: #3a3;"></div>
+                    <span>Core Functions</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #bbf; border-color: #33f;"></div>
+                    <span>Framework Components</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #f9f; border-color: #333;"></div>
+                    <span>Database Tables</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #fbb; border-color: #d33;"></div>
+                    <span>Database Functions</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #f9f9f9; border-color: #999;"></div>
+                    <span>Data Flow Elements</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ffd; border-color: #aa3;"></div>
+                    <span>Command Arguments</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background-color: #ffb; border-color: #b90;"></div>
+                    <span>Selected Components</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Interactive network diagram powered by vis.js | 
+            Use mouse to drag nodes and pan view | Scroll to zoom | 
+            Adjust physics parameters in real-time</p>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        // Network data
+        var nodes = new vis.DataSet([
+        {
+                "id": "n_1_inits_configuration",
+                "label": "1. inits configuration",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "1. inits configuration (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "PromptBuilder",
+                "label": "PromptBuilder",
+                "color": {
+                        "background": "#bbf",
+                        "border": "#33f"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "PromptBuilder (framework_components)",
+                "size": 25
+        },
+        {
+                "id": "model_alias",
+                "label": "--model_alias",
+                "color": {
+                        "background": "#ffd",
+                        "border": "#aa3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "--model_alias (command_arguments)",
+                "size": 14
+        },
+        {
+                "id": "List_of_Severity_Assessments_br_plain_text",
+                "label": "List of Severity Assessments\n(plain text)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "List of Severity Assessments<br/>(plain text) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "CasesBench_br_Input_cases",
+                "label": "CasesBench\n(Input cases)",
+                "color": {
+                        "background": "#f9f",
+                        "border": "#333"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "CasesBench<br/>(Input cases) (database_tables)",
+                "size": 25
+        },
+        {
+                "id": "DifferentialDiagnosis2SeverityAssessment_br_Severity_assessments",
+                "label": "DifferentialDiagnosis2SeverityAssessment\n(Severity assessments)",
+                "color": {
+                        "background": "#f9f",
+                        "border": "#333"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "DifferentialDiagnosis2SeverityAssessment<br/>(Severity assessments) (database_tables)",
+                "size": 25
+        },
+        {
+                "id": "prompt_id",
+                "label": "prompt_id",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "prompt_id (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "rank_id_br_Integer",
+                "label": "rank_id\n(Integer)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "rank_id<br/>(Integer) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "process_results",
+                "label": "process_results()",
+                "color": {
+                        "background": "#7d7",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "process_results() (core_functions)",
+                "size": 30
+        },
+        {
+                "id": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "label": "List of Judgment Cases w/ Severity Results\n(Pydantic Models)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "List of Judgment Cases w/ Severity Results<br/>(Pydantic Models) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "prompt_alias",
+                "label": "--prompt_alias",
+                "color": {
+                        "background": "#ffd",
+                        "border": "#aa3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "--prompt_alias (command_arguments)",
+                "size": 14
+        },
+        {
+                "id": "List_of_Clinical_Cases_br_Pydantic_models",
+                "label": "List of Clinical Cases\n(Pydantic models)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "List of Clinical Cases<br/>(Pydantic models) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "Selected_Severity_Judge_Prompt_br_e_g_StandardSeverityJudgePrompt",
+                "label": "Selected Severity Judge Prompt\n(e.g., StandardSeverityJudgePrompt)",
+                "color": {
+                        "background": "#ffb",
+                        "border": "#b90"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Selected Severity Judge Prompt<br/>(e.g., StandardSeverityJudgePrompt) (selected_components)",
+                "size": 18
+        },
+        {
+                "id": "models_judge_severity_models_py",
+                "label": "models/judge_severity_models.py",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "models/judge_severity_models.py (application_components)",
+                "size": 20
+        },
+        {
+                "id": "Prompts_br_Templates",
+                "label": "Prompts\n(Templates)",
+                "color": {
+                        "background": "#f9f",
+                        "border": "#333"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Prompts<br/>(Templates) (database_tables)",
+                "size": 25
+        },
+        {
+                "id": "model_id",
+                "label": "model_id",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "model_id (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "run_judge_severity_async_py_br_Command_line_entry",
+                "label": "run_judge_severity_async.py\n(Command-line entry)",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "run_judge_severity_async.py<br/>(Command-line entry) (application_components)",
+                "size": 20
+        },
+        {
+                "id": "insert_or_fetch_model_br_insert_or_fetch_prompt",
+                "label": "insert_or_fetch_model()\ninsert_or_fetch_prompt()",
+                "color": {
+                        "background": "#fbb",
+                        "border": "#d33"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "insert_or_fetch_model()<br/>insert_or_fetch_prompt() (database_functions)",
+                "size": 20
+        },
+        {
+                "id": "Raw_Severity_Assessment_br_JSON_response",
+                "label": "Raw Severity Assessment\n(JSON response)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Raw Severity Assessment<br/>(JSON response) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "differential_diagnosis_model_br_test_name_br_max_diagnoses",
+                "label": "--differential_diagnosis_model\n--test_name\n--max_diagnoses",
+                "color": {
+                        "background": "#ffd",
+                        "border": "#aa3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "--differential_diagnosis_model<br/>--test_name<br/>--max_diagnoses (command_arguments)",
+                "size": 14
+        },
+        {
+                "id": "Models_br_LLM_configs",
+                "label": "Models\n(LLM configs)",
+                "color": {
+                        "background": "#f9f",
+                        "border": "#333"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Models<br/>(LLM configs) (database_tables)",
+                "size": 25
+        },
+        {
+                "id": "batch_size_br_rpm_limit_br_min_batch_interval",
+                "label": "--batch_size\n--rpm_limit\n--min_batch_interval",
+                "color": {
+                        "background": "#ffd",
+                        "border": "#aa3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "--batch_size<br/>--rpm_limit<br/>--min_batch_interval (command_arguments)",
+                "size": 14
+        },
+        {
+                "id": "set_settings",
+                "label": "set_settings()",
+                "color": {
+                        "background": "#7d7",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "set_settings() (core_functions)",
+                "size": 30
+        },
+        {
+                "id": "differential_diagnosis_severity_assessment_id_br_Integer",
+                "label": "differential_diagnosis_severity_assessment_id\n(Integer)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "differential_diagnosis_severity_assessment_id<br/>(Integer) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "serialization_judge_severity_pydantic_models_py",
+                "label": "serialization/judge_severity_pydantic_models.py",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "serialization/judge_severity_pydantic_models.py (application_components)",
+                "size": 20
+        },
+        {
+                "id": "Judgment_Cases_Pydantic_Schema",
+                "label": "(Judgment Cases\nPydantic Schema)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "(Judgment Cases Pydantic Schema) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "DifferentialDiagnosis2Rank_br_Ranked_diagnoses",
+                "label": "DifferentialDiagnosis2Rank\n(Ranked diagnoses)",
+                "color": {
+                        "background": "#f9f",
+                        "border": "#333"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "DifferentialDiagnosis2Rank<br/>(Ranked diagnoses) (database_tables)",
+                "size": 25
+        },
+        {
+                "id": "retrieve_and_make_prompts",
+                "label": "retrieve_and_make_prompts()",
+                "color": {
+                        "background": "#7d7",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "retrieve_and_make_prompts() (core_functions)",
+                "size": 30
+        },
+        {
+                "id": "process_all_batches",
+                "label": "process_all_batches()",
+                "color": {
+                        "background": "#bbf",
+                        "border": "#33f"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "process_all_batches() (framework_components)",
+                "size": 25
+        },
+        {
+                "id": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "label": "Severity Assessment Parser\n(e.g., parse_judged_severity)",
+                "color": {
+                        "background": "#ffb",
+                        "border": "#b90"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Severity Assessment Parser<br/>(e.g., parse_judged_severity) (selected_components)",
+                "size": 18
+        },
+        {
+                "id": "add_severity_results_to_db_br_in_severity_queries",
+                "label": "add_severity_results_to_db()\nin severity_queries",
+                "color": {
+                        "background": "#fbb",
+                        "border": "#d33"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "add_severity_results_to_db()<br/>in severity_queries (database_functions)",
+                "size": 20
+        },
+        {
+                "id": "queries_severity_queries_py_br_Database_operations",
+                "label": "queries/severity_queries.py\n(Database operations)",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "queries/severity_queries.py<br/>(Database operations) (application_components)",
+                "size": 20
+        },
+        {
+                "id": "parsers_judge_severity_parser_py",
+                "label": "parsers/judge_severity_parser.py",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "parsers/judge_severity_parser.py (application_components)",
+                "size": 20
+        },
+        {
+                "id": "prompts_judge_severity_prompts_py",
+                "label": "prompts/judge_severity_prompts.py",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "prompts/judge_severity_prompts.py (application_components)",
+                "size": 20
+        },
+        {
+                "id": "AsyncModelHandler",
+                "label": "AsyncModelHandler",
+                "color": {
+                        "background": "#bbf",
+                        "border": "#33f"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "AsyncModelHandler (framework_components)",
+                "size": 25
+        },
+        {
+                "id": "judge_severity_async_py_br_Main_async_workflow",
+                "label": "judge_severity_async.py\n(Main async workflow)",
+                "color": {
+                        "background": "#afa",
+                        "border": "#3a3"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "judge_severity_async.py<br/>(Main async workflow) (application_components)",
+                "size": 20
+        },
+        {
+                "id": "GoldenDiagnoses_br_Ground_truth",
+                "label": "GoldenDiagnoses\n(Ground truth)",
+                "color": {
+                        "background": "#f9f",
+                        "border": "#333"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "GoldenDiagnoses<br/>(Ground truth) (database_tables)",
+                "size": 25
+        },
+        {
+                "id": "case_bench_id",
+                "label": "case_bench_id",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "case_bench_id (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "Case_Model_br_Pydantic_Schema",
+                "label": "Case Model\n(Pydantic Schema)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Case Model<br/>(Pydantic Schema) (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "get_cases_br_get_case_to_golden_diagnosis_mapping_br_get_model_names_from_differential_diagnosis_br_get_ranks_for_hospital_and_model_id_br_get_model_id_from_name_br_create_nested_diagnosis_dict",
+                "label": "get_cases()\nget_case_to_golden_diagnosis_mapping()\nget_model_names_from_differential_diagnosis()\nget_ranks_for_hospital_and_model_id()\nget_model_id_from_name()\ncreate_nested_diagnosis_dict()",
+                "color": {
+                        "background": "#fbb",
+                        "border": "#d33"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "get_cases()<br/>get_case_to_golden_diagnosis_mapping()<br/>get_model_names_from_differential_diagnosis()<br/>get_ranks_for_hospital_and_model_id()<br/>get_model_id_from_name()<br/>create_nested_diagnosis_dict() (database_functions)",
+                "size": 20
+        },
+        {
+                "id": "Selected_Severity_Judge_Model_br_e_g_LlamaThreeEightBConfig",
+                "label": "Selected Severity Judge Model\n(e.g., LlamaThreeEightBConfig)",
+                "color": {
+                        "background": "#ffb",
+                        "border": "#b90"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "Selected Severity Judge Model<br/>(e.g., LlamaThreeEightBConfig) (selected_components)",
+                "size": 18
+        },
+        {
+                "id": "case_text",
+                "label": "case_text",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "case_text (data_flow_elements)",
+                "size": 12
+        },
+        {
+                "id": "cases_bench_id_br_Integer",
+                "label": "cases_bench_id\n(Integer)",
+                "color": {
+                        "background": "#f9f9f9",
+                        "border": "#999"
+                },
+                "shape": "box",
+                "font": {
+                        "size": 12,
+                        "color": "#000"
+                },
+                "title": "cases_bench_id<br/>(Integer) (data_flow_elements)",
+                "size": 12
+        }
+]);
+        var edges = new vis.DataSet([
+        {
+                "from": "run_judge_severity_async_py_br_Command_line_entry",
+                "to": "judge_severity_async_py_br_Main_async_workflow",
+                "label": "calls",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "run_judge_severity_async.py<br/>(Command-line entry) calls judge_severity_async.py<br/>(Main async workflow)"
+        },
+        {
+                "from": "judge_severity_async_py_br_Main_async_workflow",
+                "to": "set_settings",
+                "label": "calls",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "judge_severity_async.py<br/>(Main async workflow) calls set_settings()"
+        },
+        {
+                "from": "judge_severity_async_py_br_Main_async_workflow",
+                "to": "retrieve_and_make_prompts",
+                "label": "calls",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "judge_severity_async.py<br/>(Main async workflow) calls retrieve_and_make_prompts()"
+        },
+        {
+                "from": "judge_severity_async_py_br_Main_async_workflow",
+                "to": "process_results",
+                "label": "calls",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "judge_severity_async.py<br/>(Main async workflow) calls process_results()"
+        },
+        {
+                "from": "set_settings",
+                "to": "n_1_inits_configuration",
+                "label": "produces",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "set_settings() produces 1. inits configuration"
+        },
+        {
+                "from": "n_1_inits_configuration",
+                "to": "model_alias",
+                "label": "produces",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "1. inits configuration produces --model_alias"
+        },
+        {
+                "from": "n_1_inits_configuration",
+                "to": "prompt_alias",
+                "label": "produces",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "1. inits configuration produces --prompt_alias"
+        },
+        {
+                "from": "Judgment_Cases_Pydantic_Schema",
+                "to": "process_all_batches",
+                "label": "sent to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "(Judgment Cases Pydantic Schema) sent to process_all_batches()"
+        },
+        {
+                "from": "prompt_alias",
+                "to": "prompts_judge_severity_prompts_py",
+                "label": "sent to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "--prompt_alias sent to prompts/judge_severity_prompts.py"
+        },
+        {
+                "from": "prompts_judge_severity_prompts_py",
+                "to": "Selected_Severity_Judge_Prompt_br_e_g_StandardSeverityJudgePrompt",
+                "label": "loads",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "prompts/judge_severity_prompts.py loads Selected Severity Judge Prompt<br/>(e.g., StandardSeverityJudgePrompt)"
+        },
+        {
+                "from": "PromptBuilder",
+                "to": "Selected_Severity_Judge_Prompt_br_e_g_StandardSeverityJudgePrompt",
+                "label": "extends",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "PromptBuilder extends Selected Severity Judge Prompt<br/>(e.g., StandardSeverityJudgePrompt)"
+        },
+        {
+                "from": "Selected_Severity_Judge_Prompt_br_e_g_StandardSeverityJudgePrompt",
+                "to": "process_all_batches",
+                "label": "used by",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Selected Severity Judge Prompt<br/>(e.g., StandardSeverityJudgePrompt) used by process_all_batches()"
+        },
+        {
+                "from": "model_alias",
+                "to": "process_all_batches",
+                "label": "sent to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "--model_alias sent to process_all_batches()"
+        },
+        {
+                "from": "AsyncModelHandler",
+                "to": "models_judge_severity_models_py",
+                "label": "selects",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "AsyncModelHandler selects models/judge_severity_models.py"
+        },
+        {
+                "from": "models_judge_severity_models_py",
+                "to": "Selected_Severity_Judge_Model_br_e_g_LlamaThreeEightBConfig",
+                "label": "loads",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "models/judge_severity_models.py loads Selected Severity Judge Model<br/>(e.g., LlamaThreeEightBConfig)"
+        },
+        {
+                "from": "Selected_Severity_Judge_Model_br_e_g_LlamaThreeEightBConfig",
+                "to": "List_of_Severity_Assessments_br_plain_text",
+                "label": "produces",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Selected Severity Judge Model<br/>(e.g., LlamaThreeEightBConfig) produces List of Severity Assessments<br/>(plain text)"
+        },
+        {
+                "from": "batch_size_br_rpm_limit_br_min_batch_interval",
+                "to": "process_all_batches",
+                "label": "configures",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "--batch_size<br/>--rpm_limit<br/>--min_batch_interval configures process_all_batches()"
+        },
+        {
+                "from": "retrieve_and_make_prompts",
+                "to": "differential_diagnosis_model_br_test_name_br_max_diagnoses",
+                "label": "uses",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "retrieve_and_make_prompts() uses --differential_diagnosis_model<br/>--test_name<br/>--max_diagnoses"
+        },
+        {
+                "from": "differential_diagnosis_model_br_test_name_br_max_diagnoses",
+                "to": "get_cases_br_get_case_to_golden_diagnosis_mapping_br_get_model_names_from_differential_diagnosis_br_get_ranks_for_hospital_and_model_id_br_get_model_id_from_name_br_create_nested_diagnosis_dict",
+                "label": "sent to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "--differential_diagnosis_model<br/>--test_name<br/>--max_diagnoses sent to get_cases()<br/>get_case_to_golden_diagnosis_mapping()<br/>get_model_names_from_differential_diagnosis()<br/>get_ranks_for_hospital_and_model_id()<br/>get_model_id_from_name()<br/>create_nested_diagnosis_dict()"
+        },
+        {
+                "from": "model_alias",
+                "to": "insert_or_fetch_model_br_insert_or_fetch_prompt",
+                "label": "sent to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "--model_alias sent to insert_or_fetch_model()<br/>insert_or_fetch_prompt()"
+        },
+        {
+                "from": "prompt_alias",
+                "to": "insert_or_fetch_model_br_insert_or_fetch_prompt",
+                "label": "sent to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "--prompt_alias sent to insert_or_fetch_model()<br/>insert_or_fetch_prompt()"
+        },
+        {
+                "from": "insert_or_fetch_model_br_insert_or_fetch_prompt",
+                "to": "Models_br_LLM_configs",
+                "label": "queries",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "insert_or_fetch_model()<br/>insert_or_fetch_prompt() queries Models<br/>(LLM configs)"
+        },
+        {
+                "from": "insert_or_fetch_model_br_insert_or_fetch_prompt",
+                "to": "Prompts_br_Templates",
+                "label": "queries",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "insert_or_fetch_model()<br/>insert_or_fetch_prompt() queries Prompts<br/>(Templates)"
+        },
+        {
+                "from": "Models_br_LLM_configs",
+                "to": "model_id",
+                "label": "returns",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Models<br/>(LLM configs) returns model_id"
+        },
+        {
+                "from": "Prompts_br_Templates",
+                "to": "prompt_id",
+                "label": "returns",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Prompts<br/>(Templates) returns prompt_id"
+        },
+        {
+                "from": "CasesBench_br_Input_cases",
+                "to": "case_bench_id",
+                "label": "returns",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "CasesBench<br/>(Input cases) returns case_bench_id"
+        },
+        {
+                "from": "CasesBench_br_Input_cases",
+                "to": "case_text",
+                "label": "returns",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "CasesBench<br/>(Input cases) returns case_text"
+        },
+        {
+                "from": "case_bench_id",
+                "to": "Case_Model_br_Pydantic_Schema",
+                "label": "part of",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "case_bench_id part of Case Model<br/>(Pydantic Schema)"
+        },
+        {
+                "from": "case_text",
+                "to": "Case_Model_br_Pydantic_Schema",
+                "label": "part of",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "case_text part of Case Model<br/>(Pydantic Schema)"
+        },
+        {
+                "from": "model_id",
+                "to": "Case_Model_br_Pydantic_Schema",
+                "label": "part of",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "model_id part of Case Model<br/>(Pydantic Schema)"
+        },
+        {
+                "from": "prompt_id",
+                "to": "Case_Model_br_Pydantic_Schema",
+                "label": "part of",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "prompt_id part of Case Model<br/>(Pydantic Schema)"
+        },
+        {
+                "from": "Case_Model_br_Pydantic_Schema",
+                "to": "List_of_Clinical_Cases_br_Pydantic_models",
+                "label": "generates",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Case Model<br/>(Pydantic Schema) generates List of Clinical Cases<br/>(Pydantic models)"
+        },
+        {
+                "from": "get_cases_br_get_case_to_golden_diagnosis_mapping_br_get_model_names_from_differential_diagnosis_br_get_ranks_for_hospital_and_model_id_br_get_model_id_from_name_br_create_nested_diagnosis_dict",
+                "to": "CasesBench_br_Input_cases",
+                "label": "queries",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "get_cases()<br/>get_case_to_golden_diagnosis_mapping()<br/>get_model_names_from_differential_diagnosis()<br/>get_ranks_for_hospital_and_model_id()<br/>get_model_id_from_name()<br/>create_nested_diagnosis_dict() queries CasesBench<br/>(Input cases)"
+        },
+        {
+                "from": "get_cases_br_get_case_to_golden_diagnosis_mapping_br_get_model_names_from_differential_diagnosis_br_get_ranks_for_hospital_and_model_id_br_get_model_id_from_name_br_create_nested_diagnosis_dict",
+                "to": "GoldenDiagnoses_br_Ground_truth",
+                "label": "queries",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "get_cases()<br/>get_case_to_golden_diagnosis_mapping()<br/>get_model_names_from_differential_diagnosis()<br/>get_ranks_for_hospital_and_model_id()<br/>get_model_id_from_name()<br/>create_nested_diagnosis_dict() queries GoldenDiagnoses<br/>(Ground truth)"
+        },
+        {
+                "from": "get_cases_br_get_case_to_golden_diagnosis_mapping_br_get_model_names_from_differential_diagnosis_br_get_ranks_for_hospital_and_model_id_br_get_model_id_from_name_br_create_nested_diagnosis_dict",
+                "to": "DifferentialDiagnosis2Rank_br_Ranked_diagnoses",
+                "label": "queries",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "get_cases()<br/>get_case_to_golden_diagnosis_mapping()<br/>get_model_names_from_differential_diagnosis()<br/>get_ranks_for_hospital_and_model_id()<br/>get_model_id_from_name()<br/>create_nested_diagnosis_dict() queries DifferentialDiagnosis2Rank<br/>(Ranked diagnoses)"
+        },
+        {
+                "from": "serialization_judge_severity_pydantic_models_py",
+                "to": "Case_Model_br_Pydantic_Schema",
+                "label": "stored in",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "serialization/judge_severity_pydantic_models.py stored in Case Model<br/>(Pydantic Schema)"
+        },
+        {
+                "from": "Case_Model_br_Pydantic_Schema",
+                "to": "Judgment_Cases_Pydantic_Schema",
+                "label": "generates",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Case Model<br/>(Pydantic Schema) generates (Judgment Cases Pydantic Schema)"
+        },
+        {
+                "from": "process_all_batches",
+                "to": "AsyncModelHandler",
+                "label": "calls",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "process_all_batches() calls AsyncModelHandler"
+        },
+        {
+                "from": "process_results",
+                "to": "parsers_judge_severity_parser_py",
+                "label": "uses",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "process_results() uses parsers/judge_severity_parser.py"
+        },
+        {
+                "from": "parsers_judge_severity_parser_py",
+                "to": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "label": "contains",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "parsers/judge_severity_parser.py contains Severity Assessment Parser<br/>(e.g., parse_judged_severity)"
+        },
+        {
+                "from": "List_of_Severity_Assessments_br_plain_text",
+                "to": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "label": "passed to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "List of Severity Assessments<br/>(plain text) passed to Severity Assessment Parser<br/>(e.g., parse_judged_severity)"
+        },
+        {
+                "from": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "to": "Raw_Severity_Assessment_br_JSON_response",
+                "label": "produces",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Severity Assessment Parser<br/>(e.g., parse_judged_severity) produces Raw Severity Assessment<br/>(JSON response)"
+        },
+        {
+                "from": "List_of_Clinical_Cases_br_Pydantic_models",
+                "to": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "label": "augmented to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "List of Clinical Cases<br/>(Pydantic models) augmented to List of Judgment Cases w/ Severity Results<br/>(Pydantic Models)"
+        },
+        {
+                "from": "Raw_Severity_Assessment_br_JSON_response",
+                "to": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "label": "stored as",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Raw Severity Assessment<br/>(JSON response) stored as List of Judgment Cases w/ Severity Results<br/>(Pydantic Models)"
+        },
+        {
+                "from": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "to": "add_severity_results_to_db_br_in_severity_queries",
+                "label": "sent to DB via",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "List of Judgment Cases w/ Severity Results<br/>(Pydantic Models) sent to DB via add_severity_results_to_db()<br/>in severity_queries"
+        },
+        {
+                "from": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "to": "differential_diagnosis_severity_assessment_id_br_Integer",
+                "label": "extracts",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Severity Assessment Parser<br/>(e.g., parse_judged_severity) extracts differential_diagnosis_severity_assessment_id<br/>(Integer)"
+        },
+        {
+                "from": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "to": "cases_bench_id_br_Integer",
+                "label": "extracts",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Severity Assessment Parser<br/>(e.g., parse_judged_severity) extracts cases_bench_id<br/>(Integer)"
+        },
+        {
+                "from": "Severity_Assessment_Parser_br_e_g_parse_judged_severity",
+                "to": "rank_id_br_Integer",
+                "label": "extracts",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "Severity Assessment Parser<br/>(e.g., parse_judged_severity) extracts rank_id<br/>(Integer)"
+        },
+        {
+                "from": "judge_severity_async_py_br_Main_async_workflow",
+                "to": "queries_severity_queries_py_br_Database_operations",
+                "label": "uses",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "judge_severity_async.py<br/>(Main async workflow) uses queries/severity_queries.py<br/>(Database operations)"
+        },
+        {
+                "from": "queries_severity_queries_py_br_Database_operations",
+                "to": "add_severity_results_to_db_br_in_severity_queries",
+                "label": "calls",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "queries/severity_queries.py<br/>(Database operations) calls add_severity_results_to_db()<br/>in severity_queries"
+        },
+        {
+                "from": "add_severity_results_to_db_br_in_severity_queries",
+                "to": "DifferentialDiagnosis2SeverityAssessment_br_Severity_assessments",
+                "label": "writes to",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "add_severity_results_to_db()<br/>in severity_queries writes to DifferentialDiagnosis2SeverityAssessment<br/>(Severity assessments)"
+        },
+        {
+                "from": "differential_diagnosis_severity_assessment_id_br_Integer",
+                "to": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "label": "stored in",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "differential_diagnosis_severity_assessment_id<br/>(Integer) stored in List of Judgment Cases w/ Severity Results<br/>(Pydantic Models)"
+        },
+        {
+                "from": "cases_bench_id_br_Integer",
+                "to": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "label": "stored in",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "cases_bench_id<br/>(Integer) stored in List of Judgment Cases w/ Severity Results<br/>(Pydantic Models)"
+        },
+        {
+                "from": "rank_id_br_Integer",
+                "to": "List_of_Judgment_Cases_w_Severity_Results_br_Pydantic_Models",
+                "label": "stored in",
+                "arrows": "to",
+                "font": {
+                        "size": 10,
+                        "color": "#333"
+                },
+                "color": {
+                        "color": "#666"
+                },
+                "width": 2,
+                "smooth": {
+                        "type": "continuous"
+                },
+                "title": "rank_id<br/>(Integer) stored in List of Judgment Cases w/ Severity Results<br/>(Pydantic Models)"
+        }
+]);
+        var data = {
+            nodes: nodes,
+            edges: edges
+        };
+
+        // Initial network options
+        var options = {
+            physics: {
+                enabled: true,
+                forceAtlas2Based: {
+                    theta: 0.5,
+                    gravitationalConstant: -50,
+                    centralGravity: 0.3,
+                    springConstant: 0.08,
+                    springLength: 100,
+                    damping: 0.09,
+                    avoidOverlap: 0.1
+                },
+                maxVelocity: 50,
+                minVelocity: 0.1,
+                solver: 'forceAtlas2Based',
+                stabilization: {
+                    enabled: true,
+                    iterations: 1000,
+                    updateInterval: 25
+                }
+            },
+            layout: {
+                randomSeed: 2
+            },
+            interaction: {
+                dragNodes: true,
+                dragView: true,
+                zoomView: true,
+                selectConnectedEdges: true,
+                hover: true,
+                hoverConnectedEdges: true,
+                tooltipDelay: 300,
+                navigationButtons: false,
+                keyboard: {
+                    enabled: true,
+                    speed: {x: 10, y: 10, zoom: 0.02},
+                    bindToWindow: false
+                }
+            },
+            nodes: {
+                borderWidth: 2,
+                shadow: {
+                    enabled: true,
+                    color: 'rgba(0,0,0,0.2)',
+                    size: 5,
+                    x: 2,
+                    y: 2
+                },
+                font: {
+                    size: 12,
+                    color: '#000000'
+                },
+                chosen: {
+                    node: true,
+                    label: true
+                }
+            },
+            edges: {
+                arrows: {
+                    to: {
+                        enabled: true,
+                        scaleFactor: 0.5
+                    }
+                },
+                shadow: {
+                    enabled: true,
+                    color: 'rgba(0,0,0,0.1)',
+                    size: 2,
+                    x: 1,
+                    y: 1
+                },
+                smooth: {
+                    type: 'continuous',
+                    forceDirection: 'none',
+                    roundness: 0.5
+                },
+                color: {
+                    color: '#848484',
+                    highlight: '#ff0000',
+                    hover: '#ff8800'
+                }
+            }
+        };
+
+        // Initialize network
+        var container = document.getElementById('network');
+        var network = new vis.Network(container, data, options);
+        var physicsEnabled = true;
+
+        // Event handlers
+        network.on('click', function(params) {
+            if (params.nodes.length > 0) {
+                var nodeId = params.nodes[0];
+                var node = nodes.get(nodeId);
+                console.log('Clicked node:', node);
+            }
+        });
+
+        network.on('hoverNode', function(params) {
+            container.style.cursor = 'pointer';
+        });
+
+        network.on('blurNode', function(params) {
+            container.style.cursor = 'grab';
+        });
+
+        network.on('dragStart', function(params) {
+            container.style.cursor = 'grabbing';
+        });
+
+        network.on('dragEnd', function(params) {
+            container.style.cursor = 'grab';
+        });
+
+        // Control functions
+        function fitNetwork() {
+            network.fit({
+                animation: {
+                    duration: 1000,
+                    easingFunction: 'easeInOutQuad'
+                }
+            });
+        }
+
+        function resetZoom() {
+            network.moveTo({
+                position: {x: 0, y: 0},
+                scale: 1,
+                animation: {
+                    duration: 1000,
+                    easingFunction: 'easeInOutQuad'
+                }
+            });
+        }
+
+        function centerNetwork() {
+            var positions = network.getPositions();
+            var nodeIds = Object.keys(positions);
+            if (nodeIds.length > 0) {
+                var avgX = 0, avgY = 0;
+                nodeIds.forEach(function(nodeId) {
+                    avgX += positions[nodeId].x;
+                    avgY += positions[nodeId].y;
+                });
+                avgX /= nodeIds.length;
+                avgY /= nodeIds.length;
+                
+                network.moveTo({
+                    position: {x: avgX, y: avgY},
+                    animation: {
+                        duration: 1000,
+                        easingFunction: 'easeInOutQuad'
+                    }
+                });
+            }
+        }
+
+        function zoomIn() {
+            var scale = network.getScale() * 1.2;
+            network.moveTo({scale: scale});
+        }
+
+        function zoomOut() {
+            var scale = network.getScale() / 1.2;
+            network.moveTo({scale: scale});
+        }
+
+        function togglePhysics() {
+            physicsEnabled = !physicsEnabled;
+            network.setOptions({physics: {enabled: physicsEnabled}});
+            
+            var button = document.getElementById('physics-toggle');
+            var statusSpan = document.getElementById('physics-state');
+            
+            if (physicsEnabled) {
+                button.textContent = '⚡ Physics ON';
+                button.classList.add('active');
+                statusSpan.textContent = 'Enabled';
+            } else {
+                button.textContent = '⚡ Physics OFF';
+                button.classList.remove('active');
+                statusSpan.textContent = 'Disabled';
+            }
+        }
+
+        // Physics parameter controls
+        function updatePhysicsParameter(param, value) {
+            var currentOptions = network.getOptionsFromConfigurator();
+            
+            switch(param) {
+                case 'gravity':
+                    network.setOptions({
+                        physics: {
+                            forceAtlas2Based: {centralGravity: parseFloat(value)},
+                            barnesHut: {centralGravity: parseFloat(value)},
+                            repulsion: {centralGravity: parseFloat(value)}
+                        }
+                    });
+                    break;
+                case 'springLength':
+                    network.setOptions({
+                        physics: {
+                            forceAtlas2Based: {springLength: parseInt(value)},
+                            barnesHut: {springLength: parseInt(value)},
+                            repulsion: {springLength: parseInt(value)}
+                        }
+                    });
+                    break;
+                case 'springConstant':
+                    network.setOptions({
+                        physics: {
+                            forceAtlas2Based: {springConstant: parseFloat(value)},
+                            barnesHut: {springConstant: parseFloat(value)},
+                            repulsion: {springConstant: parseFloat(value)}
+                        }
+                    });
+                    break;
+                case 'nodeDistance':
+                    network.setOptions({
+                        physics: {
+                            barnesHut: {avoidOverlap: parseInt(value)/1000},
+                            repulsion: {nodeDistance: parseInt(value)}
+                        }
+                    });
+                    break;
+                case 'damping':
+                    network.setOptions({
+                        physics: {
+                            forceAtlas2Based: {damping: parseFloat(value)},
+                            barnesHut: {damping: parseFloat(value)},
+                            repulsion: {damping: parseFloat(value)}
+                        }
+                    });
+                    break;
+            }
+        }
+
+        // Set up slider controls
+        function setupSliderControl(sliderId, valueId, param) {
+            var slider = document.getElementById(sliderId);
+            var valueInput = document.getElementById(valueId);
+            
+            slider.addEventListener('input', function() {
+                valueInput.value = slider.value;
+                updatePhysicsParameter(param, slider.value);
+            });
+            
+            valueInput.addEventListener('input', function() {
+                slider.value = valueInput.value;
+                updatePhysicsParameter(param, valueInput.value);
+            });
+        }
+
+        // Initialize slider controls
+        setupSliderControl('gravity-slider', 'gravity-value', 'gravity');
+        setupSliderControl('spring-length-slider', 'spring-length-value', 'springLength');
+        setupSliderControl('spring-constant-slider', 'spring-constant-value', 'springConstant');
+        setupSliderControl('node-distance-slider', 'node-distance-value', 'nodeDistance');
+        setupSliderControl('damping-slider', 'damping-value', 'damping');
+
+        // Layout selector
+        document.getElementById('layout-select').addEventListener('change', function(e) {
+            var layoutType = e.target.value;
+            var newOptions = {...options};
+            
+            if (layoutType === 'hierarchicalUD') {
+                newOptions.layout = {
+                    hierarchical: {
+                        enabled: true,
+                        levelSeparation: 150,
+                        nodeSpacing: 100,
+                        treeSpacing: 200,
+                        blockShifting: true,
+                        edgeMinimization: true,
+                        parentCentralization: true,
+                        direction: 'UD',
+                        sortMethod: 'directed'
+                    }
+                };
+                newOptions.physics.solver = 'hierarchicalRepulsion';
+            } else if (layoutType === 'hierarchicalLR') {
+                newOptions.layout = {
+                    hierarchical: {
+                        enabled: true,
+                        levelSeparation: 150,
+                        nodeSpacing: 100,
+                        treeSpacing: 200,
+                        blockShifting: true,
+                        edgeMinimization: true,
+                        parentCentralization: true,
+                        direction: 'LR',
+                        sortMethod: 'directed'
+                    }
+                };
+                newOptions.physics.solver = 'hierarchicalRepulsion';
+            } else {
+                newOptions.layout = {randomSeed: 2};
+                newOptions.physics.solver = layoutType;
+            }
+            
+            network.setOptions(newOptions);
+            document.getElementById('solver-select').value = newOptions.physics.solver;
+        });
+
+        // Solver selector
+        document.getElementById('solver-select').addEventListener('change', function(e) {
+            var solver = e.target.value;
+            network.setOptions({
+                physics: {
+                    solver: solver
+                }
+            });
+        });
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            if (e.target.tagName.toLowerCase() === 'input') return;
+            
+            switch(e.key) {
+                case ' ':
+                    e.preventDefault();
+                    togglePhysics();
+                    break;
+                case 'f':
+                    e.preventDefault();
+                    fitNetwork();
+                    break;
+                case 'r':
+                    e.preventDefault();
+                    resetZoom();
+                    break;
+                case 'c':
+                    e.preventDefault();
+                    centerNetwork();
+                    break;
+            }
+        });
+
+        // Initial setup
+        setTimeout(function() {
+            fitNetwork();
+            // Set default physics button state
+            document.getElementById('physics-toggle').classList.add('active');
+        }, 1000);
+
+        // Set cursor styles
+        container.style.cursor = 'grab';
+    </script>
+</body>
+</html>
